@@ -33,7 +33,7 @@ cards.forEach(file => {
     fs.writeFileSync(setFile, '            <prop>\n', {flag: 'a'});
     fs.writeFileSync(setFile, '                <layout>normal</layout>\n                <side>front</side>\n', {flag: 'a'});
     fs.writeFileSync(setFile, '                <type>' + (card.traits ? card.traits : card.card_type) + '</type>\n                <maintype>' + card.card_type + '</maintype>\n', {flag: 'a'});
-    fs.writeFileSync(setFile, '                <colors>' + houses[card.house] + '</colors>\n                <coloridentity>' + houses[card.house] + '</coloridentity>\n', {flag: 'a'});
+    if (!card.is_anomaly) fs.writeFileSync(setFile, '                <colors>' + houses[card.house] + '</colors>\n                <coloridentity>' + houses[card.house] + '</coloridentity>\n', {flag: 'a'});
     if (card.card_type === 'Creature') fs.writeFileSync(setFile, '                <pt>' + card.power + '/' + (card.armor ? card.armor : 0) + '</pt>\n', {flag: 'a'});
     if (card.amber > 0) fs.writeFileSync(setFile, '                <loyalty>' + card.amber + '</loyalty>\n', {flag: 'a'});
     fs.writeFileSync(setFile, '                <format-standard>ilegal</format-standard>\n                <format-commander>ilegal</format-commander>\n                <format-modern>ilegal</format-modern>\n                <format-pauper>ilegal</format-pauper>\n', {flag: 'a'});
