@@ -17,7 +17,7 @@ const houses = {
 };
 
 const cards = fs.readdirSync(cardsFolder);
-fs.writeFileSync(setFile, '<?xml version="1.0" encoding="UTF-8"?>\n<cockatrice_carddatabase version="4">\n    <sets>\n        <set>\n            <name>cota</name>\n            <longname>O Chamado dos Arcontes</longname>\n            <settype>Custom</settype>\n            <releasedate>2018-11-15</releasedate>\n        </set>\n    </sets>\n    <cards>\n', {flag: 'w'});
+fs.writeFileSync(setFile, '<?xml version="1.0" encoding="UTF-8"?>\n<cockatrice_carddatabase version="4">\n    <sets>\n        <set>\n            <name>' + config.expansion.name + '</name>\n            <longname>' + config.expansion.longname + '</longname>\n            <settype>Custom</settype>\n            <releasedate>' + config.expansion.release + '</releasedate>\n        </set>\n    </sets>\n    <cards>\n', {flag: 'w'});
 console.log("Setup to processing " + cards.length + " cards...");
 cards.forEach(file => {
     let card = JSON.parse(fs.readFileSync(cardsFolder + file));

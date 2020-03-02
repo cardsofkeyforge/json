@@ -1,7 +1,9 @@
 {
   "expansion": {
-    "code": 435,
-    "name": "aoa",
+    "code": 452,
+    "name": "wc",
+    "longname": "Colisão entre Mundos",
+    "release": "2019-11-08",
     "lang": "pt"
   }
 }
