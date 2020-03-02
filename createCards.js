@@ -1,6 +1,7 @@
 const fs = require("fs");
 
-const config = require('./config');
+const configs = require('./config');
+const expansion = configs.expansion[3];
 const json = require("./decks");
 const deckApi = require("./deck");
 
@@ -9,9 +10,9 @@ function sleep(millis) {
 }
 
 function extractCards(cards) {
-    const prefix = './json/' + config.expansion.lang + '/' + config.expansion.name + '/';
+    const prefix = './json/' + expansion.lang + '/' + expansion.name + '/';
     // noinspection JSUnresolvedVariable
-    cards.filter(card => !card.is_maverick).filter(card => card.expansion === config.expansion.code)
+    cards.filter(card => !card.is_maverick).filter(card => card.expansion === expansion.code)
             .forEach(card => {
                 console.log(card.id);
                 if (!fs.existsSync(prefix + card.id + '.json')) {
@@ -25,7 +26,7 @@ async function processingDecks() {
     // noinspection JSUnresolvedVariable
     for (let i = 0; i < json.length; i++) {
         try {
-            const deck = await deckApi.retrieveDeck(json[i], config.expansion.lang);
+            const deck = await deckApi.retrieveDeck(json[i], expansion.lang);
             console.log(deck.data.name);
             // noinspection JSUnresolvedVariable
             extractCards(deck._linked.cards);

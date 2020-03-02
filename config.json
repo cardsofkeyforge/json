@@ -1,9 +1,32 @@
 {
-  "expansion": {
-    "code": 453,
-    "name": "anomaly",
-    "longname": "Anomalia",
-    "release": "2019-11-08",
-    "lang": "pt"
-  }
+  "expansion": [
+    {
+      "code": 341,
+      "name": "cota",
+      "longname": "O Chamado dos Arcontes",
+      "release": "2018-11-15",
+      "lang": "pt"
+    },
+    {
+      "code": 435,
+      "name": "aoa",
+      "longname": "Era da Ascensão",
+      "release": "2019-05-30",
+      "lang": "pt"
+    },
+    {
+      "code": 452,
+      "name": "wc",
+      "longname": "Colisão entre Mundos",
+      "release": "2019-11-08",
+      "lang": "pt"
+    },
+    {
+      "code": 453,
+      "name": "anomaly",
+      "longname": "Anomalia",
+      "release": "2019-11-08",
+      "lang": "pt"
+    }
+  ]
 }

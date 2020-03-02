@@ -12,6 +12,7 @@
         <card>
             <name>Mestre de 2</name>
             <text>Coleta: Você pode destruir uma criatura com 2 de poder.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Variant" uuid="00134873-14fe-4a4b-8635-017ac3fcd835" num="090" muid="341-090" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_090_6PRCRMHM5G4W_pt.png">cota</set>
             <prop>
@@ -52,6 +53,7 @@
             <text>Combate. (Quando usar esta criatura para 
 lutar, ela não sofre dano da criatura oponente.)
 Jogar: Cause 2D a uma criatura inimiga.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="013def76-9edc-495c-bc35-af6210192f6b" num="359" muid="341-359" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_359_RX86WM6596MC_pt.png">cota</set>
             <prop>
@@ -89,6 +91,7 @@ Jogar: Cause 2D a uma criatura inimiga.</text>
         <card>
             <name>Tubarão de Nêutrons</name>
             <text>Jogar/Luta/Coleta: Destrua uma criatura ou um artefato inimigos e uma criatura ou um artefato amigos. Descarte a carta do topo do seu baralho. Se essa carta não for uma carta da Logos, ative este efeito novamente.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="026fa764-3bf2-40fc-9182-b34f0acfb760" num="146" muid="341-146" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_146_92H2X974PG8Q_pt.png">cota</set>
             <prop>
@@ -108,6 +111,7 @@ Jogar: Cause 2D a uma criatura inimiga.</text>
         <card>
             <name>Relicário Sussurrante</name>
             <text>Ação: Devolva um artefato à mão de seu dono.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Uncommon" uuid="02c7533e-98ac-48a0-94e4-621555443c8d" num="237" muid="341-237" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_237_MMHF7CR6FMJ2_pt.png">cota</set>
             <prop>
@@ -128,6 +132,7 @@ Jogar: Cause 2D a uma criatura inimiga.</text>
             <text>O Homem-Cogumelo tem +3 de 
 poder para cada chave não forjada 
 que você possuir.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="02feb5dd-81a0-4e06-8b5d-0ad7bdc9de08" num="362" muid="341-362" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_362_HW3R4QRJGGMM_pt.png">cota</set>
             <prop>
@@ -166,6 +171,7 @@ que você possuir.</text>
             <name>Larápio</name>
             <text>Elusivo. (A cada turno, na primeira vez em que esta criatura for atacada, nenhum dano é sofrido.)
 Jogar: Roube 1A.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="03c4165e-a0bb-4fd5-b6a8-e3d9aec0551e" num="315" muid="341-315" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_315_7MCP67W84FWX_pt.png">cota</set>
             <prop>
@@ -185,6 +191,7 @@ Jogar: Roube 1A.</text>
         <card>
             <name>Duma, o Mártir</name>
             <text>Destruído: Cure completamente todas as outras criaturas amigas e compre 2 cartas.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="040b3c05-428a-47c9-afc9-6fc65905462f" num="242" muid="341-242" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_242_8X9FFJ5RC99F_pt.png">cota</set>
             <prop>
@@ -204,6 +211,7 @@ Jogar: Roube 1A.</text>
         <card>
             <name>Rufador</name>
             <text>Jogar: Devolva à sua mão todas as outras criaturas Brobnar amigas.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="050b35ae-461a-4630-a8df-a60b2652fc2b" num="049" muid="341-049" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_049_3J962PMQJRJ6_pt.png">cota</set>
             <prop>
@@ -223,6 +231,7 @@ Jogar: Roube 1A.</text>
         <card>
             <name>Terremoto</name>
             <text>Jogar: Destrua cada criatura com poder de 3 ou menos.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="05193f38-c59c-4cf1-92e9-87e69b3bb76e" num="031" muid="341-031" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_031_C7RGGJ9WG7XW_pt.png">cota</set>
             <prop>
@@ -242,6 +251,7 @@ Jogar: Roube 1A.</text>
         <card>
             <name>Bruxa do Olho</name>
             <text>Coleta: Devolva uma carta de sua pilha de descartes para sua mão.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="05fa104f-3719-41d0-9189-57ff3ec5edc1" num="368" muid="341-368" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_368_MC5PG9FQ3766_pt.png">cota</set>
             <prop>
@@ -279,6 +289,7 @@ Jogar: Roube 1A.</text>
         <card>
             <name>Krump</name>
             <text>Após uma criatura inimiga ser destruída em luta contra Krump, o controlador dela perde 1A.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="06ab14e9-ec4f-4f2d-908e-20940241590c" num="039" muid="341-039" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_039_Q64CQC29J542_pt.png">cota</set>
             <prop>
@@ -354,6 +365,7 @@ Jogar: Roube 1A.</text>
         <card>
             <name>Decapitador</name>
             <text>Luta: Ganhe 1A.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="0c3231e1-1230-4e7d-890e-6d3149125de2" num="035" muid="341-035" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_035_M3H9MVCF63W7_pt.png">cota</set>
             <prop>
@@ -373,6 +385,7 @@ Jogar: Roube 1A.</text>
         <card>
             <name>Colmeia de Cristal</name>
             <text>Ação: Pelo restante do turno, ganhe 1A sempre que uma criatura coletar.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Uncommon" uuid="0cc7c1ea-5196-40ff-b408-f31997c8ab4d" num="182" muid="341-182" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_182_QC7VW6G544RQ_pt.png">cota</set>
             <prop>
@@ -411,6 +424,7 @@ Jogar: Roube 1A.</text>
             <name>Pegador Emperrador</name>
             <text>As chaves do seu oponente custam +1A.
 Luta/Coleta: Capture 1A.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="0e5e8a55-ab05-44be-8637-8362974dad8b" num="193" muid="341-193" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_193_PXQ9229CMHHP_pt.png">cota</set>
             <prop>
@@ -450,6 +464,7 @@ Luta/Coleta: Capture 1A.</text>
             <name>Dispositivo de Troca</name>
             <text>Ação: Devolva à sua mão uma criatura de Marte amiga e preparada. Se o fizer, coloque em jogo, da sua mão, uma criatura de Marte de nome diferente, 
 e então prepare-a.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Rare" uuid="0fba4ba8-317b-44c0-a51e-0a06bdb770d3" num="189" muid="341-189" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_189_Q8749GRQ2RRW_pt.png">cota</set>
             <prop>
@@ -488,6 +503,7 @@ e então prepare-a.</text>
             <name>Sombra</name>
             <text>A Sombra não causa dano ao lutar.
 Dano causado a vizinhos que não sejam Espectros é, em vez disso, causado à Sombra.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="11663693-8a10-4783-9f89-47f43c49bfa3" num="310" muid="341-310" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_310_C33C4J4W6726_pt.png">cota</set>
             <prop>
@@ -507,6 +523,7 @@ Dano causado a vizinhos que não sejam Espectros é, em vez disso, causado à So
         <card>
             <name>Sargento Zakiel</name>
             <text>Jogar: Você pode preparar e lutar com uma criatura vizinha.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="116f4590-792e-4d5f-ab06-94dbf7ba85d3" num="258" muid="341-258" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_258_96FR2MX3FJWF_pt.png">cota</set>
             <prop>
@@ -545,6 +562,7 @@ Dano causado a vizinhos que não sejam Espectros é, em vez disso, causado à So
         <card>
             <name>Dardo Poderoso</name>
             <text>Onisciente: Sacrifique o Dardo Poderoso. Cause 4D a uma criatura.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Uncommon" uuid="12acf848-7838-4668-a2df-620e67e6d916" num="024" muid="341-024" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_024_CG2485CM5HV4_pt.png">cota</set>
             <prop>
@@ -565,6 +583,7 @@ Dano causado a vizinhos que não sejam Espectros é, em vez disso, causado à So
             <name>Viajante do Tempo</name>
             <text>Jogar: Compre 2 cartas.
 Ação: Embaralhe o Viajante do Tempo no seu baralho.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="13895422-dc36-49ae-bb7c-5e5d1f3f9df4" num="153" muid="341-153" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_153_X83CX7XJ5GRX_pt.png">cota</set>
             <prop>
@@ -587,6 +606,7 @@ Ação: Embaralhe o Viajante do Tempo no seu baralho.</text>
             <text>Elusivo. (A cada turno, na primeira vez em que esta criatura for atacada, nenhum dano é sofrido.)
 Coleta: Escolha uma casa. Revele a carta do topo do seu baralho. Se ela for da casa escolhida, arquive-a e ganhe 1A. 
 Caso contrário, descarte-a.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="149e6b52-5d65-4fcb-9cc5-f57b4a16ba58" num="155" muid="341-155" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_155_4XJVMF643M6C_pt.png">cota</set>
             <prop>
@@ -665,6 +685,7 @@ e cada criatura Robô fica atordoada. Cada artefato é destruído.</text>
             <name>Aranha do Éter</name>
             <text>A Aranha do Éter não causa dano ao lutar.
 Todo A que seria adicionado à reserva de seu oponente, em vez disso, é capturado pela Aranha do Éter.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="179f877a-9b59-46d6-a43e-15b4524af3c6" num="192" muid="341-192" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_192_P52JHFXR9X8X_pt.png">cota</set>
             <prop>
@@ -684,6 +705,7 @@ Todo A que seria adicionado à reserva de seu oponente, em vez disso, é captura
         <card>
             <name>Chave para Dis</name>
             <text>Onisciente: Sacrifique a Chave para Dis. Destrua todas as criaturas.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Rare" uuid="17e9dbd4-53cb-4c75-bdad-48e1550ff1e7" num="074" muid="341-074" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_074_RP2JCG669GWQ_pt.png">cota</set>
             <prop>
@@ -721,6 +743,7 @@ Todo A que seria adicionado à reserva de seu oponente, em vez disso, é captura
         <card>
             <name>Entrega Especial</name>
             <text>Onisciente: Sacrifique Entrega Especial. Cause 3D a uma criatura no flanco. Se esse dano destruir aquela criatura, expurgue-a.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Uncommon" uuid="189c881e-f5bc-4d2d-b97e-3166980aa1c9" num="292" muid="341-292" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_292_C98PWPG7H4FC_pt.png">cota</set>
             <prop>
@@ -776,6 +799,7 @@ Todo A que seria adicionado à reserva de seu oponente, em vez disso, é captura
         <card>
             <name>Yxilo Disparador</name>
             <text>Luta/Coleta: Cause 2D a uma criatura. Se esse dano destruir aquela criatura, expurgue-a.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="1a84631d-7fcb-4c9a-a50c-9539dcb84928" num="204" muid="341-204" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_204_H9HQ5F59FJQX_pt.png">cota</set>
             <prop>
@@ -854,6 +878,7 @@ Todo A que seria adicionado à reserva de seu oponente, em vez disso, é captura
 Onisciente: Se você tiver jogado 7 
 ou mais cartas de Santuário neste turno, sacrifique Missão Épica e forje uma 
 chave sem custos.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Rare" uuid="1da26e11-d319-4980-a2c3-931054ff008c" num="231" muid="341-231" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_231_9CW6R752CCQG_pt.png">cota</set>
             <prop>
@@ -872,6 +897,7 @@ chave sem custos.</text>
         <card>
             <name>Mestre de 3</name>
             <text>Coleta: Você pode destruir uma criatura com 3 de poder.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Variant" uuid="1e26eb82-9d9f-428e-b749-ee8e624d5d53" num="091" muid="341-091" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_091_JQ7CXW28FW88_pt.png">cota</set>
             <prop>
@@ -910,6 +936,7 @@ chave sem custos.</text>
         <card>
             <name>Semente de Nepente</name>
             <text>Onisciente: Sacrifique a Semente de Nepente. Devolva à sua mão uma carta da sua pilha de descartes.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Uncommon" uuid="20c810de-ad56-49ad-a57c-7fe7262b3cda" num="341" muid="341-341" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_341_M3P5Q4RWG42_pt.png">cota</set>
             <prop>
@@ -931,6 +958,7 @@ chave sem custos.</text>
 não podem ser atacados a menos que 
 tenham provocar.)
 Yxilx Dominador entra em jogo atordoado.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="211c5213-7838-4292-b9c4-fb3a663898ee" num="205" muid="341-205" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_205_GPCHG3XCV2MV_pt.png">cota</set>
             <prop>
@@ -950,6 +978,7 @@ Yxilx Dominador entra em jogo atordoado.</text>
         <card>
             <name>Ladrão de Cobras</name>
             <text>Jogar: Assuma o controle de um artefato inimigo. Enquanto estiver sob o seu controle, se ele não pertencer a uma das suas três casas, considera-se que ele pertence à casa das Sombras.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="21a5a8b1-4d19-43f2-8e8d-bd7a7531099d" num="313" muid="341-313" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_313_XW5J3RPG585M_pt.png">cota</set>
             <prop>
@@ -987,6 +1016,7 @@ Yxilx Dominador entra em jogo atordoado.</text>
         <card>
             <name>Canhão</name>
             <text>Ação: Cause 2D a uma criatura.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Uncommon" uuid="22476b3c-d05c-4274-ad8f-ec1efabad116" num="021" muid="341-021" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_021_CRMGW6QVC5HC_pt.png">cota</set>
             <prop>
@@ -1042,6 +1072,7 @@ Yxilx Dominador entra em jogo atordoado.</text>
         <card>
             <name>Blaster Santificado</name>
             <text>Ação: Cure 3 danos de uma criatura.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Common" uuid="22fdfc0f-5ea1-42bd-984a-8c9edd8b16b7" num="233" muid="341-233" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_233_V3CVPF24W8MR_pt.png">cota</set>
             <prop>
@@ -1062,6 +1093,7 @@ Yxilx Dominador entra em jogo atordoado.</text>
             <text>Elusivo. 
 Você pode usar Mack, a Faca, como se pertencesse à casa ativa.
 Ação: Cause 1D a uma criatura. Se esse dano destruir a criatura, ganhe 1A.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="23099339-dbe2-4b35-b26b-9dfb4c0fb35a" num="302" muid="341-302" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_302_RP49F4QFW3FM_pt.png">cota</set>
             <prop>
@@ -1100,6 +1132,7 @@ Ação: Cause 1D a uma criatura. Se esse dano destruir a criatura, ganhe 1A.</te
         <card>
             <name>Chicote dos Sonhos Idos</name>
             <text>Ação: Chaves custam +3A no próximo turno do seu oponente.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Common" uuid="23a96d73-4eb2-4c45-9550-8207145eb587" num="075" muid="341-075" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_075_5WF77V8WRRPP_pt.png">cota</set>
             <prop>
@@ -1118,6 +1151,7 @@ Ação: Cause 1D a uma criatura. Se esse dano destruir a criatura, ganhe 1A.</te
         <card>
             <name>Cavaleiro da Fome</name>
             <text>Jogar/Luta/Coleta: Destrua a criatura de menor poder.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="FIXED" uuid="243c5b47-3c51-4d36-a28f-227766b738c3" num="247" muid="341-247" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_247_H927W8WQRH5X_pt.png">cota</set>
             <prop>
@@ -1175,6 +1209,7 @@ Ação: Cause 1D a uma criatura. Se esse dano destruir a criatura, ganhe 1A.</te
             <name>Guardião do Santuário</name>
             <text>Provocar. (Os vizinhos desta criatura não podem ser atacados a menos que tenham provocar.)
 Luta/Coleta: Troque o Guardião do Santuário por outra criatura amiga na sua linha de batalha.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="261b851a-84eb-44a7-828d-6b7599fecaaf" num="256" muid="341-256" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_256_43Q78X6H273_pt.png">cota</set>
             <prop>
@@ -1196,6 +1231,7 @@ Luta/Coleta: Troque o Guardião do Santuário por outra criatura amiga na sua li
             <text>Você tem de perder 3A para jogar Verobaru.
 Provocar. (Os vizinhos desta criatura não podem ser atacados a menos que tenham provocar.)
 Destruído: Ganhe 5A.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="2679977b-87f2-4afe-8c40-9e713569794f" num="104" muid="341-104" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_104_VCQ8F8XMQJCH_pt.png">cota</set>
             <prop>
@@ -1254,6 +1290,7 @@ Destruído: Ganhe 5A.</text>
 O Símio Rude entra em jogo atordoado.
 Luta/Coleta: Você pode sacrificar outra 
 criatura amiga. Se o fizer, cure completamente o Símio Rude.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="2948a6fc-f7fa-45f2-b73d-fdf5f4216e46" num="191" muid="341-191" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_191_MMMC6JPJ4H5P_pt.png">cota</set>
             <prop>
@@ -1273,6 +1310,7 @@ criatura amiga. Se o fizer, cure completamente o Símio Rude.</text>
         <card>
             <name>Lomir Punho de Fogo</name>
             <text>Jogar: Se o seu oponente tiver 7A ou mais, ele perde 2A.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="296dca38-e6d1-4eb3-9bdb-966e48ebedbf" num="040" muid="341-040" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_040_MH3839C78779_pt.png">cota</set>
             <prop>
@@ -1292,6 +1330,7 @@ criatura amiga. Se o fizer, cure completamente o Símio Rude.</text>
         <card>
             <name>Cuspidor de Fogo</name>
             <text>Antes da Luta: Cause 1D a cada criatura inimiga.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="29eafbc7-7fc5-4239-b2a7-8bc90df1fc0f" num="032" muid="341-032" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_032_PVV2WC6R6QWP_pt.png">cota</set>
             <prop>
@@ -1331,6 +1370,7 @@ criatura amiga. Se o fizer, cure completamente o Símio Rude.</text>
             <name>Tolas</name>
             <text>Elusivo. (A cada turno, na primeira vez em que esta criatura for atacada, nenhum dano é sofrido.)
 Sempre que uma criatura for destruída, o oponente dela ganha 1A.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="2b3b461c-7f0b-4ebf-bcf7-f37a9509d7b5" num="103" muid="341-103" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_103_PMC43W3QPFW4_pt.png">cota</set>
             <prop>
@@ -1351,6 +1391,7 @@ Sempre que uma criatura for destruída, o oponente dela ganha 1A.</text>
             <name>Rainha Inane</name>
             <text>Todas as outras criaturas Feras amigas têm +1 de poder.
 Todas as outras criaturas Inanes amigas têm +1 de poder.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="2b5233c4-7da4-497a-b938-3eb72dabaaf1" num="364" muid="341-364" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_364_F69VCQPX95RV_pt.png">cota</set>
             <prop>
@@ -1388,6 +1429,7 @@ Todas as outras criaturas Inanes amigas têm +1 de poder.</text>
         <card>
             <name>Biblioteca dos Condenados</name>
             <text>Ação: Arquive uma carta.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Uncommon" uuid="2d0d0224-b954-47df-9bed-9161a7742815" num="076" muid="341-076" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_076_QR2M3J84P2GX_pt.png">cota</set>
             <prop>
@@ -1426,6 +1468,7 @@ Todas as outras criaturas Inanes amigas têm +1 de poder.</text>
             <name>Inka, a Aranha</name>
             <text>Veneno. (Qualquer dano causado pelo poder desta criatura durante uma luta destrói a criatura que sofreu dano.)
 Jogar/Coleta: Atordoe uma criatura.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="2dc8f61d-c691-4204-b2b5-5115790d0ba8" num="356" muid="341-356" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_356_QW7GHMXR5HJ8_pt.png">cota</set>
             <prop>
@@ -1445,6 +1488,7 @@ Jogar/Coleta: Atordoe uma criatura.</text>
         <card>
             <name>Pergaminho de Möbius</name>
             <text>Ação: Arquive o Pergaminho de Möbius e até 2 cartas da sua mão.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Rare" uuid="2ebbdc82-d456-4e71-9747-eaea598f4645" num="130" muid="341-130" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_130_JRGHQ4HQ5QHC_pt.png">cota</set>
             <prop>
@@ -1465,6 +1509,7 @@ Jogar/Coleta: Atordoe uma criatura.</text>
             <text>Combate. (Quando usar esta criatura para lutar, ela não sofre dano da 
 criatura oponente.)
 Luta: Compre uma carta.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="2ec5cbf6-3c41-41ef-9cb7-33a0601fd607" num="144" muid="341-144" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_144_7XJ66GGGX9P3_pt.png">cota</set>
             <prop>
@@ -1484,6 +1529,7 @@ Luta: Compre uma carta.</text>
         <card>
             <name>Arqueólogo de Novu</name>
             <text>Ação: Arquive uma carta da sua pilha de descartes.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="2f9f20aa-b110-4df8-8f4e-560a11f0ae49" num="147" muid="341-147" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_147_X27M5CQW494F_pt.png">cota</set>
             <prop>
@@ -1653,6 +1699,7 @@ ao inimigo atacante.)</text>
         <card>
             <name>Pixie do Pó</name>
             <text>0</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="3680b506-9a5c-4afb-956d-15b08d1e9ecc" num="351" muid="341-351" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_351_PFJXP2G7VWVP_pt.png">cota</set>
             <prop>
@@ -1673,6 +1720,7 @@ ao inimigo atacante.)</text>
         <card>
             <name>Cavaleiro Saqueador</name>
             <text>Jogar: Capture 1A.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="36b15919-4938-4e83-b57e-ae3a6b83cbbd" num="255" muid="341-255" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_255_HX7GPH8C78C2_pt.png">cota</set>
             <prop>
@@ -1693,6 +1741,7 @@ ao inimigo atacante.)</text>
             <name>Ozmo, Marcianólogo</name>
             <text>Elusivo. (A cada turno, na primeira vez em que esta criatura for atacada, nenhum dano é sofrido.)
 Luta/Coleta: Cure 3 danos de uma criatura de Marte ou atordoe uma criatura de Marte.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="37a73724-a6e5-457f-8fde-fa792efa18ab" num="148" muid="341-148" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_148_R25C9WHJ9V29_pt.png">cota</set>
             <prop>
@@ -1732,6 +1781,7 @@ sempre que uma criatura amiga lutar, ela captura 1A.</text>
         <card>
             <name>Demônio do Fosso</name>
             <text>Ação: Roube 1A.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="39f255c4-2ca4-4e7e-ba44-88ac0fcaeb1b" num="092" muid="341-092" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_092_CRW34FMH3JF2_pt.png">cota</set>
             <prop>
@@ -1752,6 +1802,7 @@ sempre que uma criatura amiga lutar, ela captura 1A.</text>
             <name>Pateta, o Ladrão</name>
             <text>Elusivo. (A cada turno, na primeira vez em que esta criatura for atacada, nenhum dano é sofrido.)
 Ação: Roube 1A.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="3a0c1861-3d38-4167-b0c1-afaa9cbe5e50" num="306" muid="341-306" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_306_6374XF5G5XMR_pt.png">cota</set>
             <prop>
@@ -1771,6 +1822,7 @@ Ação: Roube 1A.</text>
         <card>
             <name>Bruxa Caçadora</name>
             <text>Sempre que você jogar outra criatura, ganhe 1A.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="3a3783ea-b5c4-407d-b3c7-0003c562a9aa" num="367" muid="341-367" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_367_54RJ37XJPQ2_pt.png">cota</set>
             <prop>
@@ -1791,6 +1843,7 @@ Ação: Roube 1A.</text>
             <name>Amaldiçoador Lunar</name>
             <text>Combate. Veneno.
 Luta: Roube 1A.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="3b1f7db9-1c5a-4e15-a771-a4a45bd8fb0e" num="304" muid="341-304" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_304_3QMPPH48XHXJ_pt.png">cota</set>
             <prop>
@@ -1811,6 +1864,7 @@ Luta: Roube 1A.</text>
             <name>Bilgum Avalanche</name>
             <text>Após forjar uma chave, cause 2D 
 a cada criatura inimiga.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="3bdfeeec-0424-469b-b169-8e5ad6821e95" num="028" muid="341-028" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_028_VP32QGRWMRW3_pt.png">cota</set>
             <prop>
@@ -1831,6 +1885,7 @@ a cada criatura inimiga.</text>
             <name>Súcubo</name>
             <text>No passo de “comprar cartas” do oponente, ele repõe a mão com 1 
 carta a menos.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="3c4513a3-260e-441f-8abf-b27c1c4e23ef" num="099" muid="341-099" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_099_C63GPXC7XM83_pt.png">cota</set>
             <prop>
@@ -1852,6 +1907,7 @@ carta a menos.</text>
             <text>Combate. (Quando usar esta criatura para lutar, ela não sofre dano da 
 criatura oponente.)
 Luta: Roube 1A.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="3c5c1881-486c-4911-a3ce-497ef258e8ba" num="136" muid="341-136" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_136_82MF23JH58M3_pt.png">cota</set>
             <prop>
@@ -1871,6 +1927,7 @@ Luta: Roube 1A.</text>
         <card>
             <name>Inhã</name>
             <text>As chaves do seu oponente custam +1A.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="3cd0e141-6115-4719-a09e-8e0867fe567c" num="361" muid="341-361" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_361_WHJM9F6QF2MF_pt.png">cota</set>
             <prop>
@@ -1909,6 +1966,7 @@ Luta: Roube 1A.</text>
         <card>
             <name>Bomba Berrante</name>
             <text>Onisciente: Sacrifique a Bomba Berrante. O seu oponente perde 2A.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Uncommon" uuid="3d650fe4-817a-4922-ba0f-297c1ebf816d" num="026" muid="341-026" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_026_WGX3X54PQCMP_pt.png">cota</set>
             <prop>
@@ -1927,6 +1985,7 @@ Luta: Roube 1A.</text>
         <card>
             <name>Demônio-Guardião</name>
             <text>Jogar/Luta/Coleta: Cure até 2 danos de uma criatura. Cause essa quantidade de dano a outra criatura.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="3d6a02d0-b5c8-49be-93e4-dfdd5c1200eb" num="088" muid="341-088" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_088_W95JX5C22HW7_pt.png">cota</set>
             <prop>
@@ -2006,6 +2065,7 @@ em jogo.”</text>
 a menos que você tenha 7A ou mais.
 Luta/Coleta: Ganhe 1A. Cause 5D 
 a uma criatura.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="4064612e-602e-46c1-b8eb-8adda1cfd0d0" num="037" muid="341-037" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_037_PGMRV99HCWG7_pt.png">cota</set>
             <prop>
@@ -2044,6 +2104,7 @@ a uma criatura.</text>
         <card>
             <name>Trapaceiro</name>
             <text>Luta: Roube 1A.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="429e5d71-40bc-4ff4-ae81-4d5c0c10d15e" num="308" muid="341-308" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_308_4VWXF7969J9H_pt.png">cota</set>
             <prop>
@@ -2063,6 +2124,7 @@ a uma criatura.</text>
         <card>
             <name>Bastião</name>
             <text>Cada um dos vizinhos do Bastião ganha +2 de armadura.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="42fcdd0d-9be6-4602-ae47-1e8ef088751b" num="238" muid="341-238" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_238_4GJR4VPM7M26_pt.png">cota</set>
             <prop>
@@ -2082,6 +2144,7 @@ a uma criatura.</text>
         <card>
             <name>Magnata</name>
             <text>Após uma criatura inimiga ser destruída em luta contra Magnata, cure Magnata completamente e dê a ele um contador de +1 de poder.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="435dcb07-0cd8-4851-8f82-03db793cffc7" num="042" muid="341-042" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_042_6G82WPR8965X_pt.png">cota</set>
             <prop>
@@ -2101,6 +2164,7 @@ a uma criatura.</text>
         <card>
             <name>Flaxia</name>
             <text>Jogar: Ganhe 2A se você controlar mais criaturas do que o seu oponente.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="439d9d6e-7abf-4a7a-83d5-77060b5668cc" num="352" muid="341-352" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_352_JVPG4792RH9C_pt.png">cota</set>
             <prop>
@@ -2179,6 +2243,7 @@ no último turno dele.</text>
         <card>
             <name>O Protetor do Cofre</name>
             <text>Seu A não pode ser roubado.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="45cf7fd4-6f40-4ee7-89ff-6f11ed80377a" num="261" muid="341-261" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_261_GRHXCM2HH6W2_pt.png">cota</set>
             <prop>
@@ -2199,6 +2264,7 @@ no último turno dele.</text>
             <name>Destero</name>
             <text>Jogar: Capture 1A.
 Destruído: Coloque Destero no topo do seu baralho.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="45d564a2-fcc9-4baa-8dc8-8e1a0fe2a37a" num="138" muid="341-138" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_138_WVWFRR3PMG3H_pt.png">cota</set>
             <prop>
@@ -2218,6 +2284,7 @@ Destruído: Coloque Destero no topo do seu baralho.</text>
         <card>
             <name>Devorador de Cérebros</name>
             <text>Após uma criatura ser destruída em luta contra o Devorador de Cérebros, compre uma carta.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="466deee8-d9c0-4e08-af87-da5cbf80ce69" num="137" muid="341-137" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_137_F8PFV5JC764_pt.png">cota</set>
             <prop>
@@ -2257,6 +2324,7 @@ Destruído: Coloque Destero no topo do seu baralho.</text>
             <name>“John Smyth”</name>
             <text>Elusivo. (A cada turno, na primeira vez em que esta criatura for atacada, nenhum dano é sofrido.)
 Luta/Coleta: Prepare uma criatura de Marte que não seja Agente.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="49183ec5-6dad-48fb-9d86-253db31d72cf" num="195" muid="341-195" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_195_8VX38X5J32VV_pt.png">cota</set>
             <prop>
@@ -2276,6 +2344,7 @@ Luta/Coleta: Prepare uma criatura de Marte que não seja Agente.</text>
         <card>
             <name>Centavo Furado</name>
             <text>Destruído: Devolva Centavo Furado à sua mão.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="4a996715-f2c1-46e5-b80e-f285c1d36439" num="296" muid="341-296" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_296_QF774F23G6MR_pt.png">cota</set>
             <prop>
@@ -2315,6 +2384,7 @@ amigas.</text>
         <card>
             <name>Lorde Supremo Greking</name>
             <text>Após uma criatura inimiga ser destruída em luta contra o Lorde Supremo Greking, coloque-a em jogo sob o seu controle.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="4f1c5b07-d31a-4177-b3b2-d1890d41c3e4" num="087" muid="341-087" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_087_JFFVJ73VP9VQ_pt.png">cota</set>
             <prop>
@@ -2352,6 +2422,7 @@ amigas.</text>
         <card>
             <name>Fuminho Pesquisador</name>
             <text>Destruído: Arquive a carta do topo do seu baralho.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="53f7d3ec-a65f-4b05-8c82-74f44a7bdc44" num="151" muid="341-151" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_151_XC9823CQ2V92_pt.png">cota</set>
             <prop>
@@ -2390,6 +2461,7 @@ amigas.</text>
         <card>
             <name>Cavaleiro da Peste</name>
             <text>Jogar/Luta/Coleta: Cause 1D a cada criatura não Cavalgadora.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="54ecf6b7-1343-4af2-8be9-c5810595fa92" num="248" muid="341-248" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_248_RQV5MQVG4FWV_pt.png">cota</set>
             <prop>
@@ -2409,6 +2481,7 @@ amigas.</text>
         <card>
             <name>Marreta Sutil</name>
             <text>Ação: O seu oponente descarta uma carta aleatória da mão.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Uncommon" uuid="551a951f-39cc-4f13-8070-c0758066769c" num="294" muid="341-294" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_294_VJXHQQVX3C86_pt.png">cota</set>
             <prop>
@@ -2464,6 +2537,7 @@ amigas.</text>
         <card>
             <name>Tunk</name>
             <text>Após você jogar outra criatura de Marte, cure Tunk completamente.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="575d4804-78ff-4afa-8d44-2507126af6da" num="199" muid="341-199" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_199_FW92QH6WPGCW_pt.png">cota</set>
             <prop>
@@ -2483,6 +2557,7 @@ amigas.</text>
         <card>
             <name>Mãe</name>
             <text>No seu passo de “comprar cartas”, reponha a mão com 1 carta extra.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="57bccc52-b6a1-4d11-b9d9-6356d8ac279c" num="145" muid="341-145" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_145_65HF32HQGF2G_pt.png">cota</set>
             <prop>
@@ -2502,6 +2577,7 @@ amigas.</text>
         <card>
             <name>Estandarte de Batalha</name>
             <text>Cada criatura amiga tem +1 de poder.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Rare" uuid="57f8a873-414b-4c77-be9a-15561c76f719" num="020" muid="341-020" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_020_3FQVR3V3CR7F_pt.png">cota</set>
             <prop>
@@ -2538,6 +2614,7 @@ amigas.</text>
         <card>
             <name>Biblioteca de Babel</name>
             <text>Ação: Compre uma carta.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Common" uuid="59cb3ad9-cc98-4fe5-8589-a8967d32af00" num="129" muid="341-129" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_129_WR7JW9MF9F2R_pt.png">cota</set>
             <prop>
@@ -2556,6 +2633,7 @@ amigas.</text>
         <card>
             <name>Dr. Escotera</name>
             <text>Jogar: Ganhe 1A para cada chave forjada que o seu oponente tiver.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="5a1ee413-4b39-467f-a0bf-e5935f1edf9b" num="140" muid="341-140" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_140_GGR9WQGX52CC_pt.png">cota</set>
             <prop>
@@ -2575,6 +2653,7 @@ amigas.</text>
         <card>
             <name>Dr. Tomeiro</name>
             <text>Coleta: Compre uma carta.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="5a521238-f524-48e3-b121-40c16e1f7610" num="139" muid="341-139" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_139_678M74P9FW66_pt.png">cota</set>
             <prop>
@@ -2595,6 +2674,7 @@ amigas.</text>
             <name>Lady Maxena</name>
             <text>Jogar: Atordoe uma criatura.
 Ação: Devolva a Lady Maxena à mão de seu dono.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="5aba3999-2489-4073-92be-cc0ec93ee65f" num="251" muid="341-251" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_251_P4MXH8G4VPX4_pt.png">cota</set>
             <prop>
@@ -2673,6 +2753,7 @@ Ação: Devolva a Lady Maxena à mão de seu dono.</text>
             <text>Elusivo. (A cada turno, na primeira vez em que esta criatura for atacada, nenhum dano é sofrido.)
 Coleta: Pelo restante do turno, 
 ganhe 1A sempre que uma criatura inimiga for destruída.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="5c8c697c-ffcf-4116-b133-179198017c31" num="041" muid="341-041" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_041_779WFQQ368X7_pt.png">cota</set>
             <prop>
@@ -2730,6 +2811,7 @@ ganhe 1A sempre que uma criatura inimiga for destruída.</text>
             <text>Elusivo. (A cada turno, na primeira vez em que esta criatura for atacada, nenhum dano é sofrido.)
 Ação: Escolha uma criatura inimiga. 
 Ela captura 1A de seu próprio lado.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="5fc44836-83fd-4a10-af61-9168db728cc0" num="196" muid="341-196" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_196_QG3353H2HJFM_pt.png">cota</set>
             <prop>
@@ -2749,6 +2831,7 @@ Ela captura 1A de seu próprio lado.</text>
         <card>
             <name>Analista de Veylan</name>
             <text>Sempre que você usar um artefato, ganhe 1A.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="60f095d7-1816-4f14-88ec-04412ebde43b" num="156" muid="341-156" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_156_4F6VP56RFQQ5_pt.png">cota</set>
             <prop>
@@ -2806,6 +2889,7 @@ Ela captura 1A de seu próprio lado.</text>
         <card>
             <name>Obelisco de Ferro</name>
             <text>As chaves do seu oponente custam +1A para cada criatura Brobnar amiga com dano.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Rare" uuid="6378dc4a-fdb8-4580-a85f-1b6bcd158615" num="023" muid="341-023" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_023_G489GRF3RCV2_pt.png">cota</set>
             <prop>
@@ -2842,6 +2926,7 @@ Ela captura 1A de seu próprio lado.</text>
         <card>
             <name>O Baú de Guerra</name>
             <text>Ação: Ganhe 1A para cada criatura inimiga que tiver sido destruída em luta neste turno.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Uncommon" uuid="63f67670-16fb-4381-a859-c47920a847a6" num="027" muid="341-027" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_027_5G98X8WW3V6G_pt.png">cota</set>
             <prop>
@@ -2860,6 +2945,7 @@ Ela captura 1A de seu próprio lado.</text>
         <card>
             <name>Chave Mestra</name>
             <text>Ação: Uma criatura amiga captura 1A.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Uncommon" uuid="64f0e039-dd33-49f0-8e9c-42ec38aba8a1" num="291" muid="341-291" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_291_7FCVJGVJQF96_pt.png">cota</set>
             <prop>
@@ -2878,6 +2964,7 @@ Ela captura 1A de seu próprio lado.</text>
         <card>
             <name>Valdr</name>
             <text>Valdr causa +2D ao atacar uma criatura inimiga no flanco.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="652c4e38-c4fa-4e30-8f8d-036e95249529" num="029" muid="341-029" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_029_97VGG57XM738_pt.png">cota</set>
             <prop>
@@ -2897,6 +2984,7 @@ Ela captura 1A de seu próprio lado.</text>
         <card>
             <name>Macacos-Piranha</name>
             <text>Jogar/Coleta: Cause 2D a todas as outras criaturas.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="66f8ec97-15d0-4102-819a-7d912feca361" num="365" muid="341-365" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_365_9WCFVMXQMVJG_pt.png">cota</set>
             <prop>
@@ -2916,6 +3004,7 @@ Ela captura 1A de seu próprio lado.</text>
         <card>
             <name>Minas à Distância</name>
             <text>Onisciente: Sacrifique as Minas à Distância. Cause 3D a cada criatura inimiga que não esteja no flanco.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Rare" uuid="67ac26ce-b816-4ae1-9bea-9f38059f3b46" num="287" muid="341-287" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_287_H6CGFG593XMM_pt.png">cota</set>
             <prop>
@@ -2955,6 +3044,7 @@ com 2D de espalhar.</text>
             <name>Numquid, a Bela</name>
             <text>Jogar: Destrua uma criatura inimiga. Repita o efeito desta carta se o seu oponente ainda controlar mais 
 criaturas que você.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="6806cdf1-81bb-49ce-909b-f98be2d82cb5" num="253" muid="341-253" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_253_3G85FMW7C6QH_pt.png">cota</set>
             <prop>
@@ -3047,6 +3137,7 @@ criaturas que você.</text>
         <card>
             <name>Ladrão de Almas</name>
             <text>Após uma criatura inimiga ser destruída em luta contra o Ladrão de Almas, expurgue aquela criatura e ganhe 1A.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="6b113c63-c8e0-4c52-9973-b94263d2bf0d" num="098" muid="341-098" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_098_JJGJFX44Q6GF_pt.png">cota</set>
             <prop>
@@ -3066,6 +3157,7 @@ criaturas que você.</text>
         <card>
             <name>Obstrução da Vida</name>
             <text>Onisciente: Sacrifique a Obstrução da Vida. O seu oponente não pode jogar criaturas no próximo turno dele.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Uncommon" uuid="6bf5d9fa-1fbb-4609-8671-986a4709d3aa" num="077" muid="341-077" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_077_46M5PVW2VRX9_pt.png">cota</set>
             <prop>
@@ -3085,6 +3177,7 @@ criaturas que você.</text>
         <card>
             <name>Blypyp</name>
             <text>Coleta: A próxima criatura de Marte que você jogar neste turno entra em jogo preparada.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="6f6b30f0-c2b5-4824-b836-b5f45ca5fb6d" num="190" muid="341-190" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_190_8XHXRR6J7CH2_pt.png">cota</set>
             <prop>
@@ -3105,6 +3198,7 @@ criaturas que você.</text>
             <name>Carlo Fantasma</name>
             <text>Elusivo. Combate.
 Sempre que você jogar um artefato, roube 1A.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="71274e08-79b6-469b-9426-8af07d582704" num="298" muid="341-298" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_298_5PGPFVJF9292_pt.png">cota</set>
             <prop>
@@ -3142,6 +3236,7 @@ Sempre que você jogar um artefato, roube 1A.</text>
         <card>
             <name>O Abismo Uivante</name>
             <text>Durante o passo de “comprar cartas” de cada jogador, aquele jogador repõe a mão com uma carta adicional.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Rare" uuid="728fcd16-1625-48f6-8633-567b9d4b7a2f" num="135" muid="341-135" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_135_GVHX66578HV5_pt.png">cota</set>
             <prop>
@@ -3162,6 +3257,7 @@ Sempre que você jogar um artefato, roube 1A.</text>
             <name>Rusga, o Chato</name>
             <text>Elusivo. (A cada turno, na primeira vez em que esta criatura for atacada, nenhum dano é sofrido.)
 Cause 1D a cada criatura inimiga após ela entrar em jogo.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="7368fd79-70b8-4917-9d2c-dead816f624c" num="043" muid="341-043" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_043_PC7XR5283WJ_pt.png">cota</set>
             <prop>
@@ -3181,6 +3277,7 @@ Cause 1D a cada criatura inimiga após ela entrar em jogo.</text>
         <card>
             <name>Veemos Portaluz</name>
             <text>Jogar: Destrua todas as criaturas elusivas.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="737b485f-fc98-4d01-9d07-b00c76e754ed" num="262" muid="341-262" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_262_VP65GQXWR45X_pt.png">cota</set>
             <prop>
@@ -3219,6 +3316,7 @@ Cause 1D a cada criatura inimiga após ela entrar em jogo.</text>
         <card>
             <name>Halacor</name>
             <text>Cada criatura amiga no flanco ganha combate. (Quando usar uma criatura com combate para lutar, ela não sofre dano da criatura oponente.)</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="740e0810-14e8-4278-bb44-e2e5c98184f9" num="355" muid="341-355" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_355_XCPG4GRFR6PR_pt.png">cota</set>
             <prop>
@@ -3238,6 +3336,7 @@ Cause 1D a cada criatura inimiga após ela entrar em jogo.</text>
         <card>
             <name>Dente de Prata</name>
             <text>Dente de Prata entra em jogo preparado.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="74422031-b763-4f04-9f90-3f580ad69d3f" num="311" muid="341-311" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_311_69G639M8F4F2_pt.png">cota</set>
             <prop>
@@ -3258,6 +3357,7 @@ Cause 1D a cada criatura inimiga após ela entrar em jogo.</text>
             <name>Grommid</name>
             <text>Você não pode jogar criaturas.
 Após uma criatura inimiga ser destruída em luta contra Grommid, o seu oponente perde 1A.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="746fd4a8-ae4d-4a28-8834-655923558721" num="194" muid="341-194" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_194_J7HVR74PWP6W_pt.png">cota</set>
             <prop>
@@ -3277,6 +3377,7 @@ Após uma criatura inimiga ser destruída em luta contra Grommid, o seu oponente
         <card>
             <name>Qyxxlyx Mestre da Peste</name>
             <text>Luta/Coleta: Cause 3D a cada criatura Humana. Esse dano não pode ser previnido por armadura.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="74a9ed49-ed43-42ff-b531-b84f737581db" num="198" muid="341-198" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_198_4QXQJ939VVQM_pt.png">cota</set>
             <prop>
@@ -3315,6 +3416,7 @@ Após uma criatura inimiga ser destruída em luta contra Grommid, o seu oponente
         <card>
             <name>Ritual de Aniquilação</name>
             <text>Quando uma criatura for sair de jogo e entrar numa pilha de descartes, em vez disso, ela é expurgada.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Rare" uuid="750a9323-9c07-4ae7-be5e-79367b4a2a8d" num="072" muid="341-072" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_072_H2HJ8R9HF5C_pt.png">cota</set>
             <prop>
@@ -3353,6 +3455,7 @@ Após uma criatura inimiga ser destruída em luta contra Grommid, o seu oponente
         <card>
             <name>Protectrix</name>
             <text>Coleta: Você pode curar completamente uma criatura. Se o fizer, essa criatura não pode sofrer dano pelo restante do turno.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="762973ae-27da-448f-93f4-2a9bc4ef5f35" num="254" muid="341-254" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_254_W9QVJ9XWF94R_pt.png">cota</set>
             <prop>
@@ -3373,6 +3476,7 @@ Após uma criatura inimiga ser destruída em luta contra Grommid, o seu oponente
             <name>Galhaço</name>
             <text>Galhaço só pode lutar contra criaturas atordoadas.
 Coleta: Atordoe e deixe exausta uma criatura.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="78f1a306-5e1d-4155-90d4-a4f0646c5c4c" num="346" muid="341-346" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_346_GFJP96HGWG24_pt.png">cota</set>
             <prop>
@@ -3411,6 +3515,7 @@ Coleta: Atordoe e deixe exausta uma criatura.</text>
         <card>
             <name>Vírus Personalizado</name>
             <text>Onisciente: Sacrifique o Vírus Personalizado. Expurgue uma criatura da sua mão. Destrua cada criatura que compartilhe um atributo com a criatura expurgada.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Rare" uuid="79be4a3f-0f51-4cf7-a199-819244879eac" num="183" muid="341-183" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_183_3G89HPF6R2GX_pt.png">cota</set>
             <prop>
@@ -3432,6 +3537,7 @@ Coleta: Atordoe e deixe exausta uma criatura.</text>
             <text>Você pode gastar A do Universo de Bolso ao forjar chaves.
 Ação: Mova 1A da sua reserva para 
 o Universo de Bolso.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Rare" uuid="7c60d913-803f-4b84-8e84-cf931d70659c" num="131" muid="341-131" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_131_Q67W5PMV8768_pt.png">cota</set>
             <prop>
@@ -3470,6 +3576,7 @@ o Universo de Bolso.</text>
             <name>Erosor</name>
             <text>Jogar: Se o seu oponente tiver 4A 
 ou mais, roube 1A.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="817edf75-e91d-4b18-8c5a-d33e3759aeae" num="096" muid="341-096" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_096_4J8576237M3X_pt.png">cota</set>
             <prop>
@@ -3508,6 +3615,7 @@ ou mais, roube 1A.</text>
         <card>
             <name>Devorador dos Mortos</name>
             <text>Luta/Coleta: Expurgue uma criatura de uma pilha de descartes. Se o fizer, coloque um contador de +1 de poder no Devorador dos Mortos.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="81bfdb14-81ac-4dba-9ef4-fcba524b354e" num="084" muid="341-084" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_084_5P9QW3X62X46_pt.png">cota</set>
             <prop>
@@ -3527,6 +3635,7 @@ ou mais, roube 1A.</text>
         <card>
             <name>Engenhoca Estranha</name>
             <text>Após você forjar uma chave, destrua todos os artefatos e criaturas.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Rare" uuid="8403b0ba-5423-4ee7-a373-aa56091346fc" num="134" muid="341-134" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_134_J3JWR285J2M3_pt.png">cota</set>
             <prop>
@@ -3564,6 +3673,7 @@ ou mais, roube 1A.</text>
         <card>
             <name>Rei do Penhasco</name>
             <text>Cada criatura Brobnar inimiga tem –2 de poder.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="8604d465-8154-4354-9b77-9d4ad7eb3a02" num="038" muid="341-038" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_038_VH6FGMM4HCH4_pt.png">cota</set>
             <prop>
@@ -3583,6 +3693,7 @@ ou mais, roube 1A.</text>
         <card>
             <name>Manopla de Comando</name>
             <text>Ação: Prepare e lute com uma criatura amiga.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Common" uuid="86db8510-2854-440b-8ee5-559855bb7d2c" num="022" muid="341-022" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_022_5F6F47CPQM7J_pt.png">cota</set>
             <prop>
@@ -3601,6 +3712,7 @@ ou mais, roube 1A.</text>
         <card>
             <name>Captor de Almas</name>
             <text>Sempre que uma criatura for destruída, o dono dela ganha 1A.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Rare" uuid="8717beaa-79ff-44ba-b4e1-700235535844" num="080" muid="341-080" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_080_79QFRXPXVQ33_pt.png">cota</set>
             <prop>
@@ -3620,6 +3732,7 @@ ou mais, roube 1A.</text>
             <name>Guardião do Portal</name>
             <text>Jogar: Se o seu oponente tiver 7A 
 ou mais, capture todos acima de 5.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="87197e65-0d83-42a8-bec9-9e0e1fb75f34" num="260" muid="341-260" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_260_MJV7XGGFVMQC_pt.png">cota</set>
             <prop>
@@ -3639,6 +3752,7 @@ ou mais, capture todos acima de 5.</text>
         <card>
             <name>Dysânia</name>
             <text>Jogar: O seu oponente descarta todas as cartas arquivadas. Ganhe 1A para cada carta descartada desta forma.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="872b8871-93da-4b0d-a321-61f09e1824ea" num="141" muid="341-141" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_141_MMQJWC7Q6V3_pt.png">cota</set>
             <prop>
@@ -3737,6 +3851,7 @@ Ganhe 1 corrente.</text>
             <name>Gigante Lançador de Pedras</name>
             <text>No seu turno, sempre que descartar uma carta de Brobnar de sua mão, 
 você pode causar 4D a uma criatura.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="8a045167-eccd-4026-9508-a73f5395cdad" num="044" muid="341-044" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_044_HP3GQM2F73G5_pt.png">cota</set>
             <prop>
@@ -3774,6 +3889,7 @@ você pode causar 4D a uma criatura.</text>
         <card>
             <name>Cavaleiro da Guerra</name>
             <text>Jogar: Pelo restante do turno, todas as criaturas amigas podem ser usadas como se pertencessem à casa ativa, mas só podem lutar.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="FIXED" uuid="8c062726-1b94-408d-9d5e-e5face248ea0" num="249" muid="341-249" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_249_8MXMCQ93R9CJ_pt.png">cota</set>
             <prop>
@@ -3830,6 +3946,7 @@ Se esta for a primeira vez em que esta criatura é usada neste turno, deixe-a pr
         <card>
             <name>Árvore do Mundo</name>
             <text>Ação: Devolva uma criatura de sua pilha de descartes para o topo de seu baralho.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Rare" uuid="8f7f0b00-868d-4447-967b-e8c9d880c91a" num="344" muid="341-344" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_344_JWRCR9MQX696_pt.png">cota</set>
             <prop>
@@ -3869,6 +3986,7 @@ e +2 de poder.</text>
             <name>Lugar Seguro</name>
             <text>Você pode gastar A do Lugar Seguro ao forjar chaves.
 Ação: Mova 1A da sua reserva para o Lugar Seguro.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Rare" uuid="90dc2b61-521a-40c1-bf0a-14e4d1457977" num="289" muid="341-289" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_289_88GPJGFV248G_pt.png">cota</set>
             <prop>
@@ -3889,6 +4007,7 @@ Ação: Mova 1A da sua reserva para o Lugar Seguro.</text>
             <name>Víbora Macis</name>
             <text>Combate. (Quando usar esta criatura para lutar, ela não sofre dano da criatura oponente.)
 Veneno. (Qualquer dano causado pelo poder desta criatura durante uma luta destrói a criatura que sofreu dano.)</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="91292e0d-e49e-485f-b19d-f066b1ff388a" num="301" muid="341-301" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_301_5G45CCCH6W5J_pt.png">cota</set>
             <prop>
@@ -3908,6 +4027,7 @@ Veneno. (Qualquer dano causado pelo poder desta criatura durante uma luta destr�
         <card>
             <name>Avaro</name>
             <text>Luta/Coleta: Devolva um artefato ou uma criatura no flanco à mão do seu dono.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="9152cbad-d83f-4ee4-9846-87cc60d185f1" num="097" muid="341-097" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_097_RM5XHC9QXGC5_pt.png">cota</set>
             <prop>
@@ -3927,6 +4047,7 @@ Veneno. (Qualquer dano causado pelo poder desta criatura durante uma luta destr�
         <card>
             <name>Diabinho do Borralho</name>
             <text>O seu oponente não pode jogar mais do que 2 cartas em cada turno.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="916f271b-9928-437c-bfc4-d60d32af8c7c" num="085" muid="341-085" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_085_C72X25358RG2_pt.png">cota</set>
             <prop>
@@ -3986,6 +4107,7 @@ Veneno. (Qualquer dano causado pelo poder desta criatura durante uma luta destr�
             <text>Ação: Descarte cartas do topo do 
 seu baralho até descartar uma criatura de Marte ou acabarem as cartas. 
 Se descartar uma criatura de Marte desta forma, coloque-a na sua mão.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Rare" uuid="93a7d1e6-b66e-4c6b-86e3-3ea230a4d768" num="185" muid="341-185" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_185_6C5RX4PMJ5R2_pt.png">cota</set>
             <prop>
@@ -4081,6 +4203,7 @@ poderosas.</text>
         <card>
             <name>Bola Dominadora</name>
             <text>Ação: Use uma criatura amiga.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Common" uuid="96548d93-b318-40e3-9f5c-3297c8070ebd" num="073" muid="341-073" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_073_QRQ93X7RG4J9_pt.png">cota</set>
             <prop>
@@ -4099,6 +4222,7 @@ poderosas.</text>
         <card>
             <name>Sinal de Evasão</name>
             <text>Antes de uma criatura lutar, descarte a carta do topo do baralho de quem a controla. Se a carta descartada for da casa ativa, deixe essa criatura exausta, sem efeito.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Rare" uuid="9751d62a-ce61-41f1-a13a-0d7f8812abf8" num="286" muid="341-286" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_286_4686MGRJ87QX_pt.png">cota</set>
             <prop>
@@ -4118,6 +4242,7 @@ poderosas.</text>
         <card>
             <name>Campeão Anaphiel</name>
             <text>Provocar. (Os vizinhos desta criatura não podem ser atacados a menos que tenham provocar.)</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="9779c7a8-419a-4c99-9460-a48ddf33b963" num="239" muid="341-239" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_239_FR9V84W6X65C_pt.png">cota</set>
             <prop>
@@ -4138,6 +4263,7 @@ poderosas.</text>
             <name>Altar de Sacrifícios</name>
             <text>Ação: Expurgue uma criatura Humana amiga que esteja em jogo. Se o fizer, 
 jogue uma criatura da sua pilha de descartes.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Rare" uuid="98c0c7b0-59b4-48f2-8144-39d1d47bec7d" num="078" muid="341-078" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_078_Q7JWX2HW28FX_pt.png">cota</set>
             <prop>
@@ -4175,6 +4301,7 @@ jogue uma criatura da sua pilha de descartes.</text>
         <card>
             <name>Canhão Automático</name>
             <text>Cause 1D a cada criatura inimiga após ela entrar em jogo.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Rare" uuid="99879b5b-70c1-4fb2-9700-87054eb750b9" num="019" muid="341-019" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_019_XRFQ9GHJ98C3_pt.png">cota</set>
             <prop>
@@ -4269,6 +4396,7 @@ jogue uma criatura da sua pilha de descartes.</text>
             <name>Plano Magistral</name>
             <text>Jogar: Coloque voltada para baixo uma carta de sua mão sob Plano Magistral.
 Onisciente: Jogue a carta sob Plano Magistral. Sacrifique Plano Magistral.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Rare" uuid="9c13665d-e4da-45b4-b04d-27abfafe5c23" num="288" muid="341-288" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_288_8FJVHVWFWC4P_pt.png">cota</set>
             <prop>
@@ -4325,6 +4453,7 @@ Onisciente: Jogue a carta sob Plano Magistral. Sacrifique Plano Magistral.</text
         <card>
             <name>O Terror</name>
             <text>Jogar: Se o seu oponente não tiver A, ganhe 2A.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="9ed7d241-1ca3-4a2a-b067-bb44776f7d4b" num="101" muid="341-101" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_101_9W755VJWMG92_pt.png">cota</set>
             <prop>
@@ -4418,6 +4547,7 @@ Onisciente: Jogue a carta sob Plano Magistral. Sacrifique Plano Magistral.</text
         <card>
             <name>Francus</name>
             <text>Após uma criatura inimiga ser destruída em luta contra Francus, Francus captura 1A.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="a2d750fc-aea3-48a6-ba18-5358fff7148e" num="243" muid="341-243" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_243_PFW5PH796X2W_pt.png">cota</set>
             <prop>
@@ -4456,6 +4586,7 @@ sempre que você jogar outra carta, compre uma carta.</text>
         <card>
             <name>Campeã Tabris</name>
             <text>Luta: Capture 1A.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="a6a864cf-ac90-4cd2-8d91-7de468c7f66c" num="240" muid="341-240" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_240_C7P8FX9FVPXV_pt.png">cota</set>
             <prop>
@@ -4496,6 +4627,7 @@ sempre que você jogar outra carta, compre uma carta.</text>
             <text>Ação: Descarte a carta do topo do baralho de cada jogador. Para cada uma dessas cartas, destrua uma criatura ou um artefato da casa da carta descartada, se possível. 
 Se não forem destruídas 2 cartas desta forma, 
 destrua a Máquina de Matar Maluca.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Rare" uuid="a802b4cc-6c00-4559-bb29-677cc0d788e5" num="128" muid="341-128" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_128_8VF3XM5JM75C_pt.png">cota</set>
             <prop>
@@ -4533,6 +4665,7 @@ destrua a Máquina de Matar Maluca.</text>
         <card>
             <name>Cavaleiro da Morte</name>
             <text>Jogar: Devolva à sua mão todas as criaturas Cavalgadoras da sua pilha de descartes.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="FIXED" uuid="a87f88aa-3112-4bbf-802d-24e657220734" num="246" muid="341-246" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_246_JJM8J2JQ288W_pt.png">cota</set>
             <prop>
@@ -4552,6 +4685,7 @@ destrua a Máquina de Matar Maluca.</text>
         <card>
             <name>Vezyma Dronepenseiro</name>
             <text>Coleta: Você pode arquivar uma criatura ou um artefato amigos que esteja em jogo.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="a8a3578c-7a61-4e15-90ac-483daf2aff16" num="202" muid="341-202" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_202_99C5PXMWC2M7_pt.png">cota</set>
             <prop>
@@ -4630,6 +4764,7 @@ a menos que tenham provocar.)</text>
             <name>Umbra</name>
             <text>Combate. (Quando usar esta criatura para lutar, ela não sofre dano da criatura oponente.)
 Luta: Roube 1A.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="a8f25ae7-75f4-4768-94f0-87d62036516c" num="314" muid="341-314" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_314_VHG44C64WFXQ_pt.png">cota</set>
             <prop>
@@ -4705,6 +4840,7 @@ Luta: Roube 1A.</text>
             <name>Uxlyx, o Zelador</name>
             <text>Elusivo. (A cada turno, na primeira vez em que esta criatura for atacada, nenhum dano é sofrido.)
 Coleta: Coloque uma criatura inimiga no seu arquivo. Se essa criatura sair do seu arquivo, coloque-a na mão do dono dela.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="aabeebf7-1da5-4149-afab-e7e221b47d93" num="201" muid="341-201" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_201_69W23Q88QWW4_pt.png">cota</set>
             <prop>
@@ -4724,6 +4860,7 @@ Coleta: Coloque uma criatura inimiga no seu arquivo. Se essa criatura sair do se
         <card>
             <name>Hayyel, o Comerciante</name>
             <text>Sempre que você jogar um artefato, ganhe 1A.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="ab58367b-51db-4ba0-926e-e4d562f7e4bd" num="245" muid="341-245" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_245_7MHFM8Q84QMX_pt.png">cota</set>
             <prop>
@@ -4763,6 +4900,7 @@ Coleta: Coloque uma criatura inimiga no seu arquivo. Se essa criatura sair do se
             <name>Zorg</name>
             <text>Zorg entra em jogo atordoado.
 Antes da Luta: Atordoe a criatura que luta contra Zorg e cada um dos vizinhos dela.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="ac8fb9f6-ee8e-4434-85e8-d084a66c50db" num="206" muid="341-206" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_206_4XXWX9CP9XGJ_pt.png">cota</set>
             <prop>
@@ -4801,6 +4939,7 @@ Antes da Luta: Atordoe a criatura que luta contra Zorg e cada um dos vizinhos de
             <name>Agulha Perseguidora</name>
             <text>Ação: Cause 1D a uma criatura. 
 Se esse dano destruir aquela criatura, ganhe 1A.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Common" uuid="afa69425-4fe4-4e5b-a016-7c142ed0a849" num="290" muid="341-290" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_290_PQP9MHRG7W4H_pt.png">cota</set>
             <prop>
@@ -4857,6 +4996,7 @@ Se esse dano destruir aquela criatura, ganhe 1A.</text>
         <card>
             <name>Tuneleiro Espectral</name>
             <text>Ação: Escolha uma criatura. Pelo restante do turno, essa criatura é considerada como uma criatura no flanco e ganha: “Coleta: Compre uma carta.”</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Uncommon" uuid="b13b68ab-489c-47bc-803e-e87792edb931" num="133" muid="341-133" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_133_FJGQFR6XJPHQ_pt.png">cota</set>
             <prop>
@@ -4895,6 +5035,7 @@ Se esse dano destruir aquela criatura, ganhe 1A.</text>
         <card>
             <name>Cavaleiro Estoico</name>
             <text>O Cavaleiro Estoico tem +2 de poder enquanto estiver no flanco.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="b45eaa7a-22cd-4cd1-96bd-a240b63bea9f" num="259" muid="341-259" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_259_F6VVWM6QHCRR_pt.png">cota</set>
             <prop>
@@ -4914,6 +5055,7 @@ Se esse dano destruir aquela criatura, ganhe 1A.</text>
         <card>
             <name>Replicador</name>
             <text>Coleta: Ative o efeito de coleta de outra criatura em jogo como se você a controlasse. (A criatura não fica exausta.)</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="b68e10b3-275e-46b8-8227-fe02984ff525" num="150" muid="341-150" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_150_8QGJM4R2RQQW_pt.png">cota</set>
             <prop>
@@ -4952,6 +5094,7 @@ Se esse dano destruir aquela criatura, ganhe 1A.</text>
         <card>
             <name>Tocsina</name>
             <text>Coleta: O seu oponente descarta uma carta aleatória da mão.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="b8343462-b5d7-48b0-9e3b-f020c5e73c55" num="102" muid="341-102" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_102_CG7PMM7PJ3G6_pt.png">cota</set>
             <prop>
@@ -4973,6 +5116,7 @@ Se esse dano destruir aquela criatura, ganhe 1A.</text>
             <text>Crocag Incansável não pode coletar.
 Você pode usar Crocag Incansável como se ele pertencesse à casa ativa.
 Se o seu oponente não tiver criaturas em jogo, destrua Crocag Incansável.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="b97236a0-5a0e-437b-b3be-d13834c0dc2d" num="047" muid="341-047" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_047_QHVVFWHGJM8R_pt.png">cota</set>
             <prop>
@@ -4993,6 +5137,7 @@ Se o seu oponente não tiver criaturas em jogo, destrua Crocag Incansável.</tex
             <name>Tentácus</name>
             <text>O seu oponente tem de pagar 1A 
 a você para usar um artefato.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="ba26515f-1705-45ba-ae42-dcb65685a0ec" num="100" muid="341-100" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_100_WQWQX27FH7M2_pt.png">cota</set>
             <prop>
@@ -5013,6 +5158,7 @@ a você para usar um artefato.</text>
             <name>Velho Bruno</name>
             <text>Elusivo. (A cada turno, na primeira vez em que esta criatura for atacada, nenhum dano é sofrido.)
 Jogar: Capture 3A.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="ba8d348b-5c05-44d1-88f1-3945f9a485d8" num="307" muid="341-307" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_307_7M48G5WCGGX9_pt.png">cota</set>
             <prop>
@@ -5032,6 +5178,7 @@ Jogar: Capture 3A.</text>
         <card>
             <name>Troll</name>
             <text>Coleta: Troll cura 3 danos.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="bb0dc3dc-b591-447d-a181-1dc4907e3eaa" num="048" muid="341-048" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_048_CPX86RFXW765_pt.png">cota</set>
             <prop>
@@ -5051,6 +5198,7 @@ Jogar: Capture 3A.</text>
         <card>
             <name>Harland Mentecaptor</name>
             <text>Jogar: Assuma o controle de uma criatura inimiga no flanco até que Harland Mentecaptor saia de jogo.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="bbb7c660-d282-4bd1-88f9-6d8213483c4a" num="143" muid="341-143" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_143_G7C9MP3P4VX2_pt.png">cota</set>
             <prop>
@@ -5088,6 +5236,7 @@ Jogar: Capture 3A.</text>
         <card>
             <name>Jehu, o Burocrata</name>
             <text>Após você escolher o Santuário como sua casa ativa, ganhe 2A.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="bc08aefc-363f-4ef3-b6a0-5c60fc4da8f3" num="250" muid="341-250" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_250_XMP7GGP9HP57_pt.png">cota</set>
             <prop>
@@ -5107,6 +5256,7 @@ Jogar: Capture 3A.</text>
         <card>
             <name>Pulinho Temporco</name>
             <text>Jogar: O seu oponente não pode usar cartas no próximo turno. (As cartas ainda podem ser jogadas e descartadas.)</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="bc22a9d4-8d8d-4c56-a879-262b68d6704a" num="152" muid="341-152" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_152_3PXCFH529CPG_pt.png">cota</set>
             <prop>
@@ -5127,6 +5277,7 @@ Jogar: Capture 3A.</text>
             <name>Ruth Sorridente</name>
             <text>Elusivo. (A cada turno, na primeira vez em que esta criatura for atacada, nenhum dano é sofrido.)
 Coleta: Se tiver forjado uma chave neste turno, assuma o controle de uma criatura inimiga no flanco.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="bc5df4f6-a9db-4b05-8a65-6c51c01b7b3e" num="312" muid="341-312" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_312_V2H6733WRV33_pt.png">cota</set>
             <prop>
@@ -5146,6 +5297,7 @@ Coleta: Se tiver forjado uma chave neste turno, assuma o controle de uma criatur
         <card>
             <name>Arma-Mãe</name>
             <text>Ação: Revele qualquer número de cartas de Marte de sua mão. Cause a uma criatura uma quantidade de dano igual ao número de cartas de Marte reveladas desta forma.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Common" uuid="bda929e2-962a-438c-a210-47f21228dfbc" num="187" muid="341-187" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_187_886VP3RR6C5F_pt.png">cota</set>
             <prop>
@@ -5164,6 +5316,7 @@ Coleta: Se tiver forjado uma chave neste turno, assuma o controle de uma criatur
         <card>
             <name>Cápsula de Comunicação</name>
             <text>Ação: Revele da sua mão quantas cartas de Marte quiser. Para cada carta revelada desta forma, você pode preparar uma criatura de Marte.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Rare" uuid="bdbb4933-b2f1-403b-986d-bbdec111b76b" num="181" muid="341-181" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_181_MXX6XH3QQRCV_pt.png">cota</set>
             <prop>
@@ -5240,6 +5393,7 @@ e deixe-a exausta.</text>
             <name>Mecânico do Titã</name>
             <text>Enquanto o Mecânico do Titã estiver 
 no flanco, cada chave custa –1A.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="c08c91f0-043a-4a8a-8761-6080e9f46183" num="154" muid="341-154" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_154_M7WH2HV6J2FX_pt.png">cota</set>
             <prop>
@@ -5299,6 +5453,7 @@ no flanco, cada chave custa –1A.</text>
             <text>Elusivo. (A cada turno, na primeira vez em que esta criatura for atacada, nenhum dano é sofrido.)
 Jogar: Se o seu oponente tiver 7A 
 ou mais, capture tudo.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="c225caa0-5e29-4b7d-8b89-aa7cbf3f4b14" num="082" muid="341-082" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_082_HVV8PJ352J78_pt.png">cota</set>
             <prop>
@@ -5318,6 +5473,7 @@ ou mais, capture tudo.</text>
         <card>
             <name>Selwyn, o Receptor</name>
             <text>Luta/Coleta: Mova 1A de uma de suas cartas para a sua reserva.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="c25f3a5d-b757-4c30-9097-01a9ad692833" num="309" muid="341-309" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_309_7GJ6RPFR59G2_pt.png">cota</set>
             <prop>
@@ -5338,6 +5494,7 @@ ou mais, capture tudo.</text>
             <name>Restringuntus</name>
             <text>Jogar: Escolha uma casa. O seu oponente 
 não pode escolher essa casa como casa ativa dele até que Restringuntus saia do jogo.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="c29141ad-cc05-4d79-b3db-eb391808c29e" num="094" muid="341-094" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_094_F38PVXG83G8X_pt.png">cota</set>
             <prop>
@@ -5357,6 +5514,7 @@ não pode escolher essa casa como casa ativa dele até que Restringuntus saia do
         <card>
             <name>Távola Redonda</name>
             <text>Cada criatura Cavaleira amiga tem +1 de poder e ganha provocar.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Rare" uuid="c39567bb-4695-4518-8b8d-8ac882894d1e" num="235" muid="341-235" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_235_MJMGJPH3545P_pt.png">cota</set>
             <prop>
@@ -5381,6 +5539,7 @@ nenhum dano é sofrido.)
 Ação: O seu oponente perde 1A 
 para cada uma das outras criaturas 
 de Marte amigas.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="c4b7c7e1-72b5-453b-9240-c9eb33710910" num="197" muid="341-197" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_197_C637CW23C7M7_pt.png">cota</set>
             <prop>
@@ -5402,6 +5561,7 @@ de Marte amigas.</text>
             <text>Onisciente: Sacrifique o Ritual da Caça. 
 Pelo restante do turno, você pode 
 usar criaturas dos Indomados amigas.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Rare" uuid="c578fa39-fe35-4a9f-844e-113fc47dc6f2" num="343" muid="341-343" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_343_MWRP2VMRJ7R7_pt.png">cota</set>
             <prop>
@@ -5440,6 +5600,7 @@ usar criaturas dos Indomados amigas.</text>
         <card>
             <name>Chamusco</name>
             <text>Jogar: Capture 3A.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="c5ed37f7-0d05-48bc-a595-4f25c0ec1e6d" num="081" muid="341-081" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_081_GM7WM322M4_pt.png">cota</set>
             <prop>
@@ -5500,6 +5661,7 @@ Jogar: Cure completamente esta criatura.</text>
             <text>Toda vez que uma criatura inimiga 
 for destruída durante o seu turno, 
 uma criatura amiga captura 1A.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Rare" uuid="c68fa80b-08b2-4153-88c1-9e56aac487fe" num="025" muid="341-025" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_025_M6WXP2FVXH53_pt.png">cota</set>
             <prop>
@@ -5519,6 +5681,7 @@ uma criatura amiga captura 1A.</text>
             <name>Kindrith Tirocerto</name>
             <text>Elusivo. Combate.
 Coleta: Cause 2D a uma criatura.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="c69a4a22-7d34-4719-9d64-a0a691d60164" num="357" muid="341-357" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_357_CJVF7978M9W3_pt.png">cota</set>
             <prop>
@@ -5540,6 +5703,7 @@ Coleta: Cause 2D a uma criatura.</text>
             <text>Pule o seu passo de “forjar uma chave”.
 Você ganha todo A gasto pelo seu oponente para forjar chaves.
 Ação: Sacrifique O Ferrão.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Rare" uuid="c79475dc-0faf-4e89-9847-49a314e23236" num="295" muid="341-295" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_295_45HVFWG7RMPF_pt.png">cota</set>
             <prop>
@@ -5559,6 +5723,7 @@ Ação: Sacrifique O Ferrão.</text>
         <card>
             <name>Snib Granada</name>
             <text>Destruído: O seu oponente perde 2A.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="c7f70ade-d2e2-4032-a843-0fca6076d243" num="034" muid="341-034" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_034_WJXC3F32R7CP_pt.png">cota</set>
             <prop>
@@ -5597,6 +5762,7 @@ Ação: Sacrifique O Ferrão.</text>
         <card>
             <name>Teliga</name>
             <text>Sempre que o seu oponente jogar uma criatura, ganhe 1A.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="c8ed04c1-d938-4d96-a284-6e0f6a2b116e" num="366" muid="341-366" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_366_F2PF3262P9XJ_pt.png">cota</set>
             <prop>
@@ -5637,6 +5803,7 @@ Ação: Sacrifique O Ferrão.</text>
 não podem ser atacados a menos que tenham provocar.)
 Enquanto o Senhor do Abismo estiver 
 em jogo, você tem de escolher Dis como sua casa ativa.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="c9625085-6eb2-4555-87cd-cda180af9f71" num="093" muid="341-093" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_093_95PVMCCHQ7P2_pt.png">cota</set>
             <prop>
@@ -5657,6 +5824,7 @@ em jogo, você tem de escolher Dis como sua casa ativa.</text>
         <card>
             <name>Tigre Poderoso</name>
             <text>Jogar: Cause 4D a uma criatura inimiga.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="c9c045b1-061b-419e-aa1b-bc913b57e7f0" num="360" muid="341-360" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_360_88VX5H673QQ4_pt.png">cota</set>
             <prop>
@@ -5694,6 +5862,7 @@ em jogo, você tem de escolher Dis como sua casa ativa.</text>
         <card>
             <name>Ritual de Equilíbrio</name>
             <text>Ação: Se o seu oponente tiver 6A ou mais, roube 1A.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Uncommon" uuid="cc7b8381-1418-45e5-b328-7c538fa73407" num="342" muid="341-342" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_342_CCCJH6Q4C2GR_pt.png">cota</set>
             <prop>
@@ -5732,6 +5901,7 @@ em jogo, você tem de escolher Dis como sua casa ativa.</text>
             <name>Inseto Psíquico</name>
             <text>Jogar/Coleta: Olhe a mão do seu 
 oponente.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="cd83ebe7-f961-4e5e-a00e-046d1be5e5d3" num="149" muid="341-149" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_149_GW4755VJMRRP_pt.png">cota</set>
             <prop>
@@ -5753,6 +5923,7 @@ oponente.</text>
             <name>Monge Cinza</name>
             <text>Cada criatura amiga tem +1 de armadura.
 Coleta: Cure 2 danos de uma criatura.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="cda55db6-24e5-4e79-ac36-28482898dd4f" num="244" muid="341-244" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_244_4V54R77GCW9M_pt.png">cota</set>
             <prop>
@@ -5792,6 +5963,7 @@ Coleta: Cure 2 danos de uma criatura.</text>
             <name>Revelação de Omm</name>
             <text>Onisciente: Sacrifique a Revelação 
 de Omm. Destrua um artefato.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Uncommon" uuid="ce019a46-29ac-4e54-a12e-ec9ad8e0d200" num="232" muid="341-232" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_232_9XQ8F9638GX2_pt.png">cota</set>
             <prop>
@@ -5829,6 +6001,7 @@ de Omm. Destrua um artefato.</text>
         <card>
             <name>Feromônios de Combate</name>
             <text>Onisciente: Sacrifique os Feromônios de Combate. Você pode usar até 2 outras cartas de Marte neste turno.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Uncommon" uuid="ceecd78b-f0bb-4de9-a3c6-dff6686be13d" num="180" muid="341-180" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_180_HQXG9V9X249X_pt.png">cota</set>
             <prop>
@@ -5906,6 +6079,7 @@ sem dano. Ganhe 3 correntes.</text>
         <card>
             <name>Mestre de 1</name>
             <text>Coleta: Você pode destruir uma criatura com 1 de poder.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="d46aafdf-13dd-45b0-be2e-d8e49be01d69" num="089" muid="341-089" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_089_RF2PX33PJW8W_pt.png">cota</set>
             <prop>
@@ -5925,6 +6099,7 @@ sem dano. Ganhe 3 correntes.</text>
         <card>
             <name>Chefe Capataz</name>
             <text>Jogar: Você pode preparar e lutar com uma criatura vizinha.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="d4f666db-302f-43d0-b0af-bd03071f92ce" num="033" muid="341-033" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_033_FGH2M9G9W45J_pt.png">cota</set>
             <prop>
@@ -5944,6 +6119,7 @@ sem dano. Ganhe 3 correntes.</text>
         <card>
             <name>Bruxa das Matas</name>
             <text>A cada turno em que os Indomados não forem a sua casa ativa, você pode jogar uma carta dos Indomados.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="d5aabe84-2155-4e26-96bc-67e1cbaa1b9d" num="347" muid="341-347" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_347_44X322787G78_pt.png">cota</set>
             <prop>
@@ -5963,6 +6139,7 @@ sem dano. Ganhe 3 correntes.</text>
         <card>
             <name>Arquivista de Ganímedes</name>
             <text>Coleta: Arquive uma carta.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="d6aae364-d547-49ec-83dd-be3ffbcb80c6" num="142" muid="341-142" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_142_9RC9J993WM9F_pt.png">cota</set>
             <prop>
@@ -5982,6 +6159,7 @@ sem dano. Ganhe 3 correntes.</text>
         <card>
             <name>Comandante Remiel</name>
             <text>Coleta: Use uma criatura amiga que não seja do Santuário.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="d71c36b7-c4be-427a-8038-2033ba9bf07e" num="241" muid="341-241" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_241_C472V3C68C9_pt.png">cota</set>
             <prop>
@@ -6001,6 +6179,7 @@ sem dano. Ganhe 3 correntes.</text>
         <card>
             <name>Hebe, o Descomunal</name>
             <text>Jogar: Cause 2D a todas as outras criaturas sem dano.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="d792387f-8392-49b3-ad7c-ccaf7552256f" num="036" muid="341-036" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_036_73MRHJRCWXP4_pt.png">cota</set>
             <prop>
@@ -6040,6 +6219,7 @@ sem dano. Ganhe 3 correntes.</text>
             <name>Nexus</name>
             <text>Elusivo. (A cada turno, na primeira vez em que esta criatura for atacada, nenhum dano é sofrido.)
 Coleta: Use um artefato do oponente como se fosse seu.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="d988a134-ff29-40f7-bac7-3fd49fe525f8" num="305" muid="341-305" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_305_7QJVVWFQJPHJ_pt.png">cota</set>
             <prop>
@@ -6059,6 +6239,7 @@ Coleta: Use um artefato do oponente como se fosse seu.</text>
         <card>
             <name>Símio Inane</name>
             <text>Quando o Símio Inane estiver atacando, ignore provocar e elusivo.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="dc0ba4ea-6f6e-475f-899c-88ad45ccae94" num="363" muid="341-363" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_363_3RCHH4F7H4XF_pt.png">cota</set>
             <prop>
@@ -6078,6 +6259,7 @@ Coleta: Use um artefato do oponente como se fosse seu.</text>
         <card>
             <name>Caixa de Spangler</name>
             <text>Ação: Expurgue uma criatura em jogo. Se o fizer, o seu oponente ganha o controle da Caixa de Spangler. Se a Caixa de Spangler sair de jogo, coloque de volta em jogo todas as cartas expurgadas pela Caixa de Spangler.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Rare" uuid="dc18cfc1-9dd9-440d-93be-50c2c114b3c8" num="132" muid="341-132" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_132_XQ93M42M9FR5_pt.png">cota</set>
             <prop>
@@ -6096,6 +6278,7 @@ Coleta: Use um artefato do oponente como se fosse seu.</text>
         <card>
             <name>Urso Ancestral</name>
             <text>Emboscada 2. (Antes que esta criatura ataque, cause 2D ao inimigo atacado.)</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="dc6344a9-0486-4926-a820-d99eb2151c7f" num="345" muid="341-345" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_345_V9F9WCXJ5VHR_pt.png">cota</set>
             <prop>
@@ -6116,6 +6299,7 @@ Coleta: Use um artefato do oponente como se fosse seu.</text>
             <name>Fungaré</name>
             <text>Combate. (Quando usar esta criatura para lutar, ela não sofre dano da 
 criatura oponente.)</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="ddd62eb0-4699-4fb0-9b63-43769186b509" num="358" muid="341-358" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_358_C2FM8V788JM5_pt.png">cota</set>
             <prop>
@@ -6136,6 +6320,7 @@ criatura oponente.)</text>
             <name>Faygin</name>
             <text>Elusivo. (A cada turno, na primeira vez em que esta criatura for atacada, nenhum dano é sofrido.)
 Coleta: Devolva à sua mão um Larápio em jogo ou da sua pilha de descartes.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="dddb201b-03d0-4fa9-b627-c69f51994c13" num="300" muid="341-300" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_300_X7RWJQRG2MRV_pt.png">cota</set>
             <prop>
@@ -6156,6 +6341,7 @@ Coleta: Devolva à sua mão um Larápio em jogo ou da sua pilha de descartes.</t
             <name>Olho-da-Bala</name>
             <text>Elusivo. (A cada turno, na primeira vez em que esta criatura for atacada, nenhum dano é sofrido.)
 Coleta: Destrua uma criatura no flanco.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="de5902d1-7462-497c-aa45-400f938772ef" num="297" muid="341-297" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_297_G45G2JGWP362_pt.png">cota</set>
             <prop>
@@ -6175,6 +6361,7 @@ Coleta: Destrua uma criatura no flanco.</text>
         <card>
             <name>Câmara de Incubação</name>
             <text>Onisciente: Revele uma criatura de Marte da sua mão. Se o fizer, arquive-a.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Rare" uuid="de9869e5-5750-4ce3-bec5-40f250a05a59" num="186" muid="341-186" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_186_PRG4HJPG6GX8_pt.png">cota</set>
             <prop>
@@ -6212,6 +6399,7 @@ Roube 1A.”</text>
         <card>
             <name>Portal do Caos</name>
             <text>Ação: Escolha uma casa. Revele a carta do topo do seu baralho. Se ela for da casa escolhida, jogue-a.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Rare" uuid="df6e4b5b-9f0a-4bd5-808a-6ccd46d973c4" num="127" muid="341-127" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_127_R2424CG64G8M_pt.png">cota</set>
             <prop>
@@ -6230,6 +6418,7 @@ Roube 1A.”</text>
         <card>
             <name>Deestruuiir</name>
             <text>Jogar: Atordoe uma criatura.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="e1312fbf-c297-4d9f-b403-2d892271de62" num="046" muid="341-046" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_046_MXF2PV92XQPW_pt.png">cota</set>
             <prop>
@@ -6249,6 +6438,7 @@ Roube 1A.”</text>
         <card>
             <name>Sequis</name>
             <text>Coleta: Capture 1A.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="e40df662-6506-4a35-816d-efe29a0e4a6f" num="257" muid="341-257" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_257_WC74XH7M2MJW_pt.png">cota</set>
             <prop>
@@ -6269,6 +6459,7 @@ Roube 1A.”</text>
             <name>Preguiça Gigante</name>
             <text>Você não pode usar esta carta a menos que tenha descartado de sua mão uma carta dos Indomados neste turno.
 Ação: Ganhe 3A.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="e52d5652-7365-4644-8b7f-e929035ca2c5" num="354" muid="341-354" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_354_9QP6FJMQC6W8_pt.png">cota</set>
             <prop>
@@ -6288,6 +6479,7 @@ Ação: Ganhe 3A.</text>
         <card>
             <name>Farejador</name>
             <text>Ação: Pelo restante do turno, todas as criaturas perdem elusivo.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Rare" uuid="e5746977-89c3-4300-8125-c8fd776a020f" num="188" muid="341-188" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_188_JXXCR37F52MR_pt.png">cota</set>
             <prop>
@@ -6308,6 +6500,7 @@ Ação: Ganhe 3A.</text>
             <name>Fosso de Alimentação</name>
             <text>Ação: Descarte uma criatura da sua mão. 
 Se o fizer, ganhe 1A.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Rare" uuid="e59dcfe3-ffff-4d57-a0dc-c958d726dab8" num="184" muid="341-184" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_184_8MM9F8HJV6HG_pt.png">cota</set>
             <prop>
@@ -6326,6 +6519,7 @@ Se o fizer, ganhe 1A.</text>
         <card>
             <name>Gabos Braçolongo</name>
             <text>Antes da Luta: Escolha uma criatura. Gabos Braçolongo causa dano a essa criatura e não àquela com que está lutando.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="e5a1f190-6964-4b2e-bcb3-696d3f6f2713" num="086" muid="341-086" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_086_33RP646XMQ93_pt.png">cota</set>
             <prop>
@@ -6345,6 +6539,7 @@ Se o fizer, ganhe 1A.</text>
         <card>
             <name>Gruen Difuso</name>
             <text>Jogar: O seu oponente ganha 1A.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="e8276e78-a5f3-42c0-b030-a08e25137dc0" num="353" muid="341-353" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_353_5P9MP78G2R8Q_pt.png">cota</set>
             <prop>
@@ -6405,6 +6600,7 @@ Cada criatura não pode capturar mais do que 1A desta forma.</text>
         <card>
             <name>Ulyq Megaboca</name>
             <text>Luta/Coleta: Use uma criatura amiga que não seja de Marte.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="eaae7cd5-62bd-4438-aedb-8309974535df" num="200" muid="341-200" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_200_CM3V8FW8C2PG_pt.png">cota</set>
             <prop>
@@ -6424,6 +6620,7 @@ Cada criatura não pode capturar mais do que 1A desta forma.</text>
         <card>
             <name>Sinal da Velocidade</name>
             <text>A primeira criatura jogada em cada turno entra em jogo preparada.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Uncommon" uuid="eb91efae-9fbe-46e2-a6f4-f93d290703a9" num="293" muid="341-293" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_293_6Q53JFFFWX8F_pt.png">cota</set>
             <prop>
@@ -6443,6 +6640,7 @@ Cada criatura não pode capturar mais do que 1A desta forma.</text>
         <card>
             <name>Lorde Golgotha</name>
             <text>Antes da Luta: Cause 3D a cada vizinho da criatura que luta contra o Lorde Golgotha.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="eec2bfbf-d019-4a7f-a0fa-2b8c8f16cd8d" num="252" muid="341-252" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_252_VXMWR7MR5CW9_pt.png">cota</set>
             <prop>
@@ -6485,6 +6683,7 @@ Em seguida, lute com essas criaturas, uma por vez.</text>
 da Irmandade. Pelo restante do 
 turno, você pode usar criaturas 
 do Santuário amigas.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Uncommon" uuid="ef8b73a1-7655-4ab9-8da2-16db83836135" num="236" muid="341-236" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_236_VWG6GMX929C6_pt.png">cota</set>
             <prop>
@@ -6544,6 +6743,7 @@ do Santuário amigas.</text>
             <text>Elusivo. (A cada turno, na primeira vez em que esta criatura for atacada, nenhum dano é sofrido.)
 Onisciente: Escolha uma criatura amiga. 
 Você pode usá-la neste turno.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="f099e2ec-681b-4b47-878b-c091da3708d1" num="299" muid="341-299" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_299_M3P2FVHP7MC_pt.png">cota</set>
             <prop>
@@ -6564,6 +6764,7 @@ Você pode usá-la neste turno.</text>
             <name>Fada do Orvalho</name>
             <text>Elusivo. (A cada turno, na primeira vez em que esta criatura for atacada, nenhum dano é sofrido.)
 Coleta: Ganhe 1A.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="f0c4cb0f-8e5f-454c-a6ad-35f35ac3c98a" num="350" muid="341-350" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_350_6X8HWG4MJPCC_pt.png">cota</set>
             <prop>
@@ -6602,6 +6803,7 @@ Coleta: Ganhe 1A.</text>
         <card>
             <name>Caverna Gritante</name>
             <text>Ação: Embaralhe sua mão e sua pilha de descartes de volta no seu baralho.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Rare" uuid="f26caba2-7ab6-477c-8a53-45e5fb666a90" num="079" muid="341-079" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_079_WQCG263H8RWW_pt.png">cota</set>
             <prop>
@@ -6620,6 +6822,7 @@ Coleta: Ganhe 1A.</text>
         <card>
             <name>Ogro Mau</name>
             <text>No fim do seu turno, se você jogou exatamente uma carta no turno, o Ogro Mau cura 2 danos e captura 1A.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="f2c71c05-7a23-4465-8a89-82ab8e258a68" num="045" muid="341-045" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_045_HWPQ963W848R_pt.png">cota</set>
             <prop>
@@ -6678,6 +6881,7 @@ Embaralhe sua pilha de descartes de volta no seu baralho.</text>
         <card>
             <name>Flauta de Urso</name>
             <text>Ação: Cure completamente um Urso Ancestral. Se não houver Ursos Ancestrais em jogo, procure no seu baralho e pilha de descartes por todos os Ursos Ancestrais e coloque-os na sua mão. Se o fizer, embaralhe sua pilha de descartes com o seu baralho.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Rare" uuid="f4cc23bb-4e17-46e9-97ef-3d984b9a79fc" num="340" muid="341-340" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_340_94548CJ4JMP9_pt.png">cota</set>
             <prop>
@@ -6696,6 +6900,7 @@ Embaralhe sua pilha de descartes de volta no seu baralho.</text>
         <card>
             <name>Explorador de Anomalias</name>
             <text>Ação: Destrua uma criatura com dano.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Uncommon" uuid="f5019c91-eea0-4883-9946-297bbf1c6822" num="126" muid="341-126" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_126_F66C7VF2HR8Q_pt.png">cota</set>
             <prop>
@@ -6754,6 +6959,7 @@ cada criatura que você jogar ganha:
         <card>
             <name>Chota Hazri</name>
             <text>Jogar: Perca 1A. Se o fizer, você pode forjar uma chave pelo custo atual.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="f5ec01ee-17d0-49fe-8d42-92fffcbe9a27" num="349" muid="341-349" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_349_CGCR6RQRM629_pt.png">cota</set>
             <prop>
@@ -6774,6 +6980,7 @@ cada criatura que você jogar ganha:
             <name>Yxili Saqueador</name>
             <text>Yxili Saqueador tem +1 de poder para cada A nele.
 Jogar: Capture 1A para cada criatura de Marte preparada e amiga.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="f6202f7a-e204-482c-91d6-e8d1f5117d28" num="203" muid="341-203" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_203_8JJ739HGPCPC_pt.png">cota</set>
             <prop>
@@ -6793,6 +7000,7 @@ Jogar: Capture 1A para cada criatura de Marte preparada e amiga.</text>
         <card>
             <name>Briar Escavador</name>
             <text>Perigo 5. (Antes que esta criatura seja atacada, cause 5D ao inimigo atacante.)</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="f65fea34-6c03-4d02-8434-02192dba72be" num="348" muid="341-348" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_348_X9R7J6J64H38_pt.png">cota</set>
             <prop>
@@ -6927,6 +7135,7 @@ a essa criatura para cada criatura de Marte em jogo.”</text>
         <card>
             <name>Chá da Invulnerabilidade</name>
             <text>Onisciente: Sacrifique o Chá da Invulnerabilidade. Pelo restante do turno, as criaturas amigas não podem sofrer dano.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Uncommon" uuid="f8f69f7c-ff0d-4ddb-b58a-41563b0c9a1c" num="234" muid="341-234" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_234_RJ99C8H7PWJH_pt.png">cota</set>
             <prop>
@@ -6964,6 +7173,7 @@ a essa criatura para cada criatura de Marte em jogo.”</text>
         <card>
             <name>Diabinho do Pó</name>
             <text>Destruído: Ganhe 2A.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="f97316b0-75a4-45a4-8735-15e72cc1568c" num="083" muid="341-083" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_083_9V7X379WFV8V_pt.png">cota</set>
             <prop>
@@ -6983,6 +7193,7 @@ a essa criatura para cada criatura de Marte em jogo.”</text>
         <card>
             <name>Quebrador</name>
             <text>Jogar: O seu oponente perde 1A.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="fc3d397a-3a51-4963-940c-6b43221b7667" num="030" muid="341-030" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_030_X82H79CQ6XH6_pt.png">cota</set>
             <prop>
@@ -7003,6 +7214,7 @@ a essa criatura para cada criatura de Marte em jogo.”</text>
             <name>Alfândega</name>
             <text>O seu oponente tem de pagar 1A 
 a você para jogar um artefato.</text>
+            <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Rare" uuid="fdf76fb4-708d-4950-bc31-c91bb25aeb40" num="285" muid="341-285" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_285_C7MWV8WQ4QPG_pt.png">cota</set>
             <prop>
@@ -7021,6 +7233,7 @@ a você para jogar um artefato.</text>
         <card>
             <name>Cambaleio</name>
             <text>No fim do seu turno, o seu oponente perde 1A.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="ff0d19c4-55e6-494e-b705-8b0c6b196468" num="095" muid="341-095" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_095_563MPX64P3XC_pt.png">cota</set>
             <prop>
@@ -7040,6 +7253,7 @@ a você para jogar um artefato.</text>
         <card>
             <name>Zyzzix, os Muitos</name>
             <text>Luta/Coleta: Você pode revelar uma criatura da sua mão. Se o fizer, arquive-a, e Zyzzix, os Muitos, ganha três contadores de +1 de poder.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="ff104cf4-f99d-4021-a570-dd949e559e97" num="207" muid="341-207" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_207_C938GRH2C993_pt.png">cota</set>
             <prop>
@@ -7061,6 +7275,7 @@ a você para jogar um artefato.</text>
             <text>Elusivo. (A cada turno, na primeira vez em que esta criatura for atacada, nenhum dano é sofrido.)
 Jogar: Roube 2A.
 Ao Sair de Jogo: O seu oponente rouba 2A.</text>
+            <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="ff290bf3-dd57-48b3-add3-c6baf605967c" num="303" muid="341-303" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_303_JJPCRGJ7CFPW_pt.png">cota</set>
             <prop>
