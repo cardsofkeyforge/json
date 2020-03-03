@@ -18,8 +18,28 @@ A very simple tool made in `javascript` to batch creation of json files for **Ke
 
 ## Usage
 
-To create the json files for all the cards present on the decks informed, run the following command:
+So far there are 3 distinct commands. See more below.
+
+### Creating the Jsons
+
+To create the JSON files for all the cards present on the decks informed, run the following command:
 
 ```bash
 $ npm run createJsons
+```
+
+### Creating the Xmls for Cockatrice
+
+To create the XML files for all the sets with the Jsons already created, run the following command:
+
+```bash
+$ npm run createXmls
+```
+
+### Importing Decks for Cockatrice
+
+To create the COD files for all the decks informed, run the following command:
+
+```bash
+$ npm run importDecks
 ```

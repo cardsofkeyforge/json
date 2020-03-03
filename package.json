@@ -3,7 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "createJsons": "node ./createCards"
+    "createJsons": "node ./createCards",
+    "createXmls": "node ./createSets",
+    "importDecks": "node ./createDecks"
   },
   "dependencies": {
     "http-errors": "~1.6.2",
