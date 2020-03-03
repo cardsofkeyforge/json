@@ -1,9 +1,9 @@
 const request = require("request");
 
-const retrieveDeck = function(deck, lang) {
+const retrieveDeck = function(deck, lang, links) {
     const options = {
         'method': 'GET',
-        'url': 'https://www.keyforgegame.com/api/decks/' + deck + '?links=cards',
+        'url': 'https://www.keyforgegame.com/api/decks/' + deck + (links ? '?links=cards' : ''),
         'headers': {
             'Accept-Language': lang
         }
