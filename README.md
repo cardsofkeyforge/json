@@ -18,7 +18,7 @@ A very simple tool made in `javascript` to batch creation of json files for **Ke
 
 ## Usage
 
-So far there are 3 distinct commands. See more below.
+So far there are 4 distinct commands. See more below.
 
 ### Creating the Jsons
 
