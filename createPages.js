@@ -1,35 +1,11 @@
 const fs = require("fs");
 
 const configs = require('./config');
+const messages = require('./messages');
 
-const houses = {
-    'Brobnar': {name: 'Brobnar', image: 'https://archonarcana.com/images/thumb/e/e0/Brobnar.png/22px-Brobnar.png'},
-    'Dis': {name: 'Dis', image: 'https://archonarcana.com/images/thumb/e/e8/Dis.png/22px-Dis.png'},
-    'Logos': {name: 'Logos', image: 'https://archonarcana.com/images/thumb/c/ce/Logos.png/22px-Logos.png'},
-    'Mars': {name: 'Marte', image: 'https://archonarcana.com/images/thumb/d/de/Mars.png/22px-Mars.png'},
-    'Sanctum': {name: 'Santuário', image: 'https://archonarcana.com/images/thumb/c/c7/Sanctum.png/22px-Sanctum.png'},
-    'Saurian': {name: 'Sauro', image: 'https://archonarcana.com/images/thumb/9/9e/Saurian_P.png/22px-Saurian_P.png'},
-    'Shadows': {name: 'Sombras', image: 'https://archonarcana.com/images/thumb/e/ee/Shadows.png/22px-Shadows.png'},
-    'Star Alliance': {
-        name: 'Aliança Estelar',
-        image: 'https://archonarcana.com/images/thumb/7/7d/Star_Alliance.png/22px-Star_Alliance.png'
-    },
-    'Untamed': {name: 'Indomados', image: 'https://archonarcana.com/images/thumb/b/bd/Untamed.png/22px-Untamed.png'}
-};
-
-const types = {
-    'Creature': 'Criatura',
-    'Action': 'Ação',
-    'Upgrade': 'Melhoria',
-    'Artifact': 'Artefato'
-};
-
-const rarities = {
-    'Common': 'Comum',
-    'Uncommon': 'Incomum',
-    'Rare': 'Rara',
-    'FIXED': 'Especial'
-};
+const houses = messages[configs.lang].houses;
+const types = messages[configs.lang].types;
+const rarities = messages[configs.lang].rarities;
 
 function createPage(card, expansion) {
     const cardPage = './pages/' + expansion.lang + '/' + expansion.name + '/' + card.card_number + '.md';
@@ -61,6 +37,6 @@ configs.expansion.forEach(expansion => {
         let card = JSON.parse(fs.readFileSync(cardsFolder + file));
         set.push(card);
     });
-    set.sort((c1, c2) => new String(c1.card_number).localeCompare(c2.card_number))
+    set.sort((c1, c2) => String(c1.card_number).localeCompare(c2.card_number))
             .forEach(card => createPage(card, expansion));
 });

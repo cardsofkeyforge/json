@@ -5,7 +5,8 @@
   "scripts": {
     "createJsons": "node ./createCards",
     "createXmls": "node ./createSets",
-    "importDecks": "node ./createDecks"
+    "importDecks": "node ./createDecks",
+    "generatePages": "node ./createPages"
   },
   "dependencies": {
     "http-errors": "~1.6.2",

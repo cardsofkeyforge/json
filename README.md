@@ -43,3 +43,11 @@ To create the COD files for all the decks informed, run the following command:
 ```bash
 $ npm run importDecks
 ```
+
+### Generating GitHub Pages for Cards
+
+To generate the GitHub Pages for all the sets with the Jsons already created, run the following command:
+
+```bash
+$ npm run generatePages
+```
