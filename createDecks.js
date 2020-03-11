@@ -1,9 +1,9 @@
-const fs = require("fs");
-const ejs = require("ejs");
+const fs = require('fs');
+const ejs = require('ejs');
 
 const configs = require('./config');
-const json = require("./decks");
-const deckApi = require("./deck");
+const json = require('./decks');
+const deckApi = require('./deck');
 
 function sleep(millis) {
     return new Promise(resolve => setTimeout(resolve, millis));
@@ -12,10 +12,10 @@ function sleep(millis) {
 function extractCards(id, name, cards, expansion) {
     const jsons = './json/' + expansion.lang + '/' + expansion.name + '/';
     const deck = './decks/' + expansion.lang + '/' + expansion.name + '/' + name + '.cod';
-    console.log("Creating " + deck + "...");
+    console.log('Creating ' + deck + '...');
 
     let n = 0;
-    let c = "";
+    let c = '';
     const xmlCards = [];
     cards.forEach(cardId => {
         const card = JSON.parse(fs.readFileSync(jsons + cardId + '.json'));
@@ -54,5 +54,5 @@ async function processingDecks() {
 }
 
 // noinspection JSUnresolvedVariable
-console.log("Setup to processing " + json.length + " decks...");
-processingDecks().then(() => console.log("Done!"));
+console.log('Setup to processing ' + json.length + ' decks...');
+processingDecks().then(() => console.log('Done!'));

@@ -1,8 +1,8 @@
-const fs = require("fs");
+const fs = require('fs');
 
 const configs = require('./config');
-const json = require("./decks");
-const deckApi = require("./deck");
+const json = require('./decks');
+const deckApi = require('./deck');
 
 function sleep(millis) {
     return new Promise(resolve => setTimeout(resolve, millis));
@@ -16,7 +16,7 @@ function extractCards(cards, expansion) {
                 console.log(card.id);
                 if (!fs.existsSync(prefix + card.id + '.json')) {
                     fs.writeFileSync(prefix + card.id + '.json', JSON.stringify(card));
-                    console.log(card.id + ".json created");
+                    console.log(card.id + '.json created');
                 }
             });
 }
@@ -38,5 +38,5 @@ async function processingDecks() {
 }
 
 // noinspection JSUnresolvedVariable
-console.log("Setup to processing " + json.length + " decks...");
-processingDecks().then(() => console.log("Done!"));
+console.log('Setup to processing ' + json.length + ' decks...');
+processingDecks().then(() => console.log('Done!'));
