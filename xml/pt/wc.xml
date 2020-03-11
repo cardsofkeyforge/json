@@ -4552,7 +4552,7 @@
                 <maintype>Creature</maintype>
                 <colors>Logos</colors>
                 <coloridentity>Logos</coloridentity>
-                <pt>null/0</pt>
+                <pt>0/0</pt>
                 <format-standard>ilegal</format-standard>
                 <format-commander>ilegal</format-commander>
                 <format-modern>ilegal</format-modern>

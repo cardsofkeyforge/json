@@ -11,7 +11,8 @@
     <cards>
         <card>
             <name>Orbe da Maravilha</name>
-            <text>Omni: Sacrifique o Orbe da Maravilha. Se o fizer, procure no seu baralho por uma carta e coloque-a na sua mão. Em seguida, embaralhe o seu baralho.</text>
+            <text>Omni: Sacrifique o Orbe da Maravilha.
+Se o fizer, procure no seu baralho por uma carta e coloque-a na sua mão. Em seguida, embaralhe o seu baralho.</text>
             <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="FIXED" uuid="12a5249e-db34-48a6-b905-8e972a4ba357" num="A06" muid="453-A06" picurl="https://cdn.keyforgegame.com/media/card_front/pt/453_A06_MHX5X4X47GG6_pt.png">anomaly</set>
@@ -44,7 +45,8 @@
         </card>
         <card>
             <name>Forma Fantasmagórica</name>
-            <text>Esta criatura ganha invulnerável. (Ela não pode ser destruída ou sofrer dano.)Esta criatura ganha: “Luta/Coleta: Arquive Forma Fantasmagórica.”</text>
+            <text>Esta criatura ganha invulnerável. (Ela não pode ser destruída ou sofrer dano.)
+Esta criatura ganha: “Luta/Coleta: Arquive Forma Fantasmagórica.”</text>
             <tablerow>1</tablerow>
             <set rarity="FIXED" uuid="38208381-892e-41fa-81dd-fac019fae965" num="A01" muid="453-A01" picurl="https://cdn.keyforgegame.com/media/card_front/pt/453_A01_P4PRV3X4WJ6M_pt.png">anomaly</set>
             <prop>
@@ -78,7 +80,9 @@
         </card>
         <card>
             <name>Inforáculo</name>
-            <text>Elusivo.Jogar: Transfira uma carta de ação da sua mão para o Inforáculo. (Coloque-a voltada para cima sob esta carta.)Coleta: Ative o efeito jogar de uma carta de ação transferida para o Inforáculo.</text>
+            <text>Elusivo.
+Jogar: Transfira uma carta de ação da sua mão para o Inforáculo. (Coloque-a voltada para cima sob esta carta.)
+Coleta: Ative o efeito jogar de uma carta de ação transferida para o Inforáculo.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="FIXED" uuid="4b96d1d9-f78b-4521-96d7-aa2ce8a4e32c" num="A02" muid="453-A02" picurl="https://cdn.keyforgegame.com/media/card_front/pt/453_A02_C3786V7C8WF6_pt.png">anomaly</set>
@@ -96,7 +100,10 @@
         </card>
         <card>
             <name>Ceifador</name>
-            <text>Se você estiver assombrado, Ceifador entra em jogo preparado. (Você fica assombrado se houver 10 ou mais cartas em sua pilha de descarte.)Coleta: Expurgue uma criatura inimiga e uma criatura amiga.</text>
+            <text>Se você estiver assombrado, Ceifador entra em jogo preparado. (Você fica assombrado
+se houver 10 ou mais cartas em sua pilha
+de descarte.)
+Coleta: Expurgue uma criatura inimiga e uma criatura amiga.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="FIXED" uuid="62427579-c56b-4665-b1a1-85c04e16ba6e" num="A07" muid="453-A07" picurl="https://cdn.keyforgegame.com/media/card_front/pt/453_A07_7CPMJ6WMGP9J_pt.png">anomaly</set>
@@ -114,7 +121,8 @@
         </card>
         <card>
             <name>Nizak, o Esquecido</name>
-            <text>Enquanto luta, Nizak, o Esquecido, ganha invulnerável. (Ele não pode ser destruído ou sofrer dano.)Após uma criatura inimiga ser destruída ao lutar contra Nizak, o Esquecido, devolva a criatura destruída para a mão de seu dono.</text>
+            <text>Enquanto luta, Nizak, o Esquecido, ganha invulnerável. (Ele não pode ser destruído ou sofrer dano.)
+Após uma criatura inimiga ser destruída ao lutar contra Nizak, o Esquecido, devolva a criatura destruída para a mão de seu dono.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="FIXED" uuid="7c0e4eb6-c327-42d6-af80-ffae70249cf3" num="A05" muid="453-A05" picurl="https://cdn.keyforgegame.com/media/card_front/pt/453_A05_W4V8F943V985_pt.png">anomaly</set>
@@ -149,7 +157,8 @@
         </card>
         <card>
             <name>Valocanto</name>
-            <text>Enquanto a maré estiver baixa, Valocanto não pode ser usado. (Por padrão, a maré não está nem alta nem baixa.)Luta/Coleta: Exauste uma criatura inimiga e cada um dos vizinhos dela.</text>
+            <text>Enquanto a maré estiver baixa, Valocanto não pode ser usado. (Por padrão, a maré não está nem alta nem baixa.)
+Luta/Coleta: Exauste uma criatura inimiga e cada um dos vizinhos dela.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="FIXED" uuid="db92ddff-223c-4f1c-9d30-61d49ec1103c" num="A10" muid="453-A10" picurl="https://cdn.keyforgegame.com/media/card_front/pt/453_A10_HQJFQP6894H_pt.png">anomaly</set>
@@ -167,7 +176,8 @@
         </card>
         <card>
             <name>Barão Vermelho</name>
-            <text>Enquanto sua chave vermelha estiver forjada, Barão Vermelho ganha “Coleta: Roube 1A.” Enquanto a chave vermelha de seu oponente estiver forjada, Barão Vermelho ganha elusivo.</text>
+            <text>Enquanto sua chave vermelha estiver forjada, Barão Vermelho ganha “Coleta: Roube 1A.”
+Enquanto a chave vermelha de seu oponente estiver forjada, Barão Vermelho ganha elusivo.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="FIXED" uuid="e8e6be73-74a6-469a-a536-3ccb376d005f" num="A08" muid="453-A08" picurl="https://cdn.keyforgegame.com/media/card_front/pt/453_A08_JMH4JXJMC9FH_pt.png">anomaly</set>
