@@ -1,4 +1,5 @@
 const fs = require("fs");
+const ejs = require("ejs");
 
 const configs = require('./config');
 const json = require("./decks");
@@ -12,20 +13,28 @@ function extractCards(id, name, cards, expansion) {
     const jsons = './json/' + expansion.lang + '/' + expansion.name + '/';
     const deck = './decks/' + expansion.lang + '/' + expansion.name + '/' + name + '.cod';
     console.log("Creating " + deck + "...");
-    fs.writeFileSync(deck, '<?xml version="1.0" encoding="UTF-8"?>\n<cockatrice_deck version="1">\n    <deckname>' + name + '</deckname>\n    <comments>' + id + '</comments>\n    <zone name="main">\n', {flag: 'w'});
+
     let n = 0;
     let c = "";
+    const xmlCards = [];
     cards.forEach(cardId => {
         const card = JSON.parse(fs.readFileSync(jsons + cardId + '.json'));
         if (c !== card.card_title && n > 0) {
-            fs.writeFileSync(deck, '        <card number="' + n + '" name="' + c + '"/>\n', {flag: 'a'});
+            xmlCards.push({number: n, name: c});
             n = 0;
         }
         c = card.card_title;
         n++;
     });
-    fs.writeFileSync(deck, '        <card number="' + n + '" name="' + c + '"/>\n', {flag: 'a'});
-    fs.writeFileSync(deck, '    </zone>\n</cockatrice_deck>', {flag: 'a'});
+    xmlCards.push({number: n, name: c});
+
+    ejs.renderFile('./decks/deck.ejs', {
+        id: id,
+        name: name,
+        cards: xmlCards
+    }, {filename: deck}, function(err, str) {
+        if (!err) fs.writeFileSync(deck, str, {flag: 'w'});
+    });
 }
 
 async function processingDecks() {
