@@ -1,0 +1,28 @@
+---
+title: <%- expansion.longname %>
+subtitle: <%- expansion.releaseDate %>
+layout: page
+show_sidebar: false
+hero_image: <%- expansion.image %>
+---
+
+![<%- card.card_number %>](<%- card.front_image %>)
+
+## <%- card.card_title %>
+
+|----|----|
+| ID | <%- card.id %> |
+| Número | <%- card.card_number %> |<%if (!card.is_anomaly) {%>
+| Casa | ![<%- card.house %>](<%- house.image %> "<%- house.name %>") |<%}%>
+| Tipo | <%- type %> |<%if (card.traits){%>
+| Atributos | <%- card.traits %> |<%}%><%if (card.amber){%>
+| Bônus | <%- card.amber %>A |<%}%><%if (card.card_type === 'Creature'){%>
+| Poder | <%- card.power ? card.power : '0' %> |
+| Armadura | <%- card.armor ? card.armor : '0' %> |<%}%><%if (card.card_text){%>
+| Texto | <%- text %> |<%}%>
+| Raridade | <%- rarity %> |<%if (card.flavor_text){%>
+| Dizeres | <%- flavor %> |<%}%><%if (card.errata){%>
+
+### Errata
+
+<%- card.errata %><%}%>
