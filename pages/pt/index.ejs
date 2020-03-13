@@ -1,0 +1,13 @@
+---
+title: <%- expansion.longname %>
+subtitle: <%- expansion.releaseDate %>
+layout: page
+show_sidebar: false
+hero_image: <%- expansion.image %>
+---
+
+## Listagem das Cartas
+
+| Número | Nome |
+|----|----|<%cards.forEach(card => {%>
+| [<%- card.card_number %>](/<%- expansion.name %>/<%- card.card_number %>) | <%- card.card_title %> |<%})%>

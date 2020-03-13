@@ -49,6 +49,23 @@ function createPage(card, expansion) {
   );
 }
 
+function createIndex(cards, expansion) {
+  const indexPage =
+    "./pages/" + expansion.lang + "/" + expansion.name + "/cards.md";
+
+  ejs.renderFile(
+    "./pages/" + expansion.lang + "/index.ejs",
+    {
+      expansion: expansion,
+      cards: cards
+    },
+    { filename: indexPage },
+    function(err, str) {
+      if (!err) fs.writeFileSync(indexPage, str, { flag: "w" });
+    }
+  );
+}
+
 configs.expansion.forEach(expansion => {
   console.log("Loading cards from " + expansion.longname + "...");
   const cardsFolder = "./json/" + expansion.lang + "/" + expansion.name + "/";
@@ -59,7 +76,7 @@ configs.expansion.forEach(expansion => {
     let card = JSON.parse(fs.readFileSync(cardsFolder + file).toString());
     set.push(card);
   });
-  set
-    .sort((c1, c2) => String(c1.card_number).localeCompare(c2.card_number))
-    .forEach(card => createPage(card, expansion));
+  set.sort((c1, c2) => String(c1.card_number).localeCompare(c2.card_number));
+  createIndex(set, expansion);
+  set.forEach(card => createPage(card, expansion));
 });
