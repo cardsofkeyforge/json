@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Meu oponente tem 14 Æmbar na reserva dele e eu tenho 0 na\nminha. No início do meu turno eu seleciono Sombras como a casa\nativa e jogo o card Isca e Armadilha (CDA 267). Quantas vezes a Isca\ne Armadilha é desencadeada?",
+    "text": "Nesta situação, o efeito de Isca e Armadilha será desencadeado 2 vezes.\nQuando o efeito é desencadeado pela primeira vez, ele verifica se\nseu oponente tem mais Æmbar que você, e se ele tiver, ele repetirá o\nprimeiro efeito novamente, roubando outro Æmbar. Entretanto, já que o\ncard diz para repetir o efeito acima e não todo o efeito, ele só pode ser\ndesencadeado duas vezes.",
+    "source": {
+      "type": "rulebook",
+      "version": "1.5.04",
+      "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
+    },
+    "cards": ["0186f94c-68df-4d5c-9338-9e918affe313"]
+  },
+  {
+    "title": "É o primeiro turno do duelo e eu jogo primeiro. Eu escolho a casa\nLogos para ser a casa ativa e jogo o card Mudança Fásica (CDA 117).\nIsso permite que eu jogue outro card neste turno mesmo que a\nRegra do Primeiro Turno (consulte a página 5) esteja em efeito?",
+    "text": "Ao jogar o card Mudança Fásica você pode jogar outro card da mão\nneste turno, pois a Regra do Primeiro Turno pode ser modificada por\nefeitos de card.",
+    "source": {
+      "type": "rulebook",
+      "version": "1.5.04",
+      "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
+    },
+    "cards": ["2cb1f58c-5979-4d3a-ae86-9dadc6000288"]
+  }
+]
