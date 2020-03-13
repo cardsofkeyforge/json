@@ -4,6 +4,8 @@ const ejs = require("ejs");
 const configs = require("./config");
 const messages = require("./messages");
 
+const rulings = require("./json/pt/rulings");
+
 const houses = messages[configs.lang].houses;
 const types = messages[configs.lang].types;
 const rarities = messages[configs.lang].rarities;
@@ -37,7 +39,8 @@ function createPage(card, expansion) {
             .replace(/_x000D_/g, " ")
             .replace(/\n/g, " ")
             .replace(/\r/g, " ")
-        : null
+        : null,
+      faqs: rulings.filter(rule => rule.cards.includes(card.id))
     },
     { filename: cardPage },
     function(err, str) {

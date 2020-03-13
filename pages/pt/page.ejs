@@ -25,4 +25,13 @@ hero_image: <%- expansion.image %>
 
 ### Errata
 
-<%- card.errata %><%}%>
+<%- card.errata %><%}%><%if (faqs.length > 0){%>
+### Dúvidas Frequentes
+
+<%faqs.forEach(faq => {%>**<%- faq.title %>**
+
+<%- faq.text %>
+
+<hr/><%})%>
+
+`Fonte:` [Livro de Regras](https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE)<%}%>
