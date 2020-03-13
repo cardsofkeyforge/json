@@ -1,6 +1,6 @@
 [
   {
-    "title": "Meu oponente tem 14 Æmbar na reserva dele e eu tenho 0 na\nminha. No início do meu turno eu seleciono Sombras como a casa\nativa e jogo o card Isca e Armadilha (CDA 267). Quantas vezes a Isca\ne Armadilha é desencadeada?",
+    "title": "Meu oponente tem 14 Æmbar na reserva dele e eu tenho 0 na\nminha. No início do meu turno eu seleciono Sombras como a casa\nativa e jogo o card [Isca e Armadilha](/cota/267). Quantas vezes a Isca\ne Armadilha é desencadeada?",
     "text": "Nesta situação, o efeito de Isca e Armadilha será desencadeado 2 vezes.\nQuando o efeito é desencadeado pela primeira vez, ele verifica se\nseu oponente tem mais Æmbar que você, e se ele tiver, ele repetirá o\nprimeiro efeito novamente, roubando outro Æmbar. Entretanto, já que o\ncard diz para repetir o efeito acima e não todo o efeito, ele só pode ser\ndesencadeado duas vezes.",
     "source": {
       "type": "rulebook",
@@ -10,7 +10,7 @@
     "cards": ["0186f94c-68df-4d5c-9338-9e918affe313"]
   },
   {
-    "title": "É o primeiro turno do duelo e eu jogo primeiro. Eu escolho a casa\nLogos para ser a casa ativa e jogo o card Mudança Fásica (CDA 117).\nIsso permite que eu jogue outro card neste turno mesmo que a\nRegra do Primeiro Turno (consulte a página 5) esteja em efeito?",
+    "title": "É o primeiro turno do duelo e eu jogo primeiro. Eu escolho a casa\nLogos para ser a casa ativa e jogo o card [Mudança Fásica](/cota/117).\nIsso permite que eu jogue outro card neste turno mesmo que a\nRegra do Primeiro Turno (consulte a página 5) esteja em efeito?",
     "text": "Ao jogar o card Mudança Fásica você pode jogar outro card da mão\nneste turno, pois a Regra do Primeiro Turno pode ser modificada por\nefeitos de card.",
     "source": {
       "type": "rulebook",
@@ -18,5 +18,114 @@
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
     "cards": ["2cb1f58c-5979-4d3a-ae86-9dadc6000288"]
+  },
+  {
+    "title": "É o primeiro turno do duelo e eu jogo primeiro. Eu escolho a\ncasa Logos para ser a casa ativa e jogo o card [Buraco de Minhoca Feroz](/cota/125). O efeito do Buraco de Minhoca Feroz\npode ser resolvido mesmo que a Regra do Primeiro Turno (consulte\na página 5) esteja em efeito?",
+    "text": "O efeito do Buraco de Minhoca Feroz pode ser resolvido. A Regra do\nPrimeiro Turno especifica que os participantes não podem jogar ou descartar\nmais de um card da mão. Entretanto, ela não proíbe cards de serem jogados\nou descartados de outras áreas do jogo, como de seu baralho.",
+    "source": {
+      "type": "rulebook",
+      "version": "1.5.04",
+      "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
+    },
+    "cards": [
+      "953bbe23-df2b-4459-a3f6-beca7cd49a34",
+      "ddb5fd06-e4a5-4802-b3bf-833740a0654e",
+      "2a4c5213-c8f8-4c6f-8ec6-cdcd92ba1fbe"
+    ]
+  },
+  {
+    "title": "Eu tenho 2 correntes e 7 cards na mão ao ir para o passo de compra\nde cards. Eu soltarei uma corrente durante esse passo?",
+    "text": "Não, você não soltará uma corrente durante esse passo de compra\nde cards. As correntes são soltas apenas quando um participante vai\ncomprar cards durante o passo de compra e as correntes o impedem\nde fazer isso (consulte “Correntes” na página 8). Como você já tem 7\ncards na mão, você não comprará mais cards, e portanto não perderá\nnenhuma corrente.",
+    "source": {
+      "type": "rulebook",
+      "version": "1.5.04",
+      "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
+    },
+    "cards": [
+      "22c50a42-0b6e-4681-9632-3d315a76e849.json",
+      "892c0a68-5213-48b2-8883-2ac3c97ac83c.json",
+      "aa9b8dfe-3817-4f9d-b4c8-95c5c303c513.json",
+      "be492d70-5c87-441e-8223-79fb2bce85c9.json",
+      "cc44ca9a-6994-4897-9308-ff332cc8de57.json",
+      "d438faa9-7920-437a-8d1c-682fade5d350.json,",
+      "0994433d-0d1a-47d6-a87d-36e32f7ef3b2.json",
+      "0d8ea6cf-3d45-4bb2-b052-99b126592dc3.json",
+      "6ee826ee-20a5-47f8-abb1-66a9ad8e66f5.json",
+      "7d1d5e99-f0c4-4bfd-b515-0eaa50c0ce29.json",
+      "8c29bef0-6c4f-40e7-afcb-6269a87efdf7.json,",
+      "0acc045b-fdf4-4005-afd1-26740c2aa5b8.json",
+      "333f45b6-73e0-44c3-9ff8-8961687e57ab.json",
+      "78b6ac09-ae83-41bf-baa8-edfb873a5ad9.json",
+      "fde615f8-c33a-4a01-9347-8da316df9b5f.json"
+    ]
+  },
+  {
+    "title": "Eu tenho 2 correntes e 5 cards na mão ao ir para o passo de compra\nde cards. Eu soltarei uma corrente durante esse passo?",
+    "text": "Sim, você soltará uma corrente durante esse passo. As correntes são\nsoltas apenas quando um participante vai comprar cards durante o passo\nde compra e as correntes o impedem de fazer isso (consulte “Correntes”\nna página 8). Você possui apenas 5 cards na mão, e provavelmente\ncomprará um card para repor sua mão. Entretanto, devido às correntes,\nvocê é impedido de comprar esse card. Já que você normalmente teria\ncomprado o card e a corrente o impediu, você solta 1 corrente.",
+    "source": {
+      "type": "rulebook",
+      "version": "1.5.04",
+      "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
+    },
+    "cards": [
+      "22c50a42-0b6e-4681-9632-3d315a76e849.json",
+      "892c0a68-5213-48b2-8883-2ac3c97ac83c.json",
+      "aa9b8dfe-3817-4f9d-b4c8-95c5c303c513.json",
+      "be492d70-5c87-441e-8223-79fb2bce85c9.json",
+      "cc44ca9a-6994-4897-9308-ff332cc8de57.json",
+      "d438faa9-7920-437a-8d1c-682fade5d350.json,",
+      "0994433d-0d1a-47d6-a87d-36e32f7ef3b2.json",
+      "0d8ea6cf-3d45-4bb2-b052-99b126592dc3.json",
+      "6ee826ee-20a5-47f8-abb1-66a9ad8e66f5.json",
+      "7d1d5e99-f0c4-4bfd-b515-0eaa50c0ce29.json",
+      "8c29bef0-6c4f-40e7-afcb-6269a87efdf7.json,",
+      "0acc045b-fdf4-4005-afd1-26740c2aa5b8.json",
+      "333f45b6-73e0-44c3-9ff8-8961687e57ab.json",
+      "78b6ac09-ae83-41bf-baa8-edfb873a5ad9.json",
+      "fde615f8-c33a-4a01-9347-8da316df9b5f.json"
+    ]
+  },
+  {
+    "title": "Eu escolhi a casa Logos como minha casa ativa nesse turno e\ncomecei jogando [Acesso à Biblioteca](/cota/115), e então joguei\n[Buraco de Minhoca Feroz](/cota/125). Em qual ordem eu devo\nresolver essa combinação de efeitos?",
+    "text": "Ao jogar um Buraco de Minhoca Feroz após jogar um Acesso à\nBiblioteca, essa sequência de efeitos é desencadeada:\n1. Você ganha 1 Æmbar devido ao bônus do Buraco de\nMinhoca Feroz.\n2. O efeito de Acesso à Biblioteca e o efeito jogar de Buraco de\nMinhoca Feroz são simultâneos, então você deve resolvê-los em\nqualquer ordem.\n3. Você ganha Æmbar devido a quaisquer bônus de Æmbar no card\njogado do topo do seu deck.\n4. Se houver quaisquer efeitos de jogo no card jogado do topo de seu\ndeck, eles são simultâneos ao efeito de Acesso à Biblioteca. Você pode\nresolvê-los em qualquer ordem.",
+    "source": {
+      "type": "rulebook",
+      "version": "1.5.04",
+      "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
+    },
+    "cards": [
+      "a429a71c-e558-4ee6-af48-6326df3d4b0f",
+      "953bbe23-df2b-4459-a3f6-beca7cd49a34",
+      "ddb5fd06-e4a5-4802-b3bf-833740a0654e",
+      "2a4c5213-c8f8-4c6f-8ec6-cdcd92ba1fbe"
+    ]
+  },
+  {
+    "title": "Eu tenho o card [Senhor do Abismo](/cota/093) em jogo e meu\noponente joga o card [Restringuntus](/cota/094) e escolhe a casa\nDis. O que acontece quando eu tentar declarar minha casa no\npróximo turno?",
+    "text": "Em seu próximo turno, durante o passo de escolha de casa, você estará\nem um situação onde tem de escolher a casa Dis (devido ao Senhor\ndo Abismo), mas também não pode escolher a casa Dis (devido ao\nRestringuntus). Os efeitos não pode prevalecem sobre efeitos tem de,\nportanto você não pode escolher Dis. (consulte “Não Pode Vs. Tem De” na\npágina 9.) Contudo, você ainda pode escolher uma de suas outras casas.",
+    "source": {
+      "type": "rulebook",
+      "version": "1.5.04",
+      "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
+    },
+    "cards": [
+      "c9625085-6eb2-4555-87cd-cda180af9f71",
+      "c29141ad-cc05-4d79-b3db-eb391808c29e",
+      "040e2532-f834-46b3-861e-be8c4f44b601",
+      "4ccc9f14-508d-40b8-991b-2bf80a2e794a"
+    ]
+  },
+  {
+    "title": "Eu tenho um [Faygin](/cota/300) em jogo e meu oponente tem um\n[Larápio](/cota/315) em jogo. Eu coleto com Faygin e com o efeito da\ncoleta eu escolho o Larápio do meu oponente. O que acontece?",
+    "text": "O efeito do Faygin faz com que o Larápio tente ir para sua mão, mas\nquando um card sai do jogo ele sempre vai para a área fora de jogo\ncorrespondente de seu dono (Consulte “Sair de Jogo” na Página 11) a\nmenos que o card causando esse efeito especifique outra\ncoisa. O Larápio é devolvido à mão de seu\noponente em vez da sua.",
+    "source": {
+      "type": "rulebook",
+      "version": "1.5.04",
+      "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
+    },
+    "cards": [
+      "dddb201b-03d0-4fa9-b627-c69f51994c13",
+      "03c4165e-a0bb-4fd5-b6a8-e3d9aec0551e"
+    ]
   }
 ]
