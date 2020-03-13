@@ -26,9 +26,10 @@ hero_image: <%- expansion.image %>
 ### Errata
 
 <%- card.errata %><%}%><%if (faqs.length > 0){%>
-### Dúvidas Frequentes
 
-<%faqs.forEach(faq => {%>**<%- faq.title %>**
+### Dúvidas Frequentes<%faqs.forEach(faq => {%>
+
+**<%- faq.title %>**
 
 <%- faq.text %>
 
