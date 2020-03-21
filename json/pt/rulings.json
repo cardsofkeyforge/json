@@ -127,5 +127,172 @@
       "dddb201b-03d0-4fa9-b627-c69f51994c13",
       "03c4165e-a0bb-4fd5-b6a8-e3d9aec0551e"
     ]
+  },
+  {
+    "title": "Eu tenho 0 Æmbar na reserva e escolhi a casa Logos para ser minha\ncasa ativa neste turno. Eu jogo [Buraco de Minhoca Feroz](/cota/125) e tento jogar o card do topo do meu deck, [Dragão Kelifi](/cota/037). O que acontece?",
+    "text": "O Dragão Kelifi é devolvido ao topo do deck. O Dragão Kelifi tem um\nrequisito de jogo que é necessário ter 7 Æmbar na reserva, e como você\nnão tinha nenhum inicialmente (você agora tem 1 por ter jogado o Buraco\nde Minhoca Feroz), você não tem o suficiente para poder jogar o\nDragão Kelifi. Já que você não pode jogar o card, ele é devolvido ao local\nde onde você tentou jogá-lo, neste caso, o topo do deck.",
+    "source": {
+      "type": "rulebook",
+      "version": "1.5.04",
+      "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
+    },
+    "cards": [
+      "953bbe23-df2b-4459-a3f6-beca7cd49a34",
+      "ddb5fd06-e4a5-4802-b3bf-833740a0654e",
+      "2a4c5213-c8f8-4c6f-8ec6-cdcd92ba1fbe",
+      "4064612e-602e-46c1-b8eb-8adda1cfd0d0"
+    ]
+  },
+  {
+    "title": "No turno do meu oponente, ele usou seu [Yxilo Disparador](/cota/204) para coletar e escolheu resolver seu efeito de coleta em meu\n[Centavo Furado](/cota/296). O Centavo Furado é expurgado ou ele\nacaba voltando para minha mão?",
+    "text": "O Centavo Furado volta para sua mão. Efeitos “**Destruído**:” (consulte\n“Destruído” na Página 10) acontecem imediatamente antes de uma\ncriatura ser destruída, o que significa que o Centavo Furado estará\nde volta à mão de seu dono antes do Yxilo Disparador poder tentar\nexpurgá-lo com seu efeito de coleta. Nesse ponto, quaisquer efeitos\npendentes em cima do Centavo Furado não são mais resolvidos. Isso\ndeve-se ao fato de que o Centavo Furado está se movendo para uma\nárea fora de jogo na qual a identidade dos cards está escondida do\noponente (consulte “Sair de Jogo” na Página 11).",
+    "source": {
+      "type": "rulebook",
+      "version": "1.5.04",
+      "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
+    },
+    "cards": [
+      "1a84631d-7fcb-4c9a-a50c-9539dcb84928",
+      "4a996715-f2c1-46e5-b80e-f285c1d36439",
+      "2d0b4614-463b-4df1-b580-b429db1a6013",
+      "5de306a8-0b3b-4437-be2d-eb422a78fc64"
+    ]
+  },
+  {
+    "title": "Eu tenho uma criatura atordoada em minha linha de batalha, jogo\no card [Fúria](/cota/001), e escolho resolver seu efeito nessa criatura\natordoada. O que acontece?",
+    "text": "Se um card (como Fúria nesse caso) permite que você use uma criatura\ne se a criatura que você está tentando usar está atordoada, você remove\no atordoamento em vez de fazer qualquer outra coisa. Já que Lutar é um\ntipo a ser usado, a criatura fica exausta e o marcador de atordoamento\né removido.\n\nIsso funcionará mesmo se seu oponente não tiver criaturas em jogo, pois\no desatordoamento substitui o “uso” normal (nesse caso a luta) do card\nantes de ele começar.",
+    "source": {
+      "type": "rulebook",
+      "version": "1.5.04",
+      "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
+    },
+    "cards": ["b361d7e2-6873-4890-8f87-702d9c89c5ad"]
+  },
+  {
+    "title": "Eu escolhi a casa Logos para ser minha casa ativa neste turno e\njoguei uma [Mudança Fásica](/cota/117) e então joguei outra cópia\nde Mudança Fásica. Quantos cards não-Logos eu posso jogar\nneste turno?",
+    "text": "Neste turno, você pode jogar dois cards não-Logos. Cada cópia da\nMudança Fásica que você joga permite que você jogue um card\nnão-Logos adicional.",
+    "source": {
+      "type": "rulebook",
+      "version": "1.5.04",
+      "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
+    },
+    "cards": ["2cb1f58c-5979-4d3a-ae86-9dadc6000288"]
+  },
+  {
+    "title": "Eu tenho um [Ladrão de Almas](/cota/098) em jogo e meu oponente\ntem um [Valdr](/cota/029). Eu uso meu Ladrão de Almas para lutar\ncom Valdr e ambas são destruídas. A habilidade do Ladrão de Almas\né desencadeada?",
+    "text": "Não, a habilidade do Ladrão de Almas não é desencadeada. Para que\na habilidade do Ladrão de Almas seja desencadeada ele deve estar em\njogo, portanto se tanto o Ladrão de Almas quanto a criatura com a qual ele\nestá lutando morrerem, eles morrem simultaneamente, e a habilidade do\nLadrão de Almas não é desencadeada (consulte “Destruído” na Página 10).",
+    "source": {
+      "type": "rulebook",
+      "version": "1.5.04",
+      "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
+    },
+    "cards": [
+      "6b113c63-c8e0-4c52-9973-b94263d2bf0d",
+      "652c4e38-c4fa-4e30-8f8d-036e95249529"
+    ]
+  },
+  {
+    "title": "Eu jogo o card [Acesso à Biblioteca](/cota/115). O card é colocada\nna pilha de descarte imediatamente? Ou ela permanece em jogo\nenquanto o efeito estiver ativo.",
+    "text": "Os cards de ação são colocadas imediatamente na pilha de descarte\napós seus efeitos serem resolvidos. No caso de um card de Ação que\ntenha um efeito duradouro como o Acesso à Biblioteca, logo que o\nefeito é estabelecido ao resolver o card, ele é imediatamente colocado\nna pilha de descarte e não permanece em jogo.",
+    "source": {
+      "type": "rulebook",
+      "version": "1.5.04",
+      "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
+    },
+    "cards": ["a429a71c-e558-4ee6-af48-6326df3d4b0f"]
+  },
+  {
+    "title": "Eu tenho um [Feromônios de Combate](/cota/180), [“John Smyth”](/cota/195), e [Curvador de Mentes](/cota/196) em jogo. Eu sacrifico o\nFeromônios de Combate e coleto com o Curvador de Mentes,\ne então coleto com “John Smyth” e uso o efeito de coleta dele\npara preparar o Curvador de Mentes. Posso usar o Curvador de\nMentes novamente?",
+    "text": "Sim, o Feromônios de Combate dá permissão para usar uma criatura\nnesse turno. Se você tiver um efeito que prepara um dos cards de Marte\nafetadas pelo Feromônios de Combate (Como “John Smyth”), você será\ncapaz de usar esse card novamente.",
+    "source": {
+      "type": "rulebook",
+      "version": "1.5.04",
+      "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
+    },
+    "cards": [
+      "49183ec5-6dad-48fb-9d86-253db31d72cf",
+      "ceecd78b-f0bb-4de9-a3c6-dff6686be13d",
+      "5fc44836-83fd-4a10-af61-9168db728cc0",
+      "67c04993-f6b5-4c35-9b25-456f464ce530",
+      "d2b8008c-ce84-48fa-b842-697d6e27183e"
+    ]
+  },
+  {
+    "title": "Eu jogo o [Rei do Penhasco](/cota/038) enquanto meu oponente tem\num [Goblin Ladrão](/cota/041) em jogo. O que acontece?",
+    "text": "As regras de dano dizem que “Se a criatura tiver dano igual ou maior\nque seu poder, ela é destruída e colocada no topo da pilha de descartes\nde seu dono.” Quando a criatura tem poder 0, mesmo que ela tiver 0 de dano,\nela á destruída.",
+    "source": {
+      "type": "rulebook",
+      "version": "1.5.04",
+      "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
+    },
+    "cards": [
+      "5c8c697c-ffcf-4116-b133-179198017c31",
+      "8604d465-8154-4354-9b77-9d4ad7eb3a02",
+      "577d1456-1220-4ed5-949e-147cc477a774"
+    ]
+  },
+  {
+    "title": "Meu oponente tem [Estandarte de Batalha](/cota/020) em jogo. Posso\njogar o card [Poltergeist](/cota/069) para destruir o Estandarte de\nBatalha, mesmo se o artefato não puder ser usado?",
+    "text": "Sim, você pode resolver o efeito de um Poltergeist em qualquer artefato\nem jogo mesmo se o artefato não puder ser usado. Você resolve o\nmáximo do efeito do card que puder (consulte “Resolva o Máximo que\nPuder” na Página 7), e para resolver esta situação você simplesmente\ndestrói o artefato.",
+    "source": {
+      "type": "rulebook",
+      "version": "1.5.04",
+      "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
+    },
+    "cards": [
+      "57f8a873-414b-4c77-be9a-15561c76f719",
+      "5ad003a2-8572-4fbd-b9fb-a2e94e4bdc7c",
+      "a9cda2c7-6172-43e6-b37f-24971041020d",
+      "bab75bb4-6108-4056-ae9f-0df44752cc85"
+    ]
+  },
+  {
+    "title": "Eu não possuo criaturas em jogo e meu oponente tem duas.\nEu posso jogar o card [Perdido no Bosque](/cota/327) mesmo que\neu não tenha duas criaturas em jogo?",
+    "text": "Sim, você pode. A regra “Resolva o Máximo que Puder” (consulte a\nPágina 7) diz que você resolve o máximo do efeito de um card o possível\ne qualquer parte do card que você não pode resolver é ignorada. No\ncontexto do Perdido no Bosque, isso significa que você embaralha o\nmáximo de criaturas que puder. Portanto, no caso de seu oponente\npossuir duas ou mais criaturas em sua linha de batalha e você não\npossuir nenhuma, você embaralha duas criaturas inimigas e nenhuma\ncriatura amiga.",
+    "source": {
+      "type": "rulebook",
+      "version": "1.5.04",
+      "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
+    },
+    "cards": ["459a6725-dcc0-4967-8cd4-a9bbb1548eda"]
+  },
+  {
+    "title": "Eu tenho um [Quebrador](/cota/030) em jogo e meu oponente não\ntem criaturas em sua linha de batalha. Eu jogo o card [Fúria](/cota/001) e escolho resolvê-la no Quebrador. O que acontece?",
+    "text": "O Quebrador será preparado pelo efeito da Fúria, mas já que não há\ncriaturas inimigas em jogo, ele não pode ser usado para lutar, portanto\nele permanece preparado. A criatura pode então ser usada conforme as\nregras convencionais.",
+    "source": {
+      "type": "rulebook",
+      "version": "1.5.04",
+      "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
+    },
+    "cards": [
+      "fc3d397a-3a51-4963-940c-6b43221b7667",
+      "b361d7e2-6873-4890-8f87-702d9c89c5ad"
+    ]
+  },
+  {
+    "title": "Eu controlo uma [Caixa de Spangler](/cota/132) que expurgou meu\npróprio [Dragão Kelifi](/cota/037). A Caixa de Spangler é devolvida\nà mão de seu dono com [Vinhas Agarradoras](/cota/324), mas eu não\ntenho Æmbar. Eu recebo meu Dragão Kelifi de volta?",
+    "text": "Sim. O Dragão Kelifi não está sendo jogado quando é devolvido pela\nCaixa de Spangler, ele está sendo colocado em jogo. Ser colocado\nem jogo contorna as restrições normais de se jogar um card, o que\nsignifica que o Dragão de Kelifi é colocado em jogo independente da\nquantidade de Æmbar que você tem.",
+    "source": {
+      "type": "rulebook",
+      "version": "1.5.04",
+      "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
+    },
+    "cards": [
+      "dc18cfc1-9dd9-440d-93be-50c2c114b3c8",
+      "4064612e-602e-46c1-b8eb-8adda1cfd0d0",
+      "469dd68d-cdd6-40e0-8fc9-a167c45a9aea",
+      "e82c4c9e-8ad9-4e51-8878-8fb6d50dd767",
+      "61609682-2c6a-4d08-8715-748cb8c8e691"
+    ]
+  },
+  {
+    "title": "Eu jogo [Deestruuiir](/cota/046), mas cada uma das criaturas do meu\noponente já está atordoada. Eu tenho que resolver o efeito contra o\nDeestruuiir em si?",
+    "text": "Não. Você ainda pode escolher resolver o efeito “**Jogar**:” de Deestruuiir\ncontra uma das criaturas de seu oponente, entretanto você não pode\ncolocar um card ou ficha de atordoamento em uma\ncriatura já atordoada, portanto\nnada acontece.",
+    "source": {
+      "type": "rulebook",
+      "version": "1.5.04",
+      "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
+    },
+    "cards": ["e1312fbf-c297-4d9f-b403-2d892271de62"]
   }
 ]
