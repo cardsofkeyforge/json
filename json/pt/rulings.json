@@ -376,5 +376,135 @@
       "f8b60401-30f4-491f-a5bb-fda4a8991a11",
       "e4929bb1-2157-4c05-a4dd-37fc841bf74a"
     ]
+  },
+  {
+    "title": "Se eu jogar [Mímica](/cota/328) como cópia de um card de ação na\npilha de descarte do meu oponente, a qual card a Regra dos Seis\né aplicada?",
+    "text": "Para os efeitos da Regra dos Seis, considera-se que você jogou o\ncard copiada.",
+    "source": {
+      "type": "rulebook",
+      "version": "1.5.04",
+      "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
+    },
+    "cards": [
+      "34f85c32-4654-4177-9b9f-50825a58239e",
+      "5b841750-68b8-4dc2-98d4-e6c1e1c90e57",
+      "a35d3a15-3e27-4f58-b8b1-07549e61114f"
+    ]
+  },
+  {
+    "title": "Eu tenho [Vinhas Agarradoras](/cota/103) sob [Plano Magistral](/cota/288). Se eu usar o efeito “Omni” de Plano Magistral para jogar\nVinhas Agarradoras, eu posso retornar Plano Magistral para minha\nmão antes de ele ser sacrificado?",
+    "text": "Sim. O efeito de Plano Magistral permite que você jogue o card que\nestá debaixo dele antes de sacrificá-lo. Plano Magistral ainda está em\njogo no momento que você joga Vinhas Agarradoras, portanto ele pode\nser retornado para sua mão usando o efeito de Vinhas Agarradoras.",
+    "source": {
+      "type": "rulebook",
+      "version": "1.5.04",
+      "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
+    },
+    "cards": [
+      "469dd68d-cdd6-40e0-8fc9-a167c45a9aea",
+      "9c13665d-e4da-45b4-b04d-27abfafe5c23",
+      "e82c4c9e-8ad9-4e51-8878-8fb6d50dd767",
+      "61609682-2c6a-4d08-8715-748cb8c8e691"
+    ]
+  },
+  {
+    "title": "Se [Duma, o Mártir](/cota/242) e outra das minhas criaturas forem\ndestruídas por um efeito de dano como [Onda de Veneno](/cota/280),\nDuma, o Mártir pode salvar minha outra criatura da destruição?",
+    "text": "Não. Se o dano fizer com que ambos Duma, o Mártir e sua outra criatura\nsejam marcadas para destruição, curar a criatura depois da marcação\nnão evita sua destruição.",
+    "source": {
+      "type": "rulebook",
+      "version": "1.5.04",
+      "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
+    },
+    "cards": [
+      "040b3c05-428a-47c9-afc9-6fc65905462f",
+      "253588cf-4fd5-4022-9c5c-a2b3693e21f0",
+      "01d6a61c-7a02-4892-a6bc-b6d9f9da1266"
+    ]
+  },
+  {
+    "title": "Se um card como [Passagem a Dis](/cota/059) destruir múltiplas\ncriaturas e [Tolas](/cota/103) for uma dessas criaturas, alguém ganha\nÆmbar devido à habilidade de Tolas?",
+    "text": "Não. A habilidade de Tolas não é desencadeada até que os cards\nsejam de fato colocados nas pilhas de descarte, e neste ponto Tolas já\nestará destruído.",
+    "source": {
+      "type": "rulebook",
+      "version": "1.5.04",
+      "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
+    },
+    "cards": [
+      "be492d70-5c87-441e-8223-79fb2bce85c9",
+      "2b3b461c-7f0b-4ebf-bcf7-f37a9509d7b5",
+      "06b1feaa-6a44-46af-8de9-0e7179f97bfb"
+    ]
+  },
+  {
+    "title": "Se eu tiver um Tolas(/cota/103) em jogo quando meu [Centavo Furado](/cota/296) for destruído, eu ganho Æmbar mesmo se o\nCentavo Furado for para minha mão em vez de ir para a pilha\nde descarte?",
+    "text": "Sim. Os cards ainda contam como tendo sido destruídos mesmo se o\nefeito “Destruído:” deles os moverem para fora do jogo.",
+    "source": {
+      "type": "rulebook",
+      "version": "1.5.04",
+      "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
+    },
+    "cards": [
+      "2b3b461c-7f0b-4ebf-bcf7-f37a9509d7b5",
+      "4a996715-f2c1-46e5-b80e-f285c1d36439",
+      "06b1feaa-6a44-46af-8de9-0e7179f97bfb",
+      "2d0b4614-463b-4df1-b580-b429db1a6013",
+      "5de306a8-0b3b-4437-be2d-eb422a78fc64"
+    ]
+  },
+  {
+    "title": "Eu uso meu [Escudo Santificado](/aoa/218) para proteger meu\n[Maruck, o Marcado](/aoa/220) de levar dano e em seguida ataco a\ncriatura de poder 3 do meu oponente. Eu capturo um Æmbar com a\nhabilidade de Maruck?",
+    "text": "Não. Efeitos de proteção como Escudo Santificado evitam dano antes\nda armadura. Maruck ainda tem 1 de armadura sobrando depois da luta.",
+    "source": {
+      "type": "rulebook",
+      "version": "1.5.04",
+      "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
+    },
+    "cards": [
+      "74a2511a-7df8-4865-b125-cae3e4f0e41b",
+      "b81819bb-5687-452e-8582-182541142a23"
+    ]
+  },
+  {
+    "title": "Se meu [Engodilho](/aoa/131) for destruído no meu turno e a\nhabilidade “Destruído:” dele permitir que eu jogue um card com\nÔmega, eu ainda posso jogar cards na sequência?",
+    "text": "Normalmente não. Se Engodilho foi destruído durante seu Passo 3, você\nnão pode jogar ou usar mais nenhum card; apenas finalize os efeitos\njá desencadeados e vá para o próximo passo. Porém, se Engodilho foi\ndestruído durante seu Passo 1 (por exemplo, porque você forjou uma\nchave enquanto [Engenhoca Estranha](/cota/134) estava em jogo), você\nvai para o Passo 2, onde então pode escolher sua casa e ir para o Passo\n3, no qual é permitido jogar e usar cards normalmente.",
+    "source": {
+      "type": "rulebook",
+      "version": "1.5.04",
+      "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
+    },
+    "cards": [
+      "8403b0ba-5423-4ee7-a373-aa56091346fc",
+      "7d837d23-f3a4-473b-9ac2-df07a47df2c8",
+      "d602760b-788f-4f6e-b927-e7809d262e00",
+      "1123e81a-229e-4922-ab8a-ac4b24b274b0",
+      "6d159d8e-2f2c-4acb-82f0-05396ce65ac5"
+    ]
+  },
+  {
+    "title": "Eu tenho [Rusga, o Chato](/cota/043) e meu oponente joga [Rei do Penhasco](/cota/038). O Rei do Penhasco leva dano antes de Rusga\nser destruído?",
+    "text": "Não, porque a habilidade de Rei do Penhasco é constante, seu efeito\né aplicado enquanto ele estiver em jogo e destrói Rusga antes de seu\nefeito “após entrar em jogo” ser desencadeado.",
+    "source": {
+      "type": "rulebook",
+      "version": "1.5.04",
+      "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
+    },
+    "cards": [
+      "7368fd79-70b8-4917-9d2c-dead816f624c",
+      "8604d465-8154-4354-9b77-9d4ad7eb3a02",
+      "577d1456-1220-4ed5-949e-147cc477a774"
+    ]
+  },
+  {
+    "title": "Se eu tiver uma criatura de poder 2 com um [Guardião da Alma](/aoa/083) anexado, meu oponente tiver uma criatura de poder 6 e uma\ncriatura de poder 5, e eu jogar [Cavaleiro de Opala](/aoa/260), as\nduas criaturas do meu oponente morrem, ou apenas a de poder 6?",
+    "text": "Apenas a de poder 6. Como o efeito do Guardião da Alma é\ndesencadeado antes das criaturas destruídas de fato saírem do jogo, ele\nterá como alvo para destruição a criatura de poder 6, mesmo que ela já\ntenha sido marcada para destruição.",
+    "source": {
+      "type": "rulebook",
+      "version": "1.5.04",
+      "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
+    },
+    "cards": [
+      "3dacdf4d-1284-45b2-90e0-8f338bc0bf2f",
+      "ff6f3feb-c81f-4985-9dd5-04748d9628e1",
+      "52a5c8c1-1d02-46de-a989-2a3293ad7e2e"
+    ]
   }
 ]
