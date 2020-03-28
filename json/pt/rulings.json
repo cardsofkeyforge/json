@@ -294,5 +294,87 @@
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
     "cards": ["e1312fbf-c297-4d9f-b403-2d892271de62"]
+  },
+  {
+    "title": "Meu oponente coloca duas de minhas criaturas em seu arquivo\nusando o card [Coleta de Amostras](/cota/175). Em meu próximo\nturno eu jogo o card [Dysânia](/cota/141). O que acontece?",
+    "text": "Jogar Dysânia irá fazer com que cada um dos cards arquivados de seu\noponente seja descartado, mas como a Coleta de Amostras diz que\nquando essas criaturas deixam o arquivo elas são colocadas na mão\nde seu dono, em vez disso, elas voltam para sua mão. E como esses\ncards não foram descartados pelo efeito de Dysânia, você não ganhará\nqualquer Æmbar da resolução desse efeito.",
+    "source": {
+      "type": "rulebook",
+      "version": "1.5.04",
+      "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
+    },
+    "cards": [
+      "8bd62dbc-77ac-400d-a31a-ca2e9c57728e",
+      "872b8871-93da-4b0d-a321-61f09e1824ea",
+      "6d9d41e4-11bd-43c9-9f60-33c367bf8eb9",
+      "0a6111d6-381e-40e3-9f1c-f22fd7e04267",
+      "6619a4d0-6bc5-4966-b1da-431b66c731c8"
+    ]
+  },
+  {
+    "title": "Eu tenho [Sombra](/cota/310) com um [Cavaleiro Saqueador](/cota/255)\ncomo vizinho. Meu Cavaleiro Saqueador é atacado por uma criatura\nde poder 4. Quanto de dano cada criatura sofre nessa situação?",
+    "text": "Nesse caso, a Sombra sofre 2 de dano, o Cavaleiro Saqueador não sofre\ndano, e a criatura de poder 4 sofre 4 de dano e é destruída.\n\nIsso acontece porque antes do dano ser causado ao Cavaleiro\nSaqueador, dois de dano são evitados por sua armadura. Então quando\no dano é de fato causado, o dano que seria causado no Cavaleiro\nSaqueador é aplicado à Sombra. Ao mesmo tempo que a Sombra\nrecebe dano, a criatura de poder 4 sofre 4 de dano do poder do\nCavaleiro Saqueador.",
+    "source": {
+      "type": "rulebook",
+      "version": "1.5.04",
+      "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
+    },
+    "cards": [
+      "11663693-8a10-4783-9f89-47f43c49bfa3",
+      "36b15919-4938-4e83-b57e-ae3a6b83cbbd"
+    ]
+  },
+  {
+    "title": "Eu tenho um [Senhor do Abismo](/cota/093) maverick em um\ndeck sem a casa Dis. Eu sou forçado a escolher a casa Dis como\ncasa ativa?",
+    "text": "Não. Você não pode escolher uma casa ativa a menos que ela esteja em\nseu card de identidade ou que você controle um card dessa casa. Esta\nrestrição sobrepõe o efeito do Senhor do Abismo, permitindo que você\nescolha qualquer uma de suas casas como casa ativa.",
+    "source": {
+      "type": "rulebook",
+      "version": "1.5.04",
+      "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
+    },
+    "cards": [
+      "c9625085-6eb2-4555-87cd-cda180af9f71",
+      "040e2532-f834-46b3-861e-be8c4f44b601"
+    ]
+  },
+  {
+    "title": "O que acontece se eu usar [Tuneleiro Espectral](/cota/133) em uma\ncriatura não-flanco (fazendo com que ela seja considerada uma\ncriatura de flanco), e então jogar [Raio de Pósitrons](/cota/118) nessa criatura?",
+    "text": "O Raio de Pósitrons causará 3 de dano na criatura. Você escolherá um\ndos vizinhos dessa criatura para causar 2 de dano, e então cause 1 de\ndano ao outro vizinho dessa segunda criatura.",
+    "source": {
+      "type": "rulebook",
+      "version": "1.5.04",
+      "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
+    },
+    "cards": [
+      "b13b68ab-489c-47bc-803e-e87792edb931",
+      "f344ec2a-cbfb-4cd1-9f11-35b2a1a7e90c",
+      "b9369ee7-158e-4733-b491-794d089ec9dc"
+    ]
+  },
+  {
+    "title": "Se eu usar [Gabos Braçolongo](/cota/086) para atacar uma criatura\nsem elusivo, posso, em vez disso, usar a habilidade “Antes da Luta”\nde Gabos para causar dano a uma criatura, ou a palavra-chave\nelusivo evita este dano?",
+    "text": "Gabos Braçolongo pode causar dano a uma criatura elusiva usando\na habilidade dele. A habilidade elusivo evita dano apenas quando\na criatura é atacada, e como Gabos não está de fato atacando-a, a\npalavra-chave elusivo não a protege.",
+    "source": {
+      "type": "rulebook",
+      "version": "1.5.04",
+      "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
+    },
+    "cards": ["e5a1f190-6964-4b2e-bcb3-696d3f6f2713"]
+  },
+  {
+    "title": "O que acontece se eu usar [Replicador](/cota/150) para ativar o efeito\nde coleta de um [Guardião do Santuário](/cota/256) de um oponente?",
+    "text": "O efeito de coleta do Guardião do Santuário não faz nada. Uma criatura\nnão pode ser movida da linha de batalha de um participante para a\nlinha de batalha do outro participante exceto por efeitos que mudam\nexplicitamente o controlador da criatura.",
+    "source": {
+      "type": "rulebook",
+      "version": "1.5.04",
+      "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
+    },
+    "cards": [
+      "b68e10b3-275e-46b8-8227-fe02984ff525",
+      "261b851a-84eb-44a7-828d-6b7599fecaaf",
+      "679b3b5c-b9b4-4e75-8ebc-72f0260b06bc",
+      "f8b60401-30f4-491f-a5bb-fda4a8991a11",
+      "e4929bb1-2157-4c05-a4dd-37fc841bf74a"
+    ]
   }
 ]
