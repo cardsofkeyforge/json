@@ -1,1 +1,18 @@
-{"id":"036ab703-c3aa-49aa-b823-ca2bdd0a8331","card_title":"Pixies do Po","house":"Untamed","card_type":"Creature","front_image":"https://cdn.keyforgegame.com/media/card_front/pt/435_362_45MX4XJ8HHC_pt.png","card_text":"Elusivo.(A cada turno, na primeira vez em que esta criatura for atacada, nenhum dano é sofrido.)\rA roubado ou capturado da sua reserva, em vez disso, é pego da reserva geral.","traits":"Fada","amber":0,"power":"1","armor":null,"rarity":"Rare","flavor_text":null,"card_number":"362","expansion":435,"is_maverick":false,"is_anomaly":false}
+{
+  "id": "036ab703-c3aa-49aa-b823-ca2bdd0a8331",
+  "card_title": "Pixies do Pó",
+  "house": "Untamed",
+  "card_type": "Creature",
+  "front_image": "https://cdn.keyforgegame.com/media/card_front/pt/435_362_45MX4XJ8HHC_pt.png",
+  "card_text": "Elusivo.(A cada turno, na primeira vez em que esta criatura for atacada, nenhum dano é sofrido.)\rA roubado ou capturado da sua reserva, em vez disso, é pego da reserva geral.",
+  "traits": "Fada",
+  "amber": 0,
+  "power": "1",
+  "armor": null,
+  "rarity": "Rare",
+  "flavor_text": null,
+  "card_number": "362",
+  "expansion": 435,
+  "is_maverick": false,
+  "is_anomaly": false
+}
