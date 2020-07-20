@@ -1,0 +1,19 @@
+{
+  "id": "8e625808-2816-4037-aa84-527e3f5c573a",
+  "card_title": "Cofre de Æmbar Sombrio",
+  "house": "Logos",
+  "card_type": "Artifact",
+  "front_image": "https://cdn.keyforgegame.com/media/card_front/pt/479_001_J2W5W895WG9H_pt.png",
+  "card_text": "Após você jogar uma criatura Mutante, compre uma carta.\r\nCada criatura Mutante amiga tem +2 de poder.",
+  "traits": "Lugar",
+  "amber": 0,
+  "power": null,
+  "armor": null,
+  "rarity": "Special",
+  "flavor_text": "O cofre se abriu e tudo mudou.",
+  "card_number": "001",
+  "expansion": 479,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false
+}

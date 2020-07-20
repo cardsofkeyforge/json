@@ -1,0 +1,19 @@
+{
+  "id": "efe37cb9-4b72-424a-81ba-f823f7cc32fd",
+  "card_title": "Oficial de Câmbio",
+  "house": "Logos",
+  "card_type": "Creature",
+  "front_image": "https://cdn.keyforgegame.com/media/card_front/pt/479_341_6P8354W6JF5Q_pt.png",
+  "card_text": "Jogar/Luta/Coleta: Use uma carta Aliança Estelar amiga.",
+  "traits": "Humano",
+  "amber": 0,
+  "power": "3",
+  "armor": null,
+  "rarity": "Rare",
+  "flavor_text": "\"Mal posso esperar para contar isso \rpara todo mundo!\"",
+  "card_number": "341",
+  "expansion": 479,
+  "is_maverick": true,
+  "is_anomaly": false,
+  "is_enhanced": false
+}

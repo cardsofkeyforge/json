@@ -1,0 +1,19 @@
+{
+  "id": "24b20818-2061-46c5-a793-4b656d44abfc",
+  "card_title": "Oficial de Câmbio",
+  "house": "Untamed",
+  "card_type": "Creature",
+  "front_image": "https://cdn.keyforgegame.com/media/card_front/pt/479_341_6P8354W6JF5Q_pt.png",
+  "card_text": "Jogar/Luta/Coleta: Use uma carta Aliança Estelar amiga.",
+  "traits": "Humano",
+  "amber": 0,
+  "power": "3",
+  "armor": null,
+  "rarity": "Rare",
+  "flavor_text": "\"Mal posso esperar para contar isso \rpara todo mundo!\"",
+  "card_number": "341",
+  "expansion": 479,
+  "is_maverick": true,
+  "is_anomaly": false,
+  "is_enhanced": false
+}

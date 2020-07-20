@@ -1,0 +1,19 @@
+{
+  "id": "0585b303-dfa1-4eef-b7c2-741db6dd4ac9",
+  "card_title": "Conselho das Sombras",
+  "house": "Shadows",
+  "card_type": "Creature",
+  "front_image": "https://cdn.keyforgegame.com/media/card_front/pt/479_295_CG4FG9XQJ849_pt.png",
+  "card_text": "Elusivo. \rEnquanto Conselho das Sombras estiver no centro de sua linha de batalha, ele ganha: “Ação: Roube 2A.”",
+  "traits": "Elfo • Líder • Ladrão",
+  "amber": 0,
+  "power": "3",
+  "armor": null,
+  "rarity": "Rare",
+  "flavor_text": "",
+  "card_number": "295",
+  "expansion": 479,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false
+}

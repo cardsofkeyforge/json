@@ -1,0 +1,19 @@
+{
+  "id": "0f44c9f9-306f-4174-8b20-c270c9ccb202",
+  "card_title": "Portões da Cidade",
+  "house": "Saurian",
+  "card_type": "Artifact",
+  "front_image": "https://cdn.keyforgegame.com/media/card_front/pt/479_216_82WX2FJW5CM9_pt.png",
+  "card_text": "Ação: Uma criatura amiga captura 1A. Se a criatura for um Dinossauro, ela captura 2A em vez disso.",
+  "traits": "Lugar",
+  "amber": 0,
+  "power": null,
+  "armor": null,
+  "rarity": "Rare",
+  "flavor_text": "",
+  "card_number": "216",
+  "expansion": 479,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false
+}
