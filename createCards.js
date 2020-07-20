@@ -12,6 +12,7 @@ function extractCards(cards, expansion) {
   const prefix = "./json/" + expansion.lang + "/" + expansion.name + "/";
   cards
     .filter(card => !card.is_maverick)
+    .filter(card => !card.is_enhanced)
     .filter(card => card.expansion === expansion.code)
     .forEach(card => {
       console.log(card.id);
