@@ -10,7 +10,7 @@
     </sets>
     <cards><%cards.forEach(card => {%>
         <card>
-            <name><%- card.card_title %></name>
+            <name><%- card.card_title %><%if (card.card_type === 'Creature1'){%> (1 de 2)<%}else if (card.card_type === 'Creature2'){%> (2 de 2)<%}%></name>
             <text><%- card.card_text.replace(/_x000D_/gi, '\n') %></text><%if (card.card_type === 'Creature' || card.card_type === 'Artifact'){%>
             <cipt>1</cipt><%}%>
             <tablerow><%if (card.card_type === 'Artifact'){%>0<%}else if (card.card_type === 'Upgrade'){%>1<%}else if (card.card_type === 'Action'){%>3<%}else{%>2<%}%></tablerow>
@@ -21,7 +21,7 @@
                 <type><%- card.traits ? card.traits : card.card_type %></type>
                 <maintype><%- card.card_type %></maintype><%if (!card.is_anomaly){%>
                 <colors><%- houses[card.house].name %></colors>
-                <coloridentity><%- houses[card.house].name %></coloridentity><%}%><%if (card.card_type === 'Creature'){%>
+                <coloridentity><%- houses[card.house].name %></coloridentity><%}%><%if (card.card_type === 'Creature' || card.card_type === 'Creature1'){%>
                 <pt><%- (card.power ? card.power : 0) + '/' + (card.armor ? card.armor : 0) %></pt><%}%><%if (card.amber > 0){%>
                 <loyalty><%- card.amber %></loyalty><%}%>
                 <format-standard>ilegal</format-standard>

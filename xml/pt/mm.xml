@@ -1087,7 +1087,7 @@ A que você tiver na sua reserva.</text>
             </prop>
         </card>
         <card>
-            <name>Deusilla</name>
+            <name>Deusilla (1 de 2)</name>
             <text>(Jogue apenas com a outra metade de Deusilla.)
 Jogar: Capture todo o A do seu oponente. Cause 5D
 a uma criatura inimiga.
@@ -1101,6 +1101,7 @@ Luta/Coleta: Mova 1A de Deusilla para a reserva geral. Cause 2D a cada criatura 
                 <maintype>Creature1</maintype>
                 <colors>Sauro</colors>
                 <coloridentity>Sauro</coloridentity>
+                <pt>20/0</pt>
                 <format-standard>ilegal</format-standard>
                 <format-commander>ilegal</format-commander>
                 <format-modern>ilegal</format-modern>
@@ -1306,7 +1307,7 @@ Ao resolver um ícone de bônus, você pode, em vez disso, escolher resolvê-lo 
             </prop>
         </card>
         <card>
-            <name>Ultra Gravitron</name>
+            <name>Ultra Gravitron (2 de 2)</name>
             <text>(Jogue apenas com a outra metade de Ultra Gravitron.)
 Jogar: Arquive as 5 cartas do topo do seu baralho.
 Luta/Coleta: Descarte uma carta do seu arquivo.
@@ -2244,7 +2245,7 @@ de 6) para cada casa representada entre as cartas em jogo, exceto o Santuário.<
             </prop>
         </card>
         <card>
-            <name>Deusilla</name>
+            <name>Deusilla (2 de 2)</name>
             <text>(Jogue apenas com a outra metade de Deusilla.)
 Jogar: Capture todo o A do seu oponente. Cause 5D
 a uma criatura inimiga.
@@ -3346,7 +3347,7 @@ Jogar: Você pode coletar com cada criatura vizinha, uma por vez.</text>
             </prop>
         </card>
         <card>
-            <name>Inane Kong</name>
+            <name>Inane Kong (1 de 2)</name>
             <text>(Jogue apenas com a outra metade de Inane Kong.)
 Jogar: Procure qualquer número de criaturas Inane no seu baralho e na sua pilha de descarte, revele-as, e coloque-as na sua mão. Embaralhe o seu baralho.
 Luta/Coleta: Você pode destruir uma criatura Inane amiga. Se o fizer, cause 3D a uma criatura, roube 1A
@@ -3360,6 +3361,7 @@ e destrua um artefato inimigo.</text>
                 <maintype>Creature1</maintype>
                 <colors>Indomados</colors>
                 <coloridentity>Indomados</coloridentity>
+                <pt>12/2</pt>
                 <format-standard>ilegal</format-standard>
                 <format-commander>ilegal</format-commander>
                 <format-modern>ilegal</format-modern>
@@ -4433,7 +4435,7 @@ Todas as criaturas amigas com A sobre elas ganham elusivo.</text>
             </prop>
         </card>
         <card>
-            <name>Inane Kong</name>
+            <name>Inane Kong (2 de 2)</name>
             <text>(Jogue apenas com a outra metade de Inane Kong.)
 Jogar: Procure qualquer número de criaturas Inane no seu baralho e na sua pilha de descarte, revele-as, e coloque-as na sua mão. Embaralhe o seu baralho.
 Luta/Coleta: Você pode destruir uma criatura Inane amiga. Se o fizer, cause 3D a uma criatura, roube 1A
@@ -8414,7 +8416,7 @@ Coleta: Use um artefato inimigo como se fosse seu.</text>
             </prop>
         </card>
         <card>
-            <name>Ultra Gravitron</name>
+            <name>Ultra Gravitron (1 de 2)</name>
             <text>(Jogue apenas com a outra metade de Ultra Gravitron.)
 Jogar: Arquive as 5 cartas do topo do seu baralho.
 Luta/Coleta: Descarte uma carta do seu arquivo.
@@ -8428,6 +8430,7 @@ Se o fizer, expurgue uma criatura e resolva cada um dos ícones bônus dela como
                 <maintype>Creature1</maintype>
                 <colors>Logos</colors>
                 <coloridentity>Logos</coloridentity>
+                <pt>10/3</pt>
                 <format-standard>ilegal</format-standard>
                 <format-commander>ilegal</format-commander>
                 <format-modern>ilegal</format-modern>

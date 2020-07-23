@@ -50,7 +50,7 @@
         </card>
         <card>
             <name>Lupo, o Marcado</name>
-            <text>Combate. (Quando usar esta criatura para 
+            <text>Combate. (Quando usar esta criatura para
 lutar, ela não sofre dano da criatura oponente.)
 Jogar: Cause 2D a uma criatura inimiga.</text>
             <cipt>1</cipt>
@@ -129,8 +129,8 @@ Jogar: Cause 2D a uma criatura inimiga.</text>
         </card>
         <card>
             <name>Homem-Cogumelo</name>
-            <text>O Homem-Cogumelo tem +3 de 
-poder para cada chave não forjada 
+            <text>O Homem-Cogumelo tem +3 de
+poder para cada chave não forjada
 que você possuir.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
@@ -344,7 +344,7 @@ Jogar: Roube 1A.</text>
         </card>
         <card>
             <name>Bombardeio Orbital</name>
-            <text>Jogar: Revele da sua mão quantas cartas de Marte quiser. Para cada carta revelada desta forma, cause 2D a uma criatura. 
+            <text>Jogar: Revele da sua mão quantas cartas de Marte quiser. Para cada carta revelada desta forma, cause 2D a uma criatura.
 (Você pode escolher uma criatura diferente a cada vez.)</text>
             <tablerow>3</tablerow>
             <set rarity="Uncommon" uuid="0bd7cbf7-7d34-4a45-9049-217146229968" num="172" muid="341-172" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_172_4CX23PH9H69J_pt.png">cota</set>
@@ -462,7 +462,7 @@ Luta/Coleta: Capture 1A.</text>
         </card>
         <card>
             <name>Dispositivo de Troca</name>
-            <text>Ação: Devolva à sua mão uma criatura de Marte amiga e preparada. Se o fizer, coloque em jogo, da sua mão, uma criatura de Marte de nome diferente, 
+            <text>Ação: Devolva à sua mão uma criatura de Marte amiga e preparada. Se o fizer, coloque em jogo, da sua mão, uma criatura de Marte de nome diferente,
 e então prepare-a.</text>
             <cipt>1</cipt>
             <tablerow>0</tablerow>
@@ -482,7 +482,7 @@ e então prepare-a.</text>
         </card>
         <card>
             <name>Medo</name>
-            <text>Jogar: Devolva uma criatura inimiga 
+            <text>Jogar: Devolva uma criatura inimiga
 à mão do seu dono.</text>
             <tablerow>3</tablerow>
             <set rarity="Common" uuid="10715fd2-031a-47ca-9119-9b7b2ec1d2c0" num="058" muid="341-058" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_058_7RV7CX53R83P_pt.png">cota</set>
@@ -604,7 +604,7 @@ Ação: Embaralhe o Viajante do Tempo no seu baralho.</text>
         <card>
             <name>Teórico de Vespilon</name>
             <text>Elusivo. (A cada turno, na primeira vez em que esta criatura for atacada, nenhum dano é sofrido.)
-Coleta: Escolha uma casa. Revele a carta do topo do seu baralho. Se ela for da casa escolhida, arquive-a e ganhe 1A. 
+Coleta: Escolha uma casa. Revele a carta do topo do seu baralho. Se ela for da casa escolhida, arquive-a e ganhe 1A.
 Caso contrário, descarte-a.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
@@ -663,7 +663,7 @@ Caso contrário, descarte-a.</text>
         </card>
         <card>
             <name>Explosão de PEM</name>
-            <text>Jogar: Cada criatura de Marte 
+            <text>Jogar: Cada criatura de Marte
 e cada criatura Robô fica atordoada. Cada artefato é destruído.</text>
             <tablerow>3</tablerow>
             <set rarity="Uncommon" uuid="1691e035-1eab-41de-ad18-26245265e64f" num="163" muid="341-163" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_163_HWF789XR9CMR_pt.png">cota</set>
@@ -875,8 +875,8 @@ Todo A que seria adicionado à reserva de seu oponente, em vez disso, é captura
         <card>
             <name>Missão Épica</name>
             <text>Jogar: Arquive cada criatura Cavaleira amiga em jogo.
-Onisciente: Se você tiver jogado 7 
-ou mais cartas de Santuário neste turno, sacrifique Missão Épica e forje uma 
+Onisciente: Se você tiver jogado 7
+ou mais cartas de Santuário neste turno, sacrifique Missão Épica e forje uma
 chave sem custos.</text>
             <cipt>1</cipt>
             <tablerow>0</tablerow>
@@ -954,8 +954,8 @@ chave sem custos.</text>
         </card>
         <card>
             <name>Yxilx Dominador</name>
-            <text>Provocar. (Os vizinhos desta criatura 
-não podem ser atacados a menos que 
+            <text>Provocar. (Os vizinhos desta criatura
+não podem ser atacados a menos que
 tenham provocar.)
 Yxilx Dominador entra em jogo atordoado.</text>
             <cipt>1</cipt>
@@ -1090,7 +1090,7 @@ Yxilx Dominador entra em jogo atordoado.</text>
         </card>
         <card>
             <name>Mack, a Faca</name>
-            <text>Elusivo. 
+            <text>Elusivo.
 Você pode usar Mack, a Faca, como se pertencesse à casa ativa.
 Ação: Cause 1D a uma criatura. Se esse dano destruir a criatura, ganhe 1A.</text>
             <cipt>1</cipt>
@@ -1288,7 +1288,7 @@ Destruído: Ganhe 5A.</text>
             <name>Símio Rude</name>
             <text>Provocar. (Os vizinhos desta criatura não podem ser atacados a menos que tenham provocar.)
 O Símio Rude entra em jogo atordoado.
-Luta/Coleta: Você pode sacrificar outra 
+Luta/Coleta: Você pode sacrificar outra
 criatura amiga. Se o fizer, cure completamente o Símio Rude.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
@@ -1506,7 +1506,7 @@ Jogar/Coleta: Atordoe uma criatura.</text>
         </card>
         <card>
             <name>Quixo, o "Aventureiro"</name>
-            <text>Combate. (Quando usar esta criatura para lutar, ela não sofre dano da 
+            <text>Combate. (Quando usar esta criatura para lutar, ela não sofre dano da
 criatura oponente.)
 Luta: Compre uma carta.</text>
             <cipt>1</cipt>
@@ -1678,7 +1678,7 @@ Luta: Compre uma carta.</text>
         </card>
         <card>
             <name>Envolto em Chamas</name>
-            <text>Esta criatura tem +2 de poder e ganha perigo 2. (Antes que esta criatura seja atacada, cause 2D 
+            <text>Esta criatura tem +2 de poder e ganha perigo 2. (Antes que esta criatura seja atacada, cause 2D
 ao inimigo atacante.)</text>
             <tablerow>1</tablerow>
             <set rarity="Uncommon" uuid="365b2432-0b7f-4f67-9fa6-e4b726de5c4e" num="106" muid="341-106" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_106_4G49CMC5XCX4_pt.png">cota</set>
@@ -1760,7 +1760,7 @@ Luta/Coleta: Cure 3 danos de uma criatura de Marte ou atordoe uma criatura de Ma
         </card>
         <card>
             <name>Fazer Reféns</name>
-            <text>Jogar: Pelo restante do turno, 
+            <text>Jogar: Pelo restante do turno,
 sempre que uma criatura amiga lutar, ela captura 1A.</text>
             <tablerow>3</tablerow>
             <set rarity="Common" uuid="37f09612-6ebb-4374-b598-ad0614f2d729" num="226" muid="341-226" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_226_VMCJ79WHJVR2_pt.png">cota</set>
@@ -1862,7 +1862,7 @@ Luta: Roube 1A.</text>
         </card>
         <card>
             <name>Bilgum Avalanche</name>
-            <text>Após forjar uma chave, cause 2D 
+            <text>Após forjar uma chave, cause 2D
 a cada criatura inimiga.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
@@ -1883,7 +1883,7 @@ a cada criatura inimiga.</text>
         </card>
         <card>
             <name>Súcubo</name>
-            <text>No passo de “comprar cartas” do oponente, ele repõe a mão com 1 
+            <text>No passo de “comprar cartas” do oponente, ele repõe a mão com 1
 carta a menos.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
@@ -1904,7 +1904,7 @@ carta a menos.</text>
         </card>
         <card>
             <name>Drone-Morcego</name>
-            <text>Combate. (Quando usar esta criatura para lutar, ela não sofre dano da 
+            <text>Combate. (Quando usar esta criatura para lutar, ela não sofre dano da
 criatura oponente.)
 Luta: Roube 1A.</text>
             <cipt>1</cipt>
@@ -2041,8 +2041,8 @@ Luta: Roube 1A.</text>
         </card>
         <card>
             <name>Coração de Fênix</name>
-            <text>Esta criatura ganha: “Destruído: Devolva esta criatura à mão do 
-dono e cause 3D a cada criatura 
+            <text>Esta criatura ganha: “Destruído: Devolva esta criatura à mão do
+dono e cause 3D a cada criatura
 em jogo.”</text>
             <tablerow>1</tablerow>
             <set rarity="Rare" uuid="3f4e726d-9615-47c6-9b24-b1640c444a6c" num="051" muid="341-051" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_051_6X84PQ7GMFP9_pt.png">cota</set>
@@ -2061,9 +2061,9 @@ em jogo.”</text>
         </card>
         <card>
             <name>Dragão Kelifi</name>
-            <text>O Dragão Kelifi não pode ser jogado 
+            <text>O Dragão Kelifi não pode ser jogado
 a menos que você tenha 7A ou mais.
-Luta/Coleta: Ganhe 1A. Cause 5D 
+Luta/Coleta: Ganhe 1A. Cause 5D
 a uma criatura.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
@@ -2221,8 +2221,8 @@ a uma criatura.</text>
         </card>
         <card>
             <name>Tentáculos de Dor</name>
-            <text>Jogar: Cause 1D a cada criatura. Cause 3D extras a cada criatura se 
-o seu oponente forjou uma chave 
+            <text>Jogar: Cause 1D a cada criatura. Cause 3D extras a cada criatura se
+o seu oponente forjou uma chave
 no último turno dele.</text>
             <tablerow>3</tablerow>
             <set rarity="Uncommon" uuid="45bc71b4-3465-4917-a67f-f4928d22d795" num="064" muid="341-064" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_064_WCMG558RP6QV_pt.png">cota</set>
@@ -2363,7 +2363,7 @@ Luta/Coleta: Prepare uma criatura de Marte que não seja Agente.</text>
         </card>
         <card>
             <name>Mente Limpa</name>
-            <text>Jogar: Desatordoe todas as criaturas 
+            <text>Jogar: Desatordoe todas as criaturas
 amigas.</text>
             <tablerow>3</tablerow>
             <set rarity="Rare" uuid="4e9e09ba-66b9-4fc8-a61d-ca2dad320a5c" num="216" muid="341-216" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_216_4CVXQJV2QG3P_pt.png">cota</set>
@@ -2751,7 +2751,7 @@ Ação: Devolva a Lady Maxena à mão de seu dono.</text>
         <card>
             <name>Goblin Ladrão</name>
             <text>Elusivo. (A cada turno, na primeira vez em que esta criatura for atacada, nenhum dano é sofrido.)
-Coleta: Pelo restante do turno, 
+Coleta: Pelo restante do turno,
 ganhe 1A sempre que uma criatura inimiga for destruída.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
@@ -2809,7 +2809,7 @@ ganhe 1A sempre que uma criatura inimiga for destruída.</text>
         <card>
             <name>Curvador de Mentes</name>
             <text>Elusivo. (A cada turno, na primeira vez em que esta criatura for atacada, nenhum dano é sofrido.)
-Ação: Escolha uma criatura inimiga. 
+Ação: Escolha uma criatura inimiga.
 Ela captura 1A de seu próprio lado.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
@@ -3023,7 +3023,7 @@ Ela captura 1A de seu próprio lado.</text>
         </card>
         <card>
             <name>Bola de Lava</name>
-            <text>Jogar: Cause 4D a uma criatura 
+            <text>Jogar: Cause 4D a uma criatura
 com 2D de espalhar.</text>
             <tablerow>3</tablerow>
             <set rarity="Rare" uuid="67e81873-d126-4e97-a9b6-b0ad4368f1c3" num="009" muid="341-009" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_009_G7F5XC6J5QMG_pt.png">cota</set>
@@ -3042,7 +3042,7 @@ com 2D de espalhar.</text>
         </card>
         <card>
             <name>Numquid, a Bela</name>
-            <text>Jogar: Destrua uma criatura inimiga. Repita o efeito desta carta se o seu oponente ainda controlar mais 
+            <text>Jogar: Destrua uma criatura inimiga. Repita o efeito desta carta se o seu oponente ainda controlar mais
 criaturas que você.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
@@ -3535,7 +3535,7 @@ Coleta: Atordoe e deixe exausta uma criatura.</text>
         <card>
             <name>Universo de Bolso</name>
             <text>Você pode gastar A do Universo de Bolso ao forjar chaves.
-Ação: Mova 1A da sua reserva para 
+Ação: Mova 1A da sua reserva para
 o Universo de Bolso.</text>
             <cipt>1</cipt>
             <tablerow>0</tablerow>
@@ -3574,7 +3574,7 @@ o Universo de Bolso.</text>
         </card>
         <card>
             <name>Erosor</name>
-            <text>Jogar: Se o seu oponente tiver 4A 
+            <text>Jogar: Se o seu oponente tiver 4A
 ou mais, roube 1A.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
@@ -3730,7 +3730,7 @@ ou mais, roube 1A.</text>
         </card>
         <card>
             <name>Guardião do Portal</name>
-            <text>Jogar: Se o seu oponente tiver 7A 
+            <text>Jogar: Se o seu oponente tiver 7A
 ou mais, capture todos acima de 5.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
@@ -3809,9 +3809,9 @@ ou mais, capture todos acima de 5.</text>
         </card>
         <card>
             <name>Ergam-se!</name>
-            <text>Jogar: Escolha uma casa. Devolva 
-cada criatura daquela casa de sua 
-pilha de descartes para sua mão. 
+            <text>Jogar: Escolha uma casa. Devolva
+cada criatura daquela casa de sua
+pilha de descartes para sua mão.
 Ganhe 1 corrente.</text>
             <tablerow>3</tablerow>
             <set rarity="Common" uuid="892c0a68-5213-48b2-8883-2ac3c97ac83c" num="054" muid="341-054" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_054_F9GHFCWJ233R_pt.png">cota</set>
@@ -3849,7 +3849,7 @@ Ganhe 1 corrente.</text>
         </card>
         <card>
             <name>Gigante Lançador de Pedras</name>
-            <text>No seu turno, sempre que descartar uma carta de Brobnar de sua mão, 
+            <text>No seu turno, sempre que descartar uma carta de Brobnar de sua mão,
 você pode causar 4D a uma criatura.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
@@ -3926,7 +3926,7 @@ você pode causar 4D a uma criatura.</text>
         </card>
         <card>
             <name>Botas de Foguete</name>
-            <text>Esta criatura ganha: “Luta/Coleta: 
+            <text>Esta criatura ganha: “Luta/Coleta:
 Se esta for a primeira vez em que esta criatura é usada neste turno, deixe-a preparada.”</text>
             <tablerow>1</tablerow>
             <set rarity="Uncommon" uuid="8e3d6aaf-e740-4924-86aa-57689c7cbdab" num="158" muid="341-158" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_158_WMW7JV5QGXW6_pt.png">cota</set>
@@ -3964,7 +3964,7 @@ Se esta for a primeira vez em que esta criatura é usada neste turno, deixe-a pr
         </card>
         <card>
             <name>Ombreira</name>
-            <text>Enquanto esta criatura estiver no flanco, ela tem +2 de armadura 
+            <text>Enquanto esta criatura estiver no flanco, ela tem +2 de armadura
 e +2 de poder.</text>
             <tablerow>1</tablerow>
             <set rarity="Uncommon" uuid="9095c1fe-1783-4b09-9d90-6164234a73aa" num="266" muid="341-266" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_266_F6GMMXCFJ9PC_pt.png">cota</set>
@@ -4104,8 +4104,8 @@ Veneno. (Qualquer dano causado pelo poder desta criatura durante uma luta destr�
         </card>
         <card>
             <name>Portal de Invasão</name>
-            <text>Ação: Descarte cartas do topo do 
-seu baralho até descartar uma criatura de Marte ou acabarem as cartas. 
+            <text>Ação: Descarte cartas do topo do
+seu baralho até descartar uma criatura de Marte ou acabarem as cartas.
 Se descartar uma criatura de Marte desta forma, coloque-a na sua mão.</text>
             <cipt>1</cipt>
             <tablerow>0</tablerow>
@@ -4182,7 +4182,7 @@ Se descartar uma criatura de Marte desta forma, coloque-a na sua mão.</text>
         </card>
         <card>
             <name>Três Destinos</name>
-            <text>Jogar: Destrua as 3 criaturas mais 
+            <text>Jogar: Destrua as 3 criaturas mais
 poderosas.</text>
             <tablerow>3</tablerow>
             <set rarity="Uncommon" uuid="9644c85a-12a7-44ff-a8bb-877dddb46995" num="071" muid="341-071" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_071_5P29489P6443_pt.png">cota</set>
@@ -4261,7 +4261,7 @@ poderosas.</text>
         </card>
         <card>
             <name>Altar de Sacrifícios</name>
-            <text>Ação: Expurgue uma criatura Humana amiga que esteja em jogo. Se o fizer, 
+            <text>Ação: Expurgue uma criatura Humana amiga que esteja em jogo. Se o fizer,
 jogue uma criatura da sua pilha de descartes.</text>
             <cipt>1</cipt>
             <tablerow>0</tablerow>
@@ -4566,7 +4566,7 @@ Onisciente: Jogue a carta sob Plano Magistral. Sacrifique Plano Magistral.</text
         </card>
         <card>
             <name>Acesso à Biblioteca</name>
-            <text>Jogar: Pelo restante do turno, 
+            <text>Jogar: Pelo restante do turno,
 sempre que você jogar outra carta, compre uma carta.</text>
             <tablerow>3</tablerow>
             <set rarity="Common" uuid="a429a71c-e558-4ee6-af48-6326df3d4b0f" num="115" muid="341-115" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_115_4J2C745JC5V2_pt.png">cota</set>
@@ -4624,8 +4624,8 @@ sempre que você jogar outra carta, compre uma carta.</text>
         </card>
         <card>
             <name>Máquina de Matar Maluca</name>
-            <text>Ação: Descarte a carta do topo do baralho de cada jogador. Para cada uma dessas cartas, destrua uma criatura ou um artefato da casa da carta descartada, se possível. 
-Se não forem destruídas 2 cartas desta forma, 
+            <text>Ação: Descarte a carta do topo do baralho de cada jogador. Para cada uma dessas cartas, destrua uma criatura ou um artefato da casa da carta descartada, se possível.
+Se não forem destruídas 2 cartas desta forma,
 destrua a Máquina de Matar Maluca.</text>
             <cipt>1</cipt>
             <tablerow>0</tablerow>
@@ -4704,7 +4704,7 @@ destrua a Máquina de Matar Maluca.</text>
         </card>
         <card>
             <name>Proteja os Fracos</name>
-            <text>Esta criatura tem +1 de armadura e ganha provocar. (Os vizinhos desta criatura não podem ser atacados 
+            <text>Esta criatura tem +1 de armadura e ganha provocar. (Os vizinhos desta criatura não podem ser atacados
 a menos que tenham provocar.)</text>
             <tablerow>1</tablerow>
             <set rarity="Common" uuid="a8b24d43-1940-4852-afcb-d034d99da55d" num="265" muid="341-265" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_265_36392V5F286G_pt.png">cota</set>
@@ -4937,7 +4937,7 @@ Antes da Luta: Atordoe a criatura que luta contra Zorg e cada um dos vizinhos de
         </card>
         <card>
             <name>Agulha Perseguidora</name>
-            <text>Ação: Cause 1D a uma criatura. 
+            <text>Ação: Cause 1D a uma criatura.
 Se esse dano destruir aquela criatura, ganhe 1A.</text>
             <cipt>1</cipt>
             <tablerow>0</tablerow>
@@ -5135,7 +5135,7 @@ Se o seu oponente não tiver criaturas em jogo, destrua Crocag Incansável.</tex
         </card>
         <card>
             <name>Tentácus</name>
-            <text>O seu oponente tem de pagar 1A 
+            <text>O seu oponente tem de pagar 1A
 a você para usar um artefato.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
@@ -5353,7 +5353,7 @@ Coleta: Se tiver forjado uma chave neste turno, assuma o controle de uma criatur
         <card>
             <name>Terapia Experimental</name>
             <text>Esta criatura pertence a todas as casas.
-Jogar: Atordoe esta criatura 
+Jogar: Atordoe esta criatura
 e deixe-a exausta.</text>
             <tablerow>1</tablerow>
             <set rarity="Uncommon" uuid="bec84d69-68f0-456c-a7bd-9f1e94d55a22" num="157" muid="341-157" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_157_4FCPWQMVGPC_pt.png">cota</set>
@@ -5391,7 +5391,7 @@ e deixe-a exausta.</text>
         </card>
         <card>
             <name>Mecânico do Titã</name>
-            <text>Enquanto o Mecânico do Titã estiver 
+            <text>Enquanto o Mecânico do Titã estiver
 no flanco, cada chave custa –1A.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
@@ -5451,7 +5451,7 @@ no flanco, cada chave custa –1A.</text>
         <card>
             <name>Zumbido</name>
             <text>Elusivo. (A cada turno, na primeira vez em que esta criatura for atacada, nenhum dano é sofrido.)
-Jogar: Se o seu oponente tiver 7A 
+Jogar: Se o seu oponente tiver 7A
 ou mais, capture tudo.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
@@ -5492,7 +5492,7 @@ ou mais, capture tudo.</text>
         </card>
         <card>
             <name>Restringuntus</name>
-            <text>Jogar: Escolha uma casa. O seu oponente 
+            <text>Jogar: Escolha uma casa. O seu oponente
 não pode escolher essa casa como casa ativa dele até que Restringuntus saia do jogo.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
@@ -5533,11 +5533,11 @@ não pode escolher essa casa como casa ativa dele até que Restringuntus saia do
         </card>
         <card>
             <name>Phylyx, o Disintegrador</name>
-            <text>Elusivo. (A cada turno, na primeira vez 
-em que esta criatura for atacada, 
+            <text>Elusivo. (A cada turno, na primeira vez
+em que esta criatura for atacada,
 nenhum dano é sofrido.)
-Ação: O seu oponente perde 1A 
-para cada uma das outras criaturas 
+Ação: O seu oponente perde 1A
+para cada uma das outras criaturas
 de Marte amigas.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
@@ -5558,8 +5558,8 @@ de Marte amigas.</text>
         </card>
         <card>
             <name>Ritual da Caça</name>
-            <text>Onisciente: Sacrifique o Ritual da Caça. 
-Pelo restante do turno, você pode 
+            <text>Onisciente: Sacrifique o Ritual da Caça.
+Pelo restante do turno, você pode
 usar criaturas dos Indomados amigas.</text>
             <cipt>1</cipt>
             <tablerow>0</tablerow>
@@ -5658,8 +5658,8 @@ Jogar: Cure completamente esta criatura.</text>
         </card>
         <card>
             <name>Pilha de Crânios</name>
-            <text>Toda vez que uma criatura inimiga 
-for destruída durante o seu turno, 
+            <text>Toda vez que uma criatura inimiga
+for destruída durante o seu turno,
 uma criatura amiga captura 1A.</text>
             <cipt>1</cipt>
             <tablerow>0</tablerow>
@@ -5799,9 +5799,9 @@ Ação: Sacrifique O Ferrão.</text>
         </card>
         <card>
             <name>Senhor do Abismo</name>
-            <text>Provocar. (Os vizinhos desta criatura 
+            <text>Provocar. (Os vizinhos desta criatura
 não podem ser atacados a menos que tenham provocar.)
-Enquanto o Senhor do Abismo estiver 
+Enquanto o Senhor do Abismo estiver
 em jogo, você tem de escolher Dis como sua casa ativa.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
@@ -5899,7 +5899,7 @@ em jogo, você tem de escolher Dis como sua casa ativa.</text>
         </card>
         <card>
             <name>Inseto Psíquico</name>
-            <text>Jogar/Coleta: Olhe a mão do seu 
+            <text>Jogar/Coleta: Olhe a mão do seu
 oponente.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
@@ -5961,7 +5961,7 @@ Coleta: Cure 2 danos de uma criatura.</text>
         </card>
         <card>
             <name>Revelação de Omm</name>
-            <text>Onisciente: Sacrifique a Revelação 
+            <text>Onisciente: Sacrifique a Revelação
 de Omm. Destrua um artefato.</text>
             <cipt>1</cipt>
             <tablerow>0</tablerow>
@@ -6020,8 +6020,8 @@ de Omm. Destrua um artefato.</text>
         </card>
         <card>
             <name>Controle os Fracos</name>
-            <text>Jogar: Escolha uma casa na carta 
-de identidade do seu oponente. 
+            <text>Jogar: Escolha uma casa na carta
+de identidade do seu oponente.
 Seu oponente deve escolher aquela casa como casa ativa no próximo turno dele.</text>
             <tablerow>3</tablerow>
             <set rarity="Common" uuid="d2edea65-7c2f-487f-a6f4-f44a077c4a65" num="055" muid="341-055" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_055_7CJ4H2WMJWQ2_pt.png">cota</set>
@@ -6059,7 +6059,7 @@ Seu oponente deve escolher aquela casa como casa ativa no próximo turno dele.</
         </card>
         <card>
             <name>Ocaso do Covarde</name>
-            <text>Jogar: Destrua todas as criaturas 
+            <text>Jogar: Destrua todas as criaturas
 sem dano. Ganhe 3 correntes.</text>
             <tablerow>3</tablerow>
             <set rarity="Common" uuid="d438faa9-7920-437a-8d1c-682fade5d350" num="007" muid="341-007" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_007_CFRV9R6JG7P7_pt.png">cota</set>
@@ -6297,7 +6297,7 @@ Coleta: Use um artefato do oponente como se fosse seu.</text>
         </card>
         <card>
             <name>Fungaré</name>
-            <text>Combate. (Quando usar esta criatura para lutar, ela não sofre dano da 
+            <text>Combate. (Quando usar esta criatura para lutar, ela não sofre dano da
 criatura oponente.)</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
@@ -6379,7 +6379,7 @@ Coleta: Destrua uma criatura no flanco.</text>
         </card>
         <card>
             <name>Corredor Crepuscular</name>
-            <text>Esta criatura ganha: “Coletar: 
+            <text>Esta criatura ganha: “Coletar:
 Roube 1A.”</text>
             <tablerow>1</tablerow>
             <set rarity="Uncommon" uuid="df4257dc-ac9c-40cf-ba1b-a77fffe960df" num="316" muid="341-316" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_316_P6MMX3WR7MC6_pt.png">cota</set>
@@ -6498,7 +6498,7 @@ Ação: Ganhe 3A.</text>
         </card>
         <card>
             <name>Fosso de Alimentação</name>
-            <text>Ação: Descarte uma criatura da sua mão. 
+            <text>Ação: Descarte uma criatura da sua mão.
 Se o fizer, ganhe 1A.</text>
             <cipt>1</cipt>
             <tablerow>0</tablerow>
@@ -6559,8 +6559,8 @@ Se o fizer, ganhe 1A.</text>
         </card>
         <card>
             <name>Acampamento Exposto</name>
-            <text>Jogar: Para cada criatura que você 
-tiver a mais do que o seu oponente, uma criatura amiga captura 1A. 
+            <text>Jogar: Para cada criatura que você
+tiver a mais do que o seu oponente, uma criatura amiga captura 1A.
 Cada criatura não pode capturar mais do que 1A desta forma.</text>
             <tablerow>3</tablerow>
             <set rarity="Uncommon" uuid="e9aefff3-acef-41e3-8258-182588f2b24c" num="017" muid="341-017" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_017_64F73PR27H7P_pt.png">cota</set>
@@ -6659,7 +6659,7 @@ Cada criatura não pode capturar mais do que 1A desta forma.</text>
         </card>
         <card>
             <name>Batedor</name>
-            <text>Jogar: Pelo restante do turno, até 2 criaturas amigas ganham combate. 
+            <text>Jogar: Pelo restante do turno, até 2 criaturas amigas ganham combate.
 Em seguida, lute com essas criaturas, uma por vez.</text>
             <tablerow>3</tablerow>
             <set rarity="Rare" uuid="eef21950-66f9-4535-b126-34d634fe524d" num="334" muid="341-334" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_334_W8RW3VC8V333_pt.png">cota</set>
@@ -6679,9 +6679,9 @@ Em seguida, lute com essas criaturas, uma por vez.</text>
         </card>
         <card>
             <name>Sinal da Irmandade</name>
-            <text>Onisciente: Sacrifique o Sinal 
-da Irmandade. Pelo restante do 
-turno, você pode usar criaturas 
+            <text>Onisciente: Sacrifique o Sinal
+da Irmandade. Pelo restante do
+turno, você pode usar criaturas
 do Santuário amigas.</text>
             <cipt>1</cipt>
             <tablerow>0</tablerow>
@@ -6741,7 +6741,7 @@ do Santuário amigas.</text>
         <card>
             <name>Deipno Mestre-Espião</name>
             <text>Elusivo. (A cada turno, na primeira vez em que esta criatura for atacada, nenhum dano é sofrido.)
-Onisciente: Escolha uma criatura amiga. 
+Onisciente: Escolha uma criatura amiga.
 Você pode usá-la neste turno.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
@@ -6860,7 +6860,7 @@ Coleta: Ganhe 1A.</text>
         </card>
         <card>
             <name>Autoajuda do Futuro</name>
-            <text>Jogar: Procure no seu baralho e na sua pilha de descartes por um Viajante do Tempo, revele-o e coloque-o na sua mão. 
+            <text>Jogar: Procure no seu baralho e na sua pilha de descartes por um Viajante do Tempo, revele-o e coloque-o na sua mão.
 Embaralhe sua pilha de descartes de volta no seu baralho.</text>
             <tablerow>3</tablerow>
             <set rarity="FIXED" uuid="f4497a06-5ae3-4706-86b6-c0c141b8f788" num="111" muid="341-111" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_111_5WMP36R2MHF_pt.png">cota</set>
@@ -6937,8 +6937,8 @@ Embaralhe sua pilha de descartes de volta no seu baralho.</text>
         </card>
         <card>
             <name>Atacar!</name>
-            <text>Jogar: Pelo restante do turno, 
-cada criatura que você jogar ganha: 
+            <text>Jogar: Pelo restante do turno,
+cada criatura que você jogar ganha:
 “Jogar: Cause 2D a uma criatura inimiga.”</text>
             <tablerow>3</tablerow>
             <set rarity="Rare" uuid="f5cbdafd-487d-453b-96bb-a09378d1359f" num="214" muid="341-214" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_214_X3RQF994MG6R_pt.png">cota</set>
@@ -7076,7 +7076,7 @@ Jogar: Capture 1A para cada criatura de Marte preparada e amiga.</text>
         </card>
         <card>
             <name>Arma de Raios Marciana</name>
-            <text>Esta criatura ganha: “Coletar: Escolha uma criatura. Cause 1D 
+            <text>Esta criatura ganha: “Coletar: Escolha uma criatura. Cause 1D
 a essa criatura para cada criatura de Marte em jogo.”</text>
             <tablerow>1</tablerow>
             <set rarity="Uncommon" uuid="f75dda7d-680c-4bd5-8813-d04646857753" num="211" muid="341-211" picurl="https://cdn.keyforgegame.com/media/card_front/pt/341_211_PQFJWQ3VVVGJ_pt.png">cota</set>
@@ -7212,7 +7212,7 @@ a essa criatura para cada criatura de Marte em jogo.”</text>
         </card>
         <card>
             <name>Alfândega</name>
-            <text>O seu oponente tem de pagar 1A 
+            <text>O seu oponente tem de pagar 1A
 a você para jogar um artefato.</text>
             <cipt>1</cipt>
             <tablerow>0</tablerow>
