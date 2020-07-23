@@ -16,7 +16,7 @@ hero_image: <%- expansion.image %>
 | Casa | ![<%- card.house %>](<%- house.image %> "<%- house.name %>") |<%}%>
 | Tipo | <%- type %> |<%if (card.traits){%>
 | Atributos | <%- card.traits %> |<%}%><%if (card.amber){%>
-| Bônus | <%- card.amber %>A |<%}%><%if (card.card_type === 'Creature'){%>
+| Bônus | <%- card.amber %>A |<%}%><%if (card.card_type === 'Creature' || card.card_type === 'Creature1'){%>
 | Poder | <%- card.power ? card.power : '0' %> |
 | Armadura | <%- card.armor ? card.armor : '0' %> |<%}%><%if (card.card_text){%>
 | Texto | <%- text %> |<%}%>
