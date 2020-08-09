@@ -7,6 +7,7 @@
     "createXmls": "node ./createSets",
     "importDecks": "node ./createDecks",
     "generatePages": "node ./createPages",
+    "generateStats": "node ./createStats",
     "pretest": "eslint .",
     "test": "jest"
   },

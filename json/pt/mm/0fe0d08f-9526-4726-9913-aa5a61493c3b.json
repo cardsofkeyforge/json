@@ -1,0 +1,19 @@
+{
+  "id": "0fe0d08f-9526-4726-9913-aa5a61493c3b",
+  "card_title": "Traje de Encontro",
+  "house": "Star Alliance",
+  "card_type": "Upgrade",
+  "front_image": "https://cdn.keyforgegame.com/media/card_front/pt/479_339_J86RVX95VGV2_pt.png",
+  "card_text": "Após uma carta de ação ser jogada mas antes de resolver seu efeito de jogo, proteja esta criatura.",
+  "traits": "",
+  "amber": 0,
+  "power": null,
+  "armor": null,
+  "rarity": "Rare",
+  "flavor_text": "Só porque o ar deste setor é respirável, \rnão significa que o do próximo também será.",
+  "card_number": "339",
+  "expansion": 479,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false
+}

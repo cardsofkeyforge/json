@@ -407,6 +407,24 @@ Cada criatura Mutante amiga tem +2 de poder.</text>
             </prop>
         </card>
         <card>
+            <name>Traje de Encontro</name>
+            <text>Após uma carta de ação ser jogada mas antes de resolver seu efeito de jogo, proteja esta criatura.</text>
+            <tablerow>1</tablerow>
+            <set rarity="Rare" uuid="0fe0d08f-9526-4726-9913-aa5a61493c3b" num="339" muid="479-339" picurl="https://cdn.keyforgegame.com/media/card_front/pt/479_339_J86RVX95VGV2_pt.png">mm</set>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Upgrade</type>
+                <maintype>Upgrade</maintype>
+                <colors>Aliança Estelar</colors>
+                <coloridentity>Aliança Estelar</coloridentity>
+                <format-standard>ilegal</format-standard>
+                <format-commander>ilegal</format-commander>
+                <format-modern>ilegal</format-modern>
+                <format-pauper>ilegal</format-pauper>
+            </prop>
+        </card>
+        <card>
             <name>O Ferrão</name>
             <text>Pule o seu passo de “forjar uma chave”.
 Você ganha todo A gasto pelo seu oponente para forjar chaves.
