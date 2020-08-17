@@ -1,1 +1,20 @@
-{"id":"a313d1a5-0ace-4660-a786-cafb513bfe7e","card_title":"Foro de Gigantes","house":"Saurian","card_type":"Artifact","front_image":"https://cdn.keyforgegame.com/media/card_front/pt/479_219_69G93QGR7H2H_pt.png","card_text":"No início do seu próximo turno, \ro jogador que controlar a criatura \rmais poderosa ganha 1A.","traits":"Lugar","amber":1,"power":null,"armor":null,"rarity":"Rare","flavor_text":"","card_number":"219","expansion":479,"is_maverick":false,"is_anomaly":false,"is_enhanced":false}
+{
+  "id": "a313d1a5-0ace-4660-a786-cafb513bfe7e",
+  "card_title": "Foro de Gigantes",
+  "house": "Saurian",
+  "card_type": "Artifact",
+  "front_image": "https://cdn.keyforgegame.com/media/card_front/pt/479_219_69G93QGR7H2H_pt.png",
+  "card_text": "No início do seu próximo turno, \ro jogador que controlar a criatura \rmais poderosa ganha 1A.",
+  "traits": "Lugar",
+  "amber": 1,
+  "power": null,
+  "armor": null,
+  "rarity": "Rare",
+  "flavor_text": "",
+  "card_number": "219",
+  "expansion": 479,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "errata": "No início do seu turno, o jogador que controlar a criatura mais poderosa ganha 1A."
+}

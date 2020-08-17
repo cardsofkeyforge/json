@@ -1,1 +1,20 @@
-{"id":"8b410e37-33f1-45d3-9081-c0a89a3d4982","card_title":"Reação à Dor","house":"Dis","card_type":"Action","front_image":"https://cdn.keyforgegame.com/media/card_front/pt/479_026_VRG6FX4GQH3F_pt.png","card_text":"Jogar: Cause 2D a uma criatura inimiga. Se esse dano destruir a criatura, cause 2D a cada um dos vizinhos dela.","traits":"","amber":1,"power":null,"armor":null,"rarity":"Uncommon","flavor_text":"","card_number":"026","expansion":479,"is_maverick":false,"is_anomaly":false,"is_enhanced":false}
+{
+  "id": "8b410e37-33f1-45d3-9081-c0a89a3d4982",
+  "card_title": "Reação à Dor",
+  "house": "Dis",
+  "card_type": "Action",
+  "front_image": "https://cdn.keyforgegame.com/media/card_front/pt/479_026_VRG6FX4GQH3F_pt.png",
+  "card_text": "Jogar: Cause 2D a uma criatura inimiga. Se esse dano destruir a criatura, cause 2D a cada um dos vizinhos dela.",
+  "traits": "",
+  "amber": 1,
+  "power": null,
+  "armor": null,
+  "rarity": "Uncommon",
+  "flavor_text": "",
+  "card_number": "026",
+  "expansion": 479,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "errata": "Jogar: Cause 2D a uma criatura inimiga. Se esse dano destruir a criatura, cause 2D a cada um dos vizinhos dela após ela sair de jogo."
+}
