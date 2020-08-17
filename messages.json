@@ -40,8 +40,8 @@
     },
     "types": {
       "Creature": "Criatura",
-      "Creature1": "Criatura (Gigante)",
-      "Creature2": "Criatura (Gigante)",
+      "Creature1": "Criatura (Gigantesca)",
+      "Creature2": "Criatura (Gigantesca)",
       "Action": "Ação",
       "Upgrade": "Melhoria",
       "Artifact": "Artefato"
