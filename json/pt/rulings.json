@@ -774,5 +774,94 @@
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
     "cards": ["d9569774-325b-40ff-b215-ed6d000dcf8d"]
+  },
+  {
+    "title": "Se eu jogar [Malentauro](/mm/040) que também tem um ícone de\ndano, o ícone de dano dele causa um dano bônus?",
+    "text": "Sim. Criaturas já estão em jogo antes de o bônus ser ativado; então,\nneste caso, a habilidade constante em Malentauro estará disponível\nantes de você causar dano utilizando os ícones de dano bônus",
+    "source": {
+      "type": "rulebook",
+      "version": "1.6.01",
+      "url": "https://drive.google.com/open?id=1YNhLKUC0xfriiMwFYpDu1Go3zPJw6gYo"
+    },
+    "cards": ["6fd2348c-fe6d-4586-8a75-d0b41f024daa"]
+  },
+  {
+    "title": "Se eu jogar [Quebra-Ossos](/mm/002) e ele tiver um ícone de dano\nbônus, o qual eu utilizo para destruir uma criatura amiga, Quebra-Ossos entra em jogo preparado?",
+    "text": "Não. Como Quebra-Ossos já está em jogo quando você resolver o ícone\ndele, ele entra em jogo exausto.",
+    "source": {
+      "type": "rulebook",
+      "version": "1.6.01",
+      "url": "https://drive.google.com/open?id=1YNhLKUC0xfriiMwFYpDu1Go3zPJw6gYo"
+    },
+    "cards": ["cc632baf-2d62-4a6f-8e09-012d6bcd187a"]
+  },
+  {
+    "title": "Quando eu jogo [Recompensa Selvagem](/mm/392), os \"ícones bônus\" se referem a todos os ícones em uma carta ou somente os\nícones adicionados àquelas cartas pela palavra-chave propagar?",
+    "text": "Todos os ícones. Até mesmo os ícones de Æmbar que sempre aparecem\nno seu card são considerados ícones bônus.",
+    "source": {
+      "type": "rulebook",
+      "version": "1.6.01",
+      "url": "https://drive.google.com/open?id=1YNhLKUC0xfriiMwFYpDu1Go3zPJw6gYo"
+    },
+    "cards": ["ae3bc7c5-b033-4def-8ec3-334c25cf5173"]
+  },
+  {
+    "title": "Se eu jogar [Encosto](/mm/257) com um ícone de dano bônus,\nresolver este ícone bônus conta como Encosto causando dano e,\nportanto, eu poderia usar este ícone para roubar em vez disso?",
+    "text": "Não. Embora o ícone bônus esteja em Encosto, Encosto não é\npropriamente o causador daquele dano.",
+    "source": {
+      "type": "rulebook",
+      "version": "1.6.01",
+      "url": "https://drive.google.com/open?id=1YNhLKUC0xfriiMwFYpDu1Go3zPJw6gYo"
+    },
+    "cards": ["e90d66ba-7f28-4864-889a-4c0c8f3c640b"]
+  },
+  {
+    "title": "Se eu jogar [Centavo Irado](/mm/255) com um ícone de dano bônus\nenquanto não houver outras criaturas em jogo, este dano destruirá\nCentavo Irado antes de o efeito \"Jogar:\" dele me deixar roubar\n1 Æmbar?",
+    "text": "Sim. Ele sairá de jogo antes de o efeito \"Jogar:\" dele ser acionado.",
+    "source": {
+      "type": "rulebook",
+      "version": "1.6.01",
+      "url": "https://drive.google.com/open?id=1YNhLKUC0xfriiMwFYpDu1Go3zPJw6gYo"
+    },
+    "cards": ["3c778c6f-0973-4376-90d2-21a80b89f4e6"]
+  },
+  {
+    "title": "Se eu jogar [Centavo Irado](/mm/255) com um ícone de dano e um\nícone de compra nela enquanto não houver outras criaturas em jogo,\neste dano destruirá Centavo Irado antes de eu resolver o ícone de\ncompra dela?",
+    "text": "Não. O ícone de compra dele ainda será resolvido. Uma vez que o card\nfor jogado, todos os ícones de bônus naquele card serão resolvidos,\nmesmo que ele saia de jogo.",
+    "source": {
+      "type": "rulebook",
+      "version": "1.6.01",
+      "url": "https://drive.google.com/open?id=1YNhLKUC0xfriiMwFYpDu1Go3zPJw6gYo"
+    },
+    "cards": ["3c778c6f-0973-4376-90d2-21a80b89f4e6"]
+  },
+  {
+    "title": "Se eu jogar um card com dois ícones de dano bônus e o meu\noponente tem uma criatura com 1 de poder com ficha de protegido\nsobre ela, eu posso destruir aquela criatura?",
+    "text": "Sim. Cada ícone de dano é resolvido separadamente, então o primeiro\nícone de dano remove a ficha de protegido, e o segundo consegue\natingir a criatura.",
+    "source": {
+      "type": "rulebook",
+      "version": "1.6.01",
+      "url": "https://drive.google.com/open?id=1YNhLKUC0xfriiMwFYpDu1Go3zPJw6gYo"
+    },
+    "cards": [
+      "128afac5-17a9-427d-9a57-1d586bd43b67",
+      "157b0167-26c8-4135-83da-420eff0ddc1c",
+      "169264c5-313c-4c5f-a1cd-bebb6604ad5c",
+      "1a5b33e4-95e2-4ee4-9cd1-efe6e92e3f7e",
+      "24f2c06b-5eda-4a16-a969-4dcb1c581477",
+      "3c54784a-5f22-4028-bb62-77d525ad5634",
+      "3c778c6f-0973-4376-90d2-21a80b89f4e6",
+      "4999a79e-ae6f-48a4-b434-4c17993a405f",
+      "73205f55-9ee8-4173-8a63-c4eed546675f",
+      "780cf449-8660-4493-a7f7-ab77d99299f5",
+      "8389e952-f661-47af-a50f-9439e4c75c52",
+      "a6132568-7bc6-4d32-964a-ed9cd256d1b7",
+      "aad029e9-74fd-4e20-9c08-80a49ea81cf1",
+      "c145c65b-38d9-41ae-9e5b-1f4eeed9b74d",
+      "cb859683-ba7f-4f8d-9900-ecc8170aa450",
+      "e80ed6f1-1be6-464d-bef0-fc64c6a64a54",
+      "ebd8defd-0d2e-48f7-88db-093c38927252",
+      "fbfeff3b-584a-4f43-bf5c-169703e7b729"
+    ]
   }
 ]
