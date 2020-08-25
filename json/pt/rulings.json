@@ -3,7 +3,7 @@
     "title": "Meu oponente tem 14 Æmbar na reserva dele e eu tenho 0 na\nminha. No início do meu turno eu seleciono Sombras como a casa\nativa e jogo o card [Isca e Armadilha](/cota/267). Quantas vezes a Isca\ne Armadilha é desencadeada?",
     "text": "Nesta situação, o efeito de Isca e Armadilha será desencadeado 2 vezes.\nQuando o efeito é desencadeado pela primeira vez, ele verifica se\nseu oponente tem mais Æmbar que você, e se ele tiver, ele repetirá o\nprimeiro efeito novamente, roubando outro Æmbar. Entretanto, já que o\ncard diz para repetir o efeito acima e não todo o efeito, ele só pode ser\ndesencadeado duas vezes.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.5.04",
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
@@ -13,7 +13,7 @@
     "title": "É o primeiro turno do duelo e eu jogo primeiro. Eu escolho a casa\nLogos para ser a casa ativa e jogo o card [Mudança Fásica](/cota/117).\nIsso permite que eu jogue outro card neste turno mesmo que a\nRegra do Primeiro Turno (consulte a página 5) esteja em efeito?",
     "text": "Ao jogar o card Mudança Fásica você pode jogar outro card da mão\nneste turno, pois a Regra do Primeiro Turno pode ser modificada por\nefeitos de card.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.5.04",
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
@@ -23,7 +23,7 @@
     "title": "É o primeiro turno do duelo e eu jogo primeiro. Eu escolho a\ncasa Logos para ser a casa ativa e jogo o card [Buraco de Minhoca Feroz](/cota/125). O efeito do Buraco de Minhoca Feroz\npode ser resolvido mesmo que a Regra do Primeiro Turno (consulte\na página 5) esteja em efeito?",
     "text": "O efeito do Buraco de Minhoca Feroz pode ser resolvido. A Regra do\nPrimeiro Turno especifica que os participantes não podem jogar ou descartar\nmais de um card da mão. Entretanto, ela não proíbe cards de serem jogados\nou descartados de outras áreas do jogo, como de seu baralho.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.5.04",
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
@@ -37,7 +37,7 @@
     "title": "Eu tenho 2 correntes e 7 cards na mão ao ir para o passo de compra\nde cards. Eu soltarei uma corrente durante esse passo?",
     "text": "Não, você não soltará uma corrente durante esse passo de compra\nde cards. As correntes são soltas apenas quando um participante vai\ncomprar cards durante o passo de compra e as correntes o impedem\nde fazer isso (consulte “Correntes” na página 8). Como você já tem 7\ncards na mão, você não comprará mais cards, e portanto não perderá\nnenhuma corrente.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.5.04",
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
@@ -63,7 +63,7 @@
     "title": "Eu tenho 2 correntes e 5 cards na mão ao ir para o passo de compra\nde cards. Eu soltarei uma corrente durante esse passo?",
     "text": "Sim, você soltará uma corrente durante esse passo. As correntes são\nsoltas apenas quando um participante vai comprar cards durante o passo\nde compra e as correntes o impedem de fazer isso (consulte “Correntes”\nna página 8). Você possui apenas 5 cards na mão, e provavelmente\ncomprará um card para repor sua mão. Entretanto, devido às correntes,\nvocê é impedido de comprar esse card. Já que você normalmente teria\ncomprado o card e a corrente o impediu, você solta 1 corrente.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.5.04",
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
@@ -89,7 +89,7 @@
     "title": "Eu escolhi a casa Logos como minha casa ativa nesse turno e\ncomecei jogando [Acesso à Biblioteca](/cota/115), e então joguei\n[Buraco de Minhoca Feroz](/cota/125). Em qual ordem eu devo\nresolver essa combinação de efeitos?",
     "text": "Ao jogar um Buraco de Minhoca Feroz após jogar um Acesso à\nBiblioteca, essa sequência de efeitos é desencadeada:\n1. Você ganha 1 Æmbar devido ao bônus do Buraco de\nMinhoca Feroz.\n2. O efeito de Acesso à Biblioteca e o efeito jogar de Buraco de\nMinhoca Feroz são simultâneos, então você deve resolvê-los em\nqualquer ordem.\n3. Você ganha Æmbar devido a quaisquer bônus de Æmbar no card\njogado do topo do seu deck.\n4. Se houver quaisquer efeitos de jogo no card jogado do topo de seu\ndeck, eles são simultâneos ao efeito de Acesso à Biblioteca. Você pode\nresolvê-los em qualquer ordem.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.5.04",
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
@@ -104,7 +104,7 @@
     "title": "Eu tenho o card [Senhor do Abismo](/cota/093) em jogo e meu\noponente joga o card [Restringuntus](/cota/094) e escolhe a casa\nDis. O que acontece quando eu tentar declarar minha casa no\npróximo turno?",
     "text": "Em seu próximo turno, durante o passo de escolha de casa, você estará\nem um situação onde tem de escolher a casa Dis (devido ao Senhor\ndo Abismo), mas também não pode escolher a casa Dis (devido ao\nRestringuntus). Os efeitos não pode prevalecem sobre efeitos tem de,\nportanto você não pode escolher Dis. (consulte “Não Pode Vs. Tem De” na\npágina 9.) Contudo, você ainda pode escolher uma de suas outras casas.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.5.04",
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
@@ -119,7 +119,7 @@
     "title": "Eu tenho um [Faygin](/cota/300) em jogo e meu oponente tem um\n[Larápio](/cota/315) em jogo. Eu coleto com Faygin e com o efeito da\ncoleta eu escolho o Larápio do meu oponente. O que acontece?",
     "text": "O efeito do Faygin faz com que o Larápio tente ir para sua mão, mas\nquando um card sai do jogo ele sempre vai para a área fora de jogo\ncorrespondente de seu dono (Consulte “Sair de Jogo” na Página 11) a\nmenos que o card causando esse efeito especifique outra\ncoisa. O Larápio é devolvido à mão de seu\noponente em vez da sua.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.5.04",
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
@@ -132,7 +132,7 @@
     "title": "Eu tenho 0 Æmbar na reserva e escolhi a casa Logos para ser minha\ncasa ativa neste turno. Eu jogo [Buraco de Minhoca Feroz](/cota/125) e tento jogar o card do topo do meu deck, [Dragão Kelifi](/cota/037). O que acontece?",
     "text": "O Dragão Kelifi é devolvido ao topo do deck. O Dragão Kelifi tem um\nrequisito de jogo que é necessário ter 7 Æmbar na reserva, e como você\nnão tinha nenhum inicialmente (você agora tem 1 por ter jogado o Buraco\nde Minhoca Feroz), você não tem o suficiente para poder jogar o\nDragão Kelifi. Já que você não pode jogar o card, ele é devolvido ao local\nde onde você tentou jogá-lo, neste caso, o topo do deck.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.5.04",
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
@@ -147,7 +147,7 @@
     "title": "No turno do meu oponente, ele usou seu [Yxilo Disparador](/cota/204) para coletar e escolheu resolver seu efeito de coleta em meu\n[Centavo Furado](/cota/296). O Centavo Furado é expurgado ou ele\nacaba voltando para minha mão?",
     "text": "O Centavo Furado volta para sua mão. Efeitos “**Destruído**:” (consulte\n“Destruído” na Página 10) acontecem imediatamente antes de uma\ncriatura ser destruída, o que significa que o Centavo Furado estará\nde volta à mão de seu dono antes do Yxilo Disparador poder tentar\nexpurgá-lo com seu efeito de coleta. Nesse ponto, quaisquer efeitos\npendentes em cima do Centavo Furado não são mais resolvidos. Isso\ndeve-se ao fato de que o Centavo Furado está se movendo para uma\nárea fora de jogo na qual a identidade dos cards está escondida do\noponente (consulte “Sair de Jogo” na Página 11).",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.5.04",
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
@@ -162,7 +162,7 @@
     "title": "Eu tenho uma criatura atordoada em minha linha de batalha, jogo\no card [Fúria](/cota/001), e escolho resolver seu efeito nessa criatura\natordoada. O que acontece?",
     "text": "Se um card (como Fúria nesse caso) permite que você use uma criatura\ne se a criatura que você está tentando usar está atordoada, você remove\no atordoamento em vez de fazer qualquer outra coisa. Já que Lutar é um\ntipo a ser usado, a criatura fica exausta e o marcador de atordoamento\né removido.\n\nIsso funcionará mesmo se seu oponente não tiver criaturas em jogo, pois\no desatordoamento substitui o “uso” normal (nesse caso a luta) do card\nantes de ele começar.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.5.04",
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
@@ -172,7 +172,7 @@
     "title": "Eu escolhi a casa Logos para ser minha casa ativa neste turno e\njoguei uma [Mudança Fásica](/cota/117) e então joguei outra cópia\nde Mudança Fásica. Quantos cards não-Logos eu posso jogar\nneste turno?",
     "text": "Neste turno, você pode jogar dois cards não-Logos. Cada cópia da\nMudança Fásica que você joga permite que você jogue um card\nnão-Logos adicional.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.5.04",
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
@@ -182,7 +182,7 @@
     "title": "Eu tenho um [Ladrão de Almas](/cota/098) em jogo e meu oponente\ntem um [Valdr](/cota/029). Eu uso meu Ladrão de Almas para lutar\ncom Valdr e ambas são destruídas. A habilidade do Ladrão de Almas\né desencadeada?",
     "text": "Não, a habilidade do Ladrão de Almas não é desencadeada. Para que\na habilidade do Ladrão de Almas seja desencadeada ele deve estar em\njogo, portanto se tanto o Ladrão de Almas quanto a criatura com a qual ele\nestá lutando morrerem, eles morrem simultaneamente, e a habilidade do\nLadrão de Almas não é desencadeada (consulte “Destruído” na Página 10).",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.5.04",
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
@@ -195,7 +195,7 @@
     "title": "Eu jogo o card [Acesso à Biblioteca](/cota/115). O card é colocada\nna pilha de descarte imediatamente? Ou ela permanece em jogo\nenquanto o efeito estiver ativo.",
     "text": "Os cards de ação são colocadas imediatamente na pilha de descarte\napós seus efeitos serem resolvidos. No caso de um card de Ação que\ntenha um efeito duradouro como o Acesso à Biblioteca, logo que o\nefeito é estabelecido ao resolver o card, ele é imediatamente colocado\nna pilha de descarte e não permanece em jogo.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.5.04",
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
@@ -205,7 +205,7 @@
     "title": "Eu tenho um [Feromônios de Combate](/cota/180), [“John Smyth”](/cota/195), e [Curvador de Mentes](/cota/196) em jogo. Eu sacrifico o\nFeromônios de Combate e coleto com o Curvador de Mentes,\ne então coleto com “John Smyth” e uso o efeito de coleta dele\npara preparar o Curvador de Mentes. Posso usar o Curvador de\nMentes novamente?",
     "text": "Sim, o Feromônios de Combate dá permissão para usar uma criatura\nnesse turno. Se você tiver um efeito que prepara um dos cards de Marte\nafetadas pelo Feromônios de Combate (Como “John Smyth”), você será\ncapaz de usar esse card novamente.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.5.04",
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
@@ -221,7 +221,7 @@
     "title": "Eu jogo o [Rei do Penhasco](/cota/038) enquanto meu oponente tem\num [Goblin Ladrão](/cota/041) em jogo. O que acontece?",
     "text": "As regras de dano dizem que “Se a criatura tiver dano igual ou maior\nque seu poder, ela é destruída e colocada no topo da pilha de descartes\nde seu dono.” Quando a criatura tem poder 0, mesmo que ela tiver 0 de dano,\nela á destruída.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.5.04",
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
@@ -235,7 +235,7 @@
     "title": "Meu oponente tem [Estandarte de Batalha](/cota/020) em jogo. Posso\njogar o card [Poltergeist](/cota/069) para destruir o Estandarte de\nBatalha, mesmo se o artefato não puder ser usado?",
     "text": "Sim, você pode resolver o efeito de um Poltergeist em qualquer artefato\nem jogo mesmo se o artefato não puder ser usado. Você resolve o\nmáximo do efeito do card que puder (consulte “Resolva o Máximo que\nPuder” na Página 7), e para resolver esta situação você simplesmente\ndestrói o artefato.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.5.04",
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
@@ -250,7 +250,7 @@
     "title": "Eu não possuo criaturas em jogo e meu oponente tem duas.\nEu posso jogar o card [Perdido no Bosque](/cota/327) mesmo que\neu não tenha duas criaturas em jogo?",
     "text": "Sim, você pode. A regra “Resolva o Máximo que Puder” (consulte a\nPágina 7) diz que você resolve o máximo do efeito de um card o possível\ne qualquer parte do card que você não pode resolver é ignorada. No\ncontexto do Perdido no Bosque, isso significa que você embaralha o\nmáximo de criaturas que puder. Portanto, no caso de seu oponente\npossuir duas ou mais criaturas em sua linha de batalha e você não\npossuir nenhuma, você embaralha duas criaturas inimigas e nenhuma\ncriatura amiga.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.5.04",
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
@@ -260,7 +260,7 @@
     "title": "Eu tenho um [Quebrador](/cota/030) em jogo e meu oponente não\ntem criaturas em sua linha de batalha. Eu jogo o card [Fúria](/cota/001) e escolho resolvê-la no Quebrador. O que acontece?",
     "text": "O Quebrador será preparado pelo efeito da Fúria, mas já que não há\ncriaturas inimigas em jogo, ele não pode ser usado para lutar, portanto\nele permanece preparado. A criatura pode então ser usada conforme as\nregras convencionais.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.5.04",
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
@@ -273,7 +273,7 @@
     "title": "Eu controlo uma [Caixa de Spangler](/cota/132) que expurgou meu\npróprio [Dragão Kelifi](/cota/037). A Caixa de Spangler é devolvida\nà mão de seu dono com [Vinhas Agarradoras](/cota/324), mas eu não\ntenho Æmbar. Eu recebo meu Dragão Kelifi de volta?",
     "text": "Sim. O Dragão Kelifi não está sendo jogado quando é devolvido pela\nCaixa de Spangler, ele está sendo colocado em jogo. Ser colocado\nem jogo contorna as restrições normais de se jogar um card, o que\nsignifica que o Dragão de Kelifi é colocado em jogo independente da\nquantidade de Æmbar que você tem.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.5.04",
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
@@ -289,7 +289,7 @@
     "title": "Eu jogo [Deestruuiir](/cota/046), mas cada uma das criaturas do meu\noponente já está atordoada. Eu tenho que resolver o efeito contra o\nDeestruuiir em si?",
     "text": "Não. Você ainda pode escolher resolver o efeito “**Jogar**:” de Deestruuiir\ncontra uma das criaturas de seu oponente, entretanto você não pode\ncolocar um card ou ficha de atordoamento em uma\ncriatura já atordoada, portanto\nnada acontece.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.5.04",
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
@@ -299,7 +299,7 @@
     "title": "Meu oponente coloca duas de minhas criaturas em seu arquivo\nusando o card [Coleta de Amostras](/cota/175). Em meu próximo\nturno eu jogo o card [Dysânia](/cota/141). O que acontece?",
     "text": "Jogar Dysânia irá fazer com que cada um dos cards arquivados de seu\noponente seja descartado, mas como a Coleta de Amostras diz que\nquando essas criaturas deixam o arquivo elas são colocadas na mão\nde seu dono, em vez disso, elas voltam para sua mão. E como esses\ncards não foram descartados pelo efeito de Dysânia, você não ganhará\nqualquer Æmbar da resolução desse efeito.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.5.04",
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
@@ -315,7 +315,7 @@
     "title": "Eu tenho [Sombra](/cota/310) com um [Cavaleiro Saqueador](/cota/255)\ncomo vizinho. Meu Cavaleiro Saqueador é atacado por uma criatura\nde poder 4. Quanto de dano cada criatura sofre nessa situação?",
     "text": "Nesse caso, a Sombra sofre 2 de dano, o Cavaleiro Saqueador não sofre\ndano, e a criatura de poder 4 sofre 4 de dano e é destruída.\n\nIsso acontece porque antes do dano ser causado ao Cavaleiro\nSaqueador, dois de dano são evitados por sua armadura. Então quando\no dano é de fato causado, o dano que seria causado no Cavaleiro\nSaqueador é aplicado à Sombra. Ao mesmo tempo que a Sombra\nrecebe dano, a criatura de poder 4 sofre 4 de dano do poder do\nCavaleiro Saqueador.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.5.04",
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
@@ -328,7 +328,7 @@
     "title": "Eu tenho um [Senhor do Abismo](/cota/093) maverick em um\ndeck sem a casa Dis. Eu sou forçado a escolher a casa Dis como\ncasa ativa?",
     "text": "Não. Você não pode escolher uma casa ativa a menos que ela esteja em\nseu card de identidade ou que você controle um card dessa casa. Esta\nrestrição sobrepõe o efeito do Senhor do Abismo, permitindo que você\nescolha qualquer uma de suas casas como casa ativa.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.5.04",
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
@@ -341,7 +341,7 @@
     "title": "O que acontece se eu usar [Tuneleiro Espectral](/cota/133) em uma\ncriatura não-flanco (fazendo com que ela seja considerada uma\ncriatura de flanco), e então jogar [Raio de Pósitrons](/cota/118) nessa criatura?",
     "text": "O Raio de Pósitrons causará 3 de dano na criatura. Você escolherá um\ndos vizinhos dessa criatura para causar 2 de dano, e então cause 1 de\ndano ao outro vizinho dessa segunda criatura.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.5.04",
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
@@ -355,7 +355,7 @@
     "title": "Se eu usar [Gabos Braçolongo](/cota/086) para atacar uma criatura\nsem elusivo, posso, em vez disso, usar a habilidade “Antes da Luta”\nde Gabos para causar dano a uma criatura, ou a palavra-chave\nelusivo evita este dano?",
     "text": "Gabos Braçolongo pode causar dano a uma criatura elusiva usando\na habilidade dele. A habilidade elusivo evita dano apenas quando\na criatura é atacada, e como Gabos não está de fato atacando-a, a\npalavra-chave elusivo não a protege.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.5.04",
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
@@ -365,7 +365,7 @@
     "title": "O que acontece se eu usar [Replicador](/cota/150) para ativar o efeito\nde coleta de um [Guardião do Santuário](/cota/256) de um oponente?",
     "text": "O efeito de coleta do Guardião do Santuário não faz nada. Uma criatura\nnão pode ser movida da linha de batalha de um participante para a\nlinha de batalha do outro participante exceto por efeitos que mudam\nexplicitamente o controlador da criatura.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.5.04",
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
@@ -381,7 +381,7 @@
     "title": "Se eu jogar [Mímica](/cota/328) como cópia de um card de ação na\npilha de descarte do meu oponente, a qual card a Regra dos Seis\né aplicada?",
     "text": "Para os efeitos da Regra dos Seis, considera-se que você jogou o\ncard copiada.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.5.04",
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
@@ -395,7 +395,7 @@
     "title": "Eu tenho [Vinhas Agarradoras](/cota/103) sob [Plano Magistral](/cota/288). Se eu usar o efeito “Omni” de Plano Magistral para jogar\nVinhas Agarradoras, eu posso retornar Plano Magistral para minha\nmão antes de ele ser sacrificado?",
     "text": "Sim. O efeito de Plano Magistral permite que você jogue o card que\nestá debaixo dele antes de sacrificá-lo. Plano Magistral ainda está em\njogo no momento que você joga Vinhas Agarradoras, portanto ele pode\nser retornado para sua mão usando o efeito de Vinhas Agarradoras.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.5.04",
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
@@ -410,7 +410,7 @@
     "title": "Se [Duma, o Mártir](/cota/242) e outra das minhas criaturas forem\ndestruídas por um efeito de dano como [Onda de Veneno](/cota/280),\nDuma, o Mártir pode salvar minha outra criatura da destruição?",
     "text": "Não. Se o dano fizer com que ambos Duma, o Mártir e sua outra criatura\nsejam marcadas para destruição, curar a criatura depois da marcação\nnão evita sua destruição.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.5.04",
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
@@ -424,7 +424,7 @@
     "title": "Se um card como [Passagem a Dis](/cota/059) destruir múltiplas\ncriaturas e [Tolas](/cota/103) for uma dessas criaturas, alguém ganha\nÆmbar devido à habilidade de Tolas?",
     "text": "Não. A habilidade de Tolas não é desencadeada até que os cards\nsejam de fato colocados nas pilhas de descarte, e neste ponto Tolas já\nestará destruído.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.5.04",
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
@@ -438,7 +438,7 @@
     "title": "Se eu tiver um Tolas(/cota/103) em jogo quando meu [Centavo Furado](/cota/296) for destruído, eu ganho Æmbar mesmo se o\nCentavo Furado for para minha mão em vez de ir para a pilha\nde descarte?",
     "text": "Sim. Os cards ainda contam como tendo sido destruídos mesmo se o\nefeito “**Destruído**:” deles os moverem para fora do jogo.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.5.04",
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
@@ -454,7 +454,7 @@
     "title": "Eu uso meu [Escudo Santificado](/aoa/218) para proteger meu\n[Maruck, o Marcado](/aoa/220) de levar dano e em seguida ataco a\ncriatura de poder 3 do meu oponente. Eu capturo um Æmbar com a\nhabilidade de Maruck?",
     "text": "Não. Efeitos de proteção como Escudo Santificado evitam dano antes\nda armadura. Maruck ainda tem 1 de armadura sobrando depois da luta.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.5.04",
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
@@ -467,7 +467,7 @@
     "title": "Se meu [Engodilho](/aoa/131) for destruído no meu turno e a\nhabilidade “**Destruído**:” dele permitir que eu jogue um card com\nÔmega, eu ainda posso jogar cards na sequência?",
     "text": "Normalmente não. Se Engodilho foi destruído durante seu Passo 3, você\nnão pode jogar ou usar mais nenhum card; apenas finalize os efeitos\njá desencadeados e vá para o próximo passo. Porém, se Engodilho foi\ndestruído durante seu Passo 1 (por exemplo, porque você forjou uma\nchave enquanto [Engenhoca Estranha](/cota/134) estava em jogo), você\nvai para o Passo 2, onde então pode escolher sua casa e ir para o Passo\n3, no qual é permitido jogar e usar cards normalmente.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.5.04",
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
@@ -483,7 +483,7 @@
     "title": "Eu tenho [Rusga, o Chato](/cota/043) e meu oponente joga [Rei do Penhasco](/cota/038). O Rei do Penhasco leva dano antes de Rusga\nser destruído?",
     "text": "Não, porque a habilidade de Rei do Penhasco é constante, seu efeito\né aplicado enquanto ele estiver em jogo e destrói Rusga antes de seu\nefeito “após entrar em jogo” ser desencadeado.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.5.04",
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
@@ -497,7 +497,7 @@
     "title": "Se eu tiver uma criatura de poder 2 com um [Guardião da Alma](/aoa/083) anexado, meu oponente tiver uma criatura de poder 6 e uma\ncriatura de poder 5, e eu jogar [Cavaleiro de Opala](/aoa/260), as\nduas criaturas do meu oponente morrem, ou apenas a de poder 6?",
     "text": "Apenas a de poder 6. Como o efeito do Guardião da Alma é\ndesencadeado antes das criaturas destruídas de fato saírem do jogo, ele\nterá como alvo para destruição a criatura de poder 6, mesmo que ela já\ntenha sido marcada para destruição.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.5.04",
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
@@ -511,7 +511,7 @@
     "title": "Eu tenho 2 Æmbar na minha reserva e coleto com uma criatura.\nMeu oponente tem 2 [Sir Tutanos](/aoa/223) em jogo. Ambos os Sir\nTutanos capturam um Æmbar? Se sim, de onde vem o segundo?",
     "text": "Sir Tutanos pode capturar apenas o 1 Æmbar que acabou de ser ganho\natravés de coleta. O jogador ativo determina qual Sir Tutanos captura\no Æmbar.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.5.04",
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
@@ -521,7 +521,7 @@
     "title": "Meu [Salteador Carrancudo](/aoa/313) está sendo controlado pelo\nmeu oponente e é expurgado com [Caixa de Spangler](/cota/132).\nDepois, a Caixa de Spangler é destruída. Quando o Salteador\nCarrancudo voltar para o duelo, quem o controlará?",
     "text": "Quando a Caixa de Spangler retorna o Salteador Carrancudo para\no duelo, isso é considerado um novo “entrar em jogo”, portanto a\nhabilidade do Salteador Carrancudo faz com que você o coloque em\njogo sob o controle de seu oponente.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.5.04",
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
@@ -535,7 +535,7 @@
     "title": "Eu jogo o card [Saco de Moedas](/aoa/312) com 3 Æmbar em minha\nreserva. Eu posso dividir os 3 de dano entre múltiplas criaturas?",
     "text": "Sim. Saco de Moedas causa 1 de dano “para cada” Æmbar em sua\nreserva, cada ponto de dano pode ser atribuído a uma criatura diferente.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.5.04",
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
@@ -548,7 +548,7 @@
     "title": "Eu jogo o card [Explosão Nervosa](/cota/276) enquanto meu\noponente tem 2 Æmbar em sua reserva e controla um [Pixies do Pó](/aoa/362). Eu posso causar 2 de dano com o efeito de\nExplosão Nervosa?",
     "text": "Sim. Pixies do Pó tem um efeito de substituição que muda de onde o\nÆmbar roubado é removido (da reserva geral em vez da reserva de seu\ncontrolador). Entretanto, esse Æmbar ainda é considerado “roubado”, e\nportanto a condição “se o fizer” da Explosão Nervosa foi atendida.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.5.04",
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
@@ -563,7 +563,7 @@
     "title": "Eu coleto com [Nexus](/cota/305), que me permite usar um artefato\ndo oponente “como se ele fosse” meu. Eu escolho usar o [Fragmento de Ganância](/aoa/315) do meu oponente, que me permite ganhar 1\nÆmbar “para cada Fragmento amigo”. O Fragmento de Ganância é\no único Fragmento em jogo. Quanto de Æmbar eu ganho?",
     "text": "1. Você está usando Fragmento de Ganância como se ele fosse seu,\nportanto ele conta como um Fragmento amigo para o propósito\ndesta habilidade.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.5.04",
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
@@ -576,7 +576,7 @@
     "title": "Eu coleto com [Nexus](/cota/305) e uso o [Tuneleiro Espectral](/cota/133) do meu oponente para dar a habilidade “Coleta: Compre uma\ncarta.” ao Nexus. Eu posso então ativar a habilidade de “Coleta”?",
     "text": "Sim. Você ainda está no momento de ativar as habilidades de “Coleta”\ndo Nexus, então ele agora pode ativar a habilidade fornecida pelo\nTuneleiro Espectral.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.5.04",
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
@@ -589,7 +589,7 @@
     "title": "Eu coleto com [Replicador](/cota/150) e uso a habilidade dele para\nativar o efeito de coleta do [Sequis](/cota/257) do meu oponente\ncomo se eu o controlasse. De qual reserva dos participantes o\nSequis captura o Æmbar?",
     "text": "Sequis captura 1 Æmbar da reserva do seu oponente. Você está usando\nSequis como se o controlasse, portanto as regras padrão de captura\nfazem com que o Æmbar seja capturado da reserva do seu oponente.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.5.04",
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
@@ -604,7 +604,7 @@
     "title": "Meu oponente tem [Sir Tutanos](/aoa/223) em jogo. Se eu jogar [Porta Dimensional](/cota/108) e em seguida coletar com uma criatura, Sir\nTutanos captura o Æmbar da criatura que está coletando?",
     "text": "Não, neste caso o efeito de ganhar o Æmbar da coleta está sendo\nsubstituído pelo roubo do Æmbar de seu oponente. Isso significa que\nvocê não recebe Æmbar diretamente da coleta e que o Sir Tutanos do\nseu oponente não poderá capturá-lo.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.5.04",
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
@@ -617,7 +617,7 @@
     "title": "Meu oponente forja duas chaves em seu turno. Em meu próximo\nturno eu jogo [Martelo de Chave](/cota/066). O que acontece?",
     "text": "Martelo de Chave afeta apenas uma única chave. Você escolherá uma\ndas duas chaves que seu oponente forjou no turno anterior dele e\na desforjará.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.5.04",
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
@@ -627,7 +627,7 @@
     "title": "Eu escolho Logos como minha casa ativa. Eu jogo [Mudança Fásica](/cota/117), e em seguida [Mímica](/cota/328) como uma cópia de\n[Enevoar](/cota/110). Eu ainda posso jogar outro card não-Logos\nusando o efeito da Mudança Fásica?",
     "text": "Não. A Mudança Fásica dá permissão para jogar 1 card não-Logos neste\nturno. Jogar a Mímica faz uso desse efeito, já que você não poderia\njogá-la sem o efeito da Mudança Fásica.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.5.04",
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
@@ -643,7 +643,7 @@
     "title": "Posso jogar [Mímica](/cota/328) como cópia de [Eureca](/aoa/128) se\neu já tiver jogado outro card neste turno?",
     "text": "Não. Se a Mímica for jogada como cópia de Eureca, ela terá a palavra-\nchave alfa. Como você já jogou outro card neste turno, você não pode\njogar um card alfa neste turno, portanto a Mímica não será jogada e, em\nvez disso, voltará para sua mão.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.5.04",
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
@@ -658,7 +658,7 @@
     "title": "Posso jogar [Mímica](/cota/328) como cópia de [Eureca](/aoa/128) se\nisso for a primeira coisa que eu fi zer no Passo 3 do meu turno?",
     "text": "Sim. A Mímica está sendo jogada como cópia de Eureca, e portanto\nterá a palavra-chave alfa. Já que você ainda não fez nada (não jogou,\ndescartou e nem usou um card) neste turno, você ainda pode jogar um\ncard alfa.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.5.04",
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
@@ -673,7 +673,7 @@
     "title": "Meu oponente tem 10 Æmbar e está prestes a forjar sua segunda\nchave. Eu jogo [Logro Interdimensional](/cota/112). Meu oponente\ntem [Og, a Mestra Forjadora](/aoa/038) em jogo. Ele forja uma\nchave com 6 Æmbar em seu turno. O que acontece com os 4\nÆmbar restantes?",
     "text": "Os efeitos de Logro Interdimensional e de Og, a Mestra Forjadora\nacontecem ao mesmo tempo (após a chave ser forjada), portanto o\njogador ativo (seu oponente) escolhe qual deles é resolvido primeiro.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.5.04",
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
@@ -689,7 +689,7 @@
     "title": "Meu [Gabos Braçolongo](/cota/086) ataca o [Diabinho do Æmbar](/aoa/053) do meu oponente. O dano de Gabos Braçolongo é evitado por\nElusivo? Posso causar esse dano a outra criatura?",
     "text": "Você ainda pode causar o dano de Gabos Braçolongo a outra criatura.\nElusivo só evita dano causado durante a luta à criatura que tem\nessa habilidade.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.5.04",
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
@@ -702,7 +702,7 @@
     "title": "Meu oponente joga [Sombra de Dis](/aoa/103), fazendo com que\nas caixas de texto das minhas criaturas sejam tratadas como se\nestivessem em branco até o próximo turno dele. Eu jogo [Dente de Prata](/cota/311). Dente de Prata entra em jogo preparado?",
     "text": "Sim. A Sombra de Dis afeta criaturas apenas enquanto elas estão em\njogo. A habilidade de Dente de Prata afeta o modo como ela entra em\njogo, portanto seu efeito é aplicado antes do efeito de Sombra de Dis.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.5.04",
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
@@ -715,7 +715,7 @@
     "title": "Meu oponente joga [Sombra de Dis](/aoa/103). Eu tenho duas cópias\nde [Bruxuleio](/aoa/323) na mão. Posso jogar ambas?",
     "text": "Não. Alfa é uma restrição de jogo que já está ativa na sua mão, antes\nde jogar o card. Após ter jogado um card em um passo, você não pode\njogar um card Alfa mesmo se a caixa de texto dele for ficar em branco\ndepois de ele entrar em jogo.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.5.04",
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
@@ -728,7 +728,7 @@
     "title": "Meu oponente joga [Sombra de Dis](/aoa/103). Eu tenho [Bruxa do Crepúsculo](/aoa/320) na mão. Eu posso jogar Bruxa do Crepúsculo\ne em seguida jogar outros cards?",
     "text": "Sim, pode jogar, usar e descartar cards depois de jogar Bruxa do\nCrepúsculo. Ômega é um efeito que ocorre depois de um card ser\njogado. Neste momento, Bruxa do Crepúsculo está em jogo e sob o\nefeito de Sombra de Dis, o que significa que não possui a habilidade\nÔmega.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.5.04",
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
@@ -741,7 +741,7 @@
     "title": "Eu tenho um [Ronnie Relógio-de-Pulso](/aoa/276) ao lado de uma\n[Pequena Niff](/aoa/289). Eu ataco uma das criaturas do meu\noponente com Ronnie Relógio-de-Pulso, mas ele é destruído durante\na luta. A habilidade de Pequena Niff ainda me permite roubar\n1 Æmbar?",
     "text": "Sim. O vizinho de Pequena Niff não precisa sobreviver para que ela\nroube o Æmbar.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.5.04",
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
@@ -755,7 +755,7 @@
     "title": "Meu oponente tem duas criaturas em jogo e eu não tenho nenhuma.\nEu jogo [Tubarão de Nêutrons](/cota/146) e uso seu efeito de jogo\npara destruir uma criatura inimiga junto com o Tubarão de Nêutrons.\nSe o card do topo do meu deck não pertencer à casa Logos, eu\nposso repetir a habilidade do Tubarão de Nêutrons e destruir a\noutra criatura do meu oponente?",
     "text": "Não. A destruição do Tubarão de Nêutrons e da primeira criatura\ninimiga se resolvem totalmente antes de você continuar com o resto da\nhabilidade do Tubarão de Nêutrons. E porque o Tubarão de Nêutrons\nnão está mais em jogo, a habilidade Jogar/Luta/Coleta dele não está\nmais ativa e não pode ser desencadeada novamente.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.5.04",
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
@@ -769,7 +769,7 @@
     "title": "Quando a habilidade do [Traje de Encontro](/wc/330)\né desencadeada?",
     "text": "A habilidade do Traje de Encontro é desencadeada depois que um\ncard de ação é jogado e seu bônus de Æmber é resolvido, no mesmo\nmomento em que outros efeitos que ocorrem depois de um card de\nação ser jogado. No entanto, o jogador ativo precisa desencadear o\nefeito do Traje de Encontro antes de desencadear o efeito “**Jogar**:”\nnaquele card de ação.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.5.04",
       "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
     },
@@ -779,7 +779,7 @@
     "title": "Se eu jogar [Malentauro](/mm/040) que também tem um ícone de\ndano, o ícone de dano dele causa um dano bônus?",
     "text": "Sim. Criaturas já estão em jogo antes de o bônus ser ativado; então,\nneste caso, a habilidade constante em Malentauro estará disponível\nantes de você causar dano utilizando os ícones de dano bônus",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.6.01",
       "url": "https://drive.google.com/open?id=1YNhLKUC0xfriiMwFYpDu1Go3zPJw6gYo"
     },
@@ -789,7 +789,7 @@
     "title": "Se eu jogar [Quebra-Ossos](/mm/002) e ele tiver um ícone de dano\nbônus, o qual eu utilizo para destruir uma criatura amiga, Quebra-Ossos entra em jogo preparado?",
     "text": "Não. Como Quebra-Ossos já está em jogo quando você resolver o ícone\ndele, ele entra em jogo exausto.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.6.01",
       "url": "https://drive.google.com/open?id=1YNhLKUC0xfriiMwFYpDu1Go3zPJw6gYo"
     },
@@ -799,7 +799,7 @@
     "title": "Quando eu jogo [Recompensa Selvagem](/mm/392), os \"ícones bônus\" se referem a todos os ícones em uma carta ou somente os\nícones adicionados àquelas cartas pela palavra-chave propagar?",
     "text": "Todos os ícones. Até mesmo os ícones de Æmbar que sempre aparecem\nno seu card são considerados ícones bônus.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.6.01",
       "url": "https://drive.google.com/open?id=1YNhLKUC0xfriiMwFYpDu1Go3zPJw6gYo"
     },
@@ -809,7 +809,7 @@
     "title": "Se eu jogar [Encosto](/mm/257) com um ícone de dano bônus,\nresolver este ícone bônus conta como Encosto causando dano e,\nportanto, eu poderia usar este ícone para roubar em vez disso?",
     "text": "Não. Embora o ícone bônus esteja em Encosto, Encosto não é\npropriamente o causador daquele dano.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.6.01",
       "url": "https://drive.google.com/open?id=1YNhLKUC0xfriiMwFYpDu1Go3zPJw6gYo"
     },
@@ -819,7 +819,7 @@
     "title": "Se eu jogar [Centavo Irado](/mm/255) com um ícone de dano bônus\nenquanto não houver outras criaturas em jogo, este dano destruirá\nCentavo Irado antes de o efeito \"Jogar:\" dele me deixar roubar\n1 Æmbar?",
     "text": "Sim. Ele sairá de jogo antes de o efeito \"Jogar:\" dele ser acionado.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.6.01",
       "url": "https://drive.google.com/open?id=1YNhLKUC0xfriiMwFYpDu1Go3zPJw6gYo"
     },
@@ -829,7 +829,7 @@
     "title": "Se eu jogar [Centavo Irado](/mm/255) com um ícone de dano e um\nícone de compra nela enquanto não houver outras criaturas em jogo,\neste dano destruirá Centavo Irado antes de eu resolver o ícone de\ncompra dela?",
     "text": "Não. O ícone de compra dele ainda será resolvido. Uma vez que o card\nfor jogado, todos os ícones de bônus naquele card serão resolvidos,\nmesmo que ele saia de jogo.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.6.01",
       "url": "https://drive.google.com/open?id=1YNhLKUC0xfriiMwFYpDu1Go3zPJw6gYo"
     },
@@ -839,7 +839,7 @@
     "title": "Se eu jogar um card com dois ícones de dano bônus e o meu\noponente tem uma criatura com 1 de poder com ficha de protegido\nsobre ela, eu posso destruir aquela criatura?",
     "text": "Sim. Cada ícone de dano é resolvido separadamente, então o primeiro\nícone de dano remove a ficha de protegido, e o segundo consegue\natingir a criatura.",
     "source": {
-      "type": "rulebook",
+      "type": "Livro de Regras",
       "version": "1.6.01",
       "url": "https://drive.google.com/open?id=1YNhLKUC0xfriiMwFYpDu1Go3zPJw6gYo"
     },
