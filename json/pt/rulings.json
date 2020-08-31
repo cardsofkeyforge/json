@@ -862,5 +862,92 @@
       "ebd8defd-0d2e-48f7-88db-093c38927252",
       "fbfeff3b-584a-4f43-bf5c-169703e7b729"
     ]
+  },
+  {
+    "title": "Eu tenho um [Bravo Gorkus](/mm/226) em jogo com a melhoria\n[Scutum Imperial](/wc/185), e então eu jogo um card que destrói todas as\ncriaturas. Eu posso usar o efeito \"Destruído:\" nos vizinhos de Bravo Gorkus\npara mover todo o Æmbar deles para Bravo Gorkus antes de\nusar o efeito \"Destruído:\" de Scutum Imperial para retornar todo o\nAembar para a reserva comum, mantendo o aembar longe das mãos\ndo meu oponente?",
+    "text": "Sim. O jogador ativo escolhe a ordem dos efeitos \"Destruído:\". Se as\ncriaturas forem destruídas no seu turno, você pode transferir o aembar\ndas suas criaturas destruídas para a reserva comum, mas se as criaturas\nforem destruídas no turno do seu oponente, ele pode escolher a ordem\nde resolução inversa, assim ele consegue ficar com o aembar das\ncriaturas destruídas em vez disso.",
+    "source": {
+      "type": "Livro de Regras",
+      "version": "1.6.01",
+      "url": "https://drive.google.com/open?id=1YNhLKUC0xfriiMwFYpDu1Go3zPJw6gYo"
+    },
+    "cards": [
+      "bf6649e3-6344-4b83-aadb-c9c1160e7f78",
+      "fabcb694-0471-4ab3-beff-45cf65846fd8"
+    ]
+  },
+  {
+    "title": "Se dois [Sucateiro](/mm/006)s são vizinhos e eu lutar contra um\ndeles usando minha criatura com 2 de poder, o que acontece?",
+    "text": "Ambos os Sucateiros recebem 2 de dano. Como o dano só é causado\numa vez, ele não aciona mais nenhuma rodada de danos.",
+    "source": {
+      "type": "Livro de Regras",
+      "version": "1.6.01",
+      "url": "https://drive.google.com/open?id=1YNhLKUC0xfriiMwFYpDu1Go3zPJw6gYo"
+    },
+    "cards": ["a01d797d-a284-4f5b-8a7e-9ae5849d4adb"]
+  },
+  {
+    "title": "Se eu tiver [Sinestra](/mm/047) e [Dexus](/mm/054) em jogo e meu\noponente não tiver criaturas em jogo, ele irá perder 2 Æmbar na\nprimeira vez em que jogar uma criatura?",
+    "text": "Sim. A primeira criatura que seu oponente jogar é considerada como se\nestivesse no flanco esquerdo e no direito, então as habilidades de Dexus\ne Sinestra serão ativadas.",
+    "source": {
+      "type": "Livro de Regras",
+      "version": "1.6.01",
+      "url": "https://drive.google.com/open?id=1YNhLKUC0xfriiMwFYpDu1Go3zPJw6gYo"
+    },
+    "cards": [
+      "ec09f021-7178-4a19-8d01-09f62897e29e",
+      "330a64ba-dd83-41c6-9504-0f17850a3ad3",
+      "1f9d7089-7e42-41aa-bfa1-8e143b82300d",
+      "a2a475f3-3b27-4808-b89c-4eb5e489c030"
+    ]
+  },
+  {
+    "title": "Eu jogo duas cópias de [Distração Letal](/aoa/305), escolhendo a\nmesma criatura cada vez. Depois, no mesmo turno, eu causo 1 dano\nàquela criatura. Qual é o total de dano sofrido por aquela criatura?",
+    "text": "A criatura sofre 5 danos no total: 1 do dano inicial, 2 da primeira\nDistração Letal, 2 da outra Distração Letal. Cada dano adicional da\nDistração Letal soma 2 ao dano original; não é um dano próprio ou\nseparado. Por isso, uma Distração Letal não vai ser acionada pelo dano\nda outra.",
+    "source": {
+      "type": "Livro de Regras",
+      "version": "1.6.01",
+      "url": "https://drive.google.com/open?id=1YNhLKUC0xfriiMwFYpDu1Go3zPJw6gYo"
+    },
+    "cards": [
+      "2bf83f79-9f57-492f-93c9-39ea62046d1f",
+      "ecaad16c-7247-414d-a0b1-b924f53a5378"
+    ]
+  },
+  {
+    "title": "Se eu jogar [Gel Mímico](/wc/170) copiando uma criatura que tem\nmarcadores de dano, fichas de poder +1, fichas de protegido e uma\nmelhoria que lhe dá texto adicional, Gel Mímico também copia as\nfichas e o texto da melhoria?",
+    "text": "Não. Gel Mímico entra em jogo como uma cópia do card base, sem\nmodificações por nenhum outro efeito.",
+    "source": {
+      "type": "Livro de Regras",
+      "version": "1.6.01",
+      "url": "https://drive.google.com/open?id=1YNhLKUC0xfriiMwFYpDu1Go3zPJw6gYo"
+    },
+    "cards": ["a6921678-860c-418f-8075-a0a912b57415"]
+  },
+  {
+    "title": "Se eu jogar [Gel Mímico](/wc/170) copiando [Barbeiro Muldoon](/wc/327),\nGel Mímico entra em jogo preparado e eu posso usar a habilidade\nde posicionar para fazer com que Gel Mímico entre em jogo em\nqualquer lugar da linha de batalha?\n",
+    "text": "Sim para as duas perguntas. Gel Mímico entra em jogo como uma cópia\ndo card escolhido; portanto, as habilidades posicionar e \"entra em jogo\npreparado\" de Barbeiro Muldoon têm efeito assim que o card entra em\njogo, então Gel Mímico copia estes efeitos.",
+    "source": {
+      "type": "Livro de Regras",
+      "version": "1.6.01",
+      "url": "https://drive.google.com/open?id=1YNhLKUC0xfriiMwFYpDu1Go3zPJw6gYo"
+    },
+    "cards": [
+      "a6921678-860c-418f-8075-a0a912b57415",
+      "61f7bb10-a5c9-4742-a7fb-889647a30e95"
+    ]
+  },
+  {
+    "title": "Se eu jogar uma [Gel Mímico](/wc/170) copiando um [Auto-Legionário](/wc/214) que\nfoi ativado e é, neste momento, uma criatura, o que Gel Mímico\nse torna?",
+    "text": "Gel Mímico se torna uma criatura com 5 de poder que poder ser\nutilizada como se pertencesse à casa ativa.",
+    "source": {
+      "type": "Livro de Regras",
+      "version": "1.6.01",
+      "url": "https://drive.google.com/open?id=1YNhLKUC0xfriiMwFYpDu1Go3zPJw6gYo"
+    },
+    "cards": [
+      "a6921678-860c-418f-8075-a0a912b57415",
+      "4a445186-3294-4588-aa8f-aa138d79311c"
+    ]
   }
 ]
