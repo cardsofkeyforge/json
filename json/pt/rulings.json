@@ -949,5 +949,99 @@
       "a6921678-860c-418f-8075-a0a912b57415",
       "4a445186-3294-4588-aa8f-aa138d79311c"
     ]
+  },
+  {
+    "title": "Se eu colocar o 4º Æmbar em [\\[CENSURADO\\]](/aoa/139) por um meio\nque não sua própria habilidade, eu posso imediatamente sacrificá-lo\ne forjar uma chave?",
+    "text": "Não. \\[CENSURADO\\] tem uma única habilidade que é ativada depois de\nvocê escolher Logos como sua casa ativa, colocando 1 aember sobre ele\ne, então, permitindo que você o sacrifique e forje uma chave se houver\n4 ou mais aembers nele. Você não pode usar a parte \"forjar uma chave\"\nda habilidade independentemente.",
+    "source": {
+      "type": "Livro de Regras",
+      "version": "1.6.01",
+      "url": "https://drive.google.com/open?id=1YNhLKUC0xfriiMwFYpDu1Go3zPJw6gYo"
+    },
+    "cards": [
+      "f51d2f43-7e81-486a-8861-8264b751c494",
+      "aeb187aa-178b-4102-9a5c-ddc391971e5b"
+    ]
+  },
+  {
+    "title": "Tenho uma criatura com a melhoria [Desnorteador](/wc/149), e o\nmeu oponente tem [Gargantodonte](/wc/203). Meu oponente tenta\nroubar um Æmbar meu. O que acontece?",
+    "text": "Nada acontece. Desnorteador não permite que seu aember seja\nroubado, então não há nada que o efeito de substituição de\nGargantodonte possa substituir. O efeito do seu oponente não\nserá resolvido.",
+    "source": {
+      "type": "Livro de Regras",
+      "version": "1.6.01",
+      "url": "https://drive.google.com/open?id=1YNhLKUC0xfriiMwFYpDu1Go3zPJw6gYo"
+    },
+    "cards": [
+      "81cba8ee-e123-446a-bd1c-dc84c8c7c964",
+      "504fff5c-3ca0-4580-b3f5-5e7e0444109e",
+      "d4c37618-cf18-4f0e-a476-74166745ca20"
+    ]
+  },
+  {
+    "title": "Tenho [Pixies do Pó](/aoa/362) e o meu oponente tem duas cópias\nde [Sir Tutanos](/aoa/223). Eu coleto com Pixies do Pó. Os dois Sir Tutanos\ncapturam Æmbar da reserva comum?",
+    "text": "Sim. Cada um dos Sir Tutanos veem o Æmbar que você coleta e ambos\ntentam capturá-lo. Geralmente, apenas um deles seria capaz de capturálo; no entanto, como Pixies do Po substitui a tentativa de captura por\ncaptura da reserva comum, quando o Sir Tutanos tenta capturar um\nmesmo aember específico, ele ainda está disponível. Por isso, os dois Sir Tutanos\ntentarão capturar o mesmo aember, um por um, e cada tentativa\nserá substituida por uma captura da reserva geral.",
+    "source": {
+      "type": "Livro de Regras",
+      "version": "1.6.01",
+      "url": "https://drive.google.com/open?id=1YNhLKUC0xfriiMwFYpDu1Go3zPJw6gYo"
+    },
+    "cards": [
+      "036ab703-c3aa-49aa-b823-ca2bdd0a8331",
+      "65cf0590-e79f-4191-9061-d10c477e83e1",
+      "a6132568-7bc6-4d32-964a-ed9cd256d1b7",
+      "97fcbed9-9a94-4fe0-882f-902e7b592c2e"
+    ]
+  },
+  {
+    "title": "Meu [Encosto](/mm/257) é atacado por uma criatura com 6 de\narmadura. Encosto rouba 1 Æmbar?",
+    "text": "Sim. A habilidade de Encosto é um efeito de substituição que ocorre\nsempre que Encosto tentar causar dano, mesmo que efeito de outro\ncard prevenir este dano. Isso vale para efeitos de armadura, protegido,\ninvulnerável e \"não pode levar dano\" como [Escudo da Justiça](/cota/225).",
+    "source": {
+      "type": "Livro de Regras",
+      "version": "1.6.01",
+      "url": "https://drive.google.com/open?id=1YNhLKUC0xfriiMwFYpDu1Go3zPJw6gYo"
+    },
+    "cards": [
+      "e90d66ba-7f28-4864-889a-4c0c8f3c640b",
+      "1ef96099-4703-4883-9c55-9102e829797a",
+      "37091456-300b-489e-a33e-6526e99ca881"
+    ]
+  },
+  {
+    "title": "Meu [Encosto](/mm/257) é atacado por uma criatura com combativo.\nEncosto rouba 1 Æmbar?",
+    "text": "Não. O efeito de substituição de Encosto não é acionado em situações\nnas quais ele não tenta causar dano. Isto se aplica quando ele é atacado\npor uma criatura com combativo, ou se Encosto ganhar elusivo e for\natacado pela primeira vez no turno.",
+    "source": {
+      "type": "Livro de Regras",
+      "version": "1.6.01",
+      "url": "https://drive.google.com/open?id=1YNhLKUC0xfriiMwFYpDu1Go3zPJw6gYo"
+    },
+    "cards": [
+      "e90d66ba-7f28-4864-889a-4c0c8f3c640b",
+      "0bb40a13-cfaa-4140-b05f-3edf7c11d03e",
+      "1a5b33e4-95e2-4ee4-9cd1-efe6e92e3f7e",
+      "1fbf8d1e-c04c-45b8-8cc3-d390eb3110cd",
+      "3fbd6436-88b2-46f5-a61f-1321308f8b8a",
+      "5528e6ad-c0d1-4802-a4d3-91b12edc37d6",
+      "587b4777-75a3-4439-abdd-e127f1ad21aa",
+      "5978e243-12dc-4ac9-b9c9-a4fbd3bf2fc0",
+      "5d2689d3-2129-4fc2-bb40-1dd1a2e2de6f",
+      "65fefc66-7990-4563-95a9-8d4d54e9e7bc",
+      "70649340-0129-4920-a5f0-d2bbc890227f",
+      "73cd9db0-66e1-4a30-920a-e256eefa4d72",
+      "778f9c5e-4b91-46b2-a5b9-f1c8f48cb74d",
+      "79cfdf03-4fb0-4299-907e-3c583e128fc2",
+      "87dd599e-52d6-430a-8a75-efdbc63bb892",
+      "8f156928-5fcb-4afe-ba59-98b94ddc8e04",
+      "992e9161-2435-4330-a7d4-da3a59db9901",
+      "a8e51839-d0e0-47c1-9ca6-5a7e0e55041f",
+      "b0a2efaa-0780-40a9-8d1f-36f38a44345a",
+      "b6c6e4c9-758c-4201-89dc-692db781b392",
+      "d84c56f5-2bed-4800-b008-3aec89418b48",
+      "d977f197-6c5a-4f00-88dc-11be7eccacbc",
+      "db1d07e0-9a63-4d27-9fda-9aab9d6e325d",
+      "e1c2089a-33c5-4bf0-96f1-f810e96d6720",
+      "ed65babc-4f46-46a2-85e5-725513f854d8",
+      "f3349977-5c4e-4601-9822-c74f6b4e0bab",
+      "f9bb10bd-8ce4-43e6-a92b-04f42a0b0989"
+    ]
   }
 ]
