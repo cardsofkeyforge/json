@@ -1043,5 +1043,42 @@
       "f3349977-5c4e-4601-9822-c74f6b4e0bab",
       "f9bb10bd-8ce4-43e6-a92b-04f42a0b0989"
     ]
+  },
+  {
+    "title": "Se eu usar a ação [Forja Obsidiana](/wc/025) e escolher sacrificar\numa de minhas criaturas que tenha ficha de protegido, aquela\ncriatura vai reduzir o custo para forjar aquela chave?",
+    "text": "Não. Se a criatura não for destruída \"desta forma\", isso não reduz o\ncusto da chave.",
+    "source": {
+      "type": "Livro de Regras",
+      "version": "1.6.01",
+      "url": "https://drive.google.com/open?id=1YNhLKUC0xfriiMwFYpDu1Go3zPJw6gYo"
+    },
+    "cards": [
+      "d6cfc75e-5958-41dc-a5bc-5c5444d71244",
+      "52529c0c-d62b-45db-91b5-7e2a99e47d70"
+    ]
+  },
+  {
+    "title": "Se eu usar a habilidade \"Omni:\" de [Ovo de Sauro](/mm/210) e\nambos os cards revelados forem criaturas Sauro, os dois entram em\njogo? As duas ganham três fichas de poder +1 cada uma?",
+    "text": "Sim e sim. Às vezes, os ovos têm gêmeos!",
+    "source": {
+      "type": "Livro de Regras",
+      "version": "1.6.01",
+      "url": "https://drive.google.com/open?id=1YNhLKUC0xfriiMwFYpDu1Go3zPJw6gYo"
+    },
+    "cards": ["3c54784a-5f22-4028-bb62-77d525ad5634"]
+  },
+  {
+    "title": "Se eu tiver [Berrante dos Mares](/mm/212) em uma criatura com\nEmboscada 2, e atacar uma criatura inimiga com apenas 2 de vida\nrestante, o dano da Emboscada destrói aquela criatura antes que eu\npossa mover um aember sobre ela?",
+    "text": "O dano de Emboscada é resolvido ao mesmo tempo em que as\nhabilidades \"Antes da Luta:\", então o jogador ativo\n(você) escolhe em qual ordem resolver\nos dois.",
+    "source": {
+      "type": "Livro de Regras",
+      "version": "1.6.01",
+      "url": "https://drive.google.com/open?id=1YNhLKUC0xfriiMwFYpDu1Go3zPJw6gYo"
+    },
+    "cards": [
+      "a433552a-81b3-40c6-899e-2d9551182313",
+      "ab69da3b-39fd-4618-ab5c-38a726672db0",
+      "f54edc11-fa5f-4b2c-8e92-eec6222b9472"
+    ]
   }
 ]
