@@ -1080,5 +1080,67 @@
       "ab69da3b-39fd-4618-ab5c-38a726672db0",
       "f54edc11-fa5f-4b2c-8e92-eec6222b9472"
     ]
+  },
+  {
+    "title": "Se eu jogar [Reação à Dor](/aoa/078) em uma criatura inimiga para\ndestruí-la, em que momento é causado dano aos vizinhos dela? Se\naquela criatura já saiu de jogo, como sei quais eram os vizinhos dela?",
+    "text": "Reação à Dor é uma exceção à regra de que todo o dano causado por\numa habilidade é resolvido simultaneamente, porque ela estabelece\nexplicitamente que o dano é causado após a criatura destruída sair\nde jogo. Este dano é causado a quaisquer criaturas vizinhas à criatura\ndestruída imediatamente após ela sair de jogo.",
+    "source": {
+      "type": "Livro de Regras",
+      "version": "1.6.01",
+      "url": "https://drive.google.com/open?id=1YNhLKUC0xfriiMwFYpDu1Go3zPJw6gYo"
+    },
+    "cards": [
+      "300dda74-ff5c-42e8-b17a-ff4eebc8109f",
+      "8b410e37-33f1-45d3-9081-c0a89a3d4982"
+    ]
+  },
+  {
+    "title": "Se eu usar [Atingir](/aoa/224) para fazer [Cuspidor de Fogo](/cota/032)\nlutar contra uma criatura inimiga de 1 de poder que tenha 2 vizinhos\nde 1 de poder, cada um deles com vizinho de 2 de poder nos flancos,\nAtingir vai destruir as criaturas com 2 de poder nos flancos?",
+    "text": "Não. o efeito de dano de Atingir se aplica aos vizinhos que a criatura\natacada tem imediatamente antes de sair de jogo. Como a criatura\natacada com 1 de poder vai sair de jogo ao mesmo tempo em que seus\nvizinhos com 1 de poder por causa da habilidade de Cuspidor de Fogo,\na habilidade de Atingir não vai ser resolvida porque a criatura à qual se\nrefere não estará mais em jogo.",
+    "source": {
+      "type": "Livro de Regras",
+      "version": "1.6.01",
+      "url": "https://drive.google.com/open?id=1YNhLKUC0xfriiMwFYpDu1Go3zPJw6gYo"
+    },
+    "cards": [
+      "29eafbc7-7fc5-4239-b2a7-8bc90df1fc0f",
+      "9b17219d-1ab4-41e6-95bf-00ba7a0dd938",
+      "cbb9d137-4e51-4f24-85ff-f228d428329b"
+    ]
+  },
+  {
+    "title": "Se eu usar [Ataque em Falange](/wc/189) e escolher exaltar uma\ncriatura amiga para repetir o efeito de dano, isso permitirá que\neu remova a ficha de protegido de uma criatura e cause dano à\nmesma criatura?",
+    "text": "Sim. Ataque em Falange é uma exceção à regra que todo dano de\numa habilidade é resolvido simultaneamente, porque estabelece\nexplicitamente que o efeito de dano se repete uma segunda vez.\nIsso permite que você use o primeiro dano para remover a ficha\nde protegido de uma criatura e o segundo para causar dano à\nmesma criatura.",
+    "source": {
+      "type": "Livro de Regras",
+      "version": "1.6.01",
+      "url": "https://drive.google.com/open?id=1YNhLKUC0xfriiMwFYpDu1Go3zPJw6gYo"
+    },
+    "cards": ["3d1bdc6c-125c-4a4e-87e9-e36501ec429f"]
+  },
+  {
+    "title": "Se eu lutar e destruir um [Tolas](/cota/103) inimigo com um\n[Lorde Supremo Greking](/cota/087), depois de colocar Tolas em jogo sob\nmeu controle, a habilidade de Tolas é ativada?",
+    "text": "Não. Tolas tem uma habilidade constante que fica ativa somente\nenquanto ele está em jogo. Como Tolas não está em jogo no momento\nem que é destruído, sua habilidade constante não será resolvida.",
+    "source": {
+      "type": "Livro de Regras",
+      "version": "1.6.01",
+      "url": "https://drive.google.com/open?id=1YNhLKUC0xfriiMwFYpDu1Go3zPJw6gYo"
+    },
+    "cards": [
+      "2b3b461c-7f0b-4ebf-bcf7-f37a9509d7b5",
+      "06b1feaa-6a44-46af-8de9-0e7179f97bfb",
+      "4f1c5b07-d31a-4177-b3b2-d1890d41c3e4",
+      "a4b7b4cd-b67c-4053-81f4-16550e870661"
+    ]
+  },
+  {
+    "title": "Depois de jogar [Pesadelo Lúcido](/mm/017), se mais criaturas Dis\nentrarem ou saírem de jogo, o custo da chave do oponente muda ou\ncontinua o mesmo de quando joguei Pesadelo Lúcido?",
+    "text": "O custo da chave muda. Este é um efeito contínuo que será atualizado\ntoda vez que o estado do campo de jogo for alterado.",
+    "source": {
+      "type": "Livro de Regras",
+      "version": "1.6.01",
+      "url": "https://drive.google.com/open?id=1YNhLKUC0xfriiMwFYpDu1Go3zPJw6gYo"
+    },
+    "cards": ["f1d544eb-b5d7-46b1-b92b-04d49244eeec"]
   }
 ]
