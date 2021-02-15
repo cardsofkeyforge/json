@@ -1119,12 +1119,12 @@
     "cards": ["3d1bdc6c-125c-4a4e-87e9-e36501ec429f"]
   },
   {
-    "title": "Se eu lutar e destruir um [Tolas](/cota/103) inimigo com um\n[Lorde Supremo Greking](/cota/087), depois de colocar Tolas em jogo sob\nmeu controle, a habilidade de Tolas é ativada?",
+    "title": "Se eu lutar e destruir um [Tolas](/cota/103) inimigo com um\n[Lorde Supremo Greking](/cota/087), depois de colocar Tolas em jogo sob\nmeu controle, a habilidade de Tolas é resolvida?",
     "text": "Não. Tolas tem uma habilidade constante que fica ativa somente\nenquanto ele está em jogo. Como Tolas não está em jogo no momento\nem que é destruído, sua habilidade constante não será resolvida.",
     "source": {
       "type": "Livro de Regras",
-      "version": "1.6.01",
-      "url": "https://drive.google.com/open?id=1YNhLKUC0xfriiMwFYpDu1Go3zPJw6gYo"
+      "version": "DECEMBER, 2020 (Edição Americana)",
+      "url": "https://images-cdn.fantasyflightgames.com/filer_public/8c/af/8cafeca4-02c3-4990-bba1-ff9d3aa8f02a/keyforge_rulebook_v14_reduced-compressed.pdf"
     },
     "cards": [
       "2b3b461c-7f0b-4ebf-bcf7-f37a9509d7b5",
@@ -1142,5 +1142,28 @@
       "url": "https://drive.google.com/open?id=1YNhLKUC0xfriiMwFYpDu1Go3zPJw6gYo"
     },
     "cards": ["f1d544eb-b5d7-46b1-b92b-04d49244eeec"]
+  },
+  {
+    "title": "Meu oponente tem 2 cartas em seu arquivo e eu jogo [Yzphyz Mandadrone](/aoa/210).\nEu posso expurgar uma carta do seu arquivo? Se uma\ndessas cartas no arquivo dele for minha e eu puder identificá-la pela\narte de capa, eu posso intencionalmente escolher a minha carta ou uma outra que não seja minha?",
+    "text": "Sim, você pode expurgar uma carta do arquivo de qualquer jogador. Não, você não pode\ndecidir que carta expurgar do arquivo de seu oponente com base na arte da carta.\nO arquivo de seu oponente é uma informação escondida, assim quando você\nexpurgar uma carta do arquivo dele você deve escolher a carta de forma aleatória.",
+    "source": {
+      "type": "Livro de Regras",
+      "version": "DECEMBER, 2020 (Edição Americana)",
+      "url": "https://images-cdn.fantasyflightgames.com/filer_public/8c/af/8cafeca4-02c3-4990-bba1-ff9d3aa8f02a/keyforge_rulebook_v14_reduced-compressed.pdf"
+    },
+    "cards": ["86ed23bb-f1ca-47e9-81bc-d0ece55bc9e4"]
+  },
+  {
+    "title": "Se eu jogar [Fissão Florescente](/mm/087) e então usar a habilidade de \"Lutar/Coletar:\"\ndo [Ultra Gravitron](/mm/125) para expurgar uma criatura inimiga e resolver\ncada um de seus ícones de bônus, eu resolverei todos os ícones duas vezes?",
+    "text": "Sim. O texto “como se você a tivesse jogado” do Ultra Gravitron irá disparar\ntodos os efeitos de cartas como o “Na próxima vez que você jogar uma carta neste turno” de Fissão Florescente.",
+    "source": {
+      "type": "Livro de Regras",
+      "version": "DECEMBER, 2020 (Edição Americana)",
+      "url": "https://images-cdn.fantasyflightgames.com/filer_public/8c/af/8cafeca4-02c3-4990-bba1-ff9d3aa8f02a/keyforge_rulebook_v14_reduced-compressed.pdf"
+    },
+    "cards": [
+      "0bb2d3a7-5f2c-4ea7-b9a0-279551ab186c",
+      "f8b21c6a-56a4-4e1e-8a4a-ca4bcb8e3b68"
+    ]
   }
 ]
