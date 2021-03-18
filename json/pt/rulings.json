@@ -465,7 +465,7 @@
   },
   {
     "title": "Se meu [Engodilho](/aoa/131) for destruído no meu turno e a\nhabilidade “**Destruído**:” dele permitir que eu jogue um card com\nÔmega, eu ainda posso jogar cards na sequência?",
-    "text": "Normalmente não. Se Engodilho foi destruído durante seu Passo 3, você\nnão pode jogar ou usar mais nenhum card; apenas finalize os efeitos\njá desencadeados e vá para o próximo passo. Porém, se Engodilho foi\ndestruído durante seu Passo 1 (por exemplo, porque você forjou uma\nchave enquanto [Engenhoca Estranha](/cota/134) estava em jogo), você\nvai para o Passo 2, onde então pode escolher sua casa e ir para o Passo\n3, no qual é permitido jogar e usar cards normalmente.",
+    "text": "Normalmente não. Se Engodilho foi destruído durante seu Passo 3, você\nnão pode jogar ou usar mais nenhum card; apenas termine de resolver os efeitos\njá desencadeados e vá para o próximo passo. Porém, se Engodilho foi\ndestruído durante seu Passo 1 (por exemplo, porque você forjou uma\nchave enquanto [Engenhoca Estranha](/cota/134) estava em jogo), você\nvai para o Passo 2, onde então pode escolher sua casa e ir para o Passo\n3, no qual é permitido jogar e usar cards normalmente.",
     "source": {
       "type": "Livro de Regras",
       "version": "1.5.04",
@@ -766,12 +766,12 @@
     ]
   },
   {
-    "title": "Quando a habilidade do [Traje de Encontro](/wc/330)\né desencadeada?",
-    "text": "A habilidade do Traje de Encontro é desencadeada depois que um\ncard de ação é jogado e seu bônus de Æmber é resolvido, no mesmo\nmomento em que outros efeitos que ocorrem depois de um card de\nação ser jogado. No entanto, o jogador ativo precisa desencadear o\nefeito do Traje de Encontro antes de desencadear o efeito “**Jogar**:”\nnaquele card de ação.",
+    "title": "Quando a habilidade do [Traje de Encontro](/wc/330)\né resolvida?",
+    "text": "A habilidade do Traje de Encontro é desencadeada depois que um\ncard de ação é jogado e seu bônus de Æmber é resolvido, no mesmo\nmomento em que outros efeitos que ocorrem depois de um card de\nação ser jogado. No entanto, o jogador ativo precisa resolver o\nefeito do Traje de Encontro antes de resolver o efeito “**Jogar**:”\nnaquele card de ação.",
     "source": {
       "type": "Livro de Regras",
-      "version": "1.5.04",
-      "url": "https://drive.google.com/open?id=14pM1J8ZR_4hZbGFZt-ArQdAGsHCPEQdE"
+      "version": "DECEMBER, 2020 (Edição Americana)",
+      "url": "https://images-cdn.fantasyflightgames.com/filer_public/8c/af/8cafeca4-02c3-4990-bba1-ff9d3aa8f02a/keyforge_rulebook_v14_reduced-compressed.pdf"
     },
     "cards": ["d9569774-325b-40ff-b215-ed6d000dcf8d"]
   },
@@ -1164,6 +1164,34 @@
     "cards": [
       "0bb2d3a7-5f2c-4ea7-b9a0-279551ab186c",
       "f8b21c6a-56a4-4e1e-8a4a-ca4bcb8e3b68"
+    ]
+  },
+  {
+    "title": "Meu oponente tem [Mestra do Cinza](/mm/169) em jogo. Eu jogo uma\ncarta como o [Alferes El-Samra](/mm/340), [Tomado Pela Natureza](/mm/374)\nou [Ultra Gravitron](/mm/125), a habilidade constante de Mestra\ndo Cinza previne que os ícones de bonus sejam resolvidos ou a parte \"como se você a tivesse jogado\" é suficiente\npara contornar a habilidade de Mestra do Cinza?",
+    "text": "A habilidade constante de Mestra do Cinza irá prevenir você de\nresolver os ícones de bonus com Alferes El-Samra, Tomado Pela Natureza ou\nUltra Gravitron.",
+    "source": {
+      "type": "Livro de Regras",
+      "version": "DECEMBER, 2020 (Edição Americana)",
+      "url": "https://images-cdn.fantasyflightgames.com/filer_public/8c/af/8cafeca4-02c3-4990-bba1-ff9d3aa8f02a/keyforge_rulebook_v14_reduced-compressed.pdf"
+    },
+    "cards": [
+      "f95acc89-3dc0-4fbc-82ed-586024301633",
+      "063d6c71-ca0a-44f2-b7b8-c085e39010c3",
+      "6b5236e9-f33f-445c-b94d-36b8c53cecab",
+      "f8b21c6a-56a4-4e1e-8a4a-ca4bcb8e3b68"
+    ]
+  },
+  {
+    "title": "Eu tenho [Escrivã Favian](/mm/155) e uma [Ânfora Captura](/mm/215) em jogo.\nEu posso usar o efeito de substituição de Ânfora Captura para\nresolver um ícone de bonus como captura e então usar o efeito de substituição de Escrivã Favian\npara resolver como roubar?",
+    "text": "Sim. Ambos estes efeitos de substituição acontecem simultaneamente,\nassim você, como jogador ativo, pode escolher a ordem. Você pode escolher\ntratar o primeiro ícone de bonus como captura e então tratar essa captura como roubar.",
+    "source": {
+      "type": "Livro de Regras",
+      "version": "DECEMBER, 2020 (Edição Americana)",
+      "url": "https://images-cdn.fantasyflightgames.com/filer_public/8c/af/8cafeca4-02c3-4990-bba1-ff9d3aa8f02a/keyforge_rulebook_v14_reduced-compressed.pdf"
+    },
+    "cards": [
+      "307e614f-618d-4b20-bb0b-4ac2f18651e3",
+      "24c5cacd-8e8b-43b6-b44c-86c3bd7068ae"
     ]
   }
 ]
