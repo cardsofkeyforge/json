@@ -1193,5 +1193,116 @@
       "307e614f-618d-4b20-bb0b-4ac2f18651e3",
       "24c5cacd-8e8b-43b6-b44c-86c3bd7068ae"
     ]
+  },
+  {
+    "title": "A habilidade de [Gigante Lançador de Pedras](/cota/044) pode causar dano à\n[Heroína Audaciosa](/mm/126)?",
+    "text": "Não. Como o poder de Gigante Lançador de Pedras é 6, ele não pode causar dano à\nHeroína Audaciosa nem quando lutando e nem por sua habilidade constante. Em geral,\na fonte de um dano é a carta que está causando esse dano, com\nexceção dos ícones de bonus, porque estes danos são causados por um\npasso do jogo.",
+    "source": {
+      "type": "Livro de Regras",
+      "version": "DECEMBER, 2020 (Edição Americana)",
+      "url": "https://images-cdn.fantasyflightgames.com/filer_public/8c/af/8cafeca4-02c3-4990-bba1-ff9d3aa8f02a/keyforge_rulebook_v14_reduced-compressed.pdf"
+    },
+    "cards": [
+      "8a045167-eccd-4026-9508-a73f5395cdad",
+      "f0717d56-4e21-416c-b798-64122187848e",
+      "e0e30a08-8c4a-4ee1-913c-76b31781b7ac",
+      "931ae1dc-06ad-43e4-8a6e-8d24e1b0a748"
+    ]
+  },
+  {
+    "title": "Eu tenho 4 Æmber em minha reserva e meu oponente possui 6. Se eu jogar \n[Crassosaurus](/wc/217), eu serei forçado a capturar 10 Æmbers no total com o\nCrassosaurus ou posso escolher não capturar de mim mesmo e deixar\nCrassosaurus ser expurgado?",
+    "text": "Resolva o máximo que puder. Neste caso, se existir 10 ou mais Æmbers no total\nsomados os das reservas de todos os jogadores quando você jogar Crassosaurus, então você deve capturar 10\nÆmbers com o Crassosaurus.",
+    "source": {
+      "type": "Livro de Regras",
+      "version": "DECEMBER, 2020 (Edição Americana)",
+      "url": "https://images-cdn.fantasyflightgames.com/filer_public/8c/af/8cafeca4-02c3-4990-bba1-ff9d3aa8f02a/keyforge_rulebook_v14_reduced-compressed.pdf"
+    },
+    "cards": ["362d5b53-d30b-40be-9d27-2681a144ae36"]
+  },
+  {
+    "title": "Se eu jogar [Gavião-Fantasma](/wc/356) próximo a uma criatura enfurecida, eu posso usá-la \npara coletar?",
+    "text": "Sim. Você é forçado a lutar com uma criatura enfurecida apenas se você a usá-la.\nComo o Gavião-Fantasma o instrue a\ncoletar com a aquela criatura e não a usá-la, você não pode a usar para lutar e\nportanto pode usá-la para coletar. A criatura ficará exausta, mas não perderá\nsua ficha de enfurecido.",
+    "source": {
+      "type": "Livro de Regras",
+      "version": "DECEMBER, 2020 (Edição Americana)",
+      "url": "https://images-cdn.fantasyflightgames.com/filer_public/8c/af/8cafeca4-02c3-4990-bba1-ff9d3aa8f02a/keyforge_rulebook_v14_reduced-compressed.pdf"
+    },
+    "cards": [
+      "b781ce96-17c6-4f58-9e28-f7d5b9a5d866",
+      "68f892f4-4d3c-481f-8466-789932d2fb7f"
+    ]
+  },
+  {
+    "title": "Se eu jogar [Exumar](/aoa/059) e escolher um [Rover Explorador](/wc/297) da\nminha pilha de descarte, eu posso jogar esta carta como uma melhoria ou eu devo joga-la como\numa criatura?",
+    "text": "Você pode escolher jogar Rover Explorador tanto como melhoria quanto como criatura para resolver seu\nExumar. Quando Exumar especifica “criatura” da sua pilha de descarte, isto\nrestringe a carta que poderá ser escolhida, mas\nnão a forma como ela será jogada.",
+    "source": {
+      "type": "Livro de Regras",
+      "version": "DECEMBER, 2020 (Edição Americana)",
+      "url": "https://images-cdn.fantasyflightgames.com/filer_public/8c/af/8cafeca4-02c3-4990-bba1-ff9d3aa8f02a/keyforge_rulebook_v14_reduced-compressed.pdf"
+    },
+    "cards": [
+      "ab07057d-d8cb-4d53-b107-2e34a819885f",
+      "171a9d91-0107-4f68-a0b2-6363b08d26d6"
+    ]
+  },
+  {
+    "title": "Meu oponente tem 5 æmber na sua reserva, uma [Senadora Shrix](/wc/193)\ncom 5 æmber nela e um [Sapochave](/mm/369). O custa atual da chave é de 6. Se\nEu destruir seu Sapochave ele irá forjar uma chave? Se sim, de onde virá o æmber?",
+    "text": "Sim, ele forjará uma chave. Forjar não é opcional se um jogador possuir æmber\nsuficiente para forjar, incluindo æmber em cartas como a Senadora Shrix que pode\nser usado como se estive na sua reserva. Como jogador ativo, você toma todas as decisões\nnecessárias a menos que algo especifique o contrário. Assim, você escolhe quanto\næmber será gasto de sua reserva e quanto dele virá\nda Senadora Shrix.",
+    "source": {
+      "type": "Livro de Regras",
+      "version": "DECEMBER, 2020 (Edição Americana)",
+      "url": "https://images-cdn.fantasyflightgames.com/filer_public/8c/af/8cafeca4-02c3-4990-bba1-ff9d3aa8f02a/keyforge_rulebook_v14_reduced-compressed.pdf"
+    },
+    "cards": [
+      "4a711085-6619-4a62-b369-b66932e75859",
+      "9ac84910-3f41-45a7-986e-a930552bfb13"
+    ]
+  },
+  {
+    "title": "Eu tenho a [Estrela Pálida](/mm/049), [Glutão](/mm/396) e [Cofre de Æmbar Sombrio](/mm/001)\nem jogo. Glutão tem 1 de poder,\n1 ficha de poder +1 e mais 2 de poder vindo do Cofre de Æmbar Sombrio.\nSe eu sacrifico a Estrela Pálida, quanto de poder o Glutão terá?\nSe eu atacar com o Glutão e ele ganhar mais uma ficha de poder +1\neste turno, quanto de poder ele terá então?",
+    "text": "1 de poder em ambos os casos. Efeitos restritivos (“não pode”) prevalece sobre os efeitos permissivos (“pode”),\n então a Estrela Pálida está essencialmente dizendo que “criaturas não podem\nter poder que não seja 1 e armadura que não seja 0”. Assim, Glutão ainda terá\napenas 1 de poder neste turno, mesmo que hajam quaisquer outros efeitos ou fichas\nque normalmente aumentariam o seu poder e mesmo que estas fichas tenham sido adicionadas\ndepois que a habilidade da Estrela Pálida tenha sido resolvida.",
+    "source": {
+      "type": "Livro de Regras",
+      "version": "DECEMBER, 2020 (Edição Americana)",
+      "url": "https://images-cdn.fantasyflightgames.com/filer_public/8c/af/8cafeca4-02c3-4990-bba1-ff9d3aa8f02a/keyforge_rulebook_v14_reduced-compressed.pdf"
+    },
+    "cards": [
+      "4d98aa07-5319-4940-a06c-cdd2c4ea767e",
+      "1a5b33e4-95e2-4ee4-9cd1-efe6e92e3f7e",
+      "30858c10-0230-45c3-8dfe-83c957923091"
+    ]
+  },
+  {
+    "title": "Em minha linha de batalha eu tenho [Tantadlin](/aoa/333) em jogo, asim como [Crença da Criação](/wc/386).\nSe eu sacrificar Crença da Criação e revelar\n[Terrordáctilo](/wc/211), quando eu usar Tantadlin para lutar, ele irá causar\n2 de dano (como diz Tantadlin), 4 de dano (como diz Terrordáctilo) ou\n6 de dano (a combinação de dano de ambos Tantadlin e Terrordáctilo)?",
+    "text": "2 de dano. Se duas restrições entram em conflito na mesma carta, siga\na mais restritiva delas.",
+    "source": {
+      "type": "Livro de Regras",
+      "version": "DECEMBER, 2020 (Edição Americana)",
+      "url": "https://images-cdn.fantasyflightgames.com/filer_public/8c/af/8cafeca4-02c3-4990-bba1-ff9d3aa8f02a/keyforge_rulebook_v14_reduced-compressed.pdf"
+    },
+    "cards": [
+      "63b636d8-a8b2-450e-b11a-7a9babc86df8",
+      "c106f467-703f-45b2-9db7-8440d18a8a35",
+      "9535f586-1562-435a-9e25-436772cdf8bb",
+      "fb859824-ab3c-49d1-921f-1bc38f2f5a97",
+      "ce59b277-11de-4def-9809-dbf8907a732f"
+    ]
+  },
+  {
+    "title": "Eu tenho um [Engodilho](/aoa/131) com um [Buraco de Minhoca Feroz](cota/125)\nsobre ele e jogo um [Portal Destrancado](/aoa/067). Irá o Ômega\nme impedir de jogar o Buraco de Minhoca Feroz sobre Engodilho?\nSe o Buraco de Minhoca Feroz levar a uma outra criatura ser jogada do meu baralho,\nessa criatura sobreviverá ao Portal Destrancado?",
+    "text": "Não, o Ômega não irá impedir que a habilidade de destruir do Engodilho seja resolvida. Antes que o Ômega\nfinalize o passo, você deve resolver todos os efeitos pendentes, o que significa que você\njogará a carta sobre o Engodilho, jogando Buraco de Minhoca Feroz. Se Buraco de Minhoca Feroz\npor sua vez jogar uma criatura, ela irá sobreviver, uma vez que todas as criaturas já foram\nmarcadas para destruição por Portal Destrancado.",
+    "source": {
+      "type": "Livro de Regras",
+      "version": "DECEMBER, 2020 (Edição Americana)",
+      "url": "https://images-cdn.fantasyflightgames.com/filer_public/8c/af/8cafeca4-02c3-4990-bba1-ff9d3aa8f02a/keyforge_rulebook_v14_reduced-compressed.pdf"
+    },
+    "cards": [
+      "7d837d23-f3a4-473b-9ac2-df07a47df2c8",
+      "d602760b-788f-4f6e-b927-e7809d262e00",
+      "953bbe23-df2b-4459-a3f6-beca7cd49a34",
+      "ddb5fd06-e4a5-4802-b3bf-833740a0654e",
+      "2a4c5213-c8f8-4c6f-8ec6-cdcd92ba1fbe",
+      "fe0f2069-4b42-4faf-8517-7f41f1b775c9"
+    ]
   }
 ]
