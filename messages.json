@@ -51,7 +51,8 @@
       "Uncommon": "Incomum",
       "Rare": "Rara",
       "FIXED": "Especial Fixo",
-      "Variant": "Especial Variável"
+      "Variant": "Especial Variável",
+      "Special": "Especial"
     }
   }
 }
