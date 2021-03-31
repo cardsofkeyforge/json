@@ -1,5 +1,6 @@
 {
   "lang": "pt",
+  "back": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/mtgCardBack.jpg",
   "expansion": [
     {
       "code": 341,

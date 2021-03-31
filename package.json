@@ -9,6 +9,7 @@
     "generatePages": "node ./createPages",
     "generateStats": "node ./createStats",
     "generateCollectionStats": "node ./createCollectionStats",
+    "scryfallToTTS": "node ./importDeck",
     "pretest": "eslint .",
     "test": "jest"
   },
