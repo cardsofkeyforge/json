@@ -18,7 +18,7 @@ A very simple tool made in `javascript` to batch creation of json files for **Ke
 
 ## Usage
 
-So far there are 4 distinct commands. See more below.
+So far there are 8 distinct commands. See more below.
 
 ### Creating the Jsons
 
@@ -50,4 +50,38 @@ To generate the GitHub Pages for all the sets with the Jsons already created, ru
 
 ```bash
 $ npm run generatePages
+```
+
+### Generating Cards Statistics
+
+To generate the card totals by sets and general, run the following command:
+
+```bash
+$ npm run generateStats
+```
+
+### Generating Collection Statistics
+
+To generate the card totals by sets and general of a collection, run the following command:
+
+```bash
+$ npm run generateCollectionStats
+```
+
+> Place the collection in the "collection" folder one file per set (`cota.json`, `aoa.json`, etc.).
+
+### Importing Decks for TTS (KF)
+
+To create the TTS file for a KeyForge deck, run the following command:
+
+```bash
+$ npm run vaultToTTS <DECK ID>
+```
+
+### Importing Decks for TTS (MTG)
+
+To create the TTS file for a Magic deck, run the following command:
+
+```bash
+$ npm run scryfallToTTS <Scryfall Deck File.json>
 ```
