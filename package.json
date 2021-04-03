@@ -9,6 +9,7 @@
     "generatePages": "node ./createPages",
     "generateStats": "node ./createStats",
     "generateCollectionStats": "node ./createCollectionStats",
+    "vaultToTTS": "node ./vaultImporter",
     "scryfallToTTS": "node ./scryfallImporter",
     "pretest": "eslint .",
     "test": "jest"

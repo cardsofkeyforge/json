@@ -53,6 +53,12 @@
       "FIXED": "Especial Fixo",
       "Variant": "Especial Variável",
       "Special": "Especial"
+    },
+    "builder": {
+      "Maverick": "Maverick",
+      "Legacy": "Legacy",
+      "Anomaly": "Anomalia",
+      "Enhanced": "Propagada"
     }
   }
 }
