@@ -31,7 +31,7 @@ function extractCardsFrom(board, cards) {
 
     cards.CustomDeck[id.toString()] = {
       FaceURL: board[i].card_digest.image_uris.front.split("?")[0],
-      BackURL: configs.back,
+      BackURL: configs.mtgback,
       NumHeight: 1,
       NumWidth: 1,
       BackIsHidden: true
