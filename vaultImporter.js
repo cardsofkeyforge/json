@@ -30,9 +30,9 @@ if (args.length > 0) {
           rotX: 0,
           rotY: 180,
           rotZ: 180,
-          scaleX: 1,
+          scaleX: 1.5,
           scaleY: 1,
-          scaleZ: 1
+          scaleZ: 1.5
         }
       }
     ]
@@ -40,6 +40,9 @@ if (args.length > 0) {
 
   processingDeck(args[0]).then(deck => {
     console.log(`Importing deck ${deck.data.name}...`);
+    const expansion = configs.expansion.find(
+      e => e.code === deck.data.expansion
+    );
     let id = 0;
     let lastCard = "";
     deck.data._links.cards.forEach(uuid => {
@@ -50,7 +53,7 @@ if (args.length > 0) {
         lastCard = card.card_title;
         tts.ObjectStates[0].CustomDeck[id.toString()] = {
           FaceURL: card.front_image,
-          BackURL: configs.kfback,
+          BackURL: configs.kfback.replace("{0}", expansion.name),
           NumHeight: 1,
           NumWidth: 1,
           BackIsHidden: true
