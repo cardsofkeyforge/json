@@ -14,6 +14,8 @@ async function createImage(cards, expansion) {
       "/" +
       (card.house === null ? "" : card.house.replace(" ", "") + "-") +
       card.card_number +
+      (card.card_type === "Creature1" ? "-1" : "") +
+      (card.card_type === "Creature2" ? "-2" : "") +
       ".png";
 
     // eslint-disable-next-line no-await-in-loop
@@ -32,5 +34,7 @@ configs.expansion.forEach(expansion => {
     set.push(card);
   });
   set.sort((c1, c2) => String(c1.card_number).localeCompare(c2.card_number));
-  createImage(set, expansion).then(() => console.log("Done!"));
+  createImage(set, expansion).then(() =>
+    console.log(expansion.longname + " done!")
+  );
 });
