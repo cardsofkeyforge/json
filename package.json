@@ -7,6 +7,7 @@
     "createXmls": "node ./createSets",
     "importDecks": "node ./createDecks",
     "generatePages": "node ./createPages",
+    "generateImages": "node ./createImages",
     "generateStats": "node ./createStats",
     "generateCollectionStats": "node ./createCollectionStats",
     "vaultToTTS": "node ./vaultImporter",

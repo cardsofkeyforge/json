@@ -52,6 +52,14 @@ To generate the GitHub Pages for all the sets with the Jsons already created, ru
 $ npm run generatePages
 ```
 
+### Generating Card Images
+
+To generate the images of all cards for all the sets with the Jsons already created, run the following command:
+
+```bash
+$ npm run generateImages
+```
+
 ### Generating Cards Statistics
 
 To generate the card totals by sets and general, run the following command:
