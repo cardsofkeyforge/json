@@ -1,0 +1,401 @@
+{
+  "expansion": [
+    {
+      "sequence": 1,
+      "code": 341,
+      "name": "cota",
+      "longname": "O Chamado dos Arcontes",
+      "release": "2018-11-15",
+      "card_count": 370,
+      "new_count": 370,
+      "icon": "https://archonarcana.com/images/0/0d/Cota.png",
+      "houses": [
+        {
+          "brobnar": {
+            "name": "Brobnar",
+            "icon": "https://cdn.keyforgegame.com/media/houses/Brobnar_RTivg44.png"
+          },
+          "dis": {
+            "name": "Dis",
+            "icon": "https://cdn.keyforgegame.com/media/houses/Dis_OooSNPO.png"
+          },
+          "logos": {
+            "name": "Logos",
+            "icon": "https://cdn.keyforgegame.com/media/houses/Logos_2mOY1dH.png"
+          },
+          "mars": {
+            "name": "Marte",
+            "icon": "https://cdn.keyforgegame.com/media/houses/Mars_CmAUCXI.png"
+          },
+          "sanctum": {
+            "name": "Santuário",
+            "icon": "https://cdn.keyforgegame.com/media/houses/Sanctum_lUWPG7x.png"
+          },
+          "shadows": {
+            "name": "Sombras",
+            "icon": "https://cdn.keyforgegame.com/media/houses/Shadows_z0n69GG.png"
+          },
+          "untamed": {
+            "name": "Indomados",
+            "icon": "https://cdn.keyforgegame.com/media/houses/Untamed_bXh9SJD.png"
+          }
+        }
+      ],
+      "designer": "Richard Garfield",
+      "developers": [
+        "Brad Andres",
+        "Skaff Elias",
+        "Nate French",
+        "Daniel Schaefer"
+      ],
+      "langs": [
+        {
+          "en": "Inglês"
+        },
+        {
+          "fr": "Francês"
+        },
+        {
+          "de": "Alemão"
+        },
+        {
+          "it": "Italiano"
+        },
+        {
+          "pl": "Polonês"
+        },
+        {
+          "pt": "Português"
+        },
+        {
+          "es": "Espanhol"
+        },
+        {
+          "zh": "Chinês"
+        }
+      ]
+    },
+    {
+      "sequence": 2,
+      "code": 435,
+      "name": "aoa",
+      "longname": "Era da Ascensão",
+      "release": "2019-05-30",
+      "card_count": 370,
+      "new_count": 204,
+      "icon": "https://archonarcana.com/images/a/a9/Aoa.png",
+      "houses": [
+        {
+          "brobnar": {
+            "name": "Brobnar",
+            "icon": "https://cdn.keyforgegame.com/media/houses/Brobnar_RTivg44.png"
+          },
+          "dis": {
+            "name": "Dis",
+            "icon": "https://cdn.keyforgegame.com/media/houses/Dis_OooSNPO.png"
+          },
+          "logos": {
+            "name": "Logos",
+            "icon": "https://cdn.keyforgegame.com/media/houses/Logos_2mOY1dH.png"
+          },
+          "mars": {
+            "name": "Marte",
+            "icon": "https://cdn.keyforgegame.com/media/houses/Mars_CmAUCXI.png"
+          },
+          "sanctum": {
+            "name": "Santuário",
+            "icon": "https://cdn.keyforgegame.com/media/houses/Sanctum_lUWPG7x.png"
+          },
+          "shadows": {
+            "name": "Sombras",
+            "icon": "https://cdn.keyforgegame.com/media/houses/Shadows_z0n69GG.png"
+          },
+          "untamed": {
+            "name": "Indomados",
+            "icon": "https://cdn.keyforgegame.com/media/houses/Untamed_bXh9SJD.png"
+          }
+        }
+      ],
+      "designer": "Richard Garfield",
+      "developers": ["Brad Andres", "Skaff Elias", "Richard Garfield"],
+      "langs": [
+        {
+          "en": "Inglês"
+        },
+        {
+          "fr": "Francês"
+        },
+        {
+          "de": "Alemão"
+        },
+        {
+          "it": "Italiano"
+        },
+        {
+          "pl": "Polonês"
+        },
+        {
+          "pt": "Português"
+        },
+        {
+          "es": "Espanhol"
+        },
+        {
+          "zh": "Chinês"
+        },
+        {
+          "th": "Tailandês"
+        }
+      ]
+    },
+    {
+      "sequence": 3,
+      "code": 452,
+      "name": "wc",
+      "longname": "Colisão entre Mundos",
+      "release": "2019-11-08",
+      "card_count": 405,
+      "new_count": 284,
+      "icon": "https://archonarcana.com/images/b/b7/Wc.png",
+      "houses": [
+        {
+          "brobnar": {
+            "name": "Brobnar",
+            "icon": "https://cdn.keyforgegame.com/media/houses/Brobnar_RTivg44.png"
+          },
+          "dis": {
+            "name": "Dis",
+            "icon": "https://cdn.keyforgegame.com/media/houses/Dis_OooSNPO.png"
+          },
+          "logos": {
+            "name": "Logos",
+            "icon": "https://cdn.keyforgegame.com/media/houses/Logos_2mOY1dH.png"
+          },
+          "saurian": {
+            "name": "Sauro",
+            "icon": "https://cdn.keyforgegame.com/media/houses/Saurian.png"
+          },
+          "shadows": {
+            "name": "Sombras",
+            "icon": "https://cdn.keyforgegame.com/media/houses/Shadows_z0n69GG.png"
+          },
+          "star_alliance": {
+            "name": "Aliança Estelar",
+            "icon": "https://cdn.keyforgegame.com/media/houses/Star_Alliance.png"
+          },
+          "untamed": {
+            "name": "Indomados",
+            "icon": "https://cdn.keyforgegame.com/media/houses/Untamed_bXh9SJD.png"
+          }
+        }
+      ],
+      "designer": "Richard Garfield",
+      "developers": [
+        "Brad Andres",
+        "Skaff Elias",
+        "Richard Garfield",
+        "Aaron Haltom",
+        "Daniel Schaefer"
+      ],
+      "langs": [
+        {
+          "en": "Inglês"
+        },
+        {
+          "fr": "Francês"
+        },
+        {
+          "de": "Alemão"
+        },
+        {
+          "it": "Italiano"
+        },
+        {
+          "pl": "Polonês"
+        },
+        {
+          "pt": "Português"
+        },
+        {
+          "es": "Espanhol"
+        },
+        {
+          "zh": "Chinês"
+        },
+        {
+          "th": "Tailandês"
+        },
+        {
+          "ru": "Russo"
+        }
+      ],
+      "subsets": [
+        {
+          "sequence": 1,
+          "code": 453,
+          "name": "anomaly",
+          "card_count": 10,
+          "new_count": 10
+        }
+      ]
+    },
+    {
+      "sequence": 4,
+      "code": 479,
+      "name": "mm",
+      "longname": "Mutação em Massa",
+      "release": "2020-07-10",
+      "card_count": 422,
+      "new_count": 259,
+      "icon": "https://archonarcana.com/images/e/e7/Mm.png",
+      "houses": [
+        {
+          "dis": {
+            "name": "Dis",
+            "icon": "https://cdn.keyforgegame.com/media/houses/Dis_OooSNPO.png"
+          },
+          "logos": {
+            "name": "Logos",
+            "icon": "https://cdn.keyforgegame.com/media/houses/Logos_2mOY1dH.png"
+          },
+          "sanctum": {
+            "name": "Santuário",
+            "icon": "https://cdn.keyforgegame.com/media/houses/Sanctum_lUWPG7x.png"
+          },
+          "saurian": {
+            "name": "Sauro",
+            "icon": "https://cdn.keyforgegame.com/media/houses/Saurian.png"
+          },
+          "shadows": {
+            "name": "Sombras",
+            "icon": "https://cdn.keyforgegame.com/media/houses/Shadows_z0n69GG.png"
+          },
+          "star_alliance": {
+            "name": "Aliança Estelar",
+            "icon": "https://cdn.keyforgegame.com/media/houses/Star_Alliance.png"
+          },
+          "untamed": {
+            "name": "Indomados",
+            "icon": "https://cdn.keyforgegame.com/media/houses/Untamed_bXh9SJD.png"
+          }
+        }
+      ],
+      "designer": "Brad Andres",
+      "developers": ["Brad Andres", "Daniel Schaefer", "Aaron Haltom"],
+      "langs": [
+        {
+          "en": "Inglês"
+        },
+        {
+          "fr": "Francês"
+        },
+        {
+          "de": "Alemão"
+        },
+        {
+          "it": "Italiano"
+        },
+        {
+          "pl": "Polonês"
+        },
+        {
+          "pt": "Português"
+        },
+        {
+          "es": "Espanhol"
+        },
+        {
+          "zh": "Chinês"
+        },
+        {
+          "th": "Tailandês"
+        },
+        {
+          "ru": "Russo"
+        },
+        {
+          "ko": "Coreano"
+        }
+      ]
+    },
+    {
+      "sequence": 5,
+      "code": 496,
+      "name": "dt",
+      "longname": "Mar de Trevas",
+      "release": "2021-03-12",
+      "card_count": 429,
+      "new_count": 281,
+      "icon": "https://archonarcana.com/images/0/03/Dt.png",
+      "houses": [
+        {
+          "logos": {
+            "name": "Logos",
+            "icon": "https://cdn.keyforgegame.com/media/houses/Logos_2mOY1dH.png"
+          },
+          "sanctum": {
+            "name": "Santuário",
+            "icon": "https://cdn.keyforgegame.com/media/houses/Sanctum_lUWPG7x.png"
+          },
+          "saurian": {
+            "name": "Sauro",
+            "icon": "https://cdn.keyforgegame.com/media/houses/Saurian.png"
+          },
+          "shadows": {
+            "name": "Sombras",
+            "icon": "https://cdn.keyforgegame.com/media/houses/Shadows_z0n69GG.png"
+          },
+          "star_alliance": {
+            "name": "Aliança Estelar",
+            "icon": "https://cdn.keyforgegame.com/media/houses/Star_Alliance.png"
+          },
+          "unfathomable": {
+            "name": "Abissais",
+            "icon": "https://cdn.keyforgegame.com/media/houses/Unfathomable.png"
+          },
+          "untamed": {
+            "name": "Indomados",
+            "icon": "https://cdn.keyforgegame.com/media/houses/Untamed_bXh9SJD.png"
+          }
+        }
+      ],
+      "designer": "Brad Andres",
+      "developers": ["Brad Andres", "Daniel Schaefer", "Aaron Haltom"],
+      "langs": [
+        {
+          "en": "Inglês"
+        },
+        {
+          "fr": "Francês"
+        },
+        {
+          "de": "Alemão"
+        },
+        {
+          "it": "Italiano"
+        },
+        {
+          "pl": "Polonês"
+        },
+        {
+          "pt": "Português"
+        },
+        {
+          "es": "Espanhol"
+        },
+        {
+          "zh": "Chinês"
+        },
+        {
+          "th": "Tailandês"
+        },
+        {
+          "ru": "Russo"
+        },
+        {
+          "ko": "Coreano"
+        }
+      ]
+    }
+  ]
+}
