@@ -7,6 +7,7 @@ const messages = require("./messages");
 const houses = messages[configs.lang].houses;
 const builder = messages[configs.lang].builder;
 const args = process.argv.slice(2);
+const sleeve = args.length > 1 ? args[1] : "red";
 
 async function processingDeck(deckId) {
   return Promise.resolve(
@@ -40,9 +41,6 @@ if (args.length > 0) {
 
   processingDeck(args[0]).then(deck => {
     console.log(`Importing deck ${deck.data.name}...`);
-    const expansion = configs.expansion.find(
-      e => e.code === deck.data.expansion
-    );
     let id = 0;
     let lastCard = "";
     deck.data._links.cards.forEach(uuid => {
@@ -53,7 +51,7 @@ if (args.length > 0) {
         lastCard = card.card_title;
         tts.ObjectStates[0].CustomDeck[id.toString()] = {
           FaceURL: card.front_image,
-          BackURL: configs.kfback.replace("{0}", expansion.name),
+          BackURL: configs.kfback.replace("{0}", sleeve),
           NumHeight: 1,
           NumWidth: 1,
           BackIsHidden: true

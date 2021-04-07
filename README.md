@@ -91,5 +91,10 @@ $ npm run vaultToTTS <DECK ID>
 To create the TTS file for a Magic deck, run the following command:
 
 ```bash
-$ npm run scryfallToTTS <Scryfall Deck File.json>
+$ npm run scryfallToTTS <Scryfall Deck File.json> <Sleeve Color>
 ```
+
+The available sleeves colors are:
+- Red
+- Blue
+- Black
