@@ -15,6 +15,29 @@ async function processingDeck(deckId) {
   );
 }
 
+function decodeZoomURL(sets, file, lang) {
+  for (const cards of Object.entries(sets)) {
+    for (const card of Array.from(cards[1])) {
+      if (card.front_image === file) {
+        return (
+          "/media/" +
+          lang +
+          "/" +
+          cards[0] +
+          "/" +
+          (card.house === null ? "" : card.house.replace(" ", "") + "-") +
+          card.card_number +
+          (card.card_type === "Creature1" ? "-1" : "") +
+          (card.card_type === "Creature2" ? "-2" : "") +
+          ".png"
+        );
+      }
+    }
+  }
+
+  return file;
+}
+
 if (args.length > 0) {
   let tts;
   tts = {
@@ -39,6 +62,20 @@ if (args.length > 0) {
     ]
   };
 
+  const sets = {};
+  configs.expansion.forEach(expansion => {
+    console.log("Loading cards from " + expansion.longname + "...");
+    const cardsFolder = "./json/" + expansion.lang + "/" + expansion.name + "/";
+    const cards = fs.readdirSync(cardsFolder);
+    console.log("Setup to processing " + cards.length + " cards...");
+    const set = [];
+    cards.forEach(file => {
+      let card = JSON.parse(fs.readFileSync(cardsFolder + file).toString());
+      set.push(card);
+    });
+    sets[expansion.name] = set;
+  });
+
   processingDeck(args[0]).then(deck => {
     console.log(`Importing deck ${deck.data.name}...`);
     let id = 0;
@@ -50,7 +87,8 @@ if (args.length > 0) {
         id++;
         lastCard = card.card_title;
         tts.ObjectStates[0].CustomDeck[id.toString()] = {
-          FaceURL: card.front_image,
+          FaceURL:
+            configs.zoom + decodeZoomURL(sets, card.front_image, configs.lang),
           BackURL: configs.kfback.replace("{0}", sleeve),
           NumHeight: 1,
           NumWidth: 1,
