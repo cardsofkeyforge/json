@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "createJsons": "node ./createCards",
+    "createJsonCards": "node ./createJsonCards",
     "createXmls": "node ./createSets",
     "importDecks": "node ./createDecks",
     "generatePages": "node ./createPages",

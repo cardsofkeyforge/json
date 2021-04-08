@@ -28,6 +28,12 @@ To create the JSON files for all the cards present on the decks informed, run th
 $ npm run createJsons
 ```
 
+Or the following command to consolidate all parts / versions of the same card:
+
+```bash
+$ npm run createJsonCards
+```
+
 ### Creating the Xmls for Cockatrice
 
 To create the XML files for all the sets with the Jsons already created, run the following command:
