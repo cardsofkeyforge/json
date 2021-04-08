@@ -24,7 +24,7 @@ function createImageData(card, expansion) {
 }
 
 function createCards(cards, expansion) {
-  const path = "./json/" + expansion.lang + "/" + expansion.name + "/";
+  const path = "./cards/" + expansion.lang + "/" + expansion.name + "/";
   let lastCard = {};
   cards.forEach(card => {
     if (lastCard.card_number === card.card_number) {
