@@ -7,7 +7,6 @@ expansion_options = {"Qualquer", "CotA", "AoA", "WC", "MM"}
 player_draw = { White = '2a72b5', Green = '354143' }
 player_decklist = { White = '5536f1', Green = '5e3694' }
 
-
 function onLoad()
     self.setName("Painel de Importação")
     --Random Buttom

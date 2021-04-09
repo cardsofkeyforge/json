@@ -15,7 +15,6 @@ function onload()
     ZoneTextTable['f36830'] = '565e9e'
 end
 
-
 function updateEmeraldCounter(zone)
     -- Get objects
     zoneObjects = zone.getObjects()
