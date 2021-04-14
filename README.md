@@ -20,6 +20,14 @@ A very simple tool made in `javascript` to batch creation of json files for **Ke
 
 So far there are 8 distinct commands. See more below.
 
+### Import the decks' ID
+
+To create the `decks.json` file, run the following command:
+
+```bash
+$ npm run createDecksJson
+```
+
 ### Creating the Jsons
 
 To create the JSON files for all the cards present on the decks informed, run the following command:
