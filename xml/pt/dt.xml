@@ -11,7 +11,7 @@
     <cards>
         <card>
             <name>Pistola de Raio-Z</name>
-            <text>This creature gets +3 power and gains, "Before Fight: Deal 3 to each neighbor of the creature this creature fights."</text>
+            <text>This creature gets +3 power and gains, "Before Fight: Deal 3D to each neighbor of the creature this creature fights."</text>
             <tablerow>1</tablerow>
             <set rarity="FIXED" uuid="000d66cc-d349-4380-9687-7e21e92b4c54" num="254" muid="496-254" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_254_M2W8MWQ99C2J_pt.png">dt</set>
             <prop>
@@ -30,7 +30,7 @@
         </card>
         <card>
             <name>Chamado do Vazio</name>
-            <text>Play: Exhaust a creature. If it was already exhausted, destroy it instead and its controller loses 1.</text>
+            <text>Play: Exhaust a creature. If it was already exhausted, destroy it instead and its controller loses 1A.</text>
             <tablerow>3</tablerow>
             <set rarity="Common" uuid="0036ab14-24c2-41f6-b983-20d843d1e392" num="354" muid="496-354" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_354_92XQRMFX5H49_pt.png">dt</set>
             <prop>
@@ -49,7 +49,7 @@
         </card>
         <card>
             <name>Xenotreinamento</name>
-            <text>Play: For each house represented among friendly creatures, a friendly creature captures 1.</text>
+            <text>Play: For each house represented among friendly creatures, a friendly creature captures 1A.</text>
             <tablerow>3</tablerow>
             <set rarity="Uncommon" uuid="00401456-5d5f-4fce-8364-749b0414973c" num="289" muid="496-289" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_289_3R4JMH52544P_pt.png">dt</set>
             <prop>
@@ -106,7 +106,7 @@
         </card>
         <card>
             <name>Humildade</name>
-            <text>Play: Exhaust a creature. If you do, move 3 from that creature to the common supply.</text>
+            <text>Play: Exhaust a creature. If you do, move 3A from that creature to the common supply.</text>
             <tablerow>3</tablerow>
             <set rarity="Uncommon" uuid="0063a8c9-543c-4d56-be6a-6e872e6446ed" num="159" muid="496-159" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_159_QQG7CHVFQMFW_pt.png">dt</set>
             <prop>
@@ -166,7 +166,7 @@ Omni: If you have played 7 or more Sanctum cards this turn, destroy Epic Quest a
         <card>
             <name>Pequena Niff</name>
             <text>Omega. Deploy. Elusive.
-After a neighbor of Little Niff fights, steal 1.</text>
+After a neighbor of Little Niff fights, steal 1A.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="027bea25-b408-449e-9031-24e3bb3a95a3" num="217" muid="496-217" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_217_9HGJGPHQH82Q_pt.png">dt</set>
@@ -244,7 +244,7 @@ After a neighbor of Little Niff fights, steal 1.</text>
         </card>
         <card>
             <name>Matriz de Série Estática</name>
-            <text> Your keys cost –1 while the tide is high and +1 while the tide is low.</text>
+            <text>(M) Your keys cost –1A while the tide is high and +1A while the tide is low.</text>
             <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Uncommon" uuid="0532fc8e-9478-4264-bd0d-14cd20ad7133" num="284" muid="496-284" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_284_7QPVGQJ5RXJW_pt.png">dt</set>
@@ -266,7 +266,7 @@ After a neighbor of Little Niff fights, steal 1.</text>
             <name>Mentorazilda</name>
             <text>Elusive.
 At the end of your turn, put a scheme counter on Mastermindy.
-Action: Remove each scheme counter from Mastermindy. Steal 1 for each scheme counter removed this way.</text>
+Action: Remove each scheme counter from Mastermindy. Steal 1A for each scheme counter removed this way.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="058c9c70-bf2c-44bb-ba19-3f7a081792d0" num="200" muid="496-200" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_200_W8XG76QHF56M_pt.png">dt</set>
@@ -327,7 +327,7 @@ At the start of your turn, remove a time counter from Ceaseforge, then destroy i
         </card>
         <card>
             <name>Calote</name>
-            <text>Play: Deal 2 to a creature. If it is not destroyed, it captures 1 from its own side.</text>
+            <text>Play: Deal 2D to a creature. If it is not destroyed, it captures 1A from its own side.</text>
             <tablerow>3</tablerow>
             <set rarity="Common" uuid="09a7c133-856a-4399-8629-966833bfb10a" num="238" muid="496-238" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_238_4FM5883V26GW_pt.png">dt</set>
             <prop>
@@ -346,7 +346,7 @@ At the start of your turn, remove a time counter from Ceaseforge, then destroy i
         </card>
         <card>
             <name>Dia de Praia</name>
-            <text> Play: Return a creature to its owner's hand. If the tide is high, gain 1.</text>
+            <text>(M) Play: Return a creature to its owner's hand. If the tide is high, gain 1A.</text>
             <tablerow>3</tablerow>
             <set rarity="Uncommon" uuid="0a4184c3-141d-4941-81e6-b66fbfc73c24" num="398" muid="496-398" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_398_Q4GV83Q256XG_pt.png">dt</set>
             <prop>
@@ -365,7 +365,7 @@ At the start of your turn, remove a time counter from Ceaseforge, then destroy i
         </card>
         <card>
             <name>Primus Unguis</name>
-            <text>Each friendly creature gets +2 power for each  on Primus Unguis.
+            <text>Each friendly creature gets +2 power for each A on Primus Unguis.
 Reap: Exalt Primus Unguis.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
@@ -386,7 +386,7 @@ Reap: Exalt Primus Unguis.</text>
         </card>
         <card>
             <name>Reboquetrovão</name>
-            <text>Play: Exhaust 2 creatures. Deal 2 to each exhausted creature.</text>
+            <text>Play: Exhaust 2 creatures. Deal 2D to each exhausted creature.</text>
             <tablerow>3</tablerow>
             <set rarity="Uncommon" uuid="0a8296fc-e72b-43e1-bf92-e6cc918ec342" num="346" muid="496-346" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_346_GFMH3RV88WMH_pt.png">dt</set>
             <prop>
@@ -405,7 +405,7 @@ Reap: Exalt Primus Unguis.</text>
         </card>
         <card>
             <name>Núcleo Isotrópico</name>
-            <text>Each friendly creature gains hazardous 1.  (Before that creature is attacked, deal 1 to the attacking enemy.)</text>
+            <text>Each friendly creature gains hazardous 1.  (Before that creature is attacked, deal 1D to the attacking enemy.)</text>
             <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Uncommon" uuid="0acc208e-c622-4749-bcc7-8ddf5c3d10a8" num="041" muid="496-041" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_041_3CC96JRCHMCQ_pt.png">dt</set>
@@ -446,7 +446,7 @@ Taunt. (This creature’s neighbors cannot be attacked unless they have taunt.)<
         </card>
         <card>
             <name>Lærie do Lago</name>
-            <text> While the tide is high, Lærie of the Lake gets +5 armor.</text>
+            <text>(M) While the tide is high, Lærie of the Lake gets +5 armor.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Evil Twin" uuid="0f599d43-bbc9-4d6b-ad48-e90fc91194c2" num="066" muid="496-066" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_066_Q2FRFRC8W4X8_pt.png">dt</set>
@@ -466,7 +466,7 @@ Taunt. (This creature’s neighbors cannot be attacked unless they have taunt.)<
         </card>
         <card>
             <name>Dinosculpe-me</name>
-            <text>Play: Destroy a creature. Its controller gains 1.</text>
+            <text>Play: Destroy a creature. Its controller gains 1A.</text>
             <tablerow>3</tablerow>
             <set rarity="Rare" uuid="0f918c3a-3ca2-4422-b146-bac6a41c41e2" num="147" muid="496-147" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_147_77MVFCXF4RM3_pt.png">dt</set>
             <prop>
@@ -503,7 +503,7 @@ Taunt. (This creature’s neighbors cannot be attacked unless they have taunt.)<
         </card>
         <card>
             <name>Onda Purificante</name>
-            <text>Play: Heal 1 damage from each creature. Gain 1 for each creature healed this way.</text>
+            <text>Play: Heal 1 damage from each creature. Gain 1A for each creature healed this way.</text>
             <tablerow>3</tablerow>
             <set rarity="Common" uuid="10410eab-88af-4ce5-a3a2-4ffad1b3fd49" num="110" muid="496-110" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_110_RFRWH2MX953_pt.png">dt</set>
             <prop>
@@ -521,7 +521,7 @@ Taunt. (This creature’s neighbors cannot be attacked unless they have taunt.)<
         </card>
         <card>
             <name>Atacar!</name>
-            <text>Play: For the remainder of the turn, each creature you play gains, “Play: Deal 2 to an enemy creature.”</text>
+            <text>Play: For the remainder of the turn, each creature you play gains, “Play: Deal 2D to an enemy creature.”</text>
             <tablerow>3</tablerow>
             <set rarity="Rare" uuid="10eac008-fbad-4f32-b7f6-fbefe0f08c02" num="075" muid="496-075" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_075_X3RQF994MG6R_pt.png">dt</set>
             <prop>
@@ -542,7 +542,7 @@ Taunt. (This creature’s neighbors cannot be attacked unless they have taunt.)<
             <name>Omnipus</name>
             <text>Omnipus cannot fight.
 Play: Discard the top 8 cards of your deck. Play each Tentaclid from your discard pile, one at a time.
-Reap: Gain 1 for each friendly Tentaclid.</text>
+Reap: Gain 1A for each friendly Tentaclid.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="113dadcb-3047-4ae0-9a57-b353bc880323" num="316" muid="496-316" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_316_XVMMX57R77FW_pt.png">dt</set>
@@ -582,7 +582,7 @@ Reap: Gain 1 for each friendly Tentaclid.</text>
         </card>
         <card>
             <name>Submersível</name>
-            <text> While the tide is high, each friendly Thief creature gains elusive.</text>
+            <text>(M) While the tide is high, each friendly Thief creature gains elusive.</text>
             <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Rare" uuid="122be436-698e-45a3-939d-e65ad4402598" num="208" muid="496-208" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_208_6H865Q263323_pt.png">dt</set>
@@ -602,7 +602,7 @@ Reap: Gain 1 for each friendly Tentaclid.</text>
         </card>
         <card>
             <name>Aproveitador</name>
-            <text>Action: If your opponent has 6 or more, steal 2.</text>
+            <text>Action: If your opponent has 6A or more, steal 2A.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="13554e6a-d34d-4df5-9f95-93273be62abd" num="231" muid="496-231" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_231_3VG54CJFQ9JP_pt.png">dt</set>
@@ -622,7 +622,7 @@ Reap: Gain 1 for each friendly Tentaclid.</text>
         </card>
         <card>
             <name>Caríbdis</name>
-            <text>Each enemy creatures gains, "Before Fight: Lose 1."</text>
+            <text>Each enemy creatures gains, "Before Fight: Lose 1A."</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="FIXED" uuid="135bfc4a-b4aa-42ea-8d99-b5a351e71f86" num="132" muid="496-132" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_132_GWC5F4XX5CM2_pt.png">dt</set>
@@ -643,7 +643,7 @@ Reap: Gain 1 for each friendly Tentaclid.</text>
         <card>
             <name>Curar ou Ferir</name>
             <text>Play: Choose one:
-• Fully heal a creature and gain 1.
+• Fully heal a creature and gain 1A.
 • Ready and fight with a friendly creature.</text>
             <tablerow>3</tablerow>
             <set rarity="Common" uuid="13928ccc-f418-4888-9c24-8fd6488e8064" num="114" muid="496-114" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_114_H6QX778Q7FH4_pt.png">dt</set>
@@ -662,7 +662,7 @@ Reap: Gain 1 for each friendly Tentaclid.</text>
         </card>
         <card>
             <name>EIS Indômitus</name>
-            <text>Action: Exhaust up to 5 friendly Saurian creatures. For each creature exhausted this way, deal 1 to each enemy creature.</text>
+            <text>Action: Exhaust up to 5 friendly Saurian creatures. For each creature exhausted this way, deal 1D to each enemy creature.</text>
             <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Rare" uuid="13e7a98b-e12a-41e7-b117-d62054015913" num="145" muid="496-145" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_145_HF7QP42JGR78_pt.png">dt</set>
@@ -700,7 +700,7 @@ Reap: Gain 1 for each friendly Tentaclid.</text>
         </card>
         <card>
             <name>Canhão de Mão</name>
-            <text>This creature gains skirmish and, "Fight: Move 1 from the creature this creature fights to your pool."</text>
+            <text>This creature gains skirmish and, "Fight: Move 1A from the creature this creature fights to your pool."</text>
             <tablerow>1</tablerow>
             <set rarity="Uncommon" uuid="14647863-4618-4574-9237-979364a6cc35" num="216" muid="496-216" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_216_CGFFMQ2HRQX5_pt.png">dt</set>
             <prop>
@@ -720,7 +720,7 @@ Reap: Gain 1 for each friendly Tentaclid.</text>
         <card>
             <name>Sussurros</name>
             <text>Elusive.
-Action: Lose 1. If you do, destroy a creature.</text>
+Action: Lose 1A. If you do, destroy a creature.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="14dc3346-238c-409e-8a30-365b1d45bfd5" num="226" muid="496-226" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_226_XFVPRQG8GG65_pt.png">dt</set>
@@ -761,7 +761,7 @@ Action: Return a Bombyx from your discard pile to your hand.</text>
         </card>
         <card>
             <name>Brutamontes</name>
-            <text>Assault 2. (Before this creature attacks, deal 2 to the attacked enemy.)
+            <text>Assault 2. (Before this creature attacks, deal 2D to the attacked enemy.)
 Each of Bull-wark's neighbors gains assault 2.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
@@ -782,7 +782,7 @@ Each of Bull-wark's neighbors gains assault 2.</text>
         </card>
         <card>
             <name>Velho Turrão</name>
-            <text> Reap: Discard the bottom card of your opponent's deck, or the bottom 3 cards instead if the tide is high. Destroy a creature that shares a house with 1 of the discarded cards.</text>
+            <text>(M) Reap: Discard the bottom card of your opponent's deck, or the bottom 3 cards instead if the tide is high. Destroy a creature that shares a house with 1 of the discarded cards.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Evil Twin" uuid="16aab027-02d6-48b6-9571-6a7a49204bd8" num="371" muid="496-371" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_371_9CM3M3CP75MF_pt.png">dt</set>
@@ -802,7 +802,7 @@ Each of Bull-wark's neighbors gains assault 2.</text>
         </card>
         <card>
             <name>Andar na Prancha</name>
-            <text>Play: If your opponent has no , deal 4 to a creature. Otherwise, steal 1. </text>
+            <text>Play: If your opponent has no A, deal 4D to a creature. Otherwise, steal 1A. </text>
             <tablerow>3</tablerow>
             <set rarity="Common" uuid="16d955dd-f7ef-43c1-aa17-00454cf5c9be" num="242" muid="496-242" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_242_W9CJ6P8F7MR3_pt.png">dt</set>
             <prop>
@@ -820,7 +820,7 @@ Each of Bull-wark's neighbors gains assault 2.</text>
         </card>
         <card>
             <name>Rajada Mental</name>
-            <text>Play: Deal 1 to each creature for each card you have played this turn (including this one).</text>
+            <text>Play: Deal 1D to each creature for each card you have played this turn (including this one).</text>
             <tablerow>3</tablerow>
             <set rarity="Uncommon" uuid="174793e9-f969-46fd-9373-f77c57d7ddc5" num="043" muid="496-043" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_043_3MV84Q7P4JW9_pt.png">dt</set>
             <prop>
@@ -838,7 +838,7 @@ Each of Bull-wark's neighbors gains assault 2.</text>
         </card>
         <card>
             <name>Taxas da Cidade-Estado</name>
-            <text>Play: Each friendly creature captures 1.</text>
+            <text>Play: Each friendly creature captures 1A.</text>
             <tablerow>3</tablerow>
             <set rarity="Uncommon" uuid="17dd2bc9-55e6-4424-90a2-1fe1523f27c0" num="155" muid="496-155" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_155_WH2W5MRQ46XW_pt.png">dt</set>
             <prop>
@@ -856,7 +856,7 @@ Each of Bull-wark's neighbors gains assault 2.</text>
         </card>
         <card>
             <name>Tubarão-Æmbar</name>
-            <text>At the end of your turn, each player loses 1. Give Æmberfin Shark a +1 power counter for each  lost this way.</text>
+            <text>At the end of your turn, each player loses 1A. Give Æmberfin Shark a +1 power counter for each A lost this way.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Evil Twin" uuid="17e094f5-2133-4569-bd3a-2928b380f898" num="368" muid="496-368" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_368_FPP9359538QF_pt.png">dt</set>
@@ -955,7 +955,7 @@ Play: Give Chonkers a +1 power counter. </text>
         </card>
         <card>
             <name>Guardáguas</name>
-            <text> Play/Reap: If the tide is high, your opponent raises the tide. Otherwise, you raise the tide.</text>
+            <text>(M) Play/Reap: If the tide is high, your opponent raises the tide. Otherwise, you raise the tide.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="1b54db14-0789-48e4-b65c-74819d56cdd1" num="050" muid="496-050" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_050_G7FP67RC9WRC_pt.png">dt</set>
@@ -1015,7 +1015,7 @@ Play: Give Chonkers a +1 power counter. </text>
         </card>
         <card>
             <name>Cientista Felix</name>
-            <text> Play/Fight: If the tide is high, you may exalt a creature.</text>
+            <text>(M) Play/Fight: If the tide is high, you may exalt a creature.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="1e15b90a-1b26-43f7-8093-ad5d78f9d644" num="161" muid="496-161" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_161_W8R2JQ2JC3RC_pt.png">dt</set>
@@ -1097,7 +1097,7 @@ Play: Give Chonkers a +1 power counter. </text>
             <name>Mack, a Faca</name>
             <text>Elusive.
 You may use Mack the Knife as if it belonged to the active house.
-Action: Deal 1 to a creature. If this damage destroys that creature, gain 1.</text>
+Action: Deal 1D to a creature. If this damage destroys that creature, gain 1A.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="22fad0ec-c030-4525-a5e7-525a8cd41dbb" num="199" muid="496-199" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_199_RP49F4QFW3FM_pt.png">dt</set>
@@ -1158,7 +1158,7 @@ Action: Deal 1 to a creature. If this damage destroys that creature, gain 1�
         <card>
             <name>Colono Chapman</name>
             <text>Elusive. (The first time this creature is attacked each turn, no damage is dealt.)
-Play: Capture all  from each player.</text>
+Play: Capture all A from each player.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Evil Twin" uuid="23c9812d-0519-4d2c-a0ad-566e9bdb2282" num="246" muid="496-246" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_246_3HX2R44WR73H_pt.png">dt</set>
@@ -1179,7 +1179,7 @@ Play: Capture all  from each player.</text>
         <card>
             <name>Eureca!</name>
             <text>Alpha.
-Play: Gain 2. Archive 2 random cards.</text>
+Play: Gain 2A. Archive 2 random cards.</text>
             <tablerow>3</tablerow>
             <set rarity="Uncommon" uuid="23d36d51-477c-4b35-83ea-203b1793a3c0" num="038" muid="496-038" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_038_VRVG453C35R5_pt.png">dt</set>
             <prop>
@@ -1198,7 +1198,7 @@ Play: Gain 2. Archive 2 random cards.</text>
         </card>
         <card>
             <name>O Protetor do Cofre</name>
-            <text>Your  cannot be stolen.</text>
+            <text>Your A cannot be stolen.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="247dc975-14bd-4bf2-89cd-8525d8d6762e" num="091" muid="496-091" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_091_GRHXCM2HH6W2_pt.png">dt</set>
@@ -1218,7 +1218,7 @@ Play: Gain 2. Archive 2 random cards.</text>
         </card>
         <card>
             <name>Lança Poderosa</name>
-            <text>Play: Deal 3 to a creature and 3 to a neighbor of that creature.</text>
+            <text>Play: Deal 3D to a creature and 3D to a neighbor of that creature.</text>
             <tablerow>3</tablerow>
             <set rarity="Rare" uuid="24f519ff-5f72-4e11-9dfa-d0012c602996" num="083" muid="496-083" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_083_GHP2MR29293_pt.png">dt</set>
             <prop>
@@ -1236,7 +1236,7 @@ Play: Gain 2. Archive 2 random cards.</text>
         </card>
         <card>
             <name>Censor Filo</name>
-            <text>Play: Deal 5 to a creature with  on it.</text>
+            <text>Play: Deal 5D to a creature with A on it.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Evil Twin" uuid="26508123-882f-4d7c-a638-7a3f99cd9021" num="125" muid="496-125" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_125_33GV6CQWVQJ2_pt.png">dt</set>
@@ -1257,7 +1257,7 @@ Play: Gain 2. Archive 2 random cards.</text>
         <card>
             <name>Mestresmola</name>
             <text>Deploy.
-Each of Almsmaster's neighbors gains, "Destroyed: Steal 1."</text>
+Each of Almsmaster's neighbors gains, "Destroyed: Steal 1A."</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Evil Twin" uuid="26fb8eda-554e-4c19-8c03-2ea5269d9b5d" num="064" muid="496-064" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_064_J2W3WWQ3XF5C_pt.png">dt</set>
@@ -1278,7 +1278,7 @@ Each of Almsmaster's neighbors gains, "Destroyed: Steal 1."</text>
         <card>
             <name>Prof. Aposentado Kering</name>
             <text>Deploy.
- Play/Fight/Reap: Use 1 of Prof. Emeritus Kering's neighbors. If the tide is high, also use Prof. Emeritus Kering's other neighbor.</text>
+(M) Play/Fight/Reap: Use 1 of Prof. Emeritus Kering's neighbors. If the tide is high, also use Prof. Emeritus Kering's other neighbor.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="27a4da78-1732-429e-afc7-bbad7468ce61" num="271" muid="496-271" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_271_GCV53F3PQ64F_pt.png">dt</set>
@@ -1298,7 +1298,7 @@ Each of Almsmaster's neighbors gains, "Destroyed: Steal 1."</text>
         </card>
         <card>
             <name>Hidrocatalogador</name>
-            <text> After a player raises the tide, they archive the top card of their deck.</text>
+            <text>(M) After a player raises the tide, they archive the top card of their deck.</text>
             <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Common" uuid="28645ea1-732a-49ef-a5b9-500ffc13206f" num="053" muid="496-053" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_053_87P4JJC4XGRJ_pt.png">dt</set>
@@ -1339,7 +1339,7 @@ Each of Almsmaster's neighbors gains, "Destroyed: Steal 1."</text>
         <card>
             <name>Sauropóde de Tróia</name>
             <text>Trojan Sauropod enters play under your opponent’s control.
-Omni: Gain 3. Your opponent reveals their hand and puts each creature from it into play ready, then refills their hand as if it were their "draw cards" step. Destroy Trojan Sauropod.</text>
+Omni: Gain 3A. Your opponent reveals their hand and puts each creature from it into play ready, then refills their hand as if it were their "draw cards" step. Destroy Trojan Sauropod.</text>
             <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Uncommon" uuid="2b33e86c-41ee-4bfe-9a1e-966a8bdd3fae" num="166" muid="496-166" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_166_7HHCCVWGVC7M_pt.png">dt</set>
@@ -1379,7 +1379,7 @@ Omni: Gain 3. Your opponent reveals their hand and puts each creature from it
         </card>
         <card>
             <name>Exploradora de Mutações</name>
-            <text>Enhance . (These icons have already been added to cards in your deck.)</text>
+            <text>Enhance AD. (These icons have already been added to cards in your deck.)</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="2c8ec56a-3e0f-44e0-a5d9-92f5ab44f014" num="281" muid="496-281" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_281_W237RJ5H5V4R_pt.png">dt</set>
@@ -1400,7 +1400,7 @@ Omni: Gain 3. Your opponent reveals their hand and puts each creature from it
         <card>
             <name>Crassosaurus</name>
             <text>Elusive.
-Play: Capture 10 from any combination of players. Then, if Crassosaurus has fewer than 10 on it, purge Crassosaurus.</text>
+Play: Capture 10A from any combination of players. Then, if Crassosaurus has fewer than 10A on it, purge Crassosaurus.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="2d3e5952-26c3-47f4-aed1-286b942e26ac" num="135" muid="496-135" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_135_G86RPHM5CVMF_pt.png">dt</set>
@@ -1420,7 +1420,7 @@ Play: Capture 10 from any combination of players. Then, if Crassosaurus has f
         </card>
         <card>
             <name>Armadilha</name>
-            <text>Play: Deal 4 to a creature that is not on a flank, with 2 splash.</text>
+            <text>Play: Deal 4D to a creature that is not on a flank, with 2D splash.</text>
             <tablerow>3</tablerow>
             <set rarity="Uncommon" uuid="2d449d44-9917-4aaf-9da1-a69575b73436" num="212" muid="496-212" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_212_6P3M73RFGR8W_pt.png">dt</set>
             <prop>
@@ -1459,7 +1459,7 @@ Play: Capture 10 from any combination of players. Then, if Crassosaurus has f
         </card>
         <card>
             <name>Gizelhart, o Profeta Louco</name>
-            <text>While Mad Prophet Gizelhart is in the center of your battleline, it gains, "Action: Fully heal each non-Mutant creature. Gain 1 for each creature healed this way."</text>
+            <text>While Mad Prophet Gizelhart is in the center of your battleline, it gains, "Action: Fully heal each non-Mutant creature. Gain 1A for each creature healed this way."</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="2fad8823-ea45-4056-a5dd-fda9b06771e1" num="082" muid="496-082" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_082_9MGV6X5QR6CM_pt.png">dt</set>
@@ -1499,7 +1499,7 @@ Play: Capture 10 from any combination of players. Then, if Crassosaurus has f
         </card>
         <card>
             <name>Pisoteio</name>
-            <text>Play: If you used 3 or more creatures this turn, steal 2.</text>
+            <text>Play: If you used 3 or more creatures this turn, steal 2A.</text>
             <tablerow>3</tablerow>
             <set rarity="Rare" uuid="312a4bb2-3146-4792-ad7d-48cd5aa9bddc" num="392" muid="496-392" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_392_QV8XP6G2RJ4V_pt.png">dt</set>
             <prop>
@@ -1519,7 +1519,7 @@ Play: Capture 10 from any combination of players. Then, if Crassosaurus has f
         <card>
             <name>Ambrósio Eclético</name>
             <text>At the end of your turn, put a knowledge counter on Eclectic Ambrosius.
-Action: Remove 3 knowledge counters from Eclectic Ambrosius. If you do, gain 6.</text>
+Action: Remove 3 knowledge counters from Eclectic Ambrosius. If you do, gain 6A.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="315329bd-e82b-4599-9300-69c961fa26d4" num="137" muid="496-137" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_137_7XF6VQHG93J9_pt.png">dt</set>
@@ -1696,7 +1696,7 @@ Omni: Suba a maré. Ganhe 3 correntes.</text>
         </card>
         <card>
             <name>Adivinha Cinza</name>
-            <text>Each of Grey Augur's neighbors gains, "Fight: Gain 1."</text>
+            <text>Each of Grey Augur's neighbors gains, "Fight: Gain 1A."</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="39644339-a325-4bd9-b12d-23920cb4bfdf" num="100" muid="496-100" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_100_M8JWGXW3793F_pt.png">dt</set>
@@ -1716,7 +1716,7 @@ Omni: Suba a maré. Ganhe 3 correntes.</text>
         </card>
         <card>
             <name>Lorde Golgotha</name>
-            <text>Before Fight: Deal 3 to each neighbor of the creature Lord Golgotha fights.</text>
+            <text>Before Fight: Deal 3D to each neighbor of the creature Lord Golgotha fights.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="3998639e-59e8-4986-b820-1a061b1b705b" num="081" muid="496-081" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_081_VXMWR7MR5CW9_pt.png">dt</set>
@@ -1796,7 +1796,7 @@ Destroyed: Archive Velum from your discard pile. If you do, archive Hyde.</text>
         </card>
         <card>
             <name>Boia ou Afunda?</name>
-            <text> Play: Each player loses 1. If the tide is high, each player loses half their  instead (rounding down the loss).</text>
+            <text>(M) Play: Each player loses 1A. If the tide is high, each player loses half their A instead (rounding down the loss).</text>
             <tablerow>3</tablerow>
             <set rarity="Common" uuid="3c5c4ea9-38fb-4987-86b4-41f33487de62" num="061" muid="496-061" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_061_J72MCX874FM9_pt.png">dt</set>
             <prop>
@@ -1836,7 +1836,7 @@ Omni: Choose a friendly creature. You may use that creature this turn.</text>
         <card>
             <name>Escifo</name>
             <text>Hazardous 4.
- Destroyed: If the tide is high, archive Scyphos.</text>
+(M) Destroyed: If the tide is high, archive Scyphos.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="3c9c6095-6a4c-4cdc-9f33-a614932ccf10" num="343" muid="496-343" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_343_QG8Q57JX5GCQ_pt.png">dt</set>
@@ -1856,7 +1856,7 @@ Omni: Choose a friendly creature. You may use that creature this turn.</text>
         </card>
         <card>
             <name>Forjando uma Aliança</name>
-            <text>Play: Forge a key at +7 current cost, reduced by 1 (to a maximum of 6) for each house represented among cards in play.</text>
+            <text>Play: Forge a key at +7A current cost, reduced by 1A (to a maximum of 6) for each house represented among cards in play.</text>
             <tablerow>3</tablerow>
             <set rarity="Rare" uuid="3d2591c6-2704-4fbb-87d6-7f55d3e09cad" num="266" muid="496-266" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_266_VFWFFV3WRHRC_pt.png">dt</set>
             <prop>
@@ -1875,7 +1875,7 @@ Omni: Choose a friendly creature. You may use that creature this turn.</text>
         </card>
         <card>
             <name>Adivinha Cinza</name>
-            <text>Each of Grey Augur's neighbors gains, "Reap: Gain 1 and exalt this creature."</text>
+            <text>Each of Grey Augur's neighbors gains, "Reap: Gain 1A and exalt this creature."</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Evil Twin" uuid="3da94814-f9f3-4e59-842d-d88fcda23da0" num="065" muid="496-065" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_065_VH6M3PFC2H2_pt.png">dt</set>
@@ -1957,7 +1957,7 @@ Reap: You may choose a card in your archives and put it into your hand.</text>
         <card>
             <name>Possante</name>
             <text>Play: You may exalt Monty Bank up to 2 times.
-Action: Steal 1 for each  on Monty Bank.</text>
+Action: Steal 1A for each A on Monty Bank.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="3f2d9a2a-de2a-445e-97b8-b428396f42d7" num="219" muid="496-219" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_219_JVW58334G93X_pt.png">dt</set>
@@ -2017,7 +2017,7 @@ Destroyed: Archive Hyde from your discard pile. If you do, archive Velum.</text>
         </card>
         <card>
             <name>Senescal Sargassa</name>
-            <text> After a player raises the tide, Seneschal Sargassa captures 2 from your opponent.</text>
+            <text>(M) After a player raises the tide, Seneschal Sargassa captures 2A from your opponent.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Evil Twin" uuid="4239b120-38e1-43a4-8be2-48dd9631ee2c" num="068" muid="496-068" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_068_6V3GQ4H3GH67_pt.png">dt</set>
@@ -2037,7 +2037,7 @@ Destroyed: Archive Hyde from your discard pile. If you do, archive Velum.</text>
         </card>
         <card>
             <name>Zap</name>
-            <text>Play: Deal 1 to a creature for each house represented among creatures in play.</text>
+            <text>Play: Deal 1D to a creature for each house represented among creatures in play.</text>
             <tablerow>3</tablerow>
             <set rarity="Common" uuid="436d743c-44b9-450b-b730-63018829c3ff" num="305" muid="496-305" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_305_35FHXGRH97X5_pt.png">dt</set>
             <prop>
@@ -2075,7 +2075,7 @@ Destroyed: Archive Hyde from your discard pile. If you do, archive Velum.</text>
         <card>
             <name>Francis, o "Economista"</name>
             <text>Skirmish. (When you use this creature to fight, it is dealt no damage in return.)
-Fight: Each player gains 1.</text>
+Fight: Each player gains 1A.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="44a39758-2894-498d-9dc4-6a9bd8cc82db" num="228" muid="496-228" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_228_R5WCF2X522H2_pt.png">dt</set>
@@ -2095,7 +2095,7 @@ Fight: Each player gains 1.</text>
         </card>
         <card>
             <name>Fazer a Limpa</name>
-            <text>Play: Deal 1 to each creature. Destroy each upgrade.</text>
+            <text>Play: Deal 1D to each creature. Destroy each upgrade.</text>
             <tablerow>3</tablerow>
             <set rarity="Uncommon" uuid="44aa68b7-3e24-41dd-ab48-37c2f022d186" num="167" muid="496-167" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_167_624483VGCWWF_pt.png">dt</set>
             <prop>
@@ -2134,7 +2134,7 @@ Fight: Each player gains 1.</text>
         <card>
             <name>L30-P4RD0</name>
             <text>Skirmish. (When you use this creature to fight, it is dealt no damage in return.)
- While the tide is high, each of CH-337A's neighbors gains skirmish.</text>
+(M) While the tide is high, each of CH-337A's neighbors gains skirmish.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Evil Twin" uuid="4536d47d-2b94-4de3-bebf-33246764a58b" num="245" muid="496-245" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_245_5WQFX87RWG6H_pt.png">dt</set>
@@ -2292,7 +2292,7 @@ At the end of your turn, destroy 1 of Scowly Caper’s neighbors.</text>
         </card>
         <card>
             <name>Entrou de Gaiato</name>
-            <text>Play: Deal 1 to each creature. Gain 1 for each creature destroyed this way.</text>
+            <text>Play: Deal 1D to each creature. Gain 1A for each creature destroyed this way.</text>
             <tablerow>3</tablerow>
             <set rarity="Common" uuid="49ac23a4-1864-4c87-8f16-fbf6af890b9d" num="234" muid="496-234" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_234_MF67CW56QJC4_pt.png">dt</set>
             <prop>
@@ -2310,8 +2310,8 @@ At the end of your turn, destroy 1 of Scowly Caper’s neighbors.</text>
         </card>
         <card>
             <name>Suga-Æmbar</name>
-            <text> Play: Raise the tide.
- This creature gains, "At the start of your turn, if the tide is high, capture 2."</text>
+            <text>(M) Play: Raise the tide.
+(M) This creature gains, "At the start of your turn, if the tide is high, capture 2A."</text>
             <tablerow>1</tablerow>
             <set rarity="Common" uuid="4a4fb4cc-fa74-4885-867b-2c00773557ce" num="290" muid="496-290" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_290_8G5MP5XP7F4H_pt.png">dt</set>
             <prop>
@@ -2349,7 +2349,7 @@ At the end of your turn, destroy 1 of Scowly Caper’s neighbors.</text>
         </card>
         <card>
             <name>Lærie do Lago</name>
-            <text> While the tide is high, each friendly creature gets +2 armor.</text>
+            <text>(M) While the tide is high, each friendly creature gets +2 armor.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="4b66b4cf-a993-4761-b0b6-0ab44a33f91a" num="115" muid="496-115" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_115_P5P24J42P3HW_pt.png">dt</set>
@@ -2388,7 +2388,7 @@ At the end of your turn, destroy 1 of Scowly Caper’s neighbors.</text>
         </card>
         <card>
             <name>Senescal Sargassa</name>
-            <text> After a player raises the tide, a creature they control captures 2 from their opponent.</text>
+            <text>(M) After a player raises the tide, a creature they control captures 2A from their opponent.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="4cbcd436-dba2-4556-a948-d0bdbc183414" num="117" muid="496-117" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_117_MJ25G7VMMGJX_pt.png">dt</set>
@@ -2409,7 +2409,7 @@ At the end of your turn, destroy 1 of Scowly Caper’s neighbors.</text>
         <card>
             <name>Nivelar</name>
             <text>Enhance . (These icons have already been added to cards in your deck.)
-Play: Capture all but 5 of your opponent’s , distributed among any number of friendly creatures.</text>
+Play: Capture all but 5 of your opponent’s A, distributed among any number of friendly creatures.</text>
             <tablerow>3</tablerow>
             <set rarity="Uncommon" uuid="4cd70182-b81d-4fbe-acc0-1db2e4e04898" num="095" muid="496-095" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_095_V3M3MQ3QXH43_pt.png">dt</set>
             <prop>
@@ -2428,7 +2428,7 @@ Play: Capture all but 5 of your opponent’s , distributed among any number o
         </card>
         <card>
             <name>Ostracizar</name>
-            <text>Play: Lose 1. If you do, purge a creature.</text>
+            <text>Play: Lose 1A. If you do, purge a creature.</text>
             <tablerow>3</tablerow>
             <set rarity="Common" uuid="4d293944-5068-485b-9dfe-0f52071e286d" num="179" muid="496-179" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_179_8VQV9H86X4V_pt.png">dt</set>
             <prop>
@@ -2466,8 +2466,8 @@ Play: Capture all but 5 of your opponent’s , distributed among any number o
         </card>
         <card>
             <name>Bracanália</name>
-            <text>Play: Put 4 on Bracchanalia from the common supply. A friendly creature captures 1.
-At the start of each player’s turn, if that player controls 4 or more creatures with  on them, move each  from Bracchanalia to that player’s pool.</text>
+            <text>Play: Put 4A on Bracchanalia from the common supply. A friendly creature captures 1A.
+At the start of each player’s turn, if that player controls 4 or more creatures with A on them, move each A from Bracchanalia to that player’s pool.</text>
             <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Rare" uuid="51c721db-4993-4008-9828-3e6c09793bdc" num="133" muid="496-133" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_133_X7FW8WM3P8MH_pt.png">dt</set>
@@ -2487,7 +2487,7 @@ At the start of each player’s turn, if that player controls 4 or more creature
         </card>
         <card>
             <name>Valocanto</name>
-            <text> While the tide is low, Valoocanth cannot be used.
+            <text>(M) While the tide is low, Valoocanth cannot be used.
 Fight/Reap: Exhaust an enemy creature and each of its neighbors.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
@@ -2508,7 +2508,7 @@ Fight/Reap: Exhaust an enemy creature and each of its neighbors.</text>
         </card>
         <card>
             <name>Devorado Vivo</name>
-            <text> Play only if the tide is high.
+            <text>(M) Play only if the tide is high.
 Play: Choose 2 creatures. Purge the chosen creature with the lowest power and give +1 power counters equal to its power to the other chosen creature.</text>
             <tablerow>3</tablerow>
             <set rarity="Rare" uuid="53c7f378-f1c1-48fa-a03f-946b946ce7da" num="148" muid="496-148" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_148_F4PP9CMQ8CGR_pt.png">dt</set>
@@ -2566,8 +2566,8 @@ Play: Choose 2 creatures. Purge the chosen creature with the lowest power and gi
         <card>
             <name>Terrordáctilo</name>
             <text>Terrordactyl enters play stunned.
-Terrordactyl only deals 4 when fighting.
-Before Fight: Deal 4 to each neighbor of the creature Terrordactyl fights.</text>
+Terrordactyl only deals 4D when fighting.
+Before Fight: Deal 4D to each neighbor of the creature Terrordactyl fights.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="54c8e323-7f75-4661-a536-47adbaa2a683" num="165" muid="496-165" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_165_M7MJM2VRCMRW_pt.png">dt</set>
@@ -2629,7 +2629,7 @@ After an enemy creature reaps, it does not ready during its controller's next "r
         <card>
             <name>Tubarão-Æmbar</name>
             <text>Play: Give Æmberfin Shark three +1 power counters.
-At the end of your turn, remove a +1 power counter from Æmberfin Shark. If you do, each player gains 1.</text>
+At the end of your turn, remove a +1 power counter from Æmberfin Shark. If you do, each player gains 1A.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="5534b986-0202-466f-bb12-d46f4a9bb793" num="378" muid="496-378" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_378_PQ4M889XG43W_pt.png">dt</set>
@@ -2705,7 +2705,7 @@ At the end of your turn, remove a +1 power counter from Æmberfin Shark. If you 
         </card>
         <card>
             <name>Vingança do Arconte</name>
-            <text>Action: Exhaust up to 2 friendly Shadows creatures. For each creature exhausted this way, steal 1.</text>
+            <text>Action: Exhaust up to 2 friendly Shadows creatures. For each creature exhausted this way, steal 1A.</text>
             <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Rare" uuid="56b6d523-b7a9-468f-934e-10cfec86d084" num="191" muid="496-191" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_191_JJ46MMM479H9_pt.png">dt</set>
@@ -2782,7 +2782,7 @@ At the end of your turn, remove a +1 power counter from Æmberfin Shark. If you 
         </card>
         <card>
             <name>Emissário Octavia</name>
-            <text>Action: Capture 2.</text>
+            <text>Action: Capture 2A.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="58354cf3-2643-428f-9198-670f33c35eb9" num="172" muid="496-172" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_172_PPPRWFXCVWWG_pt.png">dt</set>
@@ -2859,7 +2859,7 @@ This creature gains, “Destroyed: Attach Officer’s Blaster to this creature's
         </card>
         <card>
             <name>Afana-Manto</name>
-            <text>Fight/Reap: If you have less  than your opponent, steal 1. Otherwise, each player gains 1.</text>
+            <text>Fight/Reap: If you have less A than your opponent, steal 1A. Otherwise, each player gains 1A.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="5a89f7f2-95dd-471e-9cd1-b082630d8210" num="197" muid="496-197" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_197_G58J6265CQ3Q_pt.png">dt</set>
@@ -2920,7 +2920,7 @@ Fight: Give a Beast creature two +1 power counters.</text>
         </card>
         <card>
             <name>Descoberta do Bioma</name>
-            <text> Play: If the tide is high, you may look at the top 2 cards of your deck and discard 1 of them. Otherwise, raise the tide.</text>
+            <text>(M) Play: If the tide is high, you may look at the top 2 cards of your deck and discard 1 of them. Otherwise, raise the tide.</text>
             <tablerow>3</tablerow>
             <set rarity="Common" uuid="5d2252bc-6b58-40a9-b91d-0e7fd89332e6" num="291" muid="496-291" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_291_6634PH343R5Q_pt.png">dt</set>
             <prop>
@@ -2960,7 +2960,7 @@ Reap: If you forged a key this turn, take control of an enemy flank creature.</t
         </card>
         <card>
             <name>Simpson Valentão</name>
-            <text> Reap: If the tide is high, a damaged creature captures 1 from its own side.</text>
+            <text>(M) Reap: If the tide is high, a damaged creature captures 1A from its own side.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Evil Twin" uuid="5e009c15-e1bd-4dfa-9591-5e32a492876d" num="186" muid="496-186" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_186_FJM7X672MRCC_pt.png">dt</set>
@@ -2999,8 +2999,8 @@ Reap: If you forged a key this turn, take control of an enemy flank creature.</t
         </card>
         <card>
             <name>Módulo 5UB-M3R50</name>
-            <text> While the tide is high, this creature gains skirmish.
- While the tide is low, this creature gains elusive.</text>
+            <text>(M) While the tide is high, this creature gains skirmish.
+(M) While the tide is low, this creature gains elusive.</text>
             <tablerow>1</tablerow>
             <set rarity="Rare" uuid="5f60e7f0-8c0a-45e9-b5df-a145aa19187c" num="262" muid="496-262" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_262_CFQJ3Q4C5Q8_pt.png">dt</set>
             <prop>
@@ -3018,7 +3018,7 @@ Reap: If you forged a key this turn, take control of an enemy flank creature.</t
         </card>
         <card>
             <name>Tirar Vantagem</name>
-            <text> Play: If the tide is high, a friendly creature captures 3. Otherwise, raise the tide.</text>
+            <text>(M) Play: If the tide is high, a friendly creature captures 3A. Otherwise, raise the tide.</text>
             <tablerow>3</tablerow>
             <set rarity="Common" uuid="60d1d71a-09af-4ebd-b5b6-996c2663ce30" num="180" muid="496-180" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_180_CR2QM2WCQ44_pt.png">dt</set>
             <prop>
@@ -3099,7 +3099,7 @@ Fight: Exalt the creature Lapisaurus fights.</text>
         </card>
         <card>
             <name>Æmbarmancia</name>
-            <text>Play: Remove up to three +1 power counters from a creature. Gain 1 for each counter removed this way.</text>
+            <text>Play: Remove up to three +1 power counters from a creature. Gain 1A for each counter removed this way.</text>
             <tablerow>3</tablerow>
             <set rarity="Uncommon" uuid="62c31bf8-cf14-4f32-9311-d26c5ae3050a" num="397" muid="496-397" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_397_W5HQF9FFJF73_pt.png">dt</set>
             <prop>
@@ -3138,7 +3138,7 @@ Fight: Exalt the creature Lapisaurus fights.</text>
         <card>
             <name>L30-P4RD0</name>
             <text>Elusive.
- While the tide is high, each of CH-337A's neighbors gains elusive.</text>
+(M) While the tide is high, each of CH-337A's neighbors gains elusive.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="63149fb2-e6b2-43f7-96f6-e21baeff89de" num="276" muid="496-276" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_276_WCJW7FRPCFP_pt.png">dt</set>
@@ -3216,8 +3216,8 @@ Reap: Exhaust a creature.</text>
         </card>
         <card>
             <name>Fada Delinquente</name>
-            <text> Play: Raise the tide.
- Reap: If the tide is high, steal 1.</text>
+            <text>(M) Play: Raise the tide.
+(M) Reap: If the tide is high, steal 1A.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="6431819b-6150-4662-aba7-10035a59a0aa" num="215" muid="496-215" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_215_68VQC7Q4FP3_pt.png">dt</set>
@@ -3237,7 +3237,7 @@ Reap: Exhaust a creature.</text>
         </card>
         <card>
             <name>Gruen Profund'água</name>
-            <text> Play/Reap: If the tide is low, your opponent gains 1.</text>
+            <text>(M) Play/Reap: If the tide is low, your opponent gains 1A.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="645084af-a823-48e0-92b1-82f655b07f3f" num="416" muid="496-416" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_416_QWFVMGH3WC9_pt.png">dt</set>
@@ -3260,7 +3260,7 @@ Reap: Exhaust a creature.</text>
             <name>Encosto</name>
             <text>Taunt. (This creature’s neighbors cannot be attacked unless they have taunt.)
 Shoulder Id cannot fight.
-When Shoulder Id would deal damage, steal 1 instead.</text>
+When Shoulder Id would deal damage, steal 1A instead.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="64d3a774-395c-426f-9cc1-ac70b9f6ece7" num="241" muid="496-241" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_241_35MXF3FCX57C_pt.png">dt</set>
@@ -3281,7 +3281,7 @@ When Shoulder Id would deal damage, steal 1 instead.</text>
         <card>
             <name>Eng. de Foguetes Tryska</name>
             <text>Skirmish.
- While the tide is high, Rocketeer Tryska enters play ready.</text>
+(M) While the tide is high, Rocketeer Tryska enters play ready.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Evil Twin" uuid="656cc4f8-55c7-4772-92d2-c27b3612f16c" num="248" muid="496-248" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_248_WCQ44P8FM6RG_pt.png">dt</set>
@@ -3320,7 +3320,7 @@ Play: For the remainder of the turn, you may play cards from any house for which
         </card>
         <card>
             <name>Portal da Maré</name>
-            <text> At the start of your turn, if the tide is high, your opponent raises the tide. Otherwise, you raise the tide.</text>
+            <text>(M) At the start of your turn, if the tide is high, your opponent raises the tide. Otherwise, you raise the tide.</text>
             <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Rare" uuid="66d34000-8f29-4e5f-8ff3-c8a32edd0bfa" num="028" muid="496-028" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_028_PV88PRC6CFRC_pt.png">dt</set>
@@ -3359,7 +3359,7 @@ Play: For the remainder of the turn, you may play cards from any house for which
         </card>
         <card>
             <name>Grande Caçador</name>
-            <text> After Venator Altum is dealt damage, if the tide is low, exalt Venator Altum.</text>
+            <text>(M) After Venator Altum is dealt damage, if the tide is low, exalt Venator Altum.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="675fb00c-704b-4507-90c4-16c26a934dba" num="183" muid="496-183" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_183_R3R8366MC58G_pt.png">dt</set>
@@ -3398,7 +3398,7 @@ Play: For the remainder of the turn, you may play cards from any house for which
         <card>
             <name>Kekoa Porta-Mar</name>
             <text>Taunt. (This creature’s neighbors cannot be attacked unless they have taunt.)
- Destroyed: Raise the tide.</text>
+(M) Destroyed: Raise the tide.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="67cbe605-d560-443e-a522-59e9c35c596d" num="364" muid="496-364" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_364_QV29CQ3363W_pt.png">dt</set>
@@ -3418,7 +3418,7 @@ Play: For the remainder of the turn, you may play cards from any house for which
         </card>
         <card>
             <name>Agente 14 da Força-Z</name>
-            <text>Fight: Gain 1 for each upgrade on Z-Force Agent 14.</text>
+            <text>Fight: Gain 1A for each upgrade on Z-Force Agent 14.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="67f1e929-bd7f-40eb-b4c2-da6592b806d0" num="252" muid="496-252" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_252_3GQ3XM88H2QW_pt.png">dt</set>
@@ -3439,7 +3439,7 @@ Play: For the remainder of the turn, you may play cards from any house for which
         <card>
             <name>Cônsul Primus</name>
             <text>Enhance . (These icons have already been added to cards in your deck.)
-Reap: Move 1 from a creature to another creature.</text>
+Reap: Move 1A from a creature to another creature.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="69287ecc-3377-40eb-a129-28bb357efb2b" num="171" muid="496-171" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_171_P5XP357J5PP8_pt.png">dt</set>
@@ -3497,7 +3497,7 @@ Reap: Move 1 from a creature to another creature.</text>
         </card>
         <card>
             <name>Sequestrado</name>
-            <text>This creature cannot be used and gains, "At the start of your turn, you may give your opponent 2. If you do, destroy Ransom."</text>
+            <text>This creature cannot be used and gains, "At the start of your turn, you may give your opponent 2A. If you do, destroy Ransom."</text>
             <tablerow>1</tablerow>
             <set rarity="Rare" uuid="6cad0850-5295-40cf-b65e-3fefdc3e0ab5" num="203" muid="496-203" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_203_9HQMFPQRV8FP_pt.png">dt</set>
             <prop>
@@ -3515,7 +3515,7 @@ Reap: Move 1 from a creature to another creature.</text>
         </card>
         <card>
             <name>Malone Calça-Justa</name>
-            <text>Before Fight: The creature Gas-Pipes Malone fights captures 1 from its own side.</text>
+            <text>Before Fight: The creature Gas-Pipes Malone fights captures 1A from its own side.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="6cfa528e-4b65-4c26-b47d-3b0bc6a38927" num="229" muid="496-229" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_229_WM2224V6RWHV_pt.png">dt</set>
@@ -3555,7 +3555,7 @@ Reap: Move 1 from a creature to another creature.</text>
         </card>
         <card>
             <name>Recrutar Soldado</name>
-            <text>Play: Take control of an enemy creature with  on it. While under your control, it belongs to house Saurian. (Instead of its original house.)</text>
+            <text>Play: Take control of an enemy creature with A on it. While under your control, it belongs to house Saurian. (Instead of its original house.)</text>
             <tablerow>3</tablerow>
             <set rarity="Rare" uuid="6df6944e-3dd0-4601-a9dc-a35191277e9b" num="138" muid="496-138" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_138_GFM7J4PM6V46_pt.png">dt</set>
             <prop>
@@ -3611,7 +3611,7 @@ This creature gains, “Reap: Draw a card.”</text>
         </card>
         <card>
             <name>Ordenação Sinistra</name>
-            <text> Play only if the tide is high.</text>
+            <text>(M) Play only if the tide is high.</text>
             <tablerow>3</tablerow>
             <set rarity="Common" uuid="736d2974-c191-4ebe-9362-fd889604d93a" num="121" muid="496-121" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_121_C979CG5WXJ68_pt.png">dt</set>
             <prop>
@@ -3688,7 +3688,7 @@ This creature gains, “Reap: Draw a card.”</text>
         <card>
             <name>Larápio do Mar</name>
             <text>Poison.  (Any damage dealt by this creature’s power during a fight destroys the damaged creature.)
- Play: Capture 1. If the tide is high, steal 1 instead.</text>
+(M) Play: Capture 1A. If the tide is high, steal 1A instead.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="74ff3d22-5095-4b13-be8e-95f533a821a8" num="239" muid="496-239" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_239_WVM22GX5RJ9X_pt.png">dt</set>
@@ -3708,7 +3708,7 @@ This creature gains, “Reap: Draw a card.”</text>
         </card>
         <card>
             <name>Urien, o Prudente</name>
-            <text>Reap: Your opponent loses  equal to Urien the Circumspect's armor.</text>
+            <text>Reap: Your opponent loses A equal to Urien the Circumspect's armor.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Evil Twin" uuid="7514ddfb-4ca3-4a23-a77f-52724d7d63c2" num="070" muid="496-070" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_070_QGG5VP6Q5HF7_pt.png">dt</set>
@@ -3728,7 +3728,7 @@ This creature gains, “Reap: Draw a card.”</text>
         </card>
         <card>
             <name>Velho Turrão</name>
-            <text> Reap: Discard the bottom card of your deck, or the bottom 3 cards instead if the tide is high. Play each creature discarded this way, one at a time.</text>
+            <text>(M) Reap: Discard the bottom card of your deck, or the bottom 3 cards instead if the tide is high. Play each creature discarded this way, one at a time.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="75c282d8-60a1-4ff9-b11a-13e57c8cbc54" num="408" muid="496-408" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_408_JH9898PJ6H9P_pt.png">dt</set>
@@ -3768,7 +3768,7 @@ This creature gains, “Reap: Draw a card.”</text>
         </card>
         <card>
             <name>Ritual Harmônico</name>
-            <text>Play: Choose a friendly creature. If its left neighbor shares a house with it, gain 1 and repeat this effect on that creature.</text>
+            <text>Play: Choose a friendly creature. If its left neighbor shares a house with it, gain 1A and repeat this effect on that creature.</text>
             <tablerow>3</tablerow>
             <set rarity="Rare" uuid="784445aa-e224-4ac1-b489-aa3e2eb6d6c7" num="078" muid="496-078" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_078_8FJFFMV72P98_pt.png">dt</set>
             <prop>
@@ -3826,7 +3826,7 @@ This creature gains, “Reap: Draw a card.”</text>
         </card>
         <card>
             <name>Doutor Lacus</name>
-            <text> While the tide is high, you may spend  on friendly creatures as if it were in your pool.</text>
+            <text>(M) While the tide is high, you may spend A on friendly creatures as if it were in your pool.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="78fc260f-56cb-4090-bcd3-36a355f72659" num="178" muid="496-178" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_178_QMXQ7M722HJW_pt.png">dt</set>
@@ -3905,7 +3905,7 @@ This creature gains, “Reap: Draw a card.”</text>
         </card>
         <card>
             <name>Urien, o Prudente</name>
-            <text>Reap: Gain  equal to Urien the Circumspect's armor.</text>
+            <text>Reap: Gain A equal to Urien the Circumspect's armor.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="79fd0e2f-4bdb-457e-a1ef-45d3a36453ff" num="123" muid="496-123" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_123_H537R2C7JR85_pt.png">dt</set>
@@ -3926,8 +3926,8 @@ This creature gains, “Reap: Draw a card.”</text>
         <card>
             <name>Honra ou Glória</name>
             <text>Play: Choose one:
-• Deal 3 to each flank creature.
-• Deal 3 to each creature not on a flank.</text>
+• Deal 3D to each flank creature.
+• Deal 3D to each creature not on a flank.</text>
             <tablerow>3</tablerow>
             <set rarity="Uncommon" uuid="7b89a628-adb4-4e8f-a1e6-0d16e72d4ef8" num="103" muid="496-103" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_103_C4J32QCWVH5M_pt.png">dt</set>
             <prop>
@@ -3966,7 +3966,7 @@ Play: Purge each other creature. If General Sherman leaves play, return to play 
         </card>
         <card>
             <name>Coletor Corpulento</name>
-            <text>Play: Capture all of your opponent's . Deal 1 to The Corpulent Collector for each  on it.</text>
+            <text>Play: Capture all of your opponent's A. Deal 1D to The Corpulent Collector for each A on it.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="7bed5831-16b3-4af0-9f50-1becb4788cf9" num="090" muid="496-090" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_090_MJ8R56QQFP52_pt.png">dt</set>
@@ -4026,7 +4026,7 @@ Reap: Put an upgrade or action card from your discard pile on top of your deck.<
         </card>
         <card>
             <name>Saco de Moedas</name>
-            <text>Play: Deal 1 to a creature for each  you have.</text>
+            <text>Play: Deal 1D to a creature for each A you have.</text>
             <tablerow>3</tablerow>
             <set rarity="Rare" uuid="7c6bacbc-3808-40f5-ba2a-74e4ab72f262" num="205" muid="496-205" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_205_W767567QC368_pt.png">dt</set>
             <prop>
@@ -4046,8 +4046,8 @@ Reap: Put an upgrade or action card from your discard pile on top of your deck.<
         <card>
             <name>Saquear ou Pilhar</name>
             <text>Play: Choose one:
-• Steal 1.
-• A friendly creature captures 3.</text>
+• Steal 1A.
+• A friendly creature captures 3A.</text>
             <tablerow>3</tablerow>
             <set rarity="Common" uuid="7eae5c22-32cd-496f-ac00-066c9e253f5a" num="235" muid="496-235" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_235_P3C88GRXGPRJ_pt.png">dt</set>
             <prop>
@@ -4065,7 +4065,7 @@ Reap: Put an upgrade or action card from your discard pile on top of your deck.<
         </card>
         <card>
             <name>Keysis Ovacionada</name>
-            <text>Play: Forge a key at +7 current cost, reduced by 1 for each card you have played this turn (including this one). If you do, purge Honors Keysis.</text>
+            <text>Play: Forge a key at +7A current cost, reduced by 1A for each card you have played this turn (including this one). If you do, purge Honors Keysis.</text>
             <tablerow>3</tablerow>
             <set rarity="Rare" uuid="7f0851dc-6be9-48b5-9297-57b3a9b53b67" num="018" muid="496-018" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_018_HRRGRMWG7C83_pt.png">dt</set>
             <prop>
@@ -4104,7 +4104,7 @@ Reap: Put an upgrade or action card from your discard pile on top of your deck.<
         </card>
         <card>
             <name>Cântico de Rakuzel</name>
-            <text> Play: Exhaust a creature. If the tide is high, exhaust each creature instead.</text>
+            <text>(M) Play: Exhaust a creature. If the tide is high, exhaust each creature instead.</text>
             <tablerow>3</tablerow>
             <set rarity="Common" uuid="833871d7-874f-4911-97a3-24c090fb0d74" num="363" muid="496-363" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_363_HH7G9976MVM6_pt.png">dt</set>
             <prop>
@@ -4123,7 +4123,7 @@ Reap: Put an upgrade or action card from your discard pile on top of your deck.<
         </card>
         <card>
             <name>Todo Amareado</name>
-            <text> Play: If the tide is high, gain 1. Otherwise, raise the tide.</text>
+            <text>(M) Play: If the tide is high, gain 1A. Otherwise, raise the tide.</text>
             <tablerow>3</tablerow>
             <set rarity="Common" uuid="84885895-7992-46b8-b205-55b5e86c8fbd" num="413" muid="496-413" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_413_53V5G5FVHQ7_pt.png">dt</set>
             <prop>
@@ -4162,7 +4162,7 @@ Reap: Put an upgrade or action card from your discard pile on top of your deck.<
         </card>
         <card>
             <name>Julgado pela Água</name>
-            <text> Play: Reset the tide. Until the start of your next turn, players cannot raise the tide.</text>
+            <text>(M) Play: Reset the tide. Until the start of your next turn, players cannot raise the tide.</text>
             <tablerow>3</tablerow>
             <set rarity="Rare" uuid="84d6b672-87ad-4625-bce7-2e66d3f6636a" num="092" muid="496-092" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_092_WR7RWFF9MF42_pt.png">dt</set>
             <prop>
@@ -4220,8 +4220,8 @@ Reap: Put an upgrade or action card from your discard pile on top of your deck.<
         </card>
         <card>
             <name>Intendente Guelrafogo</name>
-            <text> After your opponent raises the tide, enrage Flamegill Enforcer.
-Action: Capture 3.</text>
+            <text>(M) After your opponent raises the tide, enrage Flamegill Enforcer.
+Action: Capture 3A.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="868e3046-4242-44e8-b189-43b4ef585b11" num="355" muid="496-355" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_355_FHG6QR3G3VV2_pt.png">dt</set>
@@ -4261,7 +4261,7 @@ Action: Capture 3.</text>
         </card>
         <card>
             <name>Agulha Perseguidora</name>
-            <text>Action: Deal 1 to a creature. If this damage destroys that creature, gain 1.</text>
+            <text>Action: Deal 1D to a creature. If this damage destroys that creature, gain 1A.</text>
             <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Common" uuid="884adcaa-4c2b-4501-9b92-09c7989decc2" num="240" muid="496-240" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_240_PQP9MHRG7W4H_pt.png">dt</set>
@@ -4280,7 +4280,7 @@ Action: Capture 3.</text>
         </card>
         <card>
             <name>Infiltrado</name>
-            <text>This creature gains, "Your opponent may spend  on this creature as if it were in their pool."</text>
+            <text>This creature gains, "Your opponent may spend A on this creature as if it were in their pool."</text>
             <tablerow>1</tablerow>
             <set rarity="Rare" uuid="8b9d6c52-4ec1-49a2-94a1-6eac0f28cbe6" num="202" muid="496-202" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_202_MGWPF3GJ7W5C_pt.png">dt</set>
             <prop>
@@ -4417,7 +4417,7 @@ Omni: If there are 6 or more glory counters on The Colosseum, remove 6 and forge
         </card>
         <card>
             <name>Espólios de Batalha</name>
-            <text>Play: A friendly creature captures 1. Each creature with  on it captures 1 from its opponent.</text>
+            <text>Play: A friendly creature captures 1A. Each creature with A on it captures 1A from its opponent.</text>
             <tablerow>3</tablerow>
             <set rarity="Common" uuid="8fbfae82-c756-4e12-a49b-8b8507139711" num="181" muid="496-181" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_181_FWF69HXX265H_pt.png">dt</set>
             <prop>
@@ -4455,7 +4455,7 @@ Omni: If there are 6 or more glory counters on The Colosseum, remove 6 and forge
         <card>
             <name>Velho Bruno</name>
             <text>Elusive. (The first time this creature is attacked each turn, no damage is dealt.)
-Play: Capture 3.</text>
+Play: Capture 3A.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="90207449-d6a7-4ceb-abcc-f2014c47540d" num="220" muid="496-220" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_220_7M48G5WCGGX9_pt.png">dt</set>
@@ -4493,7 +4493,7 @@ Play: Capture 3.</text>
         </card>
         <card>
             <name>Trava da Mão Rubra</name>
-            <text>After  is stolen from you, your opponent skips the "forge a key" step during their next turn.</text>
+            <text>After A is stolen from you, your opponent skips the "forge a key" step during their next turn.</text>
             <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Uncommon" uuid="91cc0801-c50f-4f1f-be62-d5b306aff9c8" num="106" muid="496-106" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_106_3CPPR47CC8M_pt.png">dt</set>
@@ -4514,7 +4514,7 @@ Play: Capture 3.</text>
         <card>
             <name>Operativo Espion</name>
             <text>Elusive. (The first time this creature is attacked each turn, no damage is dealt.)
- After a player raises the tide during their turn, they may use a creature they control.</text>
+(M) After a player raises the tide during their turn, they may use a creature they control.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="92505b4a-8976-49dd-bf01-4c571d619888" num="299" muid="496-299" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_299_QH62MH2HHXC8_pt.png">dt</set>
@@ -4555,8 +4555,8 @@ Fight: You may choose a card in your archives and put it into your hand.</text>
         </card>
         <card>
             <name>Fanático Abissal</name>
-            <text> After you raise the tide, capture 2.
- After your opponent raises the tide, move 2 from Abyssal Zealot to the common supply.</text>
+            <text>(M) After you raise the tide, capture 2A.
+(M) After your opponent raises the tide, move 2A from Abyssal Zealot to the common supply.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="9542db11-285d-48ce-8884-0bd994614023" num="337" muid="496-337" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_337_P2F5XVG6856M_pt.png">dt</set>
@@ -4576,7 +4576,7 @@ Fight: You may choose a card in your archives and put it into your hand.</text>
         </card>
         <card>
             <name>Agente Sepdia</name>
-            <text> Fight/Reap: Deal 1 to a creature. If the tide is high, stun that creature.</text>
+            <text>(M) Fight/Reap: Deal 1D to a creature. If the tide is high, stun that creature.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="95c8af0a-bd45-4d9d-a538-41685e0c9c8e" num="274" muid="496-274" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_274_J373637CFFM5_pt.png">dt</set>
@@ -4614,7 +4614,7 @@ Fight: You may choose a card in your archives and put it into your hand.</text>
         </card>
         <card>
             <name>Mestregancho</name>
-            <text> Fight: If the tide is high, your opponent loses 2.</text>
+            <text>(M) Fight: If the tide is high, your opponent loses 2A.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="97fd73e6-2d0d-4cd9-baa1-2909d64b0289" num="358" muid="496-358" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_358_643H7M3W87GV_pt.png">dt</set>
@@ -4634,7 +4634,7 @@ Fight: You may choose a card in your archives and put it into your hand.</text>
         </card>
         <card>
             <name>Ritual de Equilíbrio</name>
-            <text>Action: If your opponent has 6 or more, steal 1.</text>
+            <text>Action: If your opponent has 6A or more, steal 1A.</text>
             <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Uncommon" uuid="9815981a-0e61-4886-9036-de249c2307ce" num="409" muid="496-409" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_409_CCCJH6Q4C2GR_pt.png">dt</set>
@@ -4653,7 +4653,7 @@ Fight: You may choose a card in your archives and put it into your hand.</text>
         </card>
         <card>
             <name>Mecaboia</name>
-            <text> At the start of each player’s turn, if the tide is high for that player, they gain 1.</text>
+            <text>(M) At the start of each player’s turn, if the tide is high for that player, they gain 1A.</text>
             <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Uncommon" uuid="998a0c4e-332a-49c9-bf7c-3f99195224a1" num="042" muid="496-042" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_042_CP53GR9F45Q6_pt.png">dt</set>
@@ -4673,7 +4673,7 @@ Fight: You may choose a card in your archives and put it into your hand.</text>
         </card>
         <card>
             <name>Macacos-Piranha</name>
-            <text>Play/Reap: Deal 2 to each other creature.</text>
+            <text>Play/Reap: Deal 2D to each other creature.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="99fc7c8d-1938-4bfb-9159-4f95d69232f8" num="388" muid="496-388" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_388_9WCFVMXQMVJG_pt.png">dt</set>
@@ -4693,7 +4693,7 @@ Fight: You may choose a card in your archives and put it into your hand.</text>
         </card>
         <card>
             <name>Perebento</name>
-            <text>Reap: Give Sporegorger a +1 power counter. You may remove each +1 power counter from Sporegorger. For each counter removed this way, deal 1 to each other creature.</text>
+            <text>Reap: Give Sporegorger a +1 power counter. You may remove each +1 power counter from Sporegorger. For each counter removed this way, deal 1D to each other creature.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="9a25ba01-c3f2-41e2-b78b-9342dc48adb6" num="410" muid="496-410" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_410_F69GJ6P9P4J8_pt.png">dt</set>
@@ -4713,8 +4713,8 @@ Fight: You may choose a card in your archives and put it into your hand.</text>
         </card>
         <card>
             <name>Baú do Homem Morto</name>
-            <text>Play: Put 4 on Dead Man’s Chest from the common supply. Deal 2 to a creature.
-After 6 or more creatures are destroyed in a turn, if Dead Man’s Chest is ready, move each  from Dead Man’s Chest to the active player's pool.</text>
+            <text>Play: Put 4A on Dead Man’s Chest from the common supply. Deal 2D to a creature.
+After 6 or more creatures are destroyed in a turn, if Dead Man’s Chest is ready, move each A from Dead Man’s Chest to the active player's pool.</text>
             <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Rare" uuid="9a801923-349b-4560-8ee1-0b525f964871" num="193" muid="496-193" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_193_GJC58WG3VFV4_pt.png">dt</set>
@@ -4734,7 +4734,7 @@ After 6 or more creatures are destroyed in a turn, if Dead Man’s Chest is read
         </card>
         <card>
             <name>Instrumento do Silêncio</name>
-            <text>This creature gains skirmish and, “Fight: Gain 1.”</text>
+            <text>This creature gains skirmish and, “Fight: Gain 1A.”</text>
             <tablerow>1</tablerow>
             <set rarity="Uncommon" uuid="9ccbe0bf-c308-4e69-8f16-fa3b5191b23f" num="405" muid="496-405" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_405_8G2HRF8J7PF5_pt.png">dt</set>
             <prop>
@@ -4774,7 +4774,7 @@ Play: Give two +1 power counters to each other friendly Untamed creature.</text>
         <card>
             <name>Willa Caolha</name>
             <text>Elusive. Skirmish.
- Fight: If the tide is high, your opponent loses 2.</text>
+(M) Fight: If the tide is high, your opponent loses 2A.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Evil Twin" uuid="9d2d4515-3215-4526-a909-07b4c9ee91c9" num="189" muid="496-189" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_189_CF9PXV2VCX6Q_pt.png">dt</set>
@@ -4794,7 +4794,7 @@ Play: Give two +1 power counters to each other friendly Untamed creature.</text>
         </card>
         <card>
             <name>Bomba de Miasma</name>
-            <text>Enhance . (These icons have already been added to cards in your deck.)
+            <text>Enhance D. (These icons have already been added to cards in your deck.)
 Action: Destroy Miasma Bomb. Your opponent skips the "forge a key" step during their next turn.</text>
             <cipt>1</cipt>
             <tablerow>0</tablerow>
@@ -4832,7 +4832,7 @@ Action: Destroy Miasma Bomb. Your opponent skips the "forge a key" step during t
         </card>
         <card>
             <name>Martelograma</name>
-            <text>Play: Deal 3 to a creature and stun it.</text>
+            <text>Play: Deal 3D to a creature and stun it.</text>
             <tablerow>3</tablerow>
             <set rarity="Common" uuid="9e2aa6ca-414f-4adc-86c2-830055d281a8" num="113" muid="496-113" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_113_QP7872JPX485_pt.png">dt</set>
             <prop>
@@ -4851,7 +4851,7 @@ Action: Destroy Miasma Bomb. Your opponent skips the "forge a key" step during t
         <card>
             <name>Dir. de Recursos Hawkins</name>
             <text>Deploy. (This creature can enter play anywhere in your battleline.)
-Play: Gain 1 for each of C.R. Officer Hawkins's non-Star Alliance neighbors.</text>
+Play: Gain 1A for each of C.R. Officer Hawkins's non-Star Alliance neighbors.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="9e62351c-459a-43c1-9a19-8e796a6813aa" num="292" muid="496-292" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_292_JM3V26CF782F_pt.png">dt</set>
@@ -4872,7 +4872,7 @@ Play: Gain 1 for each of C.R. Officer Hawkins's non-Star Alliance neighbors.<
         <card>
             <name>Kaupe</name>
             <text>You cannot play more than 1 card of each type each turn.
-Fight/Reap: Discard any number of cards from your hand. For each card discarded this way, deal 2 to an enemy creature.</text>
+Fight/Reap: Discard any number of cards from your hand. For each card discarded this way, deal 2D to an enemy creature.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Evil Twin" uuid="9e8f4abd-9a4d-4e9d-8bc6-474340daef53" num="309" muid="496-309" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_309_VR296QMP4WQP_pt.png">dt</set>
@@ -4892,8 +4892,8 @@ Fight/Reap: Discard any number of cards from your hand. For each card discarded 
         </card>
         <card>
             <name>Willa Caolha</name>
-            <text> While the tide is high, One-Eyed Willa gains elusive and skirmish.
-Fight: Steal 1.</text>
+            <text>(M) While the tide is high, One-Eyed Willa gains elusive and skirmish.
+Fight: Steal 1A.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="9ebe1566-b4ea-46fc-9f7a-def3fd369e30" num="237" muid="496-237" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_237_F52C74QW23R_pt.png">dt</set>
@@ -4972,7 +4972,7 @@ Fight: Steal 1.</text>
         <card>
             <name>Braquiadito</name>
             <text>Deploy.
-Play: Stun each of Brachiaditus's neighbors and move 1 from each of them to the common supply.</text>
+Play: Stun each of Brachiaditus's neighbors and move 1A from each of them to the common supply.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="a0563060-ae59-4544-a134-78a454694f99" num="134" muid="496-134" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_134_GWMH7Q95RQH9_pt.png">dt</set>
@@ -4992,7 +4992,7 @@ Play: Stun each of Brachiaditus's neighbors and move 1 from each of them to t
         </card>
         <card>
             <name>Detetive Devaneio</name>
-            <text> Reap: If the tide is high, draw 3 cards.</text>
+            <text>(M) Reap: If the tide is high, draw 3 cards.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="a10473ed-208c-4279-bbfa-8a38c4d6a087" num="058" muid="496-058" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_058_62CW2HFM6HQC_pt.png">dt</set>
@@ -5012,7 +5012,7 @@ Play: Stun each of Brachiaditus's neighbors and move 1 from each of them to t
         </card>
         <card>
             <name>Tamo Junto!</name>
-            <text> Play: You may play a non-Star Alliance card. If the tide is high, you may play another non-Star Alliance card.</text>
+            <text>(M) Play: You may play a non-Star Alliance card. If the tide is high, you may play another non-Star Alliance card.</text>
             <tablerow>3</tablerow>
             <set rarity="Uncommon" uuid="a1951059-85a7-4d2d-a0b5-3691aadb67b6" num="287" muid="496-287" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_287_59PR5PCQFVVH_pt.png">dt</set>
             <prop>
@@ -5031,8 +5031,8 @@ Play: Stun each of Brachiaditus's neighbors and move 1 from each of them to t
         <card>
             <name>Moréia Binária</name>
             <text>Skirmish.
- After you raise the tide, ready Binary Moray.
- After your opponent raises the tide, exhaust Binary Moray.</text>
+(M) After you raise the tide, ready Binary Moray.
+(M) After your opponent raises the tide, exhaust Binary Moray.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Evil Twin" uuid="a2003dc3-3067-479a-9e3a-803817fe8d2c" num="002" muid="496-002" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_002_QQGF32M8J5F5_pt.png">dt</set>
@@ -5052,7 +5052,7 @@ Play: Stun each of Brachiaditus's neighbors and move 1 from each of them to t
         </card>
         <card>
             <name>Marborgue Australis</name>
-            <text> Reap: Deal 2 to a creature. If this damage destroys that creature, raise the tide.</text>
+            <text>(M) Reap: Deal 2D to a creature. If this damage destroys that creature, raise the tide.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="a275c67f-a763-45d1-a1de-ef0a9c4911fd" num="049" muid="496-049" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_049_3MQC6C6WJ9X3_pt.png">dt</set>
@@ -5092,7 +5092,7 @@ Play: Stun each of Brachiaditus's neighbors and move 1 from each of them to t
         </card>
         <card>
             <name>Tenente Valmart</name>
-            <text> Play/Fight/Reap: If the tide is high, keys cost +3 during your opponent's next turn. </text>
+            <text>(M) Play/Fight/Reap: If the tide is high, keys cost +3A during your opponent's next turn. </text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="a279d136-60a9-47c2-8e4b-0d341b6e35fc" num="296" muid="496-296" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_296_86M6MJW6VJ37_pt.png">dt</set>
@@ -5112,8 +5112,8 @@ Play: Stun each of Brachiaditus's neighbors and move 1 from each of them to t
         </card>
         <card>
             <name>Relíquia Primitiva</name>
-            <text>Play: Put  4 on Primal Relic from the common supply. Give 3 creatures a +1 power counter.
-At the start of each player’s turn, if they control creatures with total power 20 or higher, move each  from Primal Relic to that player's pool.</text>
+            <text>Play: Put  4A on Primal Relic from the common supply. Give 3 creatures a +1 power counter.
+At the start of each player’s turn, if they control creatures with total power 20 or higher, move each A from Primal Relic to that player's pool.</text>
             <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Rare" uuid="a393a536-bc62-427b-ae43-f6fcaca47a7b" num="389" muid="496-389" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_389_PV27474QC93C_pt.png">dt</set>
@@ -5153,7 +5153,7 @@ Play: Ready each Shadows card.</text>
         </card>
         <card>
             <name>Toninhaí</name>
-            <text> Play: Raise the tide. Enrage 2 enemy creatures. </text>
+            <text>(M) Play: Raise the tide. Enrage 2 enemy creatures. </text>
             <tablerow>3</tablerow>
             <set rarity="Uncommon" uuid="a60a1805-5517-4f8e-86b8-9d4985a3ff7c" num="400" muid="496-400" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_400_FPQM6525VR68_pt.png">dt</set>
             <prop>
@@ -5172,7 +5172,7 @@ Play: Ready each Shadows card.</text>
         </card>
         <card>
             <name>Porta Para o Céu</name>
-            <text>Play: Each player with 6 or more loses all but 5 of it.</text>
+            <text>Play: Each player with 6A or more loses all but 5 of it.</text>
             <tablerow>3</tablerow>
             <set rarity="Uncommon" uuid="a62154ee-5e0d-49f5-acc8-f9f953956937" num="096" muid="496-096" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_096_RWHMP875732G_pt.png">dt</set>
             <prop>
@@ -5193,7 +5193,7 @@ Play: Ready each Shadows card.</text>
             <name>Conhecimento é Poder</name>
             <text>Play: Choose one:
 • Archive a card.
-• Gain 1 for each card in your archives.</text>
+• Gain 1A for each card in your archives.</text>
             <tablerow>3</tablerow>
             <set rarity="Rare" uuid="a6257844-8b1e-4755-af93-cbc9517c5ab4" num="019" muid="496-019" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_019_9V5G7WCPW27X_pt.png">dt</set>
             <prop>
@@ -5211,7 +5211,7 @@ Play: Ready each Shadows card.</text>
         </card>
         <card>
             <name>Inhãzinho</name>
-            <text>Your opponent's keys cost +X, where X is Mookling's power.</text>
+            <text>Your opponent's keys cost +XA, where X is Mookling's power.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="a6cc4dbb-e5f0-49ba-9b12-0adec3849f28" num="421" muid="496-421" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_421_FMVV2XFWHGJF_pt.png">dt</set>
@@ -5231,7 +5231,7 @@ Play: Ready each Shadows card.</text>
         </card>
         <card>
             <name>Estilo Pixie</name>
-            <text>This creature gains, "Reap: Gain 1."</text>
+            <text>This creature gains, "Reap: Gain 1A."</text>
             <tablerow>1</tablerow>
             <set rarity="Common" uuid="a7be3aa7-1123-4d97-843c-4cb9024970ca" num="426" muid="496-426" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_426_MXM79PHMR3RF_pt.png">dt</set>
             <prop>
@@ -5249,7 +5249,7 @@ Play: Ready each Shadows card.</text>
         </card>
         <card>
             <name>Guardião do Portal</name>
-            <text>Play: If your opponent has 7 or more, capture all but 5 of it.</text>
+            <text>Play: If your opponent has 7A or more, capture all but 5 of it.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="a805db58-7078-4720-9df8-720231eb54e2" num="098" muid="496-098" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_098_MJV7XGGFVMQC_pt.png">dt</set>
@@ -5288,7 +5288,7 @@ Play: Ready each Shadows card.</text>
         </card>
         <card>
             <name>Viagem de Tributação</name>
-            <text>Play: A friendly creature captures 1. Each of its neighbors that shares a house with it also captures 1.</text>
+            <text>Play: A friendly creature captures 1A. Each of its neighbors that shares a house with it also captures 1A.</text>
             <tablerow>3</tablerow>
             <set rarity="Common" uuid="a94c974c-553f-4e41-b900-e787e2d20a2e" num="122" muid="496-122" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_122_WPMVM3WJP9MF_pt.png">dt</set>
             <prop>
@@ -5345,7 +5345,7 @@ Play: Ready each Shadows card.</text>
         </card>
         <card>
             <name>Chefão do Portal</name>
-            <text> While the tide is high, your opponent’s keys cost +4.</text>
+            <text>(M) While the tide is high, your opponent’s keys cost +4A.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="a9dd7cbe-3a27-4d0d-8329-9d50a3caeb1d" num="326" muid="496-326" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_326_VXGV869RHQ8H_pt.png">dt</set>
@@ -5387,7 +5387,7 @@ Fight: Stun and exhaust the creature Sparkfist fights.</text>
         <card>
             <name>Druida Drenadora</name>
             <text>Elusive.
- Reap: If the tide is high, put up to 3 creatures from your discard pile on top of your deck.</text>
+(M) Reap: If the tide is high, put up to 3 creatures from your discard pile on top of your deck.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="aa3cfdba-5014-4a0c-970b-9ed39d04e95a" num="382" muid="496-382" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_382_75476X4RC953_pt.png">dt</set>
@@ -5407,7 +5407,7 @@ Fight: Stun and exhaust the creature Sparkfist fights.</text>
         </card>
         <card>
             <name>Raio de Pósitrons</name>
-            <text>Play: Deal 3 to a flank creature. Deal 2 to its neighbor. Deal 1 to the second creature’s other neighbor.</text>
+            <text>Play: Deal 3D to a flank creature. Deal 2D to its neighbor. Deal 1D to the second creature’s other neighbor.</text>
             <tablerow>3</tablerow>
             <set rarity="Uncommon" uuid="aaa4eb9e-363b-4cd7-b04a-dbcb22325064" num="045" muid="496-045" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_045_9RQFX349V37W_pt.png">dt</set>
             <prop>
@@ -5426,7 +5426,7 @@ Fight: Stun and exhaust the creature Sparkfist fights.</text>
         </card>
         <card>
             <name>Vaza-Portal</name>
-            <text> Play: If the tide is high, archive Pour-tal. Otherwise, raise the tide.</text>
+            <text>(M) Play: If the tide is high, archive Pour-tal. Otherwise, raise the tide.</text>
             <tablerow>3</tablerow>
             <set rarity="Common" uuid="ab7daf47-33e7-425c-842a-ba0eede347d9" num="362" muid="496-362" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_362_VH99JVF537VJ_pt.png">dt</set>
             <prop>
@@ -5445,7 +5445,7 @@ Fight: Stun and exhaust the creature Sparkfist fights.</text>
         </card>
         <card>
             <name>Mania de Grandeza</name>
-            <text>Play: Choose a house on your opponent's identity card. If your opponent does not choose that house as their active house on their next turn, gain 3.</text>
+            <text>Play: Choose a house on your opponent's identity card. If your opponent does not choose that house as their active house on their next turn, gain 3A.</text>
             <tablerow>3</tablerow>
             <set rarity="Uncommon" uuid="ac45dd9c-5f53-4c71-a9bd-60faf671841f" num="338" muid="496-338" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_338_766FMQPXV33X_pt.png">dt</set>
             <prop>
@@ -5503,7 +5503,7 @@ Tentaclid cannot reap.</text>
         </card>
         <card>
             <name>Fechadura Universal</name>
-            <text>Keys cost +3.
+            <text>Keys cost +3A.
 After a player forges a key, destroy Universal Keylock.</text>
             <cipt>1</cipt>
             <tablerow>0</tablerow>
@@ -5524,8 +5524,8 @@ After a player forges a key, destroy Universal Keylock.</text>
         </card>
         <card>
             <name>Voz de Rakuzel</name>
-            <text> While the tide is high, each friendly creature gets +1 power and +1 armor.
- While the tide is low, each enemy creature gets +1 power and +1 armor.</text>
+            <text>(M) While the tide is high, each friendly creature gets +1 power and +1 armor.
+(M) While the tide is low, each enemy creature gets +1 power and +1 armor.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="af07fb42-be69-4976-80dc-339bfd781f5e" num="334" muid="496-334" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_334_WGJWCQJFQ5XV_pt.png">dt</set>
@@ -5545,8 +5545,8 @@ After a player forges a key, destroy Universal Keylock.</text>
         </card>
         <card>
             <name>Ruínas de Arconis</name>
-            <text>Play: Put  4 on Ruins of Archonis from the common supply. Archive a card.
-After a player plays their 6th card in a turn, if Ruins of Archonis is ready, move each  from Ruins of Archonis to that player's pool.</text>
+            <text>Play: Put  4A on Ruins of Archonis from the common supply. Archive a card.
+After a player plays their 6th card in a turn, if Ruins of Archonis is ready, move each A from Ruins of Archonis to that player's pool.</text>
             <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Rare" uuid="af1cba5e-c2a5-4861-b044-50091930b22d" num="024" muid="496-024" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_024_5GQPFV4PGQ5H_pt.png">dt</set>
@@ -5604,7 +5604,7 @@ Play: Fully heal this creature.</text>
         </card>
         <card>
             <name>Troca de Informações</name>
-            <text>Play: Steal 1. If your opponent stole  from you on their previous turn, steal 2 instead.</text>
+            <text>Play: Steal 1A. If your opponent stole A from you on their previous turn, steal 2A instead.</text>
             <tablerow>3</tablerow>
             <set rarity="Common" uuid="b0550711-1965-4aba-8e6a-efc6c32cb2e1" num="055" muid="496-055" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_055_3M24FWQR33FW_pt.png">dt</set>
             <prop>
@@ -5623,7 +5623,7 @@ Play: Fully heal this creature.</text>
         <card>
             <name>EDAI "Edie" 4x4</name>
             <text>Play: Archive a card.
-Your opponent’s keys cost +1 for each card in your archives.</text>
+Your opponent’s keys cost +1A for each card in your archives.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="b06f6e69-0b9c-4256-a8b7-93dcc556fbdd" num="051" muid="496-051" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_051_74P6R7X2XFVC_pt.png">dt</set>
@@ -5643,7 +5643,7 @@ Your opponent’s keys cost +1 for each card in your archives.</text>
         </card>
         <card>
             <name>Manobra Ofensiva</name>
-            <text>Play: Move a friendly creature anywhere in your battleline. That creature captures 1.</text>
+            <text>Play: Move a friendly creature anywhere in your battleline. That creature captures 1A.</text>
             <tablerow>3</tablerow>
             <set rarity="Common" uuid="b1184531-28c0-41e3-b883-417173013960" num="118" muid="496-118" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_118_G6847H738HRJ_pt.png">dt</set>
             <prop>
@@ -5682,7 +5682,7 @@ Your opponent’s keys cost +1 for each card in your archives.</text>
         </card>
         <card>
             <name>Undagnato</name>
-            <text> While the tide is low, double all damage dealt to Undagnathus.</text>
+            <text>(M) While the tide is low, double all damage dealt to Undagnathus.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Evil Twin" uuid="b2544136-af80-4fec-9697-2a7fb2207838" num="130" muid="496-130" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_130_VC3W7CFHV833_pt.png">dt</set>
@@ -5702,7 +5702,7 @@ Your opponent’s keys cost +1 for each card in your archives.</text>
         </card>
         <card>
             <name>Tomwa do Brilho</name>
-            <text> Reap: If the tide is high, exhaust an enemy creature and your opponent discards a random card from their hand.</text>
+            <text>(M) Reap: If the tide is high, exhaust an enemy creature and your opponent discards a random card from their hand.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Evil Twin" uuid="b34d6fda-63cb-41ee-a406-4f2bb1c804fd" num="311" muid="496-311" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_311_43F468RHCPP6_pt.png">dt</set>
@@ -5741,8 +5741,8 @@ Your opponent’s keys cost +1 for each card in your archives.</text>
         </card>
         <card>
             <name>Teoria do Gotejamento</name>
-            <text> Play: Raise the tide.
-Omni: Gain 1 if your opponent has 6 or more.</text>
+            <text>(M) Play: Raise the tide.
+Omni: Gain 1A if your opponent has 6A or more.</text>
             <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Uncommon" uuid="b36073bb-8fd0-45ae-b456-4e09280778f6" num="225" muid="496-225" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_225_HMHQJ8GCHG2X_pt.png">dt</set>
@@ -5782,7 +5782,7 @@ Omni: Gain 1 if your opponent has 6 or more.</text>
         <card>
             <name>Quelônia</name>
             <text>Elusive. (The first time this creature is attacked each turn, no damage is dealt.)
- After you play another creature, if the tide is high, your opponent loses 1.</text>
+(M) After you play another creature, if the tide is high, your opponent loses 1A.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Evil Twin" uuid="b530155d-1459-4d17-9046-8d281c2b8118" num="369" muid="496-369" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_369_QQ98WCXRW3QP_pt.png">dt</set>
@@ -5802,7 +5802,7 @@ Omni: Gain 1 if your opponent has 6 or more.</text>
         </card>
         <card>
             <name>Golpe Final</name>
-            <text>Play: Destroy a damaged creature. If you do, steal 1.</text>
+            <text>Play: Destroy a damaged creature. If you do, steal 1A.</text>
             <tablerow>3</tablerow>
             <set rarity="Rare" uuid="b5f66899-bef1-486e-86a5-2e253fee4923" num="198" muid="496-198" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_198_V557QC8HH5C9_pt.png">dt</set>
             <prop>
@@ -5822,7 +5822,7 @@ Omni: Gain 1 if your opponent has 6 or more.</text>
         <card>
             <name>Lupo, o Marcado</name>
             <text>Skirmish. (When you use this creature to fight, it is dealt no damage in return.)
-Play: Deal 2 to an enemy creature.</text>
+Play: Deal 2D to an enemy creature.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="b5fe8cc0-e4de-4cd2-b5a1-734e35c0c933" num="386" muid="496-386" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_386_RX86WM6596MC_pt.png">dt</set>
@@ -5844,7 +5844,7 @@ Play: Deal 2 to an enemy creature.</text>
             <name>Prevenir ou Remediar</name>
             <text>Play: Choose one:
 • Archive any number of friendly creatures from play.
-• Choose a creature. Deal 1 to it for each  your opponent has.</text>
+• Choose a creature. Deal 1D to it for each A your opponent has.</text>
             <tablerow>3</tablerow>
             <set rarity="Uncommon" uuid="b656fc5f-73ad-49b5-b11d-355ed1503dbd" num="222" muid="496-222" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_222_3GX78PQ9GHFG_pt.png">dt</set>
             <prop>
@@ -5882,7 +5882,7 @@ Play: Deal 2 to an enemy creature.</text>
         </card>
         <card>
             <name>Berrante dos Mares</name>
-            <text>This creature gains, "Before Fight: Move 1 from this creature to the creature it fights."</text>
+            <text>This creature gains, "Before Fight: Move 1A from this creature to the creature it fights."</text>
             <tablerow>1</tablerow>
             <set rarity="Uncommon" uuid="b73248bc-3317-4924-92a8-6735d3cd46fe" num="164" muid="496-164" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_164_6HRHX9FH7XMP_pt.png">dt</set>
             <prop>
@@ -5903,7 +5903,7 @@ Play: Deal 2 to an enemy creature.</text>
             <name>Possante</name>
             <text>Elusive.
 Play: Exalt Monty Bank 2 times.
-Action: Steal 1 for each  on Monty Bank.</text>
+Action: Steal 1A for each A on Monty Bank.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Evil Twin" uuid="b7e66f0f-2b45-4084-b6ff-77713c364deb" num="188" muid="496-188" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_188_55G7WJXVG24C_pt.png">dt</set>
@@ -5923,8 +5923,8 @@ Action: Steal 1 for each  on Monty Bank.</text>
         </card>
         <card>
             <name>Moréia Binária</name>
-            <text> After you raise the tide, ready Binary Moray.
- After your opponent raises the tide, exhaust Binary Moray.
+            <text>(M) After you raise the tide, ready Binary Moray.
+(M) After your opponent raises the tide, exhaust Binary Moray.
 Reap: Archive a card.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
@@ -5945,7 +5945,7 @@ Reap: Archive a card.</text>
         </card>
         <card>
             <name>Wikolia</name>
-            <text>Reap: Keys cost +2 during your opponent's next turn.</text>
+            <text>Reap: Keys cost +2A during your opponent's next turn.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="b83c4b5e-994a-432f-a8bf-e4182aa4da37" num="367" muid="496-367" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_367_HJR4QH9FM9V9_pt.png">dt</set>
@@ -5986,7 +5986,7 @@ Lady Loreena’s taunt also applies to its neighbors’ neighbors.</text>
         </card>
         <card>
             <name>Gruen Difuso</name>
-            <text>Play: Your opponent gains 1.</text>
+            <text>Play: Your opponent gains 1A.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="b8592aa5-4d4c-46b9-b510-93a23abd5a10" num="385" muid="496-385" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_385_5P9MP78G2R8Q_pt.png">dt</set>
@@ -6007,7 +6007,7 @@ Lady Loreena’s taunt also applies to its neighbors’ neighbors.</text>
         </card>
         <card>
             <name>Palanque do Altruísta</name>
-            <text>Action: Move 1 from a creature to another creature.</text>
+            <text>Action: Move 1A from a creature to another creature.</text>
             <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Common" uuid="b9c75b4b-db77-48b4-92d9-14558d5cabfe" num="168" muid="496-168" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_168_8MMX33776MXQ_pt.png">dt</set>
@@ -6026,7 +6026,7 @@ Lady Loreena’s taunt also applies to its neighbors’ neighbors.</text>
         </card>
         <card>
             <name>Aproveitador</name>
-            <text>Omni: If your opponent has exactly 1, steal it.</text>
+            <text>Omni: If your opponent has exactly 1A, steal it.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Evil Twin" uuid="ba5f65d1-f655-4f80-b7da-3a63aa6bf876" num="187" muid="496-187" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_187_P26F9F3W2GC4_pt.png">dt</set>
@@ -6085,7 +6085,7 @@ Lady Loreena’s taunt also applies to its neighbors’ neighbors.</text>
         </card>
         <card>
             <name>Abandonar Navio</name>
-            <text> Play: Return a creature to its owner’s hand. If the tide is high, return 4 creatures to their owners’ hands instead.</text>
+            <text>(M) Play: Return a creature to its owner’s hand. If the tide is high, return 4 creatures to their owners’ hands instead.</text>
             <tablerow>3</tablerow>
             <set rarity="Uncommon" uuid="bc9de5ef-abde-4669-8c7f-b4540cc53768" num="336" muid="496-336" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_336_JXG77PHX383P_pt.png">dt</set>
             <prop>
@@ -6104,7 +6104,7 @@ Lady Loreena’s taunt also applies to its neighbors’ neighbors.</text>
         </card>
         <card>
             <name>Larápio do Mar</name>
-            <text> Play: Capture 2. If the tide is high, steal 2 instead.</text>
+            <text>(M) Play: Capture 2A. If the tide is high, steal 2A instead.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Evil Twin" uuid="bd00567c-268d-4cca-8924-bd241fcbce5f" num="190" muid="496-190" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_190_4PHMG63774J7_pt.png">dt</set>
@@ -6146,7 +6146,7 @@ Your opponent refills their hand to 1 less card during their “draw cards” st
         <card>
             <name>Simpson Valentão</name>
             <text>Elusive. (The first time this creature is attacked each turn, no damage is dealt.)
- After Hard Simpson is dealt damage, steal 1. If the tide is low, your opponent steals 1 instead. (Hard Simpson must survive this damage.)</text>
+(M) After Hard Simpson is dealt damage, steal 1A. If the tide is low, your opponent steals 1A instead. (Hard Simpson must survive this damage.)</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="bf1286e5-b4cf-42cd-ba3d-9787e54081ab" num="230" muid="496-230" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_230_JJ8JFG4876RG_pt.png">dt</set>
@@ -6185,7 +6185,7 @@ Your opponent refills their hand to 1 less card during their “draw cards” st
         </card>
         <card>
             <name>Poder da Ciência!</name>
-            <text>Play: For the remainder of the turn, after you play another action card, gain 1 .</text>
+            <text>Play: For the remainder of the turn, after you play another action card, gain 1A .</text>
             <tablerow>3</tablerow>
             <set rarity="Common" uuid="c055114e-a3fa-4a66-ace3-26a7aa53c3f7" num="059" muid="496-059" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_059_PJM4QC4FFJ66_pt.png">dt</set>
             <prop>
@@ -6283,7 +6283,7 @@ Reap: Ready and use a friendly non-Aquan creature.</text>
         </card>
         <card>
             <name>Na-Na-Di-No-Não!</name>
-            <text>Play: Destroy an enemy creature with  on it.</text>
+            <text>Play: Destroy an enemy creature with A on it.</text>
             <tablerow>3</tablerow>
             <set rarity="Uncommon" uuid="c1e97b2f-7aa0-4094-997f-9e5607a0814b" num="156" muid="496-156" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_156_H6JJVGPMVCF8_pt.png">dt</set>
             <prop>
@@ -6303,7 +6303,7 @@ Reap: Ready and use a friendly non-Aquan creature.</text>
         <card>
             <name>Dir. de Recursos Hawkins</name>
             <text>Deploy. (This creature can enter play anywhere in your battleline.)
-Play: Your opponent loses 1 for each of C.R. Officer Hawkins's non-Star Alliance neighbors.</text>
+Play: Your opponent loses 1A for each of C.R. Officer Hawkins's non-Star Alliance neighbors.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Evil Twin" uuid="c2b79741-fe4f-473c-bfea-4aaf4b957e44" num="244" muid="496-244" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_244_6VGCFG865JJ_pt.png">dt</set>
@@ -6323,7 +6323,7 @@ Play: Your opponent loses 1 for each of C.R. Officer Hawkins's non-Star Allia
         </card>
         <card>
             <name>Inhãzinho</name>
-            <text>After your opponent forges a key, give Mookling a +1 power counter for each  spent to forge that key.</text>
+            <text>After your opponent forges a key, give Mookling a +1 power counter for each A spent to forge that key.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Evil Twin" uuid="c342ce83-7f92-4927-acfc-d65dd2383f81" num="370" muid="496-370" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_370_7PQP2Q48W2VH_pt.png">dt</set>
@@ -6343,7 +6343,7 @@ Play: Your opponent loses 1 for each of C.R. Officer Hawkins's non-Star Allia
         </card>
         <card>
             <name>Eng. de Foguetes Tryska</name>
-            <text> While the tide is high, Rocketeer Tryska’s neighbors enter play ready.</text>
+            <text>(M) While the tide is high, Rocketeer Tryska’s neighbors enter play ready.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="c3e06fb0-b6b9-493b-a5bb-6227b655349e" num="300" muid="496-300" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_300_56PWPH7564P_pt.png">dt</set>
@@ -6383,7 +6383,7 @@ Play: Your opponent loses 1 for each of C.R. Officer Hawkins's non-Star Allia
         <card>
             <name>Jackie Alcatrão</name>
             <text>Elusive. (The first time this creature is attacked each turn, no damage is dealt.)
- Reap: Deal 1 to a creature. If the tide is high, deal 6 to a creature instead.</text>
+(M) Reap: Deal 1D to a creature. If the tide is high, deal 6D to a creature instead.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="c49ee2fe-9b72-4104-adbf-8a78e09394bd" num="233" muid="496-233" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_233_HMR63V4993MV_pt.png">dt</set>
@@ -6404,7 +6404,7 @@ Play: Your opponent loses 1 for each of C.R. Officer Hawkins's non-Star Allia
         <card>
             <name>Teórico de Vespilon</name>
             <text>Elusive. (The first time this creature is attacked each turn, no damage is dealt.)
-Reap: Choose a house. Reveal the top card of your deck. If it is of that house, archive it and gain 1. Otherwise, discard it.</text>
+Reap: Choose a house. Reveal the top card of your deck. If it is of that house, archive it and gain 1A. Otherwise, discard it.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="c4aa571c-754a-4e22-836a-9c3ba3cc64ee" num="030" muid="496-030" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_030_4XJVMF643M6C_pt.png">dt</set>
@@ -6425,7 +6425,7 @@ Reap: Choose a house. Reveal the top card of your deck. If it is of that house, 
         <card>
             <name>Quelônia</name>
             <text>Elusive. (The first time this creature is attacked each turn, no damage is dealt.)
- After you play another creature, if the tide is high, gain 1.</text>
+(M) After you play another creature, if the tide is high, gain 1A.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="c4caa67d-a357-4f71-99c6-c23f71b6e33f" num="415" muid="496-415" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_415_3GM3Q5VPPWHH_pt.png">dt</set>
@@ -6445,7 +6445,7 @@ Reap: Choose a house. Reveal the top card of your deck. If it is of that house, 
         </card>
         <card>
             <name>Forja de Dados</name>
-            <text>Play: You may forge a key at +10 current cost, reduced by 1 for each card in your hand.</text>
+            <text>Play: You may forge a key at +10A current cost, reduced by 1A for each card in your hand.</text>
             <tablerow>3</tablerow>
             <set rarity="Uncommon" uuid="c4ce0770-97a3-4de5-8c59-57246d0b97f2" num="037" muid="496-037" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_037_CPWMQCQ2MMX7_pt.png">dt</set>
             <prop>
@@ -6464,7 +6464,7 @@ Reap: Choose a house. Reveal the top card of your deck. If it is of that house, 
         </card>
         <card>
             <name>Taniwha</name>
-            <text>Fight/Reap: Destroy a friendly creature and gain 1.</text>
+            <text>Fight/Reap: Destroy a friendly creature and gain 1A.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="c5add49f-f039-449c-a198-1f1d4dda653b" num="329" muid="496-329" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_329_QF394Q2M5VF9_pt.png">dt</set>
@@ -6484,7 +6484,7 @@ Reap: Choose a house. Reveal the top card of your deck. If it is of that house, 
         </card>
         <card>
             <name>Chamado de Volta</name>
-            <text>Play: Deal 1 to each enemy creature for each  on it. Move each  from those creatures to your pool.</text>
+            <text>Play: Deal 1D to each enemy creature for each A on it. Move each A from those creatures to your pool.</text>
             <tablerow>3</tablerow>
             <set rarity="Rare" uuid="c66ebfcf-c329-4384-9617-8cd78d3735c8" num="395" muid="496-395" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_395_XXH795WXQ6J6_pt.png">dt</set>
             <prop>
@@ -6503,7 +6503,7 @@ Reap: Choose a house. Reveal the top card of your deck. If it is of that house, 
         </card>
         <card>
             <name>Censor Filo</name>
-            <text>Censor Philo cannot be dealt damage by creatures with  on them.</text>
+            <text>Censor Philo cannot be dealt damage by creatures with A on them.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="c81b9ff0-e619-410e-a797-0458d00a3205" num="170" muid="496-170" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_170_FC953RWWC2FG_pt.png">dt</set>
@@ -6600,7 +6600,7 @@ Reap: Choose a house. Reveal the top card of your deck. If it is of that house, 
         </card>
         <card>
             <name>Armadrone</name>
-            <text>Fight: Steal 1.</text>
+            <text>Fight: Steal 1A.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="caf82e6f-6f22-4f81-bae5-8123cfcaae78" num="048" muid="496-048" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_048_R8P374P96C38_pt.png">dt</set>
@@ -6681,7 +6681,7 @@ Reap: Choose a house. Reveal the top card of your deck. If it is of that house, 
         <card>
             <name>Capitão Barba-Nula</name>
             <text>Each of Captain No-Beard’s neighbors gains taunt.
-Reap: Capture 1.</text>
+Reap: Capture 1A.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="cd0df368-99ad-43cf-b2c2-4dd105c2608c" num="192" muid="496-192" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_192_J4C5M4XJVX59_pt.png">dt</set>
@@ -6701,8 +6701,8 @@ Reap: Capture 1.</text>
         </card>
         <card>
             <name>Saqueador Fótico</name>
-            <text>Play: Capture 2.
- While the tide is high, Photic Raider gets +4 power.</text>
+            <text>Play: Capture 2A.
+(M) While the tide is high, Photic Raider gets +4 power.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="d011680c-7415-448f-af00-a6d3cf22625a" num="361" muid="496-361" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_361_J6CHJQ2MW432_pt.png">dt</set>
@@ -6802,7 +6802,7 @@ Reap: Capture 1.</text>
         </card>
         <card>
             <name>Wikolia</name>
-            <text>Reap: Exalt Wikolia. Keys cost +4 during your opponent's next turn.</text>
+            <text>Reap: Exalt Wikolia. Keys cost +4A during your opponent's next turn.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Evil Twin" uuid="d26038b4-52e4-4bda-bf50-de198b11c6e2" num="312" muid="496-312" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_312_88F9H6VFHHXG_pt.png">dt</set>
@@ -6903,7 +6903,7 @@ Play: Until the start of your next turn, each creature gains, “Before Fight: E
         </card>
         <card>
             <name>Bocal de Plasma</name>
-            <text>This creature gains, "Before Fight: Deal 2 to the attacked creature, with 2 splash."</text>
+            <text>This creature gains, "Before Fight: Deal 2D to the attacked creature, with 2D splash."</text>
             <tablerow>1</tablerow>
             <set rarity="Rare" uuid="d6205ac6-7f4a-4743-8432-8166ca483f36" num="270" muid="496-270" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_270_38M57VR8P2VH_pt.png">dt</set>
             <prop>
@@ -6981,7 +6981,7 @@ Action: Use a neighboring non-Star Alliance creature.</text>
         </card>
         <card>
             <name>Maremoto</name>
-            <text> Play: If the tide is high, destroy a creature and each of its neighbors. Your opponent raises the tide.</text>
+            <text>(M) Play: If the tide is high, destroy a creature and each of its neighbors. Your opponent raises the tide.</text>
             <tablerow>3</tablerow>
             <set rarity="Uncommon" uuid="d9f7cf01-e847-4b07-99ee-6f79948a6a1c" num="347" muid="496-347" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_347_J8MV45MF8W5M_pt.png">dt</set>
             <prop>
@@ -7020,7 +7020,7 @@ Action: Use a neighboring non-Star Alliance creature.</text>
         </card>
         <card>
             <name>Orphiel, Eleita do Mar</name>
-            <text> While the tide is high, Orphiel, Sea’s Chosen gains skirmish and, “Fight: Gain 2.”</text>
+            <text>(M) While the tide is high, Orphiel, Sea’s Chosen gains skirmish and, “Fight: Gain 2A.”</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="da1358e6-cc84-4895-a4d4-91d8735ffa66" num="071" muid="496-071" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_071_4QXM6JVRP429_pt.png">dt</set>
@@ -7040,8 +7040,8 @@ Action: Use a neighboring non-Star Alliance creature.</text>
         </card>
         <card>
             <name>O Espectro Voador</name>
-            <text> After your opponent raises the tide, destroy The Flyin’ Specter.
- Action: Steal 1 if the tide is high. </text>
+            <text>(M) After your opponent raises the tide, destroy The Flyin’ Specter.
+(M) Action: Steal 1A if the tide is high. </text>
             <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Uncommon" uuid="dabbf87a-cb9e-4e44-92fb-9ab9f07b764f" num="224" muid="496-224" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_224_R5PXQXCGFX3P_pt.png">dt</set>
@@ -7061,7 +7061,7 @@ Action: Use a neighboring non-Star Alliance creature.</text>
         <card>
             <name>Conselho das Sombras</name>
             <text>Elusive.
-While The Shadow Council is in the center of your battleline, it gains, "Action: Steal 2."</text>
+While The Shadow Council is in the center of your battleline, it gains, "Action: Steal 2A."</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="db0d9811-edbe-4714-afa8-0f15a12c2c84" num="209" muid="496-209" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_209_CG4FG9XQJ849_pt.png">dt</set>
@@ -7159,7 +7159,7 @@ Fight/Reap: Give a +1 power counter to each creature between Com. Officer Hings 
         </card>
         <card>
             <name>O Primeiro Pergaminho</name>
-            <text>After a player forges a key, each creature they control captures 1 from its own side.</text>
+            <text>After a player forges a key, each creature they control captures 1A from its own side.</text>
             <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Rare" uuid="dd305174-4ab4-4c6d-bbf7-76c514b15ffe" num="151" muid="496-151" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_151_XH283XQ2VPGJ_pt.png">dt</set>
@@ -7178,7 +7178,7 @@ Fight/Reap: Give a +1 power counter to each creature between Com. Officer Hings 
         </card>
         <card>
             <name>Sapatos de Cimento</name>
-            <text> Play: Deal 2 to a creature. If this damage destroys that creature, raise the tide.</text>
+            <text>(M) Play: Deal 2D to a creature. If this damage destroys that creature, raise the tide.</text>
             <tablerow>3</tablerow>
             <set rarity="Common" uuid="dd80ee46-791d-4b26-9075-1497f0bfd67d" num="227" muid="496-227" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_227_HCCJRP5WG59J_pt.png">dt</set>
             <prop>
@@ -7197,7 +7197,7 @@ Fight/Reap: Give a +1 power counter to each creature between Com. Officer Hings 
         </card>
         <card>
             <name>Comandante Dhrxgar</name>
-            <text>After an upgrade is attached to Commander Dhrxgar or 1 of its neighbors, gain 1.</text>
+            <text>After an upgrade is attached to Commander Dhrxgar or 1 of its neighbors, gain 1A.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="ddb6e6e1-b401-4810-805a-bea807258e64" num="260" muid="496-260" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_260_6FHWP43QGPJW_pt.png">dt</set>
@@ -7257,7 +7257,7 @@ Fight/Reap: Give a +1 power counter to each creature between Com. Officer Hings 
         <card>
             <name>Tenente Khrkhar</name>
             <text>Taunt. (This creature’s neighbors cannot be attacked unless they have taunt.)
-Hazardous 3. (Before this creature is attacked, deal 3 to the attacking enemy.)</text>
+Hazardous 3. (Before this creature is attacked, deal 3D to the attacking enemy.)</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="de3de189-f7cd-4084-b418-f35d2eb4dad2" num="295" muid="496-295" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_295_5HVVCQGXG8G6_pt.png">dt</set>
@@ -7278,7 +7278,7 @@ Hazardous 3. (Before this creature is attacked, deal 3 to the attacking enemy
         <card>
             <name>Gladiodonte</name>
             <text>Gladiodontus enters play stunned.
-Gladiodontus only deals 5 when fighting.
+Gladiodontus only deals 5D when fighting.
 Fight/Reap: If this is the first time Gladiodontus has been used this turn, ready and enrage it.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
@@ -7299,7 +7299,7 @@ Fight/Reap: If this is the first time Gladiodontus has been used this turn, read
         </card>
         <card>
             <name>Orphion, Eleito da Terra</name>
-            <text> While the tide is low, Orphion, Land’s Chosen gets +3 armor and gains, “Reap: Capture 2.”</text>
+            <text>(M) While the tide is low, Orphion, Land’s Chosen gets +3 armor and gains, “Reap: Capture 2A.”</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="FIXED" uuid="de811bbc-4e0d-4a31-af0a-c0116c1cc8cc" num="072" muid="496-072" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_072_PM5R5XW5JFFX_pt.png">dt</set>
@@ -7362,7 +7362,7 @@ Action: Return a Fifalde from your discard pile to your hand.</text>
         <card>
             <name>Doutora Driscoll</name>
             <text>Elusive.
-Action: Heal 2 damage from a creature. Gain 1 for each damage healed this way.</text>
+Action: Heal 2 damage from a creature. Gain 1A for each damage healed this way.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="e22b155c-db7b-465f-b3a7-287ea45d8fe4" num="263" muid="496-263" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_263_46W7MWQFG22Q_pt.png">dt</set>
@@ -7382,7 +7382,7 @@ Action: Heal 2 damage from a creature. Gain 1 for each damage healed this way
         </card>
         <card>
             <name>Tomwa do Brilho</name>
-            <text> Reap: Exhaust a creature. If the tide is high, draw a card for each exhausted enemy creature.</text>
+            <text>(M) Reap: Exhaust a creature. If the tide is high, draw a card for each exhausted enemy creature.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="e252e9f5-56ef-4033-871c-8de183c6be93" num="348" muid="496-348" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_348_5X4958QQXG6C_pt.png">dt</set>
@@ -7402,7 +7402,7 @@ Action: Heal 2 damage from a creature. Gain 1 for each damage healed this way
         </card>
         <card>
             <name>Arrastão</name>
-            <text> Play: If the tide is high, destroy each artifact. Otherwise, raise the tide.</text>
+            <text>(M) Play: If the tide is high, destroy each artifact. Otherwise, raise the tide.</text>
             <tablerow>3</tablerow>
             <set rarity="Rare" uuid="e2e3556c-de36-4c26-866a-162ca6803f2c" num="394" muid="496-394" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_394_QQ26GGRX9VF9_pt.png">dt</set>
             <prop>
@@ -7421,7 +7421,7 @@ Action: Heal 2 damage from a creature. Gain 1 for each damage healed this way
         </card>
         <card>
             <name>Missão de Sabotagem</name>
-            <text>Play: Keys cost +1 for each different power value among friendly creatures during your opponent’s next turn.</text>
+            <text>Play: Keys cost +1A for each different power value among friendly creatures during your opponent’s next turn.</text>
             <tablerow>3</tablerow>
             <set rarity="Uncommon" uuid="e2f8311b-fd89-4874-ae6a-80eb7d0a8e07" num="282" muid="496-282" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_282_68HX74JJ74CF_pt.png">dt</set>
             <prop>
@@ -7441,7 +7441,7 @@ Action: Heal 2 damage from a creature. Gain 1 for each damage healed this way
         <card>
             <name>Mestresmola</name>
             <text>Deploy. Taunt.
-Play: Each of Almsmaster's neighbors captures 1.</text>
+Play: Each of Almsmaster's neighbors captures 1A.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="e3880205-ddae-4d56-8010-3ba9561477fe" num="093" muid="496-093" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_093_7V9Q9HG4XF42_pt.png">dt</set>
@@ -7481,7 +7481,7 @@ If there are 6 or more awakening counters on Effigy of Melerukh, move it to a fl
         </card>
         <card>
             <name>Carga Estática</name>
-            <text>This creature gains, "At the start of your turn, deal 2 to each of this creature's neighbors."</text>
+            <text>This creature gains, "At the start of your turn, deal 2D to each of this creature's neighbors."</text>
             <tablerow>1</tablerow>
             <set rarity="Common" uuid="e43e2d5e-6075-4a51-a34b-80aad6e69d53" num="060" muid="496-060" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_060_M6R3JHRHV36P_pt.png">dt</set>
             <prop>
@@ -7561,7 +7561,7 @@ If there are 6 or more awakening counters on Effigy of Melerukh, move it to a fl
         <card>
             <name>Panapaná</name>
             <text>Play: Destroy a friendly Bombyx. If you do not, destroy Fifalde.
-Fight/Reap: Fully heal Fifalde and gain 1.</text>
+Fight/Reap: Fully heal Fifalde and gain 1A.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="FIXED" uuid="e7bbba6d-414a-4678-aed7-0c1f73f1faa1" num="377" muid="496-377" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_377_WP6579VRC2RQ_pt.png">dt</set>
@@ -7582,7 +7582,7 @@ Fight/Reap: Fully heal Fifalde and gain 1.</text>
         </card>
         <card>
             <name>Detetive Devaneio</name>
-            <text> Reap: If the tide is high, your opponent discards a random card from their hand.</text>
+            <text>(M) Reap: If the tide is high, your opponent discards a random card from their hand.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Evil Twin" uuid="e7c1512e-be7e-4739-ae58-af5406b0c0da" num="005" muid="496-005" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_005_8G43P5V9M662_pt.png">dt</set>
@@ -7602,7 +7602,7 @@ Fight/Reap: Fully heal Fifalde and gain 1.</text>
         </card>
         <card>
             <name>Cientista Felix</name>
-            <text> Play/Fight: If the tide is low, you may exalt a creature.</text>
+            <text>(M) Play/Fight: If the tide is low, you may exalt a creature.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Evil Twin" uuid="e7d259a9-9478-4c2b-ba76-3244e60621da" num="129" muid="496-129" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_129_6MVFR6W6Q594_pt.png">dt</set>
@@ -7640,7 +7640,7 @@ Fight/Reap: Fully heal Fifalde and gain 1.</text>
         </card>
         <card>
             <name>Undagnato</name>
-            <text> While the tide is low, Undagnathus deals no damage when fighting.</text>
+            <text>(M) While the tide is low, Undagnathus deals no damage when fighting.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="e870c31e-b923-41ab-bb4d-f1426490c00c" num="182" muid="496-182" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_182_WV84MC3764W3_pt.png">dt</set>
@@ -7660,7 +7660,7 @@ Fight/Reap: Fully heal Fifalde and gain 1.</text>
         </card>
         <card>
             <name>Lanceirus Raptor</name>
-            <text>Before Fight: You may exalt Hastatus Raptor. If you do, deal 1 to the creature Hastatus Raptor fights for each  on friendly Hastatus Raptors.</text>
+            <text>Before Fight: You may exalt Hastatus Raptor. If you do, deal 1D to the creature Hastatus Raptor fights for each A on friendly Hastatus Raptors.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="eb9c4de1-156b-4abe-b130-f723b0ed4586" num="141" muid="496-141" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_141_35M9XX59RHQ6_pt.png">dt</set>
@@ -7681,7 +7681,7 @@ Fight/Reap: Fully heal Fifalde and gain 1.</text>
         <card>
             <name>Kraken Te-Wheke</name>
             <text>Play: Exhaust 2 friendly Unfathomable creatures. If you do not, destroy Te-wheke Kraken.
-Fight/Reap: Deal 2 to a creature, with 2 splash.</text>
+Fight/Reap: Deal 2D to a creature, with 2D splash.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="ebba5984-ee2d-44cf-a3a7-c968be3c6e01" num="330" muid="496-330" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_330_X4M696XQCJ27_pt.png">dt</set>
@@ -7702,7 +7702,7 @@ Fight/Reap: Deal 2 to a creature, with 2 splash.</text>
         <card>
             <name>Ursa Anciã</name>
             <text>Assault 3.
-While Eldest Bear is in the center of your battleline, it gains, "Before Fight: Gain 2."</text>
+While Eldest Bear is in the center of your battleline, it gains, "Before Fight: Gain 2A."</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="ebbecf19-d26c-442d-a9a3-3e75fcefe3a4" num="383" muid="496-383" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_383_P6W225XMGF88_pt.png">dt</set>
@@ -7722,8 +7722,8 @@ While Eldest Bear is in the center of your battleline, it gains, "Before Fight: 
         </card>
         <card>
             <name>Intendente Guelrafogo</name>
-            <text> After your opponent raises the tide, enrage Flamegill Enforcer.
-Action: Steal 1.</text>
+            <text>(M) After your opponent raises the tide, enrage Flamegill Enforcer.
+Action: Steal 1A.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Evil Twin" uuid="ebda111d-20e0-4cef-9e56-c72d882ad24c" num="306" muid="496-306" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_306_84P4JJF44CC8_pt.png">dt</set>
@@ -7743,7 +7743,7 @@ Action: Steal 1.</text>
         </card>
         <card>
             <name>Marechal Moringa</name>
-            <text> Play/Fight: Raise the tide.</text>
+            <text>(M) Play/Fight: Raise the tide.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="ecd52fb9-b4c4-434c-86a6-1681a2387662" num="116" muid="496-116" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_116_4QGJGJJGW6PJ_pt.png">dt</set>
@@ -7763,7 +7763,7 @@ Action: Steal 1.</text>
         </card>
         <card>
             <name>Armadrone</name>
-            <text>Fight: Steal 2.</text>
+            <text>Fight: Steal 2A.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Evil Twin" uuid="ecd97088-222d-4395-9cbd-4b0932900dec" num="001" muid="496-001" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_001_3MCPH2HVX2WH_pt.png">dt</set>
@@ -7783,7 +7783,7 @@ Action: Steal 1.</text>
         </card>
         <card>
             <name>Milióbio</name>
-            <text> While the tide is high, Myliobe gains skirmish. (When you use this creature to fight, it is dealt no damage in return.)
+            <text>(M) While the tide is high, Myliobe gains skirmish. (When you use this creature to fight, it is dealt no damage in return.)
 Before Fight: Enrage the creature Myliobe fights and each of that creature’s neighbors.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
@@ -7804,7 +7804,7 @@ Before Fight: Enrage the creature Myliobe fights and each of that creature’s n
         </card>
         <card>
             <name>Cila</name>
-            <text>Each enemy creature gains, "Reap: Deal 4 to this creature."</text>
+            <text>Each enemy creature gains, "Reap: Deal 4D to this creature."</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="ed6de707-21c7-497b-9c09-211de194d0c5" num="131" muid="496-131" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_131_VHG8J2GPHF29_pt.png">dt</set>
@@ -7847,7 +7847,7 @@ Before Fight: Enrage the creature Myliobe fights and each of that creature’s n
         <card>
             <name>Operativo Espion</name>
             <text>Elusive. (The first time this creature is attacked each turn, no damage is dealt.)
- After a player raises the tide during their turn, they may deal 3 to a creature.</text>
+(M) After a player raises the tide during their turn, they may deal 3D to a creature.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Evil Twin" uuid="edf4b3b7-5650-434d-88d9-000dbfd67810" num="247" muid="496-247" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_247_8PFJ3VJVQFVF_pt.png">dt</set>
@@ -7868,8 +7868,8 @@ Before Fight: Enrage the creature Myliobe fights and each of that creature’s n
         <card>
             <name>Brend, o Fanático</name>
             <text>Skirmish.
-Play: Your opponent gains 1.
-Destroyed: Steal 3.</text>
+Play: Your opponent gains 1A.
+Destroyed: Steal 3A.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="ee29c321-bbf2-478e-8067-2a173785e4f6" num="214" muid="496-214" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_214_Q5Q37W83J2QP_pt.png">dt</set>
@@ -7909,7 +7909,7 @@ Destroyed: Steal 3.</text>
         </card>
         <card>
             <name>Enterrar Tesouros</name>
-            <text> Play: If the tide is high, move 1 from each creature to its controller's pool. Otherwise, raise the tide.</text>
+            <text>(M) Play: If the tide is high, move 1A from each creature to its controller's pool. Otherwise, raise the tide.</text>
             <tablerow>3</tablerow>
             <set rarity="Uncommon" uuid="ee8b3904-2705-46eb-99e2-78cee98672f9" num="154" muid="496-154" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_154_8PMJ2WFRX774_pt.png">dt</set>
             <prop>
@@ -7927,7 +7927,7 @@ Destroyed: Steal 3.</text>
         </card>
         <card>
             <name>A Fonte Secou</name>
-            <text> Each creature gains, “While the tide is low, this creature cannot reap.”</text>
+            <text>(M) Each creature gains, “While the tide is low, this creature cannot reap.”</text>
             <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Rare" uuid="efea8ccc-21ac-4845-ac3f-fdb702ca09dd" num="076" muid="496-076" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_076_VJJ5Q526QMPR_pt.png">dt</set>
@@ -8047,7 +8047,7 @@ Fight/Reap: Draw 1 card for each creature between Com. Officer Hings and Com. Of
         </card>
         <card>
             <name>Corrupção Generalizada</name>
-            <text>After a player gains  by reaping, a creature they do not control captures that .</text>
+            <text>After a player gains A by reaping, a creature they do not control captures that A.</text>
             <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Rare" uuid="f20f7099-4e36-4a42-8022-492dfa82e79b" num="210" muid="496-210" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_210_X68HXJF33VCG_pt.png">dt</set>
@@ -8088,7 +8088,7 @@ Fight/Reap: Draw 1 card for each creature between Com. Officer Hings and Com. Of
             <name>Decadência</name>
             <text>Play: Choose one:
 • Exalt, ready, and use a friendly creature.
-• Move 1 from a creature to another creature.</text>
+• Move 1A from a creature to another creature.</text>
             <tablerow>3</tablerow>
             <set rarity="Common" uuid="f3a18ce3-c15b-45d7-963a-ad6edc9ac10f" num="174" muid="496-174" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_174_688F9V5FG6WJ_pt.png">dt</set>
             <prop>
@@ -8127,7 +8127,7 @@ Fight/Reap: Draw 1 card for each creature between Com. Officer Hings and Com. Of
         <card>
             <name>Oficial de Ciência Qincan</name>
             <text>Elusive. (The first time this creature is attacked each turn, no damage is dealt.)
-After a player chooses an active house which matches no cards in play, steal 1.</text>
+After a player chooses an active house which matches no cards in play, steal 1A.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="f4226f69-57e6-4372-aed6-0f6298536433" num="301" muid="496-301" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_301_WCVRJ3JR6M9G_pt.png">dt</set>
@@ -8187,7 +8187,7 @@ T3R-35A may be played as an upgrade instead of a creature, with the text: “Thi
         </card>
         <card>
             <name>Roubo Descarado</name>
-            <text>Play: Enrage an enemy creature. Move all  from that creature to your pool.</text>
+            <text>Play: Enrage an enemy creature. Move all A from that creature to your pool.</text>
             <tablerow>3</tablerow>
             <set rarity="Uncommon" uuid="f65eaf4d-3851-4e07-b8b1-25e5898bb710" num="211" muid="496-211" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_211_JHRF78VR88RX_pt.png">dt</set>
             <prop>
@@ -8206,7 +8206,7 @@ T3R-35A may be played as an upgrade instead of a creature, with the text: “Thi
         </card>
         <card>
             <name>Mártir</name>
-            <text>Instead of readying creatures they control during their “ready cards” step, your opponent deals 1 to The Chosen One for each exhausted creature they control.</text>
+            <text>Instead of readying creatures they control during their “ready cards” step, your opponent deals 1D to The Chosen One for each exhausted creature they control.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="f754b072-cd41-430f-9250-c2af458a1d7c" num="332" muid="496-332" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_332_GHH7WF7P4QRW_pt.png">dt</set>
@@ -8227,7 +8227,7 @@ T3R-35A may be played as an upgrade instead of a creature, with the text: “Thi
         <card>
             <name>Colono Chapman</name>
             <text>Taunt.
-Each of Colonist Chapman's non-Star Alliance neighbors gains, "Reap: Gain 1."</text>
+Each of Colonist Chapman's non-Star Alliance neighbors gains, "Reap: Gain 1A."</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="f8ae077b-d4ec-4c03-ac22-90d1a6e7dbbf" num="277" muid="496-277" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_277_VMWM5H39QG8X_pt.png">dt</set>
@@ -8308,7 +8308,7 @@ Each artifact’s text box is considered blank (except for traits). </text>
         </card>
         <card>
             <name>Fausto, o Grande</name>
-            <text>Your opponent's keys cost +1 for each friendly creature with  on it.
+            <text>Your opponent's keys cost +1A for each friendly creature with A on it.
 Play: You may exalt a friendly creature.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
@@ -8329,8 +8329,8 @@ Play: You may exalt a friendly creature.</text>
         </card>
         <card>
             <name>Fada Delinquente</name>
-            <text> Play: Raise the tide.
- Before Fight: If the tide is high, steal 1.</text>
+            <text>(M) Play: Raise the tide.
+(M) Before Fight: If the tide is high, steal 1A.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Evil Twin" uuid="fb94eec5-72b4-4d51-9b5a-73480e689b4d" num="185" muid="496-185" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_185_7HHX5JVMXG67_pt.png">dt</set>
@@ -8351,7 +8351,7 @@ Play: You may exalt a friendly creature.</text>
         <card>
             <name>Capitão Barba-Nula</name>
             <text>Taunt. (This creature’s neighbors cannot be attacked unless they have taunt.)
-Destroyed: Each of Captain No-Beard's neighbors captures 1.</text>
+Destroyed: Each of Captain No-Beard's neighbors captures 1A.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Evil Twin" uuid="fbe75551-08c7-4ee7-a94b-d8477e42e2ca" num="184" muid="496-184" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_184_85C27W4FCQP_pt.png">dt</set>
@@ -8393,7 +8393,7 @@ Omni: Play the card under Masterplan. Destroy Masterplan.</text>
         <card>
             <name>Perebento</name>
             <text>Play: Move each +1 power counter in play to Sporegorger.
-Reap: You may remove each +1 power counter from Sporegorger. For each counter removed this way, deal 1 to each other creature.</text>
+Reap: You may remove each +1 power counter from Sporegorger. For each counter removed this way, deal 1D to each other creature.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Evil Twin" uuid="fd51cb4d-f7f9-4f80-8109-084f1243c73a" num="372" muid="496-372" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_372_752XXM3XRP48_pt.png">dt</set>
@@ -8413,7 +8413,7 @@ Reap: You may remove each +1 power counter from Sporegorger. For each counter re
         </card>
         <card>
             <name>Cântico da Fertilidade</name>
-            <text>Play: Your opponent gains 2.</text>
+            <text>Play: Your opponent gains 2A.</text>
             <tablerow>3</tablerow>
             <set rarity="Rare" uuid="fd8975d4-5689-405d-8129-7fd95e6a8d35" num="384" muid="496-384" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_384_43VFXWMHFR7M_pt.png">dt</set>
             <prop>
@@ -8472,7 +8472,7 @@ Reap: You may remove each +1 power counter from Sporegorger. For each counter re
         </card>
         <card>
             <name>Forja Imperial</name>
-            <text>Play: Forge a key at +8 current cost, reduced by 1 for each  on friendly creatures.</text>
+            <text>Play: Forge a key at +8A current cost, reduced by 1A for each A on friendly creatures.</text>
             <tablerow>3</tablerow>
             <set rarity="Rare" uuid="ff6b51fc-83d0-4954-9179-2a098e7f01b0" num="143" muid="496-143" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_143_8P6X77P75HRC_pt.png">dt</set>
             <prop>
@@ -8491,7 +8491,7 @@ Reap: You may remove each +1 power counter from Sporegorger. For each counter re
         </card>
         <card>
             <name>Fazendo a Rapa</name>
-            <text>Play: Steal 1. Discard the top card of your deck. If that card is a Shadows card, trigger this effect again.</text>
+            <text>Play: Steal 1A. Discard the top card of your deck. If that card is a Shadows card, trigger this effect again.</text>
             <tablerow>3</tablerow>
             <set rarity="Uncommon" uuid="ffbff986-d81c-4e8b-be82-681d62b76733" num="221" muid="496-221" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_221_G684FH42RWJR_pt.png">dt</set>
             <prop>
@@ -8509,7 +8509,7 @@ Reap: You may remove each +1 power counter from Sporegorger. For each counter re
         </card>
         <card>
             <name>Caneco</name>
-            <text>Play: Move 1 from a creature to your pool. Deal 2 to that creature. </text>
+            <text>Play: Move 1A from a creature to your pool. Deal 2D to that creature. </text>
             <tablerow>3</tablerow>
             <set rarity="Common" uuid="fff491fd-b6d0-4848-9752-62d521b31267" num="236" muid="496-236" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_236_8932GXGRJV3G_pt.png">dt</set>
             <prop>
