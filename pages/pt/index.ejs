@@ -10,4 +10,4 @@ hero_image: <%- expansion.image %>
 
 | Número | Nome |
 |----|----|<%cards.forEach(card => {%>
-| [<%- card.card_number %>](/<%- expansion.name %>/<%- card.card_number %>) | <%- card.card_title %> |<%})%>
+| [<%- card.card_number %>](/<%- expansion.name %>/<%- card.card_number %>) | <%- card.card_title %><%if (card.rarity === 'Evil Twin'){%> (Gêmeo do Mal)<%}%>%> |<%})%>
