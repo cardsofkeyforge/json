@@ -19,7 +19,7 @@
                 <layout>normal</layout>
                 <side>front</side>
                 <type><%- card.traits ? card.traits : card.card_type %></type>
-                <maintype><%- card.card_type %></maintype><%if (!card.is_anomaly){%>
+                <maintype><%- card.card_type %></maintype><%if (!card.is_anomaly && !card.is_non_deck){%>
                 <colors><%- houses[card.house].name %></colors>
                 <coloridentity><%- houses[card.house].name %></coloridentity><%}%><%if (card.card_type === 'Creature' || card.card_type === 'Creature1'){%>
                 <pt><%- (card.power ? card.power : 0) + '/' + (card.armor ? card.armor : 0) %></pt><%}%><%if (card.amber > 0){%>
