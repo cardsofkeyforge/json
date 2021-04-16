@@ -11,7 +11,7 @@ hero_image: <%- expansion.image %>
 ## <%- card.card_title %>
 
 |----|----|
-| Número | <%- card.card_number %> |<%if (!card.is_anomaly) {%>
+| Número | <%- card.card_number %> |<%if (!card.is_anomaly && !card.is_non_deck) {%>
 | Casa | ![<%- card.house %>](<%- house.image %> "<%- house.name %>") |<%}%>
 | Tipo | <%- type %> |<%if (card.traits){%>
 | Atributos | <%- card.traits %> |<%}%><%if (card.amber){%>
