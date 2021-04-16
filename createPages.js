@@ -25,7 +25,7 @@ function createPage(card, expansion) {
     {
       expansion: expansion,
       card: card,
-      house: card.is_anomaly ? null : houses[card.house],
+      house: card.is_anomaly || card.is_non_deck ? null : houses[card.house],
       type: types[card.card_type],
       text: card.card_text
         ? card.card_text

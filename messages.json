@@ -48,7 +48,8 @@
       "Creature2": "Criatura (Gigantesca)",
       "Action": "Ação",
       "Upgrade": "Melhoria",
-      "Artifact": "Artefato"
+      "Artifact": "Artefato",
+      "The Tide": "A Maré"
     },
     "rarities": {
       "Common": "Comum",
@@ -57,7 +58,8 @@
       "FIXED": "Especial Fixo",
       "Variant": "Especial Variável",
       "Special": "Especial",
-      "Evil Twin": "Gêmeo do Mal"
+      "Evil Twin": "Gêmeo do Mal",
+      "The Tide": "A Maré"
     },
     "builder": {
       "Maverick": "Maverick",

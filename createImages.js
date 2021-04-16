@@ -18,8 +18,18 @@ async function createImage(cards, expansion) {
       (card.card_type === "Creature2" ? "-2" : "") +
       ".png";
 
-    // eslint-disable-next-line no-await-in-loop
-    console.log(await imageApi.retrieveImage(card.front_image, cardImage));
+    let response = "[ERROR]";
+    let cardUrl = card.front_image;
+    const langRE = new RegExp(expansion.lang, "g");
+    while (response === "[ERROR]") {
+      // eslint-disable-next-line no-await-in-loop
+      response = await imageApi.retrieveImage(cardUrl, cardImage);
+      if (response === "[ERROR]") {
+        cardUrl = card.front_image.replace(langRE, "en");
+      }
+    }
+
+    console.log(cardUrl);
   }
 }
 

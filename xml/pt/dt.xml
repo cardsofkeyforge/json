@@ -70,7 +70,7 @@
             <name>Disputas Internas</name>
             <text>Play: Each creature deals damage equal to its power to its right neighbor.</text>
             <tablerow>3</tablerow>
-            <set rarity="Common" uuid="00479357-6345-401c-b591-f8c00d3efd8d" num="418" muid="496-418" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_418_6QVMX7M24QM6_pt.png">dt</set>
+            <set rarity="Common" uuid="00479357-6345-401c-b591-f8c00d3efd8d" num="418" muid="496-418" picurl="https://cdn.keyforgegame.com/media/card_front/en/496_418_6QVMX7M24QM6_en.png">dt</set>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -128,7 +128,7 @@
             <text>Reap: You may exalt Paraguardian. If you do, ward each of its neighbors.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
-            <set rarity="Uncommon" uuid="01e0ac03-88e9-4eb4-a67b-e248427be36a" num="160" muid="496-160" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_160_V3Q7V84WM5VJ_pt.png">dt</set>
+            <set rarity="Uncommon" uuid="01e0ac03-88e9-4eb4-a67b-e248427be36a" num="160" muid="496-160" picurl="https://cdn.keyforgegame.com/media/card_front/en/496_160_V3Q7V84WM5VJ_en.png">dt</set>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -310,7 +310,7 @@ Players cannot forge keys.
 At the start of your turn, remove a time counter from Ceaseforge, then destroy it if there are no time counters on it. </text>
             <cipt>1</cipt>
             <tablerow>0</tablerow>
-            <set rarity="Rare" uuid="086b49d1-f318-404c-98be-f5b76d85ba07" num="259" muid="496-259" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_259_J95F9XW7P22H_pt.png">dt</set>
+            <set rarity="Rare" uuid="086b49d1-f318-404c-98be-f5b76d85ba07" num="259" muid="496-259" picurl="https://cdn.keyforgegame.com/media/card_front/en/496_259_J95F9XW7P22H_en.png">dt</set>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -646,7 +646,7 @@ Reap: Gain 1A for each friendly Tentaclid.</text>
 • Fully heal a creature and gain 1A.
 • Ready and fight with a friendly creature.</text>
             <tablerow>3</tablerow>
-            <set rarity="Common" uuid="13928ccc-f418-4888-9c24-8fd6488e8064" num="114" muid="496-114" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_114_H6QX778Q7FH4_pt.png">dt</set>
+            <set rarity="Common" uuid="13928ccc-f418-4888-9c24-8fd6488e8064" num="114" muid="496-114" picurl="https://cdn.keyforgegame.com/media/card_front/en/496_114_H6QX778Q7FH4_en.png">dt</set>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -917,7 +917,7 @@ Each of Bull-wark's neighbors gains assault 2.</text>
             <name>Preservação Seletiva</name>
             <text>Play: Choose a creature of each power value. Destroy each creature not chosen.</text>
             <tablerow>3</tablerow>
-            <set rarity="Uncommon" uuid="19597cc5-22f0-49a0-a495-7ffe144d2d48" num="283" muid="496-283" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_283_Q3JWG83MX97R_pt.png">dt</set>
+            <set rarity="Uncommon" uuid="19597cc5-22f0-49a0-a495-7ffe144d2d48" num="283" muid="496-283" picurl="https://cdn.keyforgegame.com/media/card_front/en/496_283_Q3JWG83MX97R_en.png">dt</set>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -2001,7 +2001,7 @@ Destroyed: Archive Hyde from your discard pile. If you do, archive Velum.</text>
             <text>Action: Destroy a friendly creature. If you do, return a different creature from your discard pile to your hand.</text>
             <cipt>1</cipt>
             <tablerow>0</tablerow>
-            <set rarity="Rare" uuid="411f9eff-3408-45b9-bd51-6ed753b696b0" num="391" muid="496-391" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_391_4H2CM229PXG8_pt.png">dt</set>
+            <set rarity="Rare" uuid="411f9eff-3408-45b9-bd51-6ed753b696b0" num="391" muid="496-391" picurl="https://cdn.keyforgegame.com/media/card_front/en/496_391_4H2CM229PXG8_en.png">dt</set>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -2078,7 +2078,7 @@ Destroyed: Archive Hyde from your discard pile. If you do, archive Velum.</text>
 Fight: Each player gains 1A.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
-            <set rarity="Common" uuid="44a39758-2894-498d-9dc4-6a9bd8cc82db" num="228" muid="496-228" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_228_R5WCF2X522H2_pt.png">dt</set>
+            <set rarity="Common" uuid="44a39758-2894-498d-9dc4-6a9bd8cc82db" num="228" muid="496-228" picurl="https://cdn.keyforgegame.com/media/card_front/en/496_228_R5WCF2X522H2_en.png">dt</set>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -2430,7 +2430,7 @@ Play: Capture all but 5 of your opponent’s A, distributed among any number of 
             <name>Ostracizar</name>
             <text>Play: Lose 1A. If you do, purge a creature.</text>
             <tablerow>3</tablerow>
-            <set rarity="Common" uuid="4d293944-5068-485b-9dfe-0f52071e286d" num="179" muid="496-179" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_179_8VQV9H86X4V_pt.png">dt</set>
+            <set rarity="Common" uuid="4d293944-5068-485b-9dfe-0f52071e286d" num="179" muid="496-179" picurl="https://cdn.keyforgegame.com/media/card_front/en/496_179_8VQV9H86X4V_en.png">dt</set>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -2470,7 +2470,7 @@ Play: Capture all but 5 of your opponent’s A, distributed among any number of 
 At the start of each player’s turn, if that player controls 4 or more creatures with A on them, move each A from Bracchanalia to that player’s pool.</text>
             <cipt>1</cipt>
             <tablerow>0</tablerow>
-            <set rarity="Rare" uuid="51c721db-4993-4008-9828-3e6c09793bdc" num="133" muid="496-133" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_133_X7FW8WM3P8MH_pt.png">dt</set>
+            <set rarity="Rare" uuid="51c721db-4993-4008-9828-3e6c09793bdc" num="133" muid="496-133" picurl="https://cdn.keyforgegame.com/media/card_front/en/496_133_X7FW8WM3P8MH_en.png">dt</set>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -2491,7 +2491,7 @@ At the start of each player’s turn, if that player controls 4 or more creature
 Fight/Reap: Exhaust an enemy creature and each of its neighbors.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
-            <set rarity="Uncommon" uuid="53c7458d-1f41-4886-910b-f41d4dcb04e2" num="350" muid="496-350" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_350_797WG856W5P9_pt.png">dt</set>
+            <set rarity="Uncommon" uuid="53c7458d-1f41-4886-910b-f41d4dcb04e2" num="350" muid="496-350" picurl="https://cdn.keyforgegame.com/media/card_front/en/496_350_797WG856W5P9_en.png">dt</set>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -2570,7 +2570,7 @@ Terrordactyl only deals 4D when fighting.
 Before Fight: Deal 4D to each neighbor of the creature Terrordactyl fights.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
-            <set rarity="Uncommon" uuid="54c8e323-7f75-4661-a536-47adbaa2a683" num="165" muid="496-165" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_165_M7MJM2VRCMRW_pt.png">dt</set>
+            <set rarity="Uncommon" uuid="54c8e323-7f75-4661-a536-47adbaa2a683" num="165" muid="496-165" picurl="https://cdn.keyforgegame.com/media/card_front/en/496_165_M7MJM2VRCMRW_en.png">dt</set>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -2785,7 +2785,7 @@ At the end of your turn, remove a +1 power counter from Æmberfin Shark. If you 
             <text>Action: Capture 2A.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
-            <set rarity="Common" uuid="58354cf3-2643-428f-9198-670f33c35eb9" num="172" muid="496-172" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_172_PPPRWFXCVWWG_pt.png">dt</set>
+            <set rarity="Common" uuid="58354cf3-2643-428f-9198-670f33c35eb9" num="172" muid="496-172" picurl="https://cdn.keyforgegame.com/media/card_front/en/496_172_PPPRWFXCVWWG_en.png">dt</set>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -2882,7 +2882,7 @@ This creature gains, “Destroyed: Attach Officer’s Blaster to this creature's
             <text>Action: Exhaust a creature or artifact.</text>
             <cipt>1</cipt>
             <tablerow>0</tablerow>
-            <set rarity="Common" uuid="5b0bac0c-b1df-4f4a-9b70-edc4f7d75cc7" num="356" muid="496-356" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_356_9QG67926GH7W_pt.png">dt</set>
+            <set rarity="Common" uuid="5b0bac0c-b1df-4f4a-9b70-edc4f7d75cc7" num="356" muid="496-356" picurl="https://cdn.keyforgegame.com/media/card_front/en/496_356_9QG67926GH7W_en.png">dt</set>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -2903,7 +2903,7 @@ This creature gains, “Destroyed: Attach Officer’s Blaster to this creature's
 Fight: Give a Beast creature two +1 power counters.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
-            <set rarity="Common" uuid="5b684085-105f-455e-a5e4-78b76c49bf6f" num="417" muid="496-417" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_417_MWQWHJ42758C_pt.png">dt</set>
+            <set rarity="Common" uuid="5b684085-105f-455e-a5e4-78b76c49bf6f" num="417" muid="496-417" picurl="https://cdn.keyforgegame.com/media/card_front/en/496_417_MWQWHJ42758C_en.png">dt</set>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -3240,7 +3240,7 @@ Reap: Exhaust a creature.</text>
             <text>(M) Play/Reap: If the tide is low, your opponent gains 1A.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
-            <set rarity="Common" uuid="645084af-a823-48e0-92b1-82f655b07f3f" num="416" muid="496-416" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_416_QWFVMGH3WC9_pt.png">dt</set>
+            <set rarity="Common" uuid="645084af-a823-48e0-92b1-82f655b07f3f" num="416" muid="496-416" picurl="https://cdn.keyforgegame.com/media/card_front/en/496_416_QWFVMGH3WC9_en.png">dt</set>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -3481,7 +3481,7 @@ Reap: Move 1A from a creature to another creature.</text>
             <name>Demonstrar Superioridade</name>
             <text>Play: For the remainder of the turn, a friendly creature gains skirmish. Ready and fight with that creature.</text>
             <tablerow>3</tablerow>
-            <set rarity="Common" uuid="6b52b995-6d62-490f-a6a1-4c2904aa02fd" num="414" muid="496-414" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_414_3FWM93V39F8G_pt.png">dt</set>
+            <set rarity="Common" uuid="6b52b995-6d62-490f-a6a1-4c2904aa02fd" num="414" muid="496-414" picurl="https://cdn.keyforgegame.com/media/card_front/en/496_414_3FWM93V39F8G_en.png">dt</set>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -3651,7 +3651,7 @@ This creature gains, “Reap: Draw a card.”</text>
             <text>Each creature loses elusive, taunt, poison, and skirmish.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
-            <set rarity="Evil Twin" uuid="74483b72-bd42-45cd-9bd1-1fa3bb05c9c7" num="003" muid="496-003" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_003_QVQ44WVPJ2RW_pt.png">dt</set>
+            <set rarity="Evil Twin" uuid="74483b72-bd42-45cd-9bd1-1fa3bb05c9c7" num="003" muid="496-003" picurl="https://cdn.keyforgegame.com/media/card_front/en/496_003_QVQ44WVPJ2RW_en.png">dt</set>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -3829,7 +3829,7 @@ This creature gains, “Reap: Draw a card.”</text>
             <text>(M) While the tide is high, you may spend A on friendly creatures as if it were in your pool.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
-            <set rarity="Common" uuid="78fc260f-56cb-4090-bcd3-36a355f72659" num="178" muid="496-178" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_178_QMXQ7M722HJW_pt.png">dt</set>
+            <set rarity="Common" uuid="78fc260f-56cb-4090-bcd3-36a355f72659" num="178" muid="496-178" picurl="https://cdn.keyforgegame.com/media/card_front/en/496_178_QMXQ7M722HJW_en.png">dt</set>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -4087,7 +4087,7 @@ Reap: Put an upgrade or action card from your discard pile on top of your deck.<
             <text>Destroyed: Forge a key at current cost.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
-            <set rarity="Common" uuid="80897b67-9e56-461b-9c21-1c5f867945c7" num="419" muid="496-419" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_419_67VF7669QVVX_pt.png">dt</set>
+            <set rarity="Common" uuid="80897b67-9e56-461b-9c21-1c5f867945c7" num="419" muid="496-419" picurl="https://cdn.keyforgegame.com/media/card_front/en/496_419_67VF7669QVVX_en.png">dt</set>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -4125,7 +4125,7 @@ Reap: Put an upgrade or action card from your discard pile on top of your deck.<
             <name>Todo Amareado</name>
             <text>(M) Play: If the tide is high, gain 1A. Otherwise, raise the tide.</text>
             <tablerow>3</tablerow>
-            <set rarity="Common" uuid="84885895-7992-46b8-b205-55b5e86c8fbd" num="413" muid="496-413" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_413_53V5G5FVHQ7_pt.png">dt</set>
+            <set rarity="Common" uuid="84885895-7992-46b8-b205-55b5e86c8fbd" num="413" muid="496-413" picurl="https://cdn.keyforgegame.com/media/card_front/en/496_413_53V5G5FVHQ7_en.png">dt</set>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -4477,7 +4477,7 @@ Play: Capture 3A.</text>
             <name>Marretada</name>
             <text>Play: Destroy each creature that does not share a house with at least 1 of its neighbors.</text>
             <tablerow>3</tablerow>
-            <set rarity="Common" uuid="90ff2807-2a19-4d1f-8a00-efbd82d03609" num="112" muid="496-112" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_112_FJ46Q8F594Q_pt.png">dt</set>
+            <set rarity="Common" uuid="90ff2807-2a19-4d1f-8a00-efbd82d03609" num="112" muid="496-112" picurl="https://cdn.keyforgegame.com/media/card_front/en/496_112_FJ46Q8F594Q_en.png">dt</set>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -5214,7 +5214,7 @@ Play: Ready each Shadows card.</text>
             <text>Your opponent's keys cost +XA, where X is Mookling's power.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
-            <set rarity="Common" uuid="a6cc4dbb-e5f0-49ba-9b12-0adec3849f28" num="421" muid="496-421" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_421_FMVV2XFWHGJF_pt.png">dt</set>
+            <set rarity="Common" uuid="a6cc4dbb-e5f0-49ba-9b12-0adec3849f28" num="421" muid="496-421" picurl="https://cdn.keyforgegame.com/media/card_front/en/496_421_FMVV2XFWHGJF_en.png">dt</set>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -5233,7 +5233,7 @@ Play: Ready each Shadows card.</text>
             <name>Estilo Pixie</name>
             <text>This creature gains, "Reap: Gain 1A."</text>
             <tablerow>1</tablerow>
-            <set rarity="Common" uuid="a7be3aa7-1123-4d97-843c-4cb9024970ca" num="426" muid="496-426" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_426_MXM79PHMR3RF_pt.png">dt</set>
+            <set rarity="Common" uuid="a7be3aa7-1123-4d97-843c-4cb9024970ca" num="426" muid="496-426" picurl="https://cdn.keyforgegame.com/media/card_front/en/496_426_MXM79PHMR3RF_en.png">dt</set>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -5252,7 +5252,7 @@ Play: Ready each Shadows card.</text>
             <text>Play: If your opponent has 7A or more, capture all but 5 of it.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
-            <set rarity="Uncommon" uuid="a805db58-7078-4720-9df8-720231eb54e2" num="098" muid="496-098" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_098_MJV7XGGFVMQC_pt.png">dt</set>
+            <set rarity="Uncommon" uuid="a805db58-7078-4720-9df8-720231eb54e2" num="098" muid="496-098" picurl="https://cdn.keyforgegame.com/media/card_front/en/496_098_MJV7XGGFVMQC_en.png">dt</set>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -5928,7 +5928,7 @@ Action: Steal 1A for each A on Monty Bank.</text>
 Reap: Archive a card.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
-            <set rarity="Uncommon" uuid="b81b0779-835c-4eae-abc1-7ef187534904" num="034" muid="496-034" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_034_CGG8MC24X4WW_pt.png">dt</set>
+            <set rarity="Uncommon" uuid="b81b0779-835c-4eae-abc1-7ef187534904" num="034" muid="496-034" picurl="https://cdn.keyforgegame.com/media/card_front/en/496_034_CGG8MC24X4WW_en.png">dt</set>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -6168,7 +6168,7 @@ Your opponent refills their hand to 1 less card during their “draw cards” st
             <name>Sacanear</name>
             <text>Play: Use an enemy artifact as if it were yours.</text>
             <tablerow>3</tablerow>
-            <set rarity="Common" uuid="bfe39bf7-e10e-4a2e-bfb5-1bc33e66b285" num="232" muid="496-232" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_232_GV66J33VFG97_pt.png">dt</set>
+            <set rarity="Common" uuid="bfe39bf7-e10e-4a2e-bfb5-1bc33e66b285" num="232" muid="496-232" picurl="https://cdn.keyforgegame.com/media/card_front/en/496_232_GV66J33VFG97_en.png">dt</set>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -6346,7 +6346,7 @@ Play: Your opponent loses 1A for each of C.R. Officer Hawkins's non-Star Allianc
             <text>(M) While the tide is high, Rocketeer Tryska’s neighbors enter play ready.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
-            <set rarity="Common" uuid="c3e06fb0-b6b9-493b-a5bb-6227b655349e" num="300" muid="496-300" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_300_56PWPH7564P_pt.png">dt</set>
+            <set rarity="Common" uuid="c3e06fb0-b6b9-493b-a5bb-6227b655349e" num="300" muid="496-300" picurl="https://cdn.keyforgegame.com/media/card_front/en/496_300_56PWPH7564P_en.png">dt</set>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -6428,7 +6428,7 @@ Reap: Choose a house. Reveal the top card of your deck. If it is of that house, 
 (M) After you play another creature, if the tide is high, gain 1A.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
-            <set rarity="Common" uuid="c4caa67d-a357-4f71-99c6-c23f71b6e33f" num="415" muid="496-415" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_415_3GM3Q5VPPWHH_pt.png">dt</set>
+            <set rarity="Common" uuid="c4caa67d-a357-4f71-99c6-c23f71b6e33f" num="415" muid="496-415" picurl="https://cdn.keyforgegame.com/media/card_front/en/496_415_3GM3Q5VPPWHH_en.png">dt</set>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -6545,7 +6545,7 @@ Reap: Choose a house. Reveal the top card of your deck. If it is of that house, 
             <name>Farra Hedonista</name>
             <text>Play: Exalt each flank creature.</text>
             <tablerow>3</tablerow>
-            <set rarity="Uncommon" uuid="c8c7f7b4-931f-4444-a241-0cf5872deb6d" num="158" muid="496-158" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_158_F6WH7FX6QVPF_pt.png">dt</set>
+            <set rarity="Uncommon" uuid="c8c7f7b4-931f-4444-a241-0cf5872deb6d" num="158" muid="496-158" picurl="https://cdn.keyforgegame.com/media/card_front/en/496_158_F6WH7FX6QVPF_en.png">dt</set>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -6663,7 +6663,7 @@ Reap: Choose a house. Reveal the top card of your deck. If it is of that house, 
             <text>Play: Destroy an artifact.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
-            <set rarity="Common" uuid="cc3bd5e2-5662-4557-9ef5-927df2335549" num="420" muid="496-420" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_420_RRX5P3VPR5MG_pt.png">dt</set>
+            <set rarity="Common" uuid="cc3bd5e2-5662-4557-9ef5-927df2335549" num="420" muid="496-420" picurl="https://cdn.keyforgegame.com/media/card_front/en/496_420_RRX5P3VPR5MG_en.png">dt</set>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -6726,7 +6726,7 @@ Reap: Capture 1A.</text>
 • For the remainder of the turn, a friendly creature gains skirmish.
 • Exalt a friendly creature. For the remainder of the turn, each friendly creature gains skirmish.</text>
             <tablerow>3</tablerow>
-            <set rarity="Uncommon" uuid="d07cb69f-1815-4db6-85f7-cf151a94c6fb" num="152" muid="496-152" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_152_J9HQ9H7X22MM_pt.png">dt</set>
+            <set rarity="Uncommon" uuid="d07cb69f-1815-4db6-85f7-cf151a94c6fb" num="152" muid="496-152" picurl="https://cdn.keyforgegame.com/media/card_front/en/496_152_J9HQ9H7X22MM_en.png">dt</set>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -6905,7 +6905,7 @@ Play: Until the start of your next turn, each creature gains, “Before Fight: E
             <name>Bocal de Plasma</name>
             <text>This creature gains, "Before Fight: Deal 2D to the attacked creature, with 2D splash."</text>
             <tablerow>1</tablerow>
-            <set rarity="Rare" uuid="d6205ac6-7f4a-4743-8432-8166ca483f36" num="270" muid="496-270" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_270_38M57VR8P2VH_pt.png">dt</set>
+            <set rarity="Rare" uuid="d6205ac6-7f4a-4743-8432-8166ca483f36" num="270" muid="496-270" picurl="https://cdn.keyforgegame.com/media/card_front/en/496_270_38M57VR8P2VH_en.png">dt</set>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -7003,7 +7003,7 @@ Action: Use a neighboring non-Star Alliance creature.</text>
             <text>After your opponent forges a key, exhaust each creature they control.</text>
             <cipt>1</cipt>
             <tablerow>0</tablerow>
-            <set rarity="Rare" uuid="da0fe3ef-7088-4d4f-89ae-37e74510bcb6" num="328" muid="496-328" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_328_96G7CJXFX4VR_pt.png">dt</set>
+            <set rarity="Rare" uuid="da0fe3ef-7088-4d4f-89ae-37e74510bcb6" num="328" muid="496-328" picurl="https://cdn.keyforgegame.com/media/card_front/en/496_328_96G7CJXFX4VR_en.png">dt</set>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -7083,7 +7083,7 @@ While The Shadow Council is in the center of your battleline, it gains, "Action:
             <name>Emissor de Onda-Z</name>
             <text>At the start of your turn, ward this creature.</text>
             <tablerow>1</tablerow>
-            <set rarity="FIXED" uuid="db3042bf-2951-4c0a-9c52-f4382e6ae640" num="255" muid="496-255" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_255_58JWRV9JVR9W_pt.png">dt</set>
+            <set rarity="FIXED" uuid="db3042bf-2951-4c0a-9c52-f4382e6ae640" num="255" muid="496-255" picurl="https://cdn.keyforgegame.com/media/card_front/en/496_255_58JWRV9JVR9W_en.png">dt</set>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -7564,7 +7564,7 @@ If there are 6 or more awakening counters on Effigy of Melerukh, move it to a fl
 Fight/Reap: Fully heal Fifalde and gain 1A.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
-            <set rarity="FIXED" uuid="e7bbba6d-414a-4678-aed7-0c1f73f1faa1" num="377" muid="496-377" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_377_WP6579VRC2RQ_pt.png">dt</set>
+            <set rarity="FIXED" uuid="e7bbba6d-414a-4678-aed7-0c1f73f1faa1" num="377" muid="496-377" picurl="https://cdn.keyforgegame.com/media/card_front/en/496_377_WP6579VRC2RQ_en.png">dt</set>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -7829,7 +7829,7 @@ Before Fight: Enrage the creature Myliobe fights and each of that creature’s n
 • Destroy an upgrade.
 • Destroy a creature with armor.</text>
             <tablerow>3</tablerow>
-            <set rarity="Rare" uuid="ed6e72b1-b053-46af-a39f-01eda6e92b83" num="318" muid="496-318" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_318_4RR6GQXQJ45P_pt.png">dt</set>
+            <set rarity="Rare" uuid="ed6e72b1-b053-46af-a39f-01eda6e92b83" num="318" muid="496-318" picurl="https://cdn.keyforgegame.com/media/card_front/en/496_318_4RR6GQXQJ45P_en.png">dt</set>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
