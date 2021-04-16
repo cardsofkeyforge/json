@@ -244,7 +244,7 @@ After a neighbor of Little Niff fights, steal 1A.</text>
         </card>
         <card>
             <name>Matriz de Série Estática</name>
-            <text>(M) Your keys cost –1A while the tide is high and +1A while the tide is low.</text>
+            <text>(T) Your keys cost –1A while the tide is high and +1A while the tide is low.</text>
             <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Uncommon" uuid="0532fc8e-9478-4264-bd0d-14cd20ad7133" num="284" muid="496-284" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_284_7QPVGQJ5RXJW_pt.png">dt</set>
@@ -346,7 +346,7 @@ At the start of your turn, remove a time counter from Ceaseforge, then destroy i
         </card>
         <card>
             <name>Dia de Praia</name>
-            <text>(M) Play: Return a creature to its owner's hand. If the tide is high, gain 1A.</text>
+            <text>(T) Play: Return a creature to its owner's hand. If the tide is high, gain 1A.</text>
             <tablerow>3</tablerow>
             <set rarity="Uncommon" uuid="0a4184c3-141d-4941-81e6-b66fbfc73c24" num="398" muid="496-398" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_398_Q4GV83Q256XG_pt.png">dt</set>
             <prop>
@@ -446,7 +446,7 @@ Taunt. (This creature’s neighbors cannot be attacked unless they have taunt.)<
         </card>
         <card>
             <name>Lærie do Lago</name>
-            <text>(M) While the tide is high, Lærie of the Lake gets +5 armor.</text>
+            <text>(T) While the tide is high, Lærie of the Lake gets +5 armor.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Evil Twin" uuid="0f599d43-bbc9-4d6b-ad48-e90fc91194c2" num="066" muid="496-066" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_066_Q2FRFRC8W4X8_pt.png">dt</set>
@@ -582,7 +582,7 @@ Reap: Gain 1A for each friendly Tentaclid.</text>
         </card>
         <card>
             <name>Submersível</name>
-            <text>(M) While the tide is high, each friendly Thief creature gains elusive.</text>
+            <text>(T) While the tide is high, each friendly Thief creature gains elusive.</text>
             <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Rare" uuid="122be436-698e-45a3-939d-e65ad4402598" num="208" muid="496-208" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_208_6H865Q263323_pt.png">dt</set>
@@ -782,7 +782,7 @@ Each of Bull-wark's neighbors gains assault 2.</text>
         </card>
         <card>
             <name>Velho Turrão</name>
-            <text>(M) Reap: Discard the bottom card of your opponent's deck, or the bottom 3 cards instead if the tide is high. Destroy a creature that shares a house with 1 of the discarded cards.</text>
+            <text>(T) Reap: Discard the bottom card of your opponent's deck, or the bottom 3 cards instead if the tide is high. Destroy a creature that shares a house with 1 of the discarded cards.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Evil Twin" uuid="16aab027-02d6-48b6-9571-6a7a49204bd8" num="371" muid="496-371" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_371_9CM3M3CP75MF_pt.png">dt</set>
@@ -955,7 +955,7 @@ Play: Give Chonkers a +1 power counter. </text>
         </card>
         <card>
             <name>Guardáguas</name>
-            <text>(M) Play/Reap: If the tide is high, your opponent raises the tide. Otherwise, you raise the tide.</text>
+            <text>(T) Play/Reap: If the tide is high, your opponent raises the tide. Otherwise, you raise the tide.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="1b54db14-0789-48e4-b65c-74819d56cdd1" num="050" muid="496-050" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_050_G7FP67RC9WRC_pt.png">dt</set>
@@ -1015,7 +1015,7 @@ Play: Give Chonkers a +1 power counter. </text>
         </card>
         <card>
             <name>Cientista Felix</name>
-            <text>(M) Play/Fight: If the tide is high, you may exalt a creature.</text>
+            <text>(T) Play/Fight: If the tide is high, you may exalt a creature.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="1e15b90a-1b26-43f7-8093-ad5d78f9d644" num="161" muid="496-161" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_161_W8R2JQ2JC3RC_pt.png">dt</set>
@@ -1278,7 +1278,7 @@ Each of Almsmaster's neighbors gains, "Destroyed: Steal 1A."</text>
         <card>
             <name>Prof. Aposentado Kering</name>
             <text>Deploy.
-(M) Play/Fight/Reap: Use 1 of Prof. Emeritus Kering's neighbors. If the tide is high, also use Prof. Emeritus Kering's other neighbor.</text>
+(T) Play/Fight/Reap: Use 1 of Prof. Emeritus Kering's neighbors. If the tide is high, also use Prof. Emeritus Kering's other neighbor.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="27a4da78-1732-429e-afc7-bbad7468ce61" num="271" muid="496-271" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_271_GCV53F3PQ64F_pt.png">dt</set>
@@ -1298,7 +1298,7 @@ Each of Almsmaster's neighbors gains, "Destroyed: Steal 1A."</text>
         </card>
         <card>
             <name>Hidrocatalogador</name>
-            <text>(M) After a player raises the tide, they archive the top card of their deck.</text>
+            <text>(T) After a player raises the tide, they archive the top card of their deck.</text>
             <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Common" uuid="28645ea1-732a-49ef-a5b9-500ffc13206f" num="053" muid="496-053" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_053_87P4JJC4XGRJ_pt.png">dt</set>
@@ -1379,7 +1379,7 @@ Omni: Gain 3A. Your opponent reveals their hand and puts each creature from it i
         </card>
         <card>
             <name>Exploradora de Mutações</name>
-            <text>Enhance AD. (These icons have already been added to cards in your deck.)</text>
+            <text>Enhance APTDR. (These icons have already been added to cards in your deck.)</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="2c8ec56a-3e0f-44e0-a5d9-92f5ab44f014" num="281" muid="496-281" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_281_W237RJ5H5V4R_pt.png">dt</set>
@@ -1796,7 +1796,7 @@ Destroyed: Archive Velum from your discard pile. If you do, archive Hyde.</text>
         </card>
         <card>
             <name>Boia ou Afunda?</name>
-            <text>(M) Play: Each player loses 1A. If the tide is high, each player loses half their A instead (rounding down the loss).</text>
+            <text>(T) Play: Each player loses 1A. If the tide is high, each player loses half their A instead (rounding down the loss).</text>
             <tablerow>3</tablerow>
             <set rarity="Common" uuid="3c5c4ea9-38fb-4987-86b4-41f33487de62" num="061" muid="496-061" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_061_J72MCX874FM9_pt.png">dt</set>
             <prop>
@@ -1836,7 +1836,7 @@ Omni: Choose a friendly creature. You may use that creature this turn.</text>
         <card>
             <name>Escifo</name>
             <text>Hazardous 4.
-(M) Destroyed: If the tide is high, archive Scyphos.</text>
+(T) Destroyed: If the tide is high, archive Scyphos.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="3c9c6095-6a4c-4cdc-9f33-a614932ccf10" num="343" muid="496-343" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_343_QG8Q57JX5GCQ_pt.png">dt</set>
@@ -2017,7 +2017,7 @@ Destroyed: Archive Hyde from your discard pile. If you do, archive Velum.</text>
         </card>
         <card>
             <name>Senescal Sargassa</name>
-            <text>(M) After a player raises the tide, Seneschal Sargassa captures 2A from your opponent.</text>
+            <text>(T) After a player raises the tide, Seneschal Sargassa captures 2A from your opponent.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Evil Twin" uuid="4239b120-38e1-43a4-8be2-48dd9631ee2c" num="068" muid="496-068" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_068_6V3GQ4H3GH67_pt.png">dt</set>
@@ -2134,7 +2134,7 @@ Fight: Each player gains 1A.</text>
         <card>
             <name>L30-P4RD0</name>
             <text>Skirmish. (When you use this creature to fight, it is dealt no damage in return.)
-(M) While the tide is high, each of CH-337A's neighbors gains skirmish.</text>
+(T) While the tide is high, each of CH-337A's neighbors gains skirmish.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Evil Twin" uuid="4536d47d-2b94-4de3-bebf-33246764a58b" num="245" muid="496-245" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_245_5WQFX87RWG6H_pt.png">dt</set>
@@ -2310,8 +2310,8 @@ At the end of your turn, destroy 1 of Scowly Caper’s neighbors.</text>
         </card>
         <card>
             <name>Suga-Æmbar</name>
-            <text>(M) Play: Raise the tide.
-(M) This creature gains, "At the start of your turn, if the tide is high, capture 2A."</text>
+            <text>(T) Play: Raise the tide.
+(T) This creature gains, "At the start of your turn, if the tide is high, capture 2A."</text>
             <tablerow>1</tablerow>
             <set rarity="Common" uuid="4a4fb4cc-fa74-4885-867b-2c00773557ce" num="290" muid="496-290" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_290_8G5MP5XP7F4H_pt.png">dt</set>
             <prop>
@@ -2349,7 +2349,7 @@ At the end of your turn, destroy 1 of Scowly Caper’s neighbors.</text>
         </card>
         <card>
             <name>Lærie do Lago</name>
-            <text>(M) While the tide is high, each friendly creature gets +2 armor.</text>
+            <text>(T) While the tide is high, each friendly creature gets +2 armor.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="4b66b4cf-a993-4761-b0b6-0ab44a33f91a" num="115" muid="496-115" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_115_P5P24J42P3HW_pt.png">dt</set>
@@ -2388,7 +2388,7 @@ At the end of your turn, destroy 1 of Scowly Caper’s neighbors.</text>
         </card>
         <card>
             <name>Senescal Sargassa</name>
-            <text>(M) After a player raises the tide, a creature they control captures 2A from their opponent.</text>
+            <text>(T) After a player raises the tide, a creature they control captures 2A from their opponent.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="4cbcd436-dba2-4556-a948-d0bdbc183414" num="117" muid="496-117" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_117_MJ25G7VMMGJX_pt.png">dt</set>
@@ -2408,7 +2408,7 @@ At the end of your turn, destroy 1 of Scowly Caper’s neighbors.</text>
         </card>
         <card>
             <name>Nivelar</name>
-            <text>Enhance . (These icons have already been added to cards in your deck.)
+            <text>Enhance PT. (These icons have already been added to cards in your deck.)
 Play: Capture all but 5 of your opponent’s A, distributed among any number of friendly creatures.</text>
             <tablerow>3</tablerow>
             <set rarity="Uncommon" uuid="4cd70182-b81d-4fbe-acc0-1db2e4e04898" num="095" muid="496-095" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_095_V3M3MQ3QXH43_pt.png">dt</set>
@@ -2487,7 +2487,7 @@ At the start of each player’s turn, if that player controls 4 or more creature
         </card>
         <card>
             <name>Valocanto</name>
-            <text>(M) While the tide is low, Valoocanth cannot be used.
+            <text>(T) While the tide is low, Valoocanth cannot be used.
 Fight/Reap: Exhaust an enemy creature and each of its neighbors.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
@@ -2508,7 +2508,7 @@ Fight/Reap: Exhaust an enemy creature and each of its neighbors.</text>
         </card>
         <card>
             <name>Devorado Vivo</name>
-            <text>(M) Play only if the tide is high.
+            <text>(T) Play only if the tide is high.
 Play: Choose 2 creatures. Purge the chosen creature with the lowest power and give +1 power counters equal to its power to the other chosen creature.</text>
             <tablerow>3</tablerow>
             <set rarity="Rare" uuid="53c7f378-f1c1-48fa-a03f-946b946ce7da" num="148" muid="496-148" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_148_F4PP9CMQ8CGR_pt.png">dt</set>
@@ -2920,7 +2920,7 @@ Fight: Give a Beast creature two +1 power counters.</text>
         </card>
         <card>
             <name>Descoberta do Bioma</name>
-            <text>(M) Play: If the tide is high, you may look at the top 2 cards of your deck and discard 1 of them. Otherwise, raise the tide.</text>
+            <text>(T) Play: If the tide is high, you may look at the top 2 cards of your deck and discard 1 of them. Otherwise, raise the tide.</text>
             <tablerow>3</tablerow>
             <set rarity="Common" uuid="5d2252bc-6b58-40a9-b91d-0e7fd89332e6" num="291" muid="496-291" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_291_6634PH343R5Q_pt.png">dt</set>
             <prop>
@@ -2960,7 +2960,7 @@ Reap: If you forged a key this turn, take control of an enemy flank creature.</t
         </card>
         <card>
             <name>Simpson Valentão</name>
-            <text>(M) Reap: If the tide is high, a damaged creature captures 1A from its own side.</text>
+            <text>(T) Reap: If the tide is high, a damaged creature captures 1A from its own side.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Evil Twin" uuid="5e009c15-e1bd-4dfa-9591-5e32a492876d" num="186" muid="496-186" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_186_FJM7X672MRCC_pt.png">dt</set>
@@ -2999,8 +2999,8 @@ Reap: If you forged a key this turn, take control of an enemy flank creature.</t
         </card>
         <card>
             <name>Módulo 5UB-M3R50</name>
-            <text>(M) While the tide is high, this creature gains skirmish.
-(M) While the tide is low, this creature gains elusive.</text>
+            <text>(T) While the tide is high, this creature gains skirmish.
+(T) While the tide is low, this creature gains elusive.</text>
             <tablerow>1</tablerow>
             <set rarity="Rare" uuid="5f60e7f0-8c0a-45e9-b5df-a145aa19187c" num="262" muid="496-262" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_262_CFQJ3Q4C5Q8_pt.png">dt</set>
             <prop>
@@ -3018,7 +3018,7 @@ Reap: If you forged a key this turn, take control of an enemy flank creature.</t
         </card>
         <card>
             <name>Tirar Vantagem</name>
-            <text>(M) Play: If the tide is high, a friendly creature captures 3A. Otherwise, raise the tide.</text>
+            <text>(T) Play: If the tide is high, a friendly creature captures 3A. Otherwise, raise the tide.</text>
             <tablerow>3</tablerow>
             <set rarity="Common" uuid="60d1d71a-09af-4ebd-b5b6-996c2663ce30" num="180" muid="496-180" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_180_CR2QM2WCQ44_pt.png">dt</set>
             <prop>
@@ -3138,7 +3138,7 @@ Fight: Exalt the creature Lapisaurus fights.</text>
         <card>
             <name>L30-P4RD0</name>
             <text>Elusive.
-(M) While the tide is high, each of CH-337A's neighbors gains elusive.</text>
+(T) While the tide is high, each of CH-337A's neighbors gains elusive.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="63149fb2-e6b2-43f7-96f6-e21baeff89de" num="276" muid="496-276" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_276_WCJW7FRPCFP_pt.png">dt</set>
@@ -3195,7 +3195,7 @@ Fight: Exalt the creature Lapisaurus fights.</text>
         </card>
         <card>
             <name>Aurespinha Lançarrede</name>
-            <text>Enhance (). (These icons have already been added to cards in your deck.)
+            <text>Enhance (PTPT). (These icons have already been added to cards in your deck.)
 Reap: Exhaust a creature.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
@@ -3216,8 +3216,8 @@ Reap: Exhaust a creature.</text>
         </card>
         <card>
             <name>Fada Delinquente</name>
-            <text>(M) Play: Raise the tide.
-(M) Reap: If the tide is high, steal 1A.</text>
+            <text>(T) Play: Raise the tide.
+(T) Reap: If the tide is high, steal 1A.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="6431819b-6150-4662-aba7-10035a59a0aa" num="215" muid="496-215" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_215_68VQC7Q4FP3_pt.png">dt</set>
@@ -3237,7 +3237,7 @@ Reap: Exhaust a creature.</text>
         </card>
         <card>
             <name>Gruen Profund'água</name>
-            <text>(M) Play/Reap: If the tide is low, your opponent gains 1A.</text>
+            <text>(T) Play/Reap: If the tide is low, your opponent gains 1A.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="645084af-a823-48e0-92b1-82f655b07f3f" num="416" muid="496-416" picurl="https://cdn.keyforgegame.com/media/card_front/en/496_416_QWFVMGH3WC9_en.png">dt</set>
@@ -3281,7 +3281,7 @@ When Shoulder Id would deal damage, steal 1A instead.</text>
         <card>
             <name>Eng. de Foguetes Tryska</name>
             <text>Skirmish.
-(M) While the tide is high, Rocketeer Tryska enters play ready.</text>
+(T) While the tide is high, Rocketeer Tryska enters play ready.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Evil Twin" uuid="656cc4f8-55c7-4772-92d2-c27b3612f16c" num="248" muid="496-248" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_248_WCQ44P8FM6RG_pt.png">dt</set>
@@ -3320,7 +3320,7 @@ Play: For the remainder of the turn, you may play cards from any house for which
         </card>
         <card>
             <name>Portal da Maré</name>
-            <text>(M) At the start of your turn, if the tide is high, your opponent raises the tide. Otherwise, you raise the tide.</text>
+            <text>(T) At the start of your turn, if the tide is high, your opponent raises the tide. Otherwise, you raise the tide.</text>
             <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Rare" uuid="66d34000-8f29-4e5f-8ff3-c8a32edd0bfa" num="028" muid="496-028" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_028_PV88PRC6CFRC_pt.png">dt</set>
@@ -3359,7 +3359,7 @@ Play: For the remainder of the turn, you may play cards from any house for which
         </card>
         <card>
             <name>Grande Caçador</name>
-            <text>(M) After Venator Altum is dealt damage, if the tide is low, exalt Venator Altum.</text>
+            <text>(T) After Venator Altum is dealt damage, if the tide is low, exalt Venator Altum.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="675fb00c-704b-4507-90c4-16c26a934dba" num="183" muid="496-183" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_183_R3R8366MC58G_pt.png">dt</set>
@@ -3398,7 +3398,7 @@ Play: For the remainder of the turn, you may play cards from any house for which
         <card>
             <name>Kekoa Porta-Mar</name>
             <text>Taunt. (This creature’s neighbors cannot be attacked unless they have taunt.)
-(M) Destroyed: Raise the tide.</text>
+(T) Destroyed: Raise the tide.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="67cbe605-d560-443e-a522-59e9c35c596d" num="364" muid="496-364" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_364_QV29CQ3363W_pt.png">dt</set>
@@ -3438,7 +3438,7 @@ Play: For the remainder of the turn, you may play cards from any house for which
         </card>
         <card>
             <name>Cônsul Primus</name>
-            <text>Enhance . (These icons have already been added to cards in your deck.)
+            <text>Enhance PT. (These icons have already been added to cards in your deck.)
 Reap: Move 1A from a creature to another creature.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
@@ -3611,7 +3611,7 @@ This creature gains, “Reap: Draw a card.”</text>
         </card>
         <card>
             <name>Ordenação Sinistra</name>
-            <text>(M) Play only if the tide is high.</text>
+            <text>(T) Play only if the tide is high.</text>
             <tablerow>3</tablerow>
             <set rarity="Common" uuid="736d2974-c191-4ebe-9362-fd889604d93a" num="121" muid="496-121" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_121_C979CG5WXJ68_pt.png">dt</set>
             <prop>
@@ -3688,7 +3688,7 @@ This creature gains, “Reap: Draw a card.”</text>
         <card>
             <name>Larápio do Mar</name>
             <text>Poison.  (Any damage dealt by this creature’s power during a fight destroys the damaged creature.)
-(M) Play: Capture 1A. If the tide is high, steal 1A instead.</text>
+(T) Play: Capture 1A. If the tide is high, steal 1A instead.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="74ff3d22-5095-4b13-be8e-95f533a821a8" num="239" muid="496-239" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_239_WVM22GX5RJ9X_pt.png">dt</set>
@@ -3728,7 +3728,7 @@ This creature gains, “Reap: Draw a card.”</text>
         </card>
         <card>
             <name>Velho Turrão</name>
-            <text>(M) Reap: Discard the bottom card of your deck, or the bottom 3 cards instead if the tide is high. Play each creature discarded this way, one at a time.</text>
+            <text>(T) Reap: Discard the bottom card of your deck, or the bottom 3 cards instead if the tide is high. Play each creature discarded this way, one at a time.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="75c282d8-60a1-4ff9-b11a-13e57c8cbc54" num="408" muid="496-408" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_408_JH9898PJ6H9P_pt.png">dt</set>
@@ -3826,7 +3826,7 @@ This creature gains, “Reap: Draw a card.”</text>
         </card>
         <card>
             <name>Doutor Lacus</name>
-            <text>(M) While the tide is high, you may spend A on friendly creatures as if it were in your pool.</text>
+            <text>(T) While the tide is high, you may spend A on friendly creatures as if it were in your pool.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="78fc260f-56cb-4090-bcd3-36a355f72659" num="178" muid="496-178" picurl="https://cdn.keyforgegame.com/media/card_front/en/496_178_QMXQ7M722HJW_en.png">dt</set>
@@ -4104,7 +4104,7 @@ Reap: Put an upgrade or action card from your discard pile on top of your deck.<
         </card>
         <card>
             <name>Cântico de Rakuzel</name>
-            <text>(M) Play: Exhaust a creature. If the tide is high, exhaust each creature instead.</text>
+            <text>(T) Play: Exhaust a creature. If the tide is high, exhaust each creature instead.</text>
             <tablerow>3</tablerow>
             <set rarity="Common" uuid="833871d7-874f-4911-97a3-24c090fb0d74" num="363" muid="496-363" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_363_HH7G9976MVM6_pt.png">dt</set>
             <prop>
@@ -4123,7 +4123,7 @@ Reap: Put an upgrade or action card from your discard pile on top of your deck.<
         </card>
         <card>
             <name>Todo Amareado</name>
-            <text>(M) Play: If the tide is high, gain 1A. Otherwise, raise the tide.</text>
+            <text>(T) Play: If the tide is high, gain 1A. Otherwise, raise the tide.</text>
             <tablerow>3</tablerow>
             <set rarity="Common" uuid="84885895-7992-46b8-b205-55b5e86c8fbd" num="413" muid="496-413" picurl="https://cdn.keyforgegame.com/media/card_front/en/496_413_53V5G5FVHQ7_en.png">dt</set>
             <prop>
@@ -4162,7 +4162,7 @@ Reap: Put an upgrade or action card from your discard pile on top of your deck.<
         </card>
         <card>
             <name>Julgado pela Água</name>
-            <text>(M) Play: Reset the tide. Until the start of your next turn, players cannot raise the tide.</text>
+            <text>(T) Play: Reset the tide. Until the start of your next turn, players cannot raise the tide.</text>
             <tablerow>3</tablerow>
             <set rarity="Rare" uuid="84d6b672-87ad-4625-bce7-2e66d3f6636a" num="092" muid="496-092" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_092_WR7RWFF9MF42_pt.png">dt</set>
             <prop>
@@ -4220,7 +4220,7 @@ Reap: Put an upgrade or action card from your discard pile on top of your deck.<
         </card>
         <card>
             <name>Intendente Guelrafogo</name>
-            <text>(M) After your opponent raises the tide, enrage Flamegill Enforcer.
+            <text>(T) After your opponent raises the tide, enrage Flamegill Enforcer.
 Action: Capture 3A.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
@@ -4514,7 +4514,7 @@ Play: Capture 3A.</text>
         <card>
             <name>Operativo Espion</name>
             <text>Elusive. (The first time this creature is attacked each turn, no damage is dealt.)
-(M) After a player raises the tide during their turn, they may use a creature they control.</text>
+(T) After a player raises the tide during their turn, they may use a creature they control.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="92505b4a-8976-49dd-bf01-4c571d619888" num="299" muid="496-299" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_299_QH62MH2HHXC8_pt.png">dt</set>
@@ -4555,8 +4555,8 @@ Fight: You may choose a card in your archives and put it into your hand.</text>
         </card>
         <card>
             <name>Fanático Abissal</name>
-            <text>(M) After you raise the tide, capture 2A.
-(M) After your opponent raises the tide, move 2A from Abyssal Zealot to the common supply.</text>
+            <text>(T) After you raise the tide, capture 2A.
+(T) After your opponent raises the tide, move 2A from Abyssal Zealot to the common supply.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="9542db11-285d-48ce-8884-0bd994614023" num="337" muid="496-337" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_337_P2F5XVG6856M_pt.png">dt</set>
@@ -4576,7 +4576,7 @@ Fight: You may choose a card in your archives and put it into your hand.</text>
         </card>
         <card>
             <name>Agente Sepdia</name>
-            <text>(M) Fight/Reap: Deal 1D to a creature. If the tide is high, stun that creature.</text>
+            <text>(T) Fight/Reap: Deal 1D to a creature. If the tide is high, stun that creature.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="95c8af0a-bd45-4d9d-a538-41685e0c9c8e" num="274" muid="496-274" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_274_J373637CFFM5_pt.png">dt</set>
@@ -4614,7 +4614,7 @@ Fight: You may choose a card in your archives and put it into your hand.</text>
         </card>
         <card>
             <name>Mestregancho</name>
-            <text>(M) Fight: If the tide is high, your opponent loses 2A.</text>
+            <text>(T) Fight: If the tide is high, your opponent loses 2A.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="97fd73e6-2d0d-4cd9-baa1-2909d64b0289" num="358" muid="496-358" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_358_643H7M3W87GV_pt.png">dt</set>
@@ -4653,7 +4653,7 @@ Fight: You may choose a card in your archives and put it into your hand.</text>
         </card>
         <card>
             <name>Mecaboia</name>
-            <text>(M) At the start of each player’s turn, if the tide is high for that player, they gain 1A.</text>
+            <text>(T) At the start of each player’s turn, if the tide is high for that player, they gain 1A.</text>
             <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Uncommon" uuid="998a0c4e-332a-49c9-bf7c-3f99195224a1" num="042" muid="496-042" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_042_CP53GR9F45Q6_pt.png">dt</set>
@@ -4774,7 +4774,7 @@ Play: Give two +1 power counters to each other friendly Untamed creature.</text>
         <card>
             <name>Willa Caolha</name>
             <text>Elusive. Skirmish.
-(M) Fight: If the tide is high, your opponent loses 2A.</text>
+(T) Fight: If the tide is high, your opponent loses 2A.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Evil Twin" uuid="9d2d4515-3215-4526-a909-07b4c9ee91c9" num="189" muid="496-189" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_189_CF9PXV2VCX6Q_pt.png">dt</set>
@@ -4892,7 +4892,7 @@ Fight/Reap: Discard any number of cards from your hand. For each card discarded 
         </card>
         <card>
             <name>Willa Caolha</name>
-            <text>(M) While the tide is high, One-Eyed Willa gains elusive and skirmish.
+            <text>(T) While the tide is high, One-Eyed Willa gains elusive and skirmish.
 Fight: Steal 1A.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
@@ -4992,7 +4992,7 @@ Play: Stun each of Brachiaditus's neighbors and move 1A from each of them to the
         </card>
         <card>
             <name>Detetive Devaneio</name>
-            <text>(M) Reap: If the tide is high, draw 3 cards.</text>
+            <text>(T) Reap: If the tide is high, draw 3 cards.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="a10473ed-208c-4279-bbfa-8a38c4d6a087" num="058" muid="496-058" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_058_62CW2HFM6HQC_pt.png">dt</set>
@@ -5012,7 +5012,7 @@ Play: Stun each of Brachiaditus's neighbors and move 1A from each of them to the
         </card>
         <card>
             <name>Tamo Junto!</name>
-            <text>(M) Play: You may play a non-Star Alliance card. If the tide is high, you may play another non-Star Alliance card.</text>
+            <text>(T) Play: You may play a non-Star Alliance card. If the tide is high, you may play another non-Star Alliance card.</text>
             <tablerow>3</tablerow>
             <set rarity="Uncommon" uuid="a1951059-85a7-4d2d-a0b5-3691aadb67b6" num="287" muid="496-287" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_287_59PR5PCQFVVH_pt.png">dt</set>
             <prop>
@@ -5031,8 +5031,8 @@ Play: Stun each of Brachiaditus's neighbors and move 1A from each of them to the
         <card>
             <name>Moréia Binária</name>
             <text>Skirmish.
-(M) After you raise the tide, ready Binary Moray.
-(M) After your opponent raises the tide, exhaust Binary Moray.</text>
+(T) After you raise the tide, ready Binary Moray.
+(T) After your opponent raises the tide, exhaust Binary Moray.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Evil Twin" uuid="a2003dc3-3067-479a-9e3a-803817fe8d2c" num="002" muid="496-002" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_002_QQGF32M8J5F5_pt.png">dt</set>
@@ -5052,7 +5052,7 @@ Play: Stun each of Brachiaditus's neighbors and move 1A from each of them to the
         </card>
         <card>
             <name>Marborgue Australis</name>
-            <text>(M) Reap: Deal 2D to a creature. If this damage destroys that creature, raise the tide.</text>
+            <text>(T) Reap: Deal 2D to a creature. If this damage destroys that creature, raise the tide.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="a275c67f-a763-45d1-a1de-ef0a9c4911fd" num="049" muid="496-049" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_049_3MQC6C6WJ9X3_pt.png">dt</set>
@@ -5092,7 +5092,7 @@ Play: Stun each of Brachiaditus's neighbors and move 1A from each of them to the
         </card>
         <card>
             <name>Tenente Valmart</name>
-            <text>(M) Play/Fight/Reap: If the tide is high, keys cost +3A during your opponent's next turn. </text>
+            <text>(T) Play/Fight/Reap: If the tide is high, keys cost +3A during your opponent's next turn. </text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="a279d136-60a9-47c2-8e4b-0d341b6e35fc" num="296" muid="496-296" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_296_86M6MJW6VJ37_pt.png">dt</set>
@@ -5153,7 +5153,7 @@ Play: Ready each Shadows card.</text>
         </card>
         <card>
             <name>Toninhaí</name>
-            <text>(M) Play: Raise the tide. Enrage 2 enemy creatures. </text>
+            <text>(T) Play: Raise the tide. Enrage 2 enemy creatures. </text>
             <tablerow>3</tablerow>
             <set rarity="Uncommon" uuid="a60a1805-5517-4f8e-86b8-9d4985a3ff7c" num="400" muid="496-400" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_400_FPQM6525VR68_pt.png">dt</set>
             <prop>
@@ -5345,7 +5345,7 @@ Play: Ready each Shadows card.</text>
         </card>
         <card>
             <name>Chefão do Portal</name>
-            <text>(M) While the tide is high, your opponent’s keys cost +4A.</text>
+            <text>(T) While the tide is high, your opponent’s keys cost +4A.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="a9dd7cbe-3a27-4d0d-8329-9d50a3caeb1d" num="326" muid="496-326" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_326_VXGV869RHQ8H_pt.png">dt</set>
@@ -5387,7 +5387,7 @@ Fight: Stun and exhaust the creature Sparkfist fights.</text>
         <card>
             <name>Druida Drenadora</name>
             <text>Elusive.
-(M) Reap: If the tide is high, put up to 3 creatures from your discard pile on top of your deck.</text>
+(T) Reap: If the tide is high, put up to 3 creatures from your discard pile on top of your deck.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="aa3cfdba-5014-4a0c-970b-9ed39d04e95a" num="382" muid="496-382" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_382_75476X4RC953_pt.png">dt</set>
@@ -5426,7 +5426,7 @@ Fight: Stun and exhaust the creature Sparkfist fights.</text>
         </card>
         <card>
             <name>Vaza-Portal</name>
-            <text>(M) Play: If the tide is high, archive Pour-tal. Otherwise, raise the tide.</text>
+            <text>(T) Play: If the tide is high, archive Pour-tal. Otherwise, raise the tide.</text>
             <tablerow>3</tablerow>
             <set rarity="Common" uuid="ab7daf47-33e7-425c-842a-ba0eede347d9" num="362" muid="496-362" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_362_VH99JVF537VJ_pt.png">dt</set>
             <prop>
@@ -5524,8 +5524,8 @@ After a player forges a key, destroy Universal Keylock.</text>
         </card>
         <card>
             <name>Voz de Rakuzel</name>
-            <text>(M) While the tide is high, each friendly creature gets +1 power and +1 armor.
-(M) While the tide is low, each enemy creature gets +1 power and +1 armor.</text>
+            <text>(T) While the tide is high, each friendly creature gets +1 power and +1 armor.
+(T) While the tide is low, each enemy creature gets +1 power and +1 armor.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Rare" uuid="af07fb42-be69-4976-80dc-339bfd781f5e" num="334" muid="496-334" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_334_WGJWCQJFQ5XV_pt.png">dt</set>
@@ -5682,7 +5682,7 @@ Your opponent’s keys cost +1A for each card in your archives.</text>
         </card>
         <card>
             <name>Undagnato</name>
-            <text>(M) While the tide is low, double all damage dealt to Undagnathus.</text>
+            <text>(T) While the tide is low, double all damage dealt to Undagnathus.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Evil Twin" uuid="b2544136-af80-4fec-9697-2a7fb2207838" num="130" muid="496-130" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_130_VC3W7CFHV833_pt.png">dt</set>
@@ -5702,7 +5702,7 @@ Your opponent’s keys cost +1A for each card in your archives.</text>
         </card>
         <card>
             <name>Tomwa do Brilho</name>
-            <text>(M) Reap: If the tide is high, exhaust an enemy creature and your opponent discards a random card from their hand.</text>
+            <text>(T) Reap: If the tide is high, exhaust an enemy creature and your opponent discards a random card from their hand.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Evil Twin" uuid="b34d6fda-63cb-41ee-a406-4f2bb1c804fd" num="311" muid="496-311" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_311_43F468RHCPP6_pt.png">dt</set>
@@ -5741,7 +5741,7 @@ Your opponent’s keys cost +1A for each card in your archives.</text>
         </card>
         <card>
             <name>Teoria do Gotejamento</name>
-            <text>(M) Play: Raise the tide.
+            <text>(T) Play: Raise the tide.
 Omni: Gain 1A if your opponent has 6A or more.</text>
             <cipt>1</cipt>
             <tablerow>0</tablerow>
@@ -5782,7 +5782,7 @@ Omni: Gain 1A if your opponent has 6A or more.</text>
         <card>
             <name>Quelônia</name>
             <text>Elusive. (The first time this creature is attacked each turn, no damage is dealt.)
-(M) After you play another creature, if the tide is high, your opponent loses 1A.</text>
+(T) After you play another creature, if the tide is high, your opponent loses 1A.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Evil Twin" uuid="b530155d-1459-4d17-9046-8d281c2b8118" num="369" muid="496-369" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_369_QQ98WCXRW3QP_pt.png">dt</set>
@@ -5923,8 +5923,8 @@ Action: Steal 1A for each A on Monty Bank.</text>
         </card>
         <card>
             <name>Moréia Binária</name>
-            <text>(M) After you raise the tide, ready Binary Moray.
-(M) After your opponent raises the tide, exhaust Binary Moray.
+            <text>(T) After you raise the tide, ready Binary Moray.
+(T) After your opponent raises the tide, exhaust Binary Moray.
 Reap: Archive a card.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
@@ -6085,7 +6085,7 @@ Lady Loreena’s taunt also applies to its neighbors’ neighbors.</text>
         </card>
         <card>
             <name>Abandonar Navio</name>
-            <text>(M) Play: Return a creature to its owner’s hand. If the tide is high, return 4 creatures to their owners’ hands instead.</text>
+            <text>(T) Play: Return a creature to its owner’s hand. If the tide is high, return 4 creatures to their owners’ hands instead.</text>
             <tablerow>3</tablerow>
             <set rarity="Uncommon" uuid="bc9de5ef-abde-4669-8c7f-b4540cc53768" num="336" muid="496-336" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_336_JXG77PHX383P_pt.png">dt</set>
             <prop>
@@ -6104,7 +6104,7 @@ Lady Loreena’s taunt also applies to its neighbors’ neighbors.</text>
         </card>
         <card>
             <name>Larápio do Mar</name>
-            <text>(M) Play: Capture 2A. If the tide is high, steal 2A instead.</text>
+            <text>(T) Play: Capture 2A. If the tide is high, steal 2A instead.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Evil Twin" uuid="bd00567c-268d-4cca-8924-bd241fcbce5f" num="190" muid="496-190" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_190_4PHMG63774J7_pt.png">dt</set>
@@ -6146,7 +6146,7 @@ Your opponent refills their hand to 1 less card during their “draw cards” st
         <card>
             <name>Simpson Valentão</name>
             <text>Elusive. (The first time this creature is attacked each turn, no damage is dealt.)
-(M) After Hard Simpson is dealt damage, steal 1A. If the tide is low, your opponent steals 1A instead. (Hard Simpson must survive this damage.)</text>
+(T) After Hard Simpson is dealt damage, steal 1A. If the tide is low, your opponent steals 1A instead. (Hard Simpson must survive this damage.)</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="bf1286e5-b4cf-42cd-ba3d-9787e54081ab" num="230" muid="496-230" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_230_JJ8JFG4876RG_pt.png">dt</set>
@@ -6203,7 +6203,7 @@ Your opponent refills their hand to 1 less card during their “draw cards” st
         </card>
         <card>
             <name>Aurespinha Lançarrede</name>
-            <text>Enhance (). (These icons have already been added to cards in your deck.)
+            <text>Enhance (PTPT). (These icons have already been added to cards in your deck.)
 Reap: Ready and use a friendly non-Aquan creature.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
@@ -6343,7 +6343,7 @@ Play: Your opponent loses 1A for each of C.R. Officer Hawkins's non-Star Allianc
         </card>
         <card>
             <name>Eng. de Foguetes Tryska</name>
-            <text>(M) While the tide is high, Rocketeer Tryska’s neighbors enter play ready.</text>
+            <text>(T) While the tide is high, Rocketeer Tryska’s neighbors enter play ready.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="c3e06fb0-b6b9-493b-a5bb-6227b655349e" num="300" muid="496-300" picurl="https://cdn.keyforgegame.com/media/card_front/en/496_300_56PWPH7564P_en.png">dt</set>
@@ -6383,7 +6383,7 @@ Play: Your opponent loses 1A for each of C.R. Officer Hawkins's non-Star Allianc
         <card>
             <name>Jackie Alcatrão</name>
             <text>Elusive. (The first time this creature is attacked each turn, no damage is dealt.)
-(M) Reap: Deal 1D to a creature. If the tide is high, deal 6D to a creature instead.</text>
+(T) Reap: Deal 1D to a creature. If the tide is high, deal 6D to a creature instead.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="c49ee2fe-9b72-4104-adbf-8a78e09394bd" num="233" muid="496-233" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_233_HMR63V4993MV_pt.png">dt</set>
@@ -6425,7 +6425,7 @@ Reap: Choose a house. Reveal the top card of your deck. If it is of that house, 
         <card>
             <name>Quelônia</name>
             <text>Elusive. (The first time this creature is attacked each turn, no damage is dealt.)
-(M) After you play another creature, if the tide is high, gain 1A.</text>
+(T) After you play another creature, if the tide is high, gain 1A.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="c4caa67d-a357-4f71-99c6-c23f71b6e33f" num="415" muid="496-415" picurl="https://cdn.keyforgegame.com/media/card_front/en/496_415_3GM3Q5VPPWHH_en.png">dt</set>
@@ -6702,7 +6702,7 @@ Reap: Capture 1A.</text>
         <card>
             <name>Saqueador Fótico</name>
             <text>Play: Capture 2A.
-(M) While the tide is high, Photic Raider gets +4 power.</text>
+(T) While the tide is high, Photic Raider gets +4 power.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="d011680c-7415-448f-af00-a6d3cf22625a" num="361" muid="496-361" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_361_J6CHJQ2MW432_pt.png">dt</set>
@@ -6981,7 +6981,7 @@ Action: Use a neighboring non-Star Alliance creature.</text>
         </card>
         <card>
             <name>Maremoto</name>
-            <text>(M) Play: If the tide is high, destroy a creature and each of its neighbors. Your opponent raises the tide.</text>
+            <text>(T) Play: If the tide is high, destroy a creature and each of its neighbors. Your opponent raises the tide.</text>
             <tablerow>3</tablerow>
             <set rarity="Uncommon" uuid="d9f7cf01-e847-4b07-99ee-6f79948a6a1c" num="347" muid="496-347" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_347_J8MV45MF8W5M_pt.png">dt</set>
             <prop>
@@ -7020,7 +7020,7 @@ Action: Use a neighboring non-Star Alliance creature.</text>
         </card>
         <card>
             <name>Orphiel, Eleita do Mar</name>
-            <text>(M) While the tide is high, Orphiel, Sea’s Chosen gains skirmish and, “Fight: Gain 2A.”</text>
+            <text>(T) While the tide is high, Orphiel, Sea’s Chosen gains skirmish and, “Fight: Gain 2A.”</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="da1358e6-cc84-4895-a4d4-91d8735ffa66" num="071" muid="496-071" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_071_4QXM6JVRP429_pt.png">dt</set>
@@ -7040,8 +7040,8 @@ Action: Use a neighboring non-Star Alliance creature.</text>
         </card>
         <card>
             <name>O Espectro Voador</name>
-            <text>(M) After your opponent raises the tide, destroy The Flyin’ Specter.
-(M) Action: Steal 1A if the tide is high. </text>
+            <text>(T) After your opponent raises the tide, destroy The Flyin’ Specter.
+(T) Action: Steal 1A if the tide is high. </text>
             <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Uncommon" uuid="dabbf87a-cb9e-4e44-92fb-9ab9f07b764f" num="224" muid="496-224" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_224_R5PXQXCGFX3P_pt.png">dt</set>
@@ -7178,7 +7178,7 @@ Fight/Reap: Give a +1 power counter to each creature between Com. Officer Hings 
         </card>
         <card>
             <name>Sapatos de Cimento</name>
-            <text>(M) Play: Deal 2D to a creature. If this damage destroys that creature, raise the tide.</text>
+            <text>(T) Play: Deal 2D to a creature. If this damage destroys that creature, raise the tide.</text>
             <tablerow>3</tablerow>
             <set rarity="Common" uuid="dd80ee46-791d-4b26-9075-1497f0bfd67d" num="227" muid="496-227" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_227_HCCJRP5WG59J_pt.png">dt</set>
             <prop>
@@ -7236,7 +7236,7 @@ Fight/Reap: Give a +1 power counter to each creature between Com. Officer Hings 
         </card>
         <card>
             <name>Infomorfo</name>
-            <text>Enhance . (These icons have already been added to cards in your deck.)</text>
+            <text>Enhance RR. (These icons have already been added to cards in your deck.)</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="de15f1f9-4a9a-4eeb-9bf5-684b3c5669b2" num="054" muid="496-054" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_054_WX8FX4JR7R5R_pt.png">dt</set>
@@ -7299,7 +7299,7 @@ Fight/Reap: If this is the first time Gladiodontus has been used this turn, read
         </card>
         <card>
             <name>Orphion, Eleito da Terra</name>
-            <text>(M) While the tide is low, Orphion, Land’s Chosen gets +3 armor and gains, “Reap: Capture 2A.”</text>
+            <text>(T) While the tide is low, Orphion, Land’s Chosen gets +3 armor and gains, “Reap: Capture 2A.”</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="FIXED" uuid="de811bbc-4e0d-4a31-af0a-c0116c1cc8cc" num="072" muid="496-072" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_072_PM5R5XW5JFFX_pt.png">dt</set>
@@ -7382,7 +7382,7 @@ Action: Heal 2 damage from a creature. Gain 1A for each damage healed this way.<
         </card>
         <card>
             <name>Tomwa do Brilho</name>
-            <text>(M) Reap: Exhaust a creature. If the tide is high, draw a card for each exhausted enemy creature.</text>
+            <text>(T) Reap: Exhaust a creature. If the tide is high, draw a card for each exhausted enemy creature.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Uncommon" uuid="e252e9f5-56ef-4033-871c-8de183c6be93" num="348" muid="496-348" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_348_5X4958QQXG6C_pt.png">dt</set>
@@ -7402,7 +7402,7 @@ Action: Heal 2 damage from a creature. Gain 1A for each damage healed this way.<
         </card>
         <card>
             <name>Arrastão</name>
-            <text>(M) Play: If the tide is high, destroy each artifact. Otherwise, raise the tide.</text>
+            <text>(T) Play: If the tide is high, destroy each artifact. Otherwise, raise the tide.</text>
             <tablerow>3</tablerow>
             <set rarity="Rare" uuid="e2e3556c-de36-4c26-866a-162ca6803f2c" num="394" muid="496-394" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_394_QQ26GGRX9VF9_pt.png">dt</set>
             <prop>
@@ -7582,7 +7582,7 @@ Fight/Reap: Fully heal Fifalde and gain 1A.</text>
         </card>
         <card>
             <name>Detetive Devaneio</name>
-            <text>(M) Reap: If the tide is high, your opponent discards a random card from their hand.</text>
+            <text>(T) Reap: If the tide is high, your opponent discards a random card from their hand.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Evil Twin" uuid="e7c1512e-be7e-4739-ae58-af5406b0c0da" num="005" muid="496-005" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_005_8G43P5V9M662_pt.png">dt</set>
@@ -7602,7 +7602,7 @@ Fight/Reap: Fully heal Fifalde and gain 1A.</text>
         </card>
         <card>
             <name>Cientista Felix</name>
-            <text>(M) Play/Fight: If the tide is low, you may exalt a creature.</text>
+            <text>(T) Play/Fight: If the tide is low, you may exalt a creature.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Evil Twin" uuid="e7d259a9-9478-4c2b-ba76-3244e60621da" num="129" muid="496-129" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_129_6MVFR6W6Q594_pt.png">dt</set>
@@ -7640,7 +7640,7 @@ Fight/Reap: Fully heal Fifalde and gain 1A.</text>
         </card>
         <card>
             <name>Undagnato</name>
-            <text>(M) While the tide is low, Undagnathus deals no damage when fighting.</text>
+            <text>(T) While the tide is low, Undagnathus deals no damage when fighting.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="e870c31e-b923-41ab-bb4d-f1426490c00c" num="182" muid="496-182" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_182_WV84MC3764W3_pt.png">dt</set>
@@ -7722,7 +7722,7 @@ While Eldest Bear is in the center of your battleline, it gains, "Before Fight: 
         </card>
         <card>
             <name>Intendente Guelrafogo</name>
-            <text>(M) After your opponent raises the tide, enrage Flamegill Enforcer.
+            <text>(T) After your opponent raises the tide, enrage Flamegill Enforcer.
 Action: Steal 1A.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
@@ -7743,7 +7743,7 @@ Action: Steal 1A.</text>
         </card>
         <card>
             <name>Marechal Moringa</name>
-            <text>(M) Play/Fight: Raise the tide.</text>
+            <text>(T) Play/Fight: Raise the tide.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="ecd52fb9-b4c4-434c-86a6-1681a2387662" num="116" muid="496-116" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_116_4QGJGJJGW6PJ_pt.png">dt</set>
@@ -7783,7 +7783,7 @@ Action: Steal 1A.</text>
         </card>
         <card>
             <name>Milióbio</name>
-            <text>(M) While the tide is high, Myliobe gains skirmish. (When you use this creature to fight, it is dealt no damage in return.)
+            <text>(T) While the tide is high, Myliobe gains skirmish. (When you use this creature to fight, it is dealt no damage in return.)
 Before Fight: Enrage the creature Myliobe fights and each of that creature’s neighbors.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
@@ -7847,7 +7847,7 @@ Before Fight: Enrage the creature Myliobe fights and each of that creature’s n
         <card>
             <name>Operativo Espion</name>
             <text>Elusive. (The first time this creature is attacked each turn, no damage is dealt.)
-(M) After a player raises the tide during their turn, they may deal 3D to a creature.</text>
+(T) After a player raises the tide during their turn, they may deal 3D to a creature.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Evil Twin" uuid="edf4b3b7-5650-434d-88d9-000dbfd67810" num="247" muid="496-247" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_247_8PFJ3VJVQFVF_pt.png">dt</set>
@@ -7909,7 +7909,7 @@ Destroyed: Steal 3A.</text>
         </card>
         <card>
             <name>Enterrar Tesouros</name>
-            <text>(M) Play: If the tide is high, move 1A from each creature to its controller's pool. Otherwise, raise the tide.</text>
+            <text>(T) Play: If the tide is high, move 1A from each creature to its controller's pool. Otherwise, raise the tide.</text>
             <tablerow>3</tablerow>
             <set rarity="Uncommon" uuid="ee8b3904-2705-46eb-99e2-78cee98672f9" num="154" muid="496-154" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_154_8PMJ2WFRX774_pt.png">dt</set>
             <prop>
@@ -7927,7 +7927,7 @@ Destroyed: Steal 3A.</text>
         </card>
         <card>
             <name>A Fonte Secou</name>
-            <text>(M) Each creature gains, “While the tide is low, this creature cannot reap.”</text>
+            <text>(T) Each creature gains, “While the tide is low, this creature cannot reap.”</text>
             <cipt>1</cipt>
             <tablerow>0</tablerow>
             <set rarity="Rare" uuid="efea8ccc-21ac-4845-ac3f-fdb702ca09dd" num="076" muid="496-076" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_076_VJJ5Q526QMPR_pt.png">dt</set>
@@ -8106,7 +8106,7 @@ Fight/Reap: Draw 1 card for each creature between Com. Officer Hings and Com. Of
         </card>
         <card>
             <name>General Xalvador</name>
-            <text>Enhance . (These icons have already been added to cards in your deck.)</text>
+            <text>Enhance PTPT. (These icons have already been added to cards in your deck.)</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Common" uuid="f3ec3257-10a7-48b7-8629-9ddefcca3982" num="111" muid="496-111" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_111_F278PG3H957W_pt.png">dt</set>
@@ -8329,8 +8329,8 @@ Play: You may exalt a friendly creature.</text>
         </card>
         <card>
             <name>Fada Delinquente</name>
-            <text>(M) Play: Raise the tide.
-(M) Before Fight: If the tide is high, steal 1A.</text>
+            <text>(T) Play: Raise the tide.
+(T) Before Fight: If the tide is high, steal 1A.</text>
             <cipt>1</cipt>
             <tablerow>2</tablerow>
             <set rarity="Evil Twin" uuid="fb94eec5-72b4-4d51-9b5a-73480e689b4d" num="185" muid="496-185" picurl="https://cdn.keyforgegame.com/media/card_front/pt/496_185_7HHX5JVMXG67_pt.png">dt</set>
