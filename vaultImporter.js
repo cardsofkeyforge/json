@@ -82,11 +82,32 @@ if (args.length > 0) {
     let lastCard = "";
     deck.data._links.cards.forEach(uuid => {
       const card = deck._linked.cards.find(c => c.id === uuid);
+      const objIndex = card.is_non_deck ? 1 : 0;
       console.log(card.card_title);
+      if (card.is_non_deck && tts.ObjectStates.length === 1) {
+        tts.ObjectStates.push({
+          Name: "DeckCustom",
+          ContainedObjects: [],
+          DeckIDs: [],
+          CustomDeck: {},
+          Transform: {
+            posX: 5,
+            posY: 1,
+            posZ: 0,
+            rotX: 0,
+            rotY: 180,
+            rotZ: 180,
+            scaleX: 1.5,
+            scaleY: 1,
+            scaleZ: 1.5
+          }
+        });
+      }
+
       if (lastCard !== card.card_title) {
         id++;
         lastCard = card.card_title;
-        tts.ObjectStates[0].CustomDeck[id.toString()] = {
+        tts.ObjectStates[objIndex].CustomDeck[id.toString()] = {
           FaceURL:
             configs.zoom + decodeZoomURL(sets, card.front_image, configs.lang),
           BackURL: configs.kfback.replace("{0}", sleeve),
@@ -96,11 +117,13 @@ if (args.length > 0) {
         };
       }
 
-      let description = houses[card.house].name;
+      let description = card.is_non_deck
+        ? "Fora do Baralho"
+        : houses[card.house].name;
       if (card.is_maverick) description += "\n" + builder.Maverick;
       if (card.is_anomaly) description += "\n" + builder.Anomaly;
       if (card.is_enhanced) description += "\n" + builder.Enhanced;
-      tts.ObjectStates[0].ContainedObjects.push({
+      tts.ObjectStates[objIndex].ContainedObjects.push({
         CardID: id * 100,
         Name: "Card",
         Nickname: card.card_title,
@@ -117,7 +140,7 @@ if (args.length > 0) {
           scaleZ: 1
         }
       });
-      tts.ObjectStates[0].DeckIDs.push(id * 100);
+      tts.ObjectStates[objIndex].DeckIDs.push(id * 100);
     });
 
     fs.writeFileSync(`./${deck.data.name}.json`, JSON.stringify(tts), "utf8");
