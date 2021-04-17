@@ -1,3 +1,4 @@
+/* eslint-disable camelcase */
 const fs = require("fs");
 
 const configs = require("./config");
@@ -23,6 +24,14 @@ function createImageData(card, expansion) {
   };
 }
 
+function setupCard(card) {
+  delete card.id;
+  delete card.house;
+  delete card.front_image;
+  if (card.rarity === "Evil Twin") card.card_title += " (GM)";
+  return card;
+}
+
 function createCards(cards, expansion) {
   const path = "./cards/" + expansion.lang + "/" + expansion.name + "/";
   let lastCard = {};
@@ -31,12 +40,9 @@ function createCards(cards, expansion) {
       lastCard.houses.push(createImageData(card, expansion));
     } else {
       if (lastCard.card_number !== undefined) {
-        delete lastCard.id;
-        delete lastCard.house;
-        delete lastCard.front_image;
         fs.writeFileSync(
           path + lastCard.card_number + ".json",
-          JSON.stringify(lastCard)
+          JSON.stringify(setupCard(lastCard))
         );
       }
 
@@ -48,12 +54,9 @@ function createCards(cards, expansion) {
   });
 
   if (lastCard.card_number !== undefined) {
-    delete lastCard.id;
-    delete lastCard.house;
-    delete lastCard.front_image;
     fs.writeFileSync(
       path + lastCard.card_number + ".json",
-      JSON.stringify(lastCard)
+      JSON.stringify(setupCard(lastCard))
     );
   }
 }
