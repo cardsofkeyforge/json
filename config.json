@@ -2,6 +2,7 @@
   "lang": "pt",
   "mtgback": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/mtgBack.jpg",
   "kfback": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/{0}Back.png",
+  "kfrules": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/kfQuickstartRules.png",
   "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com",
   "expansion": [
     {

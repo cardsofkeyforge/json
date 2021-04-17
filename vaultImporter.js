@@ -39,6 +39,54 @@ function decodeZoomURL(sets, file, lang) {
   return file;
 }
 
+function addSideDeck(tts, id) {
+  tts.ObjectStates.push({
+    Name: "DeckCustom",
+    ContainedObjects: [],
+    DeckIDs: [],
+    CustomDeck: {},
+    Transform: {
+      posX: 5,
+      posY: 1,
+      posZ: 0,
+      rotX: 0,
+      rotY: 180,
+      rotZ: 180,
+      scaleX: 1.5,
+      scaleY: 1,
+      scaleZ: 1.5
+    }
+  });
+
+  tts.ObjectStates[1].CustomDeck[id.toString()] = {
+    FaceURL: configs.kfrules,
+    BackURL: configs.kfback.replace("{0}", sleeve),
+    NumHeight: 1,
+    NumWidth: 1,
+    BackIsHidden: true
+  };
+
+  tts.ObjectStates[1].ContainedObjects.push({
+    CardID: id * 100,
+    Name: "Card",
+    Nickname: "Regras",
+    Description: "Guia de Referência Rápida",
+    Transform: {
+      posX: 0,
+      posY: 0,
+      posZ: 0,
+      rotX: 0,
+      rotY: 180,
+      rotZ: 180,
+      scaleX: 1,
+      scaleY: 1,
+      scaleZ: 1
+    }
+  });
+
+  tts.ObjectStates[1].DeckIDs.push(id * 100);
+}
+
 if (args.length > 0) {
   let tts;
   tts = {
@@ -86,23 +134,7 @@ if (args.length > 0) {
       const objIndex = card.is_non_deck ? 1 : 0;
       console.log(card.card_title);
       if (card.is_non_deck && tts.ObjectStates.length === 1) {
-        tts.ObjectStates.push({
-          Name: "DeckCustom",
-          ContainedObjects: [],
-          DeckIDs: [],
-          CustomDeck: {},
-          Transform: {
-            posX: 5,
-            posY: 1,
-            posZ: 0,
-            rotX: 0,
-            rotY: 180,
-            rotZ: 180,
-            scaleX: 1.5,
-            scaleY: 1,
-            scaleZ: 1.5
-          }
-        });
+        addSideDeck(tts, ++id);
       }
 
       if (lastCard !== card.card_title) {
