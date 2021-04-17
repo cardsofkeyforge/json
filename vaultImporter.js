@@ -18,7 +18,8 @@ async function processingDeck(deckId) {
 function decodeZoomURL(sets, file, lang) {
   for (const cards of Object.entries(sets)) {
     for (const card of Array.from(cards[1])) {
-      if (card.front_image === file) {
+      const imageUrl = card.front_image.replace(/en/g, lang);
+      if (imageUrl === file) {
         return (
           "/media/" +
           lang +
