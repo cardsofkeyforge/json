@@ -118,6 +118,32 @@ function FetchDeck(_obj, player_color, _alt_click)
     end
     if not URL or string.len(URL) == 0 then return Player[player_color].broadcast("Por favor, informe o ID do seu baralho.", {1, 1, 1}) end
     local deckid = URL:match("%w+-%w+-%w+-%w+-%w+")
+    Player[player_color].broadcast("Código => "..deckid)
+    WebRequest.get("https://api.cardsofkeyforge.com/decks/tts/"..deckid, function(request)
+        if request.is_error then
+            log(request.error)
+        else
+            if request.is_done then
+                local responseData = JSON.decode(request.text)
+                spawnObjectJSON({
+                    json = JSON.encode(responseData.ObjectStates[1]),
+                    callback_function = function(deck)
+                        local deckZone = getObjectFromGUID(player_draw[player_color])
+                        deck.setPosition(deckZone.getPosition())
+                    end
+                })
+                if #responseData.ObjectStates > 1 then
+                    spawnObjectJSON({
+                        json = JSON.encode(responseData.ObjectStates[2]),
+                        callback_function = function(deck)
+                            local deckZone = getObjectFromGUID(player_decklist[player_color])
+                            deck.setPosition(deckZone.getPosition())
+                        end
+                    })
+                end
+            end
+        end
+    end)
 end
 
 function createCardBackDropDown()
