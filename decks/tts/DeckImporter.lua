@@ -1,9 +1,8 @@
 buttonColor = {0.19,0.24,0.35,1}
 DECK_LIST_INDEX = 1
 card_back_options = {"Vermelho", "Azul","Preto"}
-color_options = {"Vermelho", "Azul","Preto"}
 language_options = {"Português"}
-expansion_options = {"Qualquer", "CotA", "AoA", "WC", "MM"}
+expansion_options = {"Qualquer", "O Chamado dos Arcontes", "Era da Ascensão", "Colisão entre Mundos", "Mutação em Massa", "Mar de Trevas"}
 player_draw = { White = '2a72b5', Green = '354143' }
 player_decklist = { White = '5536f1', Green = '5e3694' }
 
@@ -59,8 +58,8 @@ function onLoad()
     self.createButton({
         click_function="createExpansionDropDown",
         function_owner=self,
-        position = {-6.23, 0.65, -1},
-        height=400, width=1200,
+        position = {-5.6, 0.65, -1},
+        height=400, width=1800,
         color=buttonColor,
         font_color={1,1,1},
         font_size=150,
@@ -104,10 +103,30 @@ function selectRandomDeck(_obj, player_color, _alt_click)
         end
     end
     Player[player_color].broadcast("Importando um baralho aleatório, aguarde.")
+    WebRequest.get("https://api.cardsofkeyforge.com/decks/random/"..expansion, function(request)
+        if request.is_error then
+            log(request.error)
+        else
+            if request.is_done then
+                for _, input in pairs(self.getInputs()) do
+                    if input.label == "ID do Baralho" then
+                        self.editInput({index=input.index, value=request.text})
+                        FetchDeck(_obj, player_color, _alt_click)
+                    end
+                end
+            end
+        end
+    end)
 end
 
 function FetchDeck(_obj, player_color, _alt_click)
     removeOptions()
+    local sleeve = 'Vermelho'
+    for _, button in pairs(self.getButtons()) do
+        if button.tooltip == "Selecione um Sleeve" then
+            sleeve = button.label
+        end
+    end
     local URL = ""
     Player[player_color].broadcast("Importando o seu baralho, aguarde.")
     for _, input in pairs(self.getInputs()) do
@@ -118,8 +137,7 @@ function FetchDeck(_obj, player_color, _alt_click)
     end
     if not URL or string.len(URL) == 0 then return Player[player_color].broadcast("Por favor, informe o ID do seu baralho.", {1, 1, 1}) end
     local deckid = URL:match("%w+-%w+-%w+-%w+-%w+")
-    Player[player_color].broadcast("Código => "..deckid)
-    WebRequest.get("https://api.cardsofkeyforge.com/decks/tts/"..deckid, function(request)
+    WebRequest.get("https://api.cardsofkeyforge.com/decks/tts/"..sleeve.."/"..deckid, function(request)
         if request.is_error then
             log(request.error)
         else
@@ -141,6 +159,13 @@ function FetchDeck(_obj, player_color, _alt_click)
                         end
                     })
                 end
+
+                local deckList = "Cartas do Baralho"
+                for _, cardData in pairs(responseData.ObjectStates[1].ContainedObjects) do
+                    deckList = deckList.."\n"..cardData.Nickname
+                end
+                self.editInput({index=DECK_LIST_INDEX, value=deckList})
+                Player[player_color].broadcast("Baralho "..deckid.." importado!")
             end
         end
     end)
@@ -195,8 +220,8 @@ function createExpansionDropDown()
     for x, expansion in ipairs(expansion_options) do
         self.createButton({
             click_function= dynamicFunction("setExpansion"..expansion, function(obj, player, input_value, selected) setExpansion(expansion) end),
-            function_owner=self,position = {-6.23, 0.7, -1+(x*0.8)},
-            height=400, width=1200,
+            function_owner=self,position = {-5.6, 0.7, -1+(x*0.8)},
+            height=400, width=1800,
             color=buttonColor,font_color={1,1,1},
             font_size=150,label=expansion
         })
