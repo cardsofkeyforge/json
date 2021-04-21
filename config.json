@@ -42,6 +42,15 @@
       "lang": "pt"
     },
     {
+      "code": 479,
+      "name": "mm",
+      "longname": "Mutação em Massa",
+      "release": "2020-07-10",
+      "releaseDate": "10 de julho de 2020",
+      "image": "../hero.png",
+      "lang": "pt"
+    },
+    {
       "code": 496,
       "name": "dt",
       "longname": "Mar de Trevas",
