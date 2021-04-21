@@ -13,7 +13,30 @@ ZoneTextTable = {}
 function onload()
     ZoneTextTable['b0c3e3'] = '07299c'
     ZoneTextTable['f36830'] = '565e9e'
+
+    browserWhite = spawnObject({
+        type = "Tablet",
+        position = {25, 3, -27},
+        rotation = {0, 180, 0},
+        scale = {1, 1, 1},
+        sound = false,
+        callback_function = function(browser)
+            browser.Browser.url = "https://site.cardsofkeyforge.com"
+        end
+    })
+
+    browserGreen = spawnObject({
+        type = "Tablet",
+        position = {-25, 3, 27},
+        rotation = {0, 0, 0},
+        scale = {1, 1, 1},
+        sound = false,
+        callback_function = function(browser)
+            browser.Browser.url = "https://site.cardsofkeyforge.com"
+        end
+    })
 end
+
 
 function updateEmeraldCounter(zone)
     -- Get objects
@@ -50,4 +73,4 @@ function onObjectLeaveScriptingZone(zone, leave_object)
             CountingText.setValue('Fichas de Æmber: ' .. number)
         end
     end
-end--
+end

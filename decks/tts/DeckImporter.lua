@@ -148,6 +148,7 @@ function FetchDeck(_obj, player_color, _alt_click)
                     callback_function = function(deck)
                         local deckZone = getObjectFromGUID(player_draw[player_color])
                         deck.setPosition(deckZone.getPosition())
+                        deck.setRotation(deckZone.getRotation())
                     end
                 })
                 if #responseData.ObjectStates > 1 then
@@ -156,10 +157,13 @@ function FetchDeck(_obj, player_color, _alt_click)
                         callback_function = function(deck)
                             local deckZone = getObjectFromGUID(player_decklist[player_color])
                             deck.setPosition(deckZone.getPosition())
+                            deck.setRotation(deckZone.getRotation())
                         end
                     })
                 end
 
+                local browser = Global.getVar("browser"..player_color)
+                browser.Browser.url = "https://www.keyforgegame.com/deck-details/"..deckid
                 local deckList = "Cartas do Baralho"
                 for _, cardData in pairs(responseData.ObjectStates[1].ContainedObjects) do
                     deckList = deckList.."\n"..cardData.Nickname
