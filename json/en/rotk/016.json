@@ -1,0 +1,20 @@
+{
+  "id": "016",
+  "card_title": "Behold Its Grandeur",
+  "house": "Keyraken",
+  "card_type": "Action",
+  "front_image": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/016.png",
+  "card_text": "Play: The Keyraken gains 1A for each \ncreature you control that shares a house \nwith one or more of its neighbors, to a \nmaximum of 4.",
+  "traits": null,
+  "amber": 0,
+  "power": null,
+  "armor": null,
+  "rarity": "Uncommon",
+  "flavor_text": "Radiance emanated from the broken seal, a red \nlight falling upon the gathered faithful.",
+  "card_number": "016",
+  "expansion": 1001,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false
+}

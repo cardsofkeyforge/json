@@ -1,0 +1,20 @@
+{
+  "id": "040",
+  "card_title": "Swift Current",
+  "house": "Keyraken",
+  "card_type": "Artifact",
+  "front_image": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/040.png",
+  "card_text": "(T) Action: The Keyraken’s creature with \nthe highest power captures 1A from \nyou. If you have no A, destroy Swift \nCurrent and lower the tide.",
+  "traits": "Power",
+  "amber": 2,
+  "power": null,
+  "armor": null,
+  "rarity": "Uncommon",
+  "flavor_text": "“Try to keep up!” \n—Deep Priest Anikava",
+  "card_number": "040",
+  "expansion": 1001,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": "042",
+  "card_title": "Whirpool Eddy",
+  "house": "Keyraken",
+  "card_type": "Artifact",
+  "front_image": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/042.png",
+  "card_text": "(T) Action: Stun and exhaust 1 of your \ncreatures that is not already stunned. If \nall of your creatures are stunned, destroy \nWhirlpool Eddy and lower the tide.",
+  "traits": "Power",
+  "amber": 1,
+  "power": null,
+  "armor": null,
+  "rarity": "Uncommon",
+  "flavor_text": "“Where are you going? The monster is up there!” \n—Whirlpool Eddie",
+  "card_number": "042",
+  "expansion": 1001,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false
+}

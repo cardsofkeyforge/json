@@ -1,0 +1,20 @@
+{
+  "id": "032",
+  "card_title": "Race to the Surface",
+  "house": "Keyraken",
+  "card_type": "Action",
+  "front_image": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/032.png",
+  "card_text": "Play: For each time the Keyraken \nhas advanced this game, it archives 1 \nadventure card. Draw that many cards \n(from your own deck).",
+  "traits": null,
+  "amber": 1,
+  "power": null,
+  "armor": null,
+  "rarity": "Common",
+  "flavor_text": "“It’s already destroyed the observatory—you don’t \nthink Bellatorus Castra is next?” —Senator Bracchus",
+  "card_number": "032",
+  "expansion": 1001,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false
+}

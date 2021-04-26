@@ -58,6 +58,15 @@
       "releaseDate": "12 de março de 2021",
       "image": "../hero.png",
       "lang": "pt"
+    },
+    {
+      "code": 1001,
+      "name": "rotk",
+      "longname": "Rise of the Keyraken",
+      "release": "2021-04-23",
+      "releaseDate": "23 de abril de 2021",
+      "image": "/assets/cotaBackground.jpg",
+      "lang": "en"
     }
   ]
 }

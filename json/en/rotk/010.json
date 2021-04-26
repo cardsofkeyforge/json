@@ -1,0 +1,20 @@
+{
+  "id": "010",
+  "card_title": "Slippery Arm",
+  "house": "Keyraken",
+  "card_type": "Creature",
+  "front_image": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/010.png",
+  "card_text": "Elusive.\n(T) Reap: If the tide is low, the Keyraken \narchives 1 adventure card.\nDestroyed: Deal 3D to the Keyraken, \nignoring armor.",
+  "traits": "Arm",
+  "amber": 0,
+  "power": 3,
+  "armor": null,
+  "rarity": "Uncommon",
+  "flavor_text": null,
+  "card_number": "010",
+  "expansion": 1001,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false
+}
