@@ -40,6 +40,10 @@
       "Untamed": {
         "name": "Indomados",
         "image": "https://archonarcana.com/images/thumb/b/bd/Untamed.png/22px-Untamed.png"
+      },
+      "Keyraken": {
+        "name": "Keyraken",
+        "image": null
       }
     },
     "types": {
@@ -49,7 +53,8 @@
       "Action": "Ação",
       "Upgrade": "Melhoria",
       "Artifact": "Artefato",
-      "The Tide": "A Maré"
+      "The Tide": "A Maré",
+      "Keyraken": "Keyraken"
     },
     "rarities": {
       "Common": "Comum",
