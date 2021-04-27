@@ -1,0 +1,26 @@
+{
+  "card_title": "Into the Abyss",
+  "card_type": "Action",
+  "card_text": "(T) Play: Discard your hand and draw 4 \ncards. If the tide is high, you may lower the \ntide instead.",
+  "traits": null,
+  "amber": 1,
+  "power": null,
+  "armor": null,
+  "rarity": "Rare",
+  "flavor_text": "“The cult threatens to destroy even the most \ninnocent life. We cannot allow that to come to pass.” \n—Imperial Zora, Archon",
+  "card_number": "026",
+  "expansion": 1001,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false,
+  "houses": [
+    {
+      "id": "026",
+      "house": "Keyraken",
+      "normal": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/026.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-026.png"
+    }
+  ],
+  "rules": []
+}

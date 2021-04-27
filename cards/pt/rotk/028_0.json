@@ -1,0 +1,38 @@
+{
+  "card_title": "Preternatural Will",
+  "card_type": "Action",
+  "card_text": "(T) Play: If the tide is low, heal 6 damage \nfrom the Keyraken. If the tide is high, \nyou gain 3 chains.",
+  "traits": null,
+  "amber": 0,
+  "power": null,
+  "armor": null,
+  "rarity": "Common",
+  "flavor_text": "At its thought, entire oceans shift.",
+  "card_number": "028_0",
+  "expansion": 1001,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false,
+  "houses": [
+    {
+      "id": "028",
+      "house": "Keyraken",
+      "normal": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/028.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-028.png"
+    },
+    {
+      "id": "029",
+      "house": "Keyraken",
+      "normal": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/029.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-029.png"
+    },
+    {
+      "id": "030",
+      "house": "Keyraken",
+      "normal": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/030.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-030.png"
+    }
+  ],
+  "rules": []
+}

@@ -1,0 +1,26 @@
+{
+  "card_title": "Drag to Your Doom",
+  "card_type": "Action",
+  "card_text": "(T) Play: Purge your most powerful \ncreature. If the tide is high, you may \nlower the tide instead.",
+  "traits": null,
+  "amber": 0,
+  "power": null,
+  "armor": null,
+  "rarity": "Rare",
+  "flavor_text": "“An extradimensional digestive system that can \ntransmute the power of æmber? Fascinating… I should \nhave put sensors on the crew.” —Dr. Escotera",
+  "card_number": "023",
+  "expansion": 1001,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false,
+  "houses": [
+    {
+      "id": "023",
+      "house": "Keyraken",
+      "normal": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/023.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-023.png"
+    }
+  ],
+  "rules": []
+}

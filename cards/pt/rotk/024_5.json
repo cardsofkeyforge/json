@@ -1,0 +1,32 @@
+{
+  "card_title": "Emergence",
+  "card_type": "Action",
+  "card_text": "Play: Destroy 1 of your artifacts and \nexhaust 3 of your creatures.",
+  "traits": null,
+  "amber": 1,
+  "power": null,
+  "armor": null,
+  "rarity": "Uncommon",
+  "flavor_text": "“Only destroying the beast can stop it now. \nI wish it were not so.”\n—Sir Marrows",
+  "card_number": "024_5",
+  "expansion": 1001,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false,
+  "houses": [
+    {
+      "id": "024",
+      "house": "Keyraken",
+      "normal": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/024.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-024.png"
+    },
+    {
+      "id": "025",
+      "house": "Keyraken",
+      "normal": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/025.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-025.png"
+    }
+  ],
+  "rules": []
+}

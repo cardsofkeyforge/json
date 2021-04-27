@@ -1,0 +1,26 @@
+{
+  "card_title": "Left in Its Wake",
+  "card_type": "Action",
+  "card_text": "(T) Play: Exhaust your most powerful \ncreature and each creature you control that \nshares a house with it. If the tide is high, \nthe Keyraken archives 1 adventure card.",
+  "traits": null,
+  "amber": 1,
+  "power": null,
+  "armor": null,
+  "rarity": "Rare",
+  "flavor_text": "“I thought we were just going for a scenic dive!” \n—Dive Officer Tero",
+  "card_number": "027",
+  "expansion": 1001,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false,
+  "houses": [
+    {
+      "id": "027",
+      "house": "Keyraken",
+      "normal": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/027.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-027.png"
+    }
+  ],
+  "rules": []
+}

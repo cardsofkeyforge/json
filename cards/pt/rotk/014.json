@@ -1,0 +1,26 @@
+{
+  "card_title": "Beast of Dark Legend",
+  "card_type": "Action",
+  "card_text": "(T) Play: The Keyraken gains 1A for each \nof your unforged keys. If the tide is high, \nthe Keyraken archives 1 adventure card.",
+  "traits": null,
+  "amber": 0,
+  "power": null,
+  "armor": null,
+  "rarity": "Rare",
+  "flavor_text": "“Long ago, it was sealed beyond reality. When it \nreturns, our ascension will follow.” \n—Deep Priest Anikava",
+  "card_number": "014",
+  "expansion": 1001,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false,
+  "houses": [
+    {
+      "id": "014",
+      "house": "Keyraken",
+      "normal": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/014.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-014.png"
+    }
+  ],
+  "rules": []
+}

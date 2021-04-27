@@ -1,0 +1,32 @@
+{
+  "card_title": "The Tide",
+  "card_type": "The Tide",
+  "card_text": "(The tide is low.)\nThe cost for the Keyraken to advance is \n3A per player.\nOmni: Your team loses a total of 2A\nper player as a group. If you do, raise \nthe tide.\n(The tide is high.)\nThe cost for the Keyraken to advance is \n6A per player.\nAfter the Keyraken advances, lower \nthe tide.",
+  "traits": null,
+  "amber": 0,
+  "power": null,
+  "armor": null,
+  "rarity": "The Tide",
+  "flavor_text": "As long as the Keyraken must fight the current, \nperhaps there is a chance.",
+  "card_number": "000",
+  "expansion": 1001,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": true,
+  "houses": [
+    {
+      "id": "000-1",
+      "house": "The Tide",
+      "normal": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/000-1.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/TheTide-000-1.png"
+    },
+    {
+      "id": "000-2",
+      "house": "The Tide",
+      "normal": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/000-2.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/TheTide-000-2.png"
+    }
+  ],
+  "rules": []
+}
