@@ -1,0 +1,1205 @@
+{
+  "ObjectStates": [
+    {
+      "Name": "DeckCustom",
+      "ContainedObjects": [
+        {
+          "CardID": 300,
+          "Name": "Card",
+          "Nickname": "Crushing Arm",
+          "Description": "Keyraken",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "CardID": 400,
+          "Name": "Card",
+          "Nickname": "Crushing Arm",
+          "Description": "Keyraken",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "CardID": 500,
+          "Name": "Card",
+          "Nickname": "Grappling Tentacle",
+          "Description": "Keyraken",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "CardID": 600,
+          "Name": "Card",
+          "Nickname": "Grappling Tentacle",
+          "Description": "Keyraken",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "CardID": 700,
+          "Name": "Card",
+          "Nickname": "Lashing Tentacle",
+          "Description": "Keyraken",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "CardID": 800,
+          "Name": "Card",
+          "Nickname": "Lashing Tentacle",
+          "Description": "Keyraken",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "CardID": 900,
+          "Name": "Card",
+          "Nickname": "Shield Arm",
+          "Description": "Keyraken",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "CardID": 1000,
+          "Name": "Card",
+          "Nickname": "Shield Arm",
+          "Description": "Keyraken",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "CardID": 1100,
+          "Name": "Card",
+          "Nickname": "Slippery Arm",
+          "Description": "Keyraken",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "CardID": 1200,
+          "Name": "Card",
+          "Nickname": "Slippery Arm",
+          "Description": "Keyraken",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "CardID": 1300,
+          "Name": "Card",
+          "Nickname": "Tenacious Arm",
+          "Description": "Keyraken",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "CardID": 1400,
+          "Name": "Card",
+          "Nickname": "Tenacious Arm",
+          "Description": "Keyraken",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "CardID": 1500,
+          "Name": "Card",
+          "Nickname": "Beast of Dark Legend",
+          "Description": "Keyraken",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "CardID": 1600,
+          "Name": "Card",
+          "Nickname": "Behold Its Grandeur",
+          "Description": "Keyraken",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "CardID": 1700,
+          "Name": "Card",
+          "Nickname": "Behold Its Grandeur",
+          "Description": "Keyraken",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "CardID": 1800,
+          "Name": "Card",
+          "Nickname": "Crimson Churning",
+          "Description": "Keyraken",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "CardID": 1900,
+          "Name": "Card",
+          "Nickname": "Defend the Keyraken!",
+          "Description": "Keyraken",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "CardID": 2000,
+          "Name": "Card",
+          "Nickname": "Defend the Keyraken!",
+          "Description": "Keyraken",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "CardID": 2100,
+          "Name": "Card",
+          "Nickname": "Devour Whole",
+          "Description": "Keyraken",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "CardID": 2200,
+          "Name": "Card",
+          "Nickname": "Devour Whole",
+          "Description": "Keyraken",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "CardID": 2300,
+          "Name": "Card",
+          "Nickname": "Devour Whole",
+          "Description": "Keyraken",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "CardID": 2400,
+          "Name": "Card",
+          "Nickname": "Drag to Your Doom",
+          "Description": "Keyraken",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "CardID": 2500,
+          "Name": "Card",
+          "Nickname": "Emergence",
+          "Description": "Keyraken",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "CardID": 2600,
+          "Name": "Card",
+          "Nickname": "Emergence",
+          "Description": "Keyraken",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "CardID": 2700,
+          "Name": "Card",
+          "Nickname": "Into the Abyss",
+          "Description": "Keyraken",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "CardID": 2800,
+          "Name": "Card",
+          "Nickname": "Left in Its Wake",
+          "Description": "Keyraken",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "CardID": 2900,
+          "Name": "Card",
+          "Nickname": "Preternatural Will",
+          "Description": "Keyraken",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "CardID": 3000,
+          "Name": "Card",
+          "Nickname": "Preternatural Will",
+          "Description": "Keyraken",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "CardID": 3100,
+          "Name": "Card",
+          "Nickname": "Preternatural Will",
+          "Description": "Keyraken",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "CardID": 3200,
+          "Name": "Card",
+          "Nickname": "Race to the Surface",
+          "Description": "Keyraken",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "CardID": 3300,
+          "Name": "Card",
+          "Nickname": "Race to the Surface",
+          "Description": "Keyraken",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "CardID": 3400,
+          "Name": "Card",
+          "Nickname": "Race to the Surface",
+          "Description": "Keyraken",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "CardID": 3500,
+          "Name": "Card",
+          "Nickname": "The Evil in the Ranks",
+          "Description": "Keyraken",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "CardID": 3600,
+          "Name": "Card",
+          "Nickname": "Tidal Trouble",
+          "Description": "Keyraken",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "CardID": 3700,
+          "Name": "Card",
+          "Nickname": "Tide Down",
+          "Description": "Keyraken",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "CardID": 3800,
+          "Name": "Card",
+          "Nickname": "Zealot’s Revelation",
+          "Description": "Keyraken",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "CardID": 3900,
+          "Name": "Card",
+          "Nickname": "Ascending Jet",
+          "Description": "Keyraken",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "CardID": 4000,
+          "Name": "Card",
+          "Nickname": "Ascending Jet",
+          "Description": "Keyraken",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "CardID": 4100,
+          "Name": "Card",
+          "Nickname": "Swift Current",
+          "Description": "Keyraken",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "CardID": 4200,
+          "Name": "Card",
+          "Nickname": "Swift Current",
+          "Description": "Keyraken",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "CardID": 4300,
+          "Name": "Card",
+          "Nickname": "Whirpool Eddy",
+          "Description": "Keyraken",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "CardID": 4400,
+          "Name": "Card",
+          "Nickname": "Whirpool Eddy",
+          "Description": "Keyraken",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "CardID": 4500,
+          "Name": "Card",
+          "Nickname": "Primordial",
+          "Description": "Keyraken",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "CardID": 4600,
+          "Name": "Card",
+          "Nickname": "Primordial",
+          "Description": "Keyraken",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "CardID": 4700,
+          "Name": "Card",
+          "Nickname": "Titanic Maw",
+          "Description": "Keyraken",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        }
+      ],
+      "DeckIDs": [
+        300,
+        400,
+        500,
+        600,
+        700,
+        900,
+        900,
+        1000,
+        1100,
+        1200,
+        1300,
+        1400,
+        1500,
+        1600,
+        1700,
+        1800,
+        1900,
+        2000,
+        2100,
+        2200,
+        2300,
+        2400,
+        2500,
+        2600,
+        2700,
+        2800,
+        2900,
+        3000,
+        3100,
+        3200,
+        3300,
+        3400,
+        3500,
+        3600,
+        3700,
+        3800,
+        3900,
+        4000,
+        4100,
+        4200,
+        4300,
+        4400,
+        4500,
+        4600,
+        4700
+      ],
+      "CustomDeck": {
+        "3": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-002.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        },
+        "4": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-003.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        },
+        "5": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-004.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        },
+        "6": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-005.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        },
+        "7": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-006.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        },
+        "8": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-007.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        },
+        "9": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-008.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        },
+        "10": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-009.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        },
+        "11": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-010.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        },
+        "12": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-011.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        },
+        "13": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-012.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        },
+        "14": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-013.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        },
+        "15": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-014.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        },
+        "16": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-015.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        },
+        "17": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-016.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        },
+        "18": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-017.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        },
+        "19": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-018.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        },
+        "20": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-019.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        },
+        "21": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-020.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        },
+        "22": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-021.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        },
+        "23": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-022.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        },
+        "24": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-023.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        },
+        "25": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-024.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        },
+        "26": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-025.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        },
+        "27": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-026.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        },
+        "28": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-027.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        },
+        "29": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-028.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        },
+        "30": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-029.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        },
+        "31": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-030.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        },
+        "32": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-031.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        },
+        "33": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-032.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        },
+        "34": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-033.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        },
+        "35": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-034.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        },
+        "36": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-035.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        },
+        "37": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-036.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        },
+        "38": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-037.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        },
+        "39": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-038.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        },
+        "40": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-039.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        },
+        "41": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-040.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        },
+        "42": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-041.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        },
+        "43": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-042.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        },
+        "44": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-043.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        },
+        "45": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-044.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        },
+        "46": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-045.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        },
+        "47": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-046.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        }
+      },
+      "Transform": {
+        "posX": 0,
+        "posY": 1,
+        "posZ": 0,
+        "rotX": 0,
+        "rotY": 180,
+        "rotZ": 180,
+        "scaleX": 1.5,
+        "scaleY": 1,
+        "scaleZ": 1.5
+      }
+    },
+    {
+      "CardID": 200,
+      "Name": "CardCustom",
+      "Nickname": "The Keyraken",
+      "Description": "Keyraken",
+      "Transform": {
+        "posX": 5,
+        "posY": 1,
+        "posZ": 0,
+        "rotX": 0,
+        "rotY": 180,
+        "rotZ": 0,
+        "scaleX": 2.3,
+        "scaleY": 1,
+        "scaleZ": 2.3
+      },
+      "CustomDeck": {
+        "2": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-001.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        }
+      }
+    },
+    {
+      "CardID": 100,
+      "Name": "CardCustom",
+      "Nickname": "The Tide",
+      "Description": "The Tide",
+      "Transform": {
+        "posX": 10,
+        "posY": 1,
+        "posZ": 0,
+        "rotX": 0,
+        "rotY": 180,
+        "rotZ": 0,
+        "scaleX": 1.5,
+        "scaleY": 1,
+        "scaleZ": 1.5
+      },
+      "CustomDeck": {
+        "1": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/TheTide-000-1.png",
+          "BackURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/TheTide-000-2.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": false,
+          "UniqueBack": false,
+          "Type": 0
+        }
+      }
+    }
+  ]
+}
