@@ -18,13 +18,16 @@ configs.expansion
       .filter(card => card.house !== "")
       .filter(card => !card.is_maverick && card.expansion === expansion.code)
       .forEach(card => {
-        if (!keyforge[card.card_title]) keyforge[card.card_title] = [];
-        if (!set[expansion.name][card.card_title]) {
-          set[expansion.name][card.card_title] = [];
+        const cardName = `${card.card_title}${
+          card.rarity === "Evil Twin" ? " (GM)" : ""
+        }`;
+        if (!keyforge[cardName]) keyforge[cardName] = [];
+        if (!set[expansion.name][cardName]) {
+          set[expansion.name][cardName] = [];
         }
 
-        keyforge[card.card_title].push(card);
-        set[expansion.name][card.card_title].push(card);
+        keyforge[cardName].push(card);
+        set[expansion.name][cardName].push(card);
       });
     console.log(Object.keys(set[expansion.name]).length + " different cards!");
   });
