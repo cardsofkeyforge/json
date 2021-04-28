@@ -5,6 +5,7 @@ const configs = require("./config");
 const keyforge = {};
 const set = {};
 configs.expansion
+  .filter(expansion => expansion.code < 1000)
   .filter(expansion => expansion.name !== "")
   .forEach(expansion => {
     console.log("Loading cards from " + expansion.longname + "...");
