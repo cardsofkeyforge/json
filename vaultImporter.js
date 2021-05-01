@@ -153,6 +153,7 @@ if (args.length > 0) {
       let description = card.is_non_deck
         ? "Fora do Baralho"
         : houses[card.house].name;
+      if (card.rarity === "Evil Twin") description += "\n" + builder.Evil;
       if (card.is_maverick) description += "\n" + builder.Maverick;
       if (card.is_anomaly) description += "\n" + builder.Anomaly;
       if (card.is_enhanced) description += "\n" + builder.Enhanced;

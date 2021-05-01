@@ -1,6 +1,6 @@
 buttonColor = {0.19,0.24,0.35,1}
 DECK_LIST_INDEX = 1
-card_back_options = {"Vermelho", "Azul", "Preto"}
+card_back_options = {"Vermelho", "Azul", "Roxo", "Preto"}
 language_options = {"Português"}
 expansion_options = {"Qualquer", "O Chamado dos Arcontes", "Era da Ascensão", "Colisão entre Mundos", "Mutação em Massa", "Mar de Trevas"}
 player_draw = { White = '2a72b5', Green = '354143' }
@@ -125,6 +125,7 @@ function FetchDeck(_obj, player_color, _alt_click)
     local sleeve_values = {}
     sleeve_values["Vermelho"] = "red"
     sleeve_values["Azul"] = "blue"
+    sleeve_values["Roxo"] = "purple"
     sleeve_values["Preto"] = "black"
     for _, button in pairs(self.getButtons()) do
         if button.tooltip == "Selecione um Sleeve" then
