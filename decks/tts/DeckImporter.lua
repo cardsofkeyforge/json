@@ -1,6 +1,6 @@
 buttonColor = {0.19,0.24,0.35,1}
 DECK_LIST_INDEX = 1
-card_back_options = {"Vermelho", "Azul","Preto"}
+card_back_options = {"Vermelho", "Azul", "Preto"}
 language_options = {"Português"}
 expansion_options = {"Qualquer", "O Chamado dos Arcontes", "Era da Ascensão", "Colisão entre Mundos", "Mutação em Massa", "Mar de Trevas"}
 player_draw = { White = '2a72b5', Green = '354143' }
@@ -121,10 +121,14 @@ end
 
 function FetchDeck(_obj, player_color, _alt_click)
     removeOptions()
-    local sleeve = 'Vermelho'
+    local sleeve = 'red'
+    local sleeve_values = {}
+    sleeve_values["Vermelho"] = "red"
+    sleeve_values["Azul"] = "blue"
+    sleeve_values["Preto"] = "black"
     for _, button in pairs(self.getButtons()) do
         if button.tooltip == "Selecione um Sleeve" then
-            sleeve = button.label
+            sleeve = sleeve_values[button.label]
         end
     end
     local URL = ""
@@ -137,7 +141,7 @@ function FetchDeck(_obj, player_color, _alt_click)
     end
     if not URL or string.len(URL) == 0 then return Player[player_color].broadcast("Por favor, informe o ID do seu baralho.", {1, 1, 1}) end
     local deckid = URL:match("%w+-%w+-%w+-%w+-%w+")
-    WebRequest.get("https://api.cardsofkeyforge.com/decks/tts/"..sleeve.."/"..deckid, function(request)
+    WebRequest.get("https://api.cardsofkeyforge.com/decks/tts?deckid="..deckid.."&sleeve="..sleeve, function(request)
         if request.is_error then
             log(request.error)
         else
