@@ -10,6 +10,8 @@ BAG_D9_GUI = 'bdac35'
 
 ZoneTextTable = {}
 
+starterPlayer = 1
+
 function onload()
     ZoneTextTable['b0c3e3'] = '07299c'
     ZoneTextTable['f36830'] = '565e9e'
@@ -37,6 +39,18 @@ function onload()
     })
 end
 
+function onPlayerConnect(player)
+    if not player.host then
+        starterPlayer = math.random(2)
+        if starterPlayer == 1 then
+            Player['White'].broadcast("Você começa a partida!")
+            Player['Green'].broadcast("Você jogará em segundo!")
+        else
+            Player['White'].broadcast("Você jogará em segundo!")
+            Player['Green'].broadcast("Você começa a partida!")
+        end
+    end
+end
 
 function updateEmeraldCounter(zone)
     -- Get objects

@@ -2,7 +2,7 @@ buttonColor = {0.19,0.24,0.35,1}
 DECK_LIST_INDEX = 1
 card_back_options = {"Vermelho", "Azul", "Roxo", "Preto"}
 language_options = {"Português"}
-expansion_options = {"Qualquer", "O Chamado dos Arcontes", "Era da Ascensão", "Colisão entre Mundos", "Mutação em Massa", "Mar de Trevas"}
+expansion_options = {"Qualquer", "O Chamado dos Arcontes", "Era da Ascensão", "Colisão entre Mundos", "Mutação em Massa", "Mar de Trevas", "Rise of the Keyraken"}
 player_draw = { White = '2a72b5', Green = '354143' }
 player_decklist = { White = '5536f1', Green = '5e3694' }
 
@@ -96,21 +96,31 @@ end
 function selectRandomDeck(_obj, player_color, _alt_click)
     removeOptions()
     self.editInput({index=DECK_LIST_INDEX, value=''})
-    local expansion = 'Qualquer'
+    local expansion = 'all'
+    local expansion_values = {}
+    expansion_values["Qualquer"] = "all"
+    expansion_values["O Chamado dos Arcontes"] = "cota"
+    expansion_values["Era da Ascensão"] = "aoa"
+    expansion_values["Colisão entre Mundos"] = "wc"
+    expansion_values["Mutação em Massa"] = "mm"
+    expansion_values["Mar de Trevas"] = "dt"
+    expansion_values["Rise of the Keyraken"] = "rotk"
     for _, button in pairs(self.getButtons()) do
         if button.tooltip == "Selecione um Conjunto" then
-            expansion = button.label
+            expansion = expansion_values[button.label]
         end
     end
     Player[player_color].broadcast("Importando um baralho aleatório, aguarde.")
-    WebRequest.get("https://api.cardsofkeyforge.com/decks/random/"..expansion, function(request)
+    WebRequest.get("https://api.cardsofkeyforge.com/decks/random?set="..expansion, function(request)
         if request.is_error then
             log(request.error)
         else
             if request.is_done then
                 for _, input in pairs(self.getInputs()) do
                     if input.label == "ID do Baralho" then
-                        self.editInput({index=input.index, value=request.text})
+                        local vaultDeck = JSON.decode(request.text)
+                        Player[player_color].broadcast("Seu baralho será o "..vaultDeck.Name.."!")
+                        self.editInput({index=input.index, value=vaultDeck.Id})
                         FetchDeck(_obj, player_color, _alt_click)
                     end
                 end

@@ -36,18 +36,23 @@ function shuffleDeck()
         if obj.hit_object.tag == 'Deck' then
           local object = obj.hit_object
           local rotation = object.getRotation()
+          local extraCard = 0
+          local starterPlayer = Global.getVar("starterPlayer")
+          if starterPlayer == 1 then
+              extraCard = 1
+          end
           if rotation.z > 175 and rotation.z < 185 then
             print('Embaralhando '..object.getName())
             if (object.getQuantity() == 36) then
                 object.randomize()
-                Wait.frames(function() object.deal(7, 'White') end, 60)
+                Wait.frames(function() object.deal(6 + extraCard, 'White') end, 60)
                 button_parameters.label = 'Mulligan'
                 self.editButton(button_parameters)
             else
                 broadcastToAll('Jogador Branco tomou um mulligan!', {r=1, g=0, b=0})
                 object.reset()
                 Wait.frames(function() object.randomize() end, 60)
-                Wait.frames(function() object.deal(6, 'White') end, 120)
+                Wait.frames(function() object.deal(5 + extraCard, 'White') end, 120)
             end
           end
         end
