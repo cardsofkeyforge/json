@@ -110,6 +110,10 @@ function selectRandomDeck(_obj, player_color, _alt_click)
             expansion = expansion_values[button.label]
         end
     end
+    if expansion == "rotk" then
+        FetchRotK(_obj, player_color, _alt_click)
+        return
+    end
     Player[player_color].broadcast("Importando um baralho aleatório, aguarde.")
     WebRequest.get("https://api.cardsofkeyforge.com/decks/random?set="..expansion, function(request)
         if request.is_error then
@@ -124,6 +128,49 @@ function selectRandomDeck(_obj, player_color, _alt_click)
                         FetchDeck(_obj, player_color, _alt_click)
                     end
                 end
+            end
+        end
+    end)
+end
+
+function FetchRotK(_obj, player_color, _alt_click)
+    WebRequest.get("https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/tts/special/Rise%20of%20the%20Keyraken.json", function(request)
+        if request.is_error then
+            log(request.error)
+        else
+            if request.is_done then
+                local responseData = JSON.decode(request.text)
+                spawnObjectJSON({
+                    json = JSON.encode(responseData.ObjectStates[1]),
+                    callback_function = function(deck)
+                        local deckZone = getObjectFromGUID(player_draw[player_color])
+                        deck.setPosition(deckZone.getPosition())
+                        deck.setRotation(deckZone.getRotation())
+                    end
+                })
+
+                spawnObjectJSON({
+                    json = JSON.encode(responseData.ObjectStates[3]),
+                    callback_function = function(deck)
+                        local deckZone = getObjectFromGUID(player_decklist[player_color])
+                        deck.setPosition(deckZone.getPosition())
+                        deck.setRotation({deckZone.getRotation()[1], deckZone.getRotation()[2], deck.getRotation()[3]})
+                    end
+                })
+
+                spawnObjectJSON({
+                    json = JSON.encode(responseData.ObjectStates[2]),
+                    callback_function = function(deck)
+                        deck.setPosition({0, 1, 0})
+                    end
+                })
+
+                local deckList = "Cartas do Baralho"
+                for _, cardData in pairs(responseData.ObjectStates[1].ContainedObjects) do
+                    deckList = deckList.."\n"..cardData.Nickname
+                end
+                self.editInput({index=DECK_LIST_INDEX, value=deckList})
+                Player[player_color].broadcast("Baralho da aventura importado!")
             end
         end
     end)
