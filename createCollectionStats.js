@@ -33,4 +33,4 @@ configs.expansion
     console.log(Object.keys(set[expansion.name]).length + " different cards!");
   });
 
-console.log(`You has ${Object.keys(keyforge).length} total different cards!`);
+console.log(`You have ${Object.keys(keyforge).length} total different cards!`);
