@@ -1,14 +1,21 @@
 {
   "SaveName": "LockSmeltPlus",
-  "EpochTime": 1620318993,
-  "Date": "5/6/2021 1:36:33 PM",
+  "EpochTime": 1620664809,
+  "Date": "5/10/2021 1:40:09 PM",
   "VersionNumber": "v13.1.1",
   "GameMode": "LockSmeltPlus",
   "GameType": "Game",
-  "GameComplexity": "Low Complexity",
+  "GameComplexity": "Medium Complexity",
   "PlayingTime": [0, 30],
   "PlayerCounts": [2, 2],
-  "Tags": ["Card Games", "Cards", "Components", "Scripting"],
+  "Tags": [
+    "Card Games",
+    "Cards",
+    "Components",
+    "Scripting",
+    "Portuguese (Brazil)",
+    "KeyForge"
+  ],
   "Gravity": 0.5,
   "PlayArea": 0.5,
   "Table": "Table_None",
@@ -309,7 +316,7 @@
       "Size": 1.0
     }
   ],
-  "LuaScript": "FIRST_KEY_D8_GUI = '749912'\r\nSECOND_KEY_D8_GUI = 'c81962'\r\nTHIRD_KEY_D8_GUI = 'fc06ed'\r\nBAG_D8_GUI = 'ee9f87'\r\n\r\nFIRST_KEY_D9_GUI = 'f3e7e0'\r\nSECOND_KEY_D9_GUI = 'ea0cc8'\r\nTHIRD_KEY_D9_GUI = 'ac746c'\r\nBAG_D9_GUI = 'bdac35'\r\n\r\nZoneTextTable = {}\r\n\r\nstarterPlayer = 1\r\n\r\nfunction onload()\r\n    ZoneTextTable['b0c3e3'] = '07299c'\r\n    ZoneTextTable['f36830'] = '565e9e'\r\n\r\n    browserWhite = spawnObject({\r\n        type = \"Tablet\",\r\n        position = {25, 3, -27},\r\n        rotation = {0, 180, 0},\r\n        scale = {1, 1, 1},\r\n        sound = false,\r\n        callback_function = function(browser)\r\n            browser.Browser.url = \"https://site.cardsofkeyforge.com\"\r\n        end\r\n    })\r\n\r\n    browserGreen = spawnObject({\r\n        type = \"Tablet\",\r\n        position = {-25, 3, 27},\r\n        rotation = {0, 0, 0},\r\n        scale = {1, 1, 1},\r\n        sound = false,\r\n        callback_function = function(browser)\r\n            browser.Browser.url = \"https://site.cardsofkeyforge.com\"\r\n        end\r\n    })\r\nend\r\n\r\nfunction onPlayerConnect(player)\r\n    if not player.host then\r\n        starterPlayer = math.random(2)\r\n        if starterPlayer == 1 then\r\n            Player['White'].broadcast(\"Você começa a partida!\")\r\n            Player['Green'].broadcast(\"Você jogará em segundo!\")\r\n        else\r\n            Player['White'].broadcast(\"Você jogará em segundo!\")\r\n            Player['Green'].broadcast(\"Você começa a partida!\")\r\n        end\r\n    end\r\nend\r\n\r\nfunction updateEmeraldCounter(zone)\r\n    -- Get objects\r\n    zoneObjects = zone.getObjects()\r\n    local number = 0\r\n    -- Loop through, if its Æmeralds then add it up\r\n    for k,v in pairs(zoneObjects) do\r\n        if v.getName() == 'Æmerald' then\r\n            number = number + 1\r\n        end\r\n    end\r\n    return number;\r\nend\r\n\r\nfunction onObjectEnterScriptingZone(zone, enter_object)\r\n    -- Check if Æmber, call Æmeralds update method\r\n    if enter_object.getName() == 'Æmerald' then\r\n        number = updateEmeraldCounter(zone)\r\n        CountingText = getObjectFromGUID(ZoneTextTable[zone.getGUID()])\r\n        -- Some zones don't have counters, so may be nil\r\n        if CountingText != nil then\r\n            CountingText.setValue('Fichas de Æmber: ' .. number)\r\n        end\r\n    end\r\nend\r\n\r\nfunction onObjectLeaveScriptingZone(zone, leave_object)\r\n    -- Check if Æmeralds, call Æmeralds update method\r\n    if leave_object.getName() == 'Æmerald' then\r\n        number = updateEmeraldCounter(zone)\r\n        CountingText = getObjectFromGUID(ZoneTextTable[zone.getGUID()])\r\n        -- Some zones don't have counters, so may be nil\r\n        if CountingText != nil then\r\n            CountingText.setValue('Fichas de Æmber: ' .. number)\r\n        end\r\n    end\r\nend",
+  "LuaScript": "FIRST_KEY_D8_GUI = '749912'\r\nSECOND_KEY_D8_GUI = 'c81962'\r\nTHIRD_KEY_D8_GUI = 'fc06ed'\r\nBAG_D8_GUI = 'ee9f87'\r\n\r\nFIRST_KEY_D9_GUI = 'f3e7e0'\r\nSECOND_KEY_D9_GUI = 'ea0cc8'\r\nTHIRD_KEY_D9_GUI = 'ac746c'\r\nBAG_D9_GUI = 'bdac35'\r\n\r\nZoneTextTable = {}\r\n\r\nstarterPlayer = 1\r\n\r\nenhacing = false\r\n\r\nfunction onload()\r\n    ZoneTextTable['b0c3e3'] = '07299c'\r\n    ZoneTextTable['f36830'] = '565e9e'\r\n\r\n    browserWhite = spawnObject({\r\n        type = \"Tablet\",\r\n        position = {25, 3, -27},\r\n        rotation = {0, 180, 0},\r\n        scale = {1, 1, 1},\r\n        sound = false,\r\n        callback_function = function(browser)\r\n            browser.Browser.url = \"https://site.cardsofkeyforge.com\"\r\n        end\r\n    })\r\n\r\n    browserGreen = spawnObject({\r\n        type = \"Tablet\",\r\n        position = {-25, 3, 27},\r\n        rotation = {0, 0, 0},\r\n        scale = {1, 1, 1},\r\n        sound = false,\r\n        callback_function = function(browser)\r\n            browser.Browser.url = \"https://site.cardsofkeyforge.com\"\r\n        end\r\n    })\r\nend\r\n\r\nfunction onPlayerConnect(player)\r\n    if not player.host then\r\n        starterPlayer = math.random(2)\r\n        if starterPlayer == 1 then\r\n            Player['White'].broadcast(\"Você começa a partida!\")\r\n            Player['Green'].broadcast(\"Você jogará em segundo!\")\r\n        else\r\n            Player['White'].broadcast(\"Você jogará em segundo!\")\r\n            Player['Green'].broadcast(\"Você começa a partida!\")\r\n        end\r\n    end\r\nend\r\n\r\nfunction updateEmeraldCounter(zone)\r\n    -- Get objects\r\n    zoneObjects = zone.getObjects()\r\n    local number = 0\r\n    -- Loop through, if its Æmeralds then add it up\r\n    for k,v in pairs(zoneObjects) do\r\n        if v.getName() == 'Æmerald' then\r\n            number = number + 1\r\n        end\r\n    end\r\n    return number;\r\nend\r\n\r\nfunction addBases(card)\r\n    local icon_slots = {\"1d0cef\", \"30446f\", \"b6c41c\", \"d670e6\", \"47ff10\"}\r\n    for idx, slot in pairs(icon_slots) do\r\n        local icon = getObjectFromGUID(slot)\r\n        if icon == nil then\r\n            local enhancement = {\r\n                name     = \"base\",\r\n                url      = \"http://cloud-3.steamusercontent.com/ugc/1464184259785885822/7DD6CF3BA2AE6A191EF51096239D9864E47636C4/\",\r\n                position = {0.86, 0.4, -0.92 + 0.22 * (idx - 1)},\r\n                rotation = {90, 180, 0},\r\n                scale    = {0.206311762, 0.342105448, 7.89473867},\r\n            }\r\n            card.addDecal(enhancement)\r\n        end\r\n    end\r\nend\r\n\r\nfunction addAembers(card)\r\n    local icon_slots = {\"d591be\", \"77d75d\", \"0e7a59\", \"2039d0\", \"93a356\"}\r\n    for idx, slot in pairs(icon_slots) do\r\n        local icon = getObjectFromGUID(slot)\r\n        if icon != nil then\r\n            local enhancement = {\r\n                name     = \"Amber\",\r\n                url      = \"http://cloud-3.steamusercontent.com/ugc/1327949551204024646/6447043575CF9CE0B6A8BBA125CEB37D0441A103/\",\r\n                position = {0.8, 0.45, -0.92 + 0.22 * (idx - 1)},\r\n                rotation = {90, 180, 0},\r\n                scale    = {0.23602064, 0.188157976, 4.342106},\r\n            }\r\n            card.addDecal(enhancement)\r\n        end\r\n    end\r\nend\r\n\r\nfunction addCaptures(card)\r\n    local icon_slots = {\"27bd99\", \"ce3cf2\", \"d28902\", \"f2e77f\", \"6d9e6d\"}\r\n    for idx, slot in pairs(icon_slots) do\r\n        local icon = getObjectFromGUID(slot)\r\n        if icon != nil then\r\n            local enhancement = {\r\n                name     = \"Capture\",\r\n                url      = \"http://cloud-3.steamusercontent.com/ugc/1327949551204021496/C8DA8AECB454FDD49B9F59600339827FE82C32EE/\",\r\n                position = {0.8, 0.45, -0.92 + 0.22 * (idx - 1)},\r\n                rotation = {90, 180, 0},\r\n                scale    = {0.2238137, 0.206972957, 4.776311},\r\n            }\r\n            card.addDecal(enhancement)\r\n        end\r\n    end\r\nend\r\n\r\nfunction addDamages(card)\r\n    local icon_slots = {\"6b0c3a\", \"bc3ca5\", \"11e5d3\", \"eb06e7\", \"173ee5\"}\r\n    for idx, slot in pairs(icon_slots) do\r\n        local icon = getObjectFromGUID(slot)\r\n        if icon != nil then\r\n            local enhancement = {\r\n                name     = \"Damage\",\r\n                url      = \"http://cloud-3.steamusercontent.com/ugc/1327949551204023515/9CD61ADB57C87691683808B65F85F3D2FFDE6BEF/\",\r\n                position = {0.8, 0.45, -0.92 + 0.22 * (idx - 1)},\r\n                rotation = {90, 180, 0},\r\n                scale    = {0.223114237, 0.227670163, 5.2539463},\r\n            }\r\n            card.addDecal(enhancement)\r\n        end\r\n    end\r\nend\r\n\r\nfunction addDraws(card)\r\n    local icon_slots = {\"34ab64\", \"c46a45\", \"bfd97d\", \"01d540\", \"85b544\"}\r\n    for idx, slot in pairs(icon_slots) do\r\n        local icon = getObjectFromGUID(slot)\r\n        if icon != nil then\r\n            local enhancement = {\r\n                name     = \"Draw\",\r\n                url      = \"http://cloud-3.steamusercontent.com/ugc/1327949551204011885/4EFBF9050F2709451F9004F6D3778D0DD15FDFA7/\",\r\n                position = {0.8, 0.45, -0.92 + 0.22 * (idx - 1)},\r\n                rotation = {90, 180, 0},\r\n                scale    = {0.196684808, 0.2069729, 4.776312},\r\n            }\r\n            card.addDecal(enhancement)\r\n        end\r\n    end\r\nend\r\n\r\nfunction addEnhancements(card)\r\n    addBases(card)\r\n    addAembers(card)\r\n    addCaptures(card)\r\n    addDamages(card)\r\n    addDraws(card)\r\nend\r\n\r\nfunction onObjectEnterScriptingZone(zone, enter_object)\r\n    if (zone.getName() == 'CardEncoder') then\r\n        if enhacing and enter_object.name == 'Card' then\r\n            addEnhancements(enter_object)\r\n        end\r\n\r\n        return\r\n    end\r\n\r\n    -- Check if Æmber, call Æmeralds update method\r\n    if enter_object.getName() == 'Æmerald' then\r\n        number = updateEmeraldCounter(zone)\r\n        CountingText = getObjectFromGUID(ZoneTextTable[zone.getGUID()])\r\n        -- Some zones don't have counters, so may be nil\r\n        if CountingText != nil then\r\n            CountingText.setValue('Fichas de Æmber: ' .. number)\r\n        end\r\n    end\r\nend\r\n\r\nfunction onObjectLeaveScriptingZone(zone, leave_object)\r\n    if (zone.getName() == 'CardEncoder') then\r\n        if enhacing and leave_object.name == 'Card' then\r\n            leave_object.flip()\r\n            leave_object.setPosition({zone.getPosition()[1] - 5, zone.getPosition()[2], zone.getPosition()[3]})\r\n        end\r\n\r\n        return\r\n    end\r\n\r\n    -- Check if Æmeralds, call Æmeralds update method\r\n    if leave_object.getName() == 'Æmerald' then\r\n        number = updateEmeraldCounter(zone)\r\n        CountingText = getObjectFromGUID(ZoneTextTable[zone.getGUID()])\r\n        -- Some zones don't have counters, so may be nil\r\n        if CountingText != nil then\r\n            CountingText.setValue('Fichas de Æmber: ' .. number)\r\n        end\r\n    end\r\nend\r\n",
   "LuaScriptState": "",
   "XmlUI": "<!-- Xml UI. See documentation: https://api.tabletopsimulator.com/ui/introUI/ -->",
   "VectorLines": [
@@ -365,6 +372,37 @@
           "x": -6.4417367,
           "y": 1.5031395,
           "z": 8.995834
+        }
+      ],
+      "color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "thickness": 0.1,
+      "loop": true
+    },
+    {
+      "points3": [
+        {
+          "x": -3.83201981,
+          "y": 1.48921013,
+          "z": -25.93461
+        },
+        {
+          "x": 0.7682963,
+          "y": 1.48279762,
+          "z": -25.9346142
+        },
+        {
+          "x": 0.768296242,
+          "y": 1.4811573,
+          "z": -31.5076313
+        },
+        {
+          "x": -3.83202076,
+          "y": 1.48756981,
+          "z": -31.5076351
         }
       ],
       "color": {
@@ -1065,9 +1103,9 @@
       "Description": "",
       "GMNotes": "",
       "ColorDiffuse": {
-        "r": 0.161746711,
-        "g": 0.08697044,
-        "b": 0.05945809
+        "r": 0.1617463,
+        "g": 0.08697008,
+        "b": 0.0594577566
       },
       "LayoutGroupSortIndex": 0,
       "Value": 0,
@@ -1098,11 +1136,11 @@
       "Name": "Bag",
       "Transform": {
         "posX": -33.99018,
-        "posY": 1.33397067,
-        "posZ": -33.5881157,
-        "rotX": 359.9831,
-        "rotY": -0.00182438153,
-        "rotZ": 359.920074,
+        "posY": 1.33397055,
+        "posZ": -33.5881424,
+        "rotX": 359.983124,
+        "rotY": -0.00209311466,
+        "rotZ": 359.920044,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2120,9 +2158,9 @@
       "Description": "",
       "GMNotes": "",
       "ColorDiffuse": {
-        "r": 0.170723021,
-        "g": 0.170723021,
-        "b": 0.170723021
+        "r": 0.170722812,
+        "g": 0.170722812,
+        "b": 0.170722812
       },
       "LayoutGroupSortIndex": 0,
       "Value": 0,
@@ -2144,7 +2182,7 @@
         "ImageScalar": 1.0,
         "WidthScale": 1.0
       },
-      "LuaScript": "buttonColor = {0.19,0.24,0.35,1}\nDECK_LIST_INDEX = 1\ncard_back_options = {\"Vermelho\", \"Azul\", \"Roxo\", \"Preto\"}\nlanguage_options = {\"Português\"}\nexpansion_options = {\"Qualquer\", \"O Chamado dos Arcontes\", \"Era da Ascensão\", \"Colisão entre Mundos\", \"Mutação em Massa\", \"Mar de Trevas\", \"Rise of the Keyraken\"}\nplayer_draw = { White = '2a72b5', Green = '354143' }\nplayer_decklist = { White = '5536f1', Green = '5e3694' }\n\nfunction onLoad()\n    self.setName(\"Painel de Importação\")\n    --Random Buttom\n    self.createButton({\n        click_function=\"selectRandomDeck\",\n        function_owner=self,\n        position={0.33, 0.65, -1},\n        height=400, width=1200,\n        color=buttonColor,\n        font_color={1,1,1,1},\n        font_size=140,\n        label=\"ALEATÓRIO\"\n    })\n    --Build Deck Buttom\n    self.createButton({\n        click_function=\"FetchDeck\",\n        function_owner=self,\n        position={0.33, 0.65,-3.8},\n        height=400, width=1200,\n        color=buttonColor,\n        font_color={1,1,1},\n        font_size=120,\n        label=\"IMPORTAR\"\n    })\n    --Build CardBack Button\n    self.createButton({\n        click_function=\"createCardBackDropDown\",\n        function_owner=self,\n        position = {-3.43, 0.65, 1.6},\n        height=400, width=1200,\n        color=buttonColor,\n        font_color={1,1,1},\n        font_size=150,\n        label=\"Vermelho\",\n        tooltip=\"Selecione um Sleeve\",\n    })\n    --Build Language Button\n    self.createButton({\n        click_function=\"createLanguageDropDown\",\n        function_owner=self,\n        position = {0.33, 0.65, 1.6},\n        height=400, width=1200,\n        color=buttonColor,\n        font_color={1,1,1},\n        font_size=150,\n        label=\"Português\",\n        tooltip=\"Selecione um Idioma\",\n    })\n    --Build Expansion Button\n    self.createButton({\n        click_function=\"createExpansionDropDown\",\n        function_owner=self,\n        position = {-5.6, 0.65, -1},\n        height=400, width=1800,\n        color=buttonColor,\n        font_color={1,1,1},\n        font_size=150,\n        label=\"Qualquer\",\n        tooltip=\"Selecione um Conjunto\",\n    })\n    --deckURL\n    self.createInput({\n        input_function=\"none\",\n        function_owner=self,\n        label = \"ID do Baralho\",\n        position = {-2.92, 0.648999989032745, -5.07},\n        width = 4570, height = 375,\n        font_size = 350,\n        color = {0.8431, 0.8117, 0.7294, 0.8},\n        font_color = {0.4039, 0.0862, 0.0862, 1}\n    })\n    --DeckList\n    self.createInput({\n        input_function=\"none\",\n        function_owner=self,\n        position={5.08, 0.649, -2.83},\n        color = {0.8431, 0.8117, 0.7294, 0.8},\n        font_color = {0.4039, 0.0862, 0.0862, 1},\n        height=4640, width=2490,\n        font_size=100,\n        label=\"Cartas do Baralho\",\n    })\n    for _, input in pairs(self.getInputs()) do\n        if input.label == \"Cartas do Baralho\" then DECK_LIST_INDEX = input.index end\n    end\nend\n\nfunction selectRandomDeck(_obj, player_color, _alt_click)\n    removeOptions()\n    self.editInput({index=DECK_LIST_INDEX, value=''})\n    local expansion = 'all'\n    local expansion_values = {}\n    expansion_values[\"Qualquer\"] = \"all\"\n    expansion_values[\"O Chamado dos Arcontes\"] = \"cota\"\n    expansion_values[\"Era da Ascensão\"] = \"aoa\"\n    expansion_values[\"Colisão entre Mundos\"] = \"wc\"\n    expansion_values[\"Mutação em Massa\"] = \"mm\"\n    expansion_values[\"Mar de Trevas\"] = \"dt\"\n    expansion_values[\"Rise of the Keyraken\"] = \"rotk\"\n    for _, button in pairs(self.getButtons()) do\n        if button.tooltip == \"Selecione um Conjunto\" then\n            expansion = expansion_values[button.label]\n        end\n    end\n    if expansion == \"rotk\" then\n        FetchRotK(_obj, player_color, _alt_click)\n        return\n    end\n    Player[player_color].broadcast(\"Importando um baralho aleatório, aguarde.\")\n    WebRequest.get(\"https://api.cardsofkeyforge.com/decks/random?set=\"..expansion, function(request)\n        if request.is_error then\n            log(request.error)\n        else\n            if request.is_done then\n                for _, input in pairs(self.getInputs()) do\n                    if input.label == \"ID do Baralho\" then\n                        local vaultDeck = JSON.decode(request.text)\n                        Player[player_color].broadcast(\"Seu baralho será o \"..vaultDeck.Name..\"!\")\n                        self.editInput({index=input.index, value=vaultDeck.Id})\n                        FetchDeck(_obj, player_color, _alt_click)\n                    end\n                end\n            end\n        end\n    end)\nend\n\nfunction FetchRotK(_obj, player_color, _alt_click)\n    WebRequest.get(\"https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/tts/special/Rise%20of%20the%20Keyraken.json\", function(request)\n        if request.is_error then\n            log(request.error)\n        else\n            if request.is_done then\n                local responseData = JSON.decode(request.text)\n                spawnObjectJSON({\n                    json = JSON.encode(responseData.ObjectStates[1]),\n                    callback_function = function(deck)\n                        local deckZone = getObjectFromGUID(player_draw[player_color])\n                        deck.setPosition(deckZone.getPosition())\n                        deck.setRotation(deckZone.getRotation())\n                    end\n                })\n\n                spawnObjectJSON({\n                    json = JSON.encode(responseData.ObjectStates[3]),\n                    callback_function = function(deck)\n                        local deckZone = getObjectFromGUID(player_decklist[player_color])\n                        deck.setPosition(deckZone.getPosition())\n                        deck.setRotation({deckZone.getRotation()[1], deckZone.getRotation()[2], deck.getRotation()[3]})\n                    end\n                })\n\n                spawnObjectJSON({\n                    json = JSON.encode(responseData.ObjectStates[2]),\n                    callback_function = function(deck)\n                        deck.setPosition({0, 1, 0})\n                    end\n                })\n\n                local deckList = \"Cartas do Baralho\"\n                for _, cardData in pairs(responseData.ObjectStates[1].ContainedObjects) do\n                    deckList = deckList..\"\\n\"..cardData.Nickname\n                end\n                self.editInput({index=DECK_LIST_INDEX, value=deckList})\n                Player[player_color].broadcast(\"Baralho da aventura importado!\")\n            end\n        end\n    end)\nend\n\nfunction FetchDeck(_obj, player_color, _alt_click)\n    removeOptions()\n    local sleeve = 'red'\n    local sleeve_values = {}\n    sleeve_values[\"Vermelho\"] = \"red\"\n    sleeve_values[\"Azul\"] = \"blue\"\n    sleeve_values[\"Roxo\"] = \"purple\"\n    sleeve_values[\"Preto\"] = \"black\"\n    for _, button in pairs(self.getButtons()) do\n        if button.tooltip == \"Selecione um Sleeve\" then\n            sleeve = sleeve_values[button.label]\n        end\n    end\n    local URL = \"\"\n    Player[player_color].broadcast(\"Importando o seu baralho, aguarde.\")\n    for _, input in pairs(self.getInputs()) do\n        if input.label == \"ID do Baralho\" then\n            URL = input.value\n            self.editInput({index=input.index, value=''})\n        end\n    end\n    if not URL or string.len(URL) == 0 then return Player[player_color].broadcast(\"Por favor, informe o ID do seu baralho.\", {1, 1, 1}) end\n    local deckid = URL:match(\"%w+-%w+-%w+-%w+-%w+\")\n    WebRequest.get(\"https://api.cardsofkeyforge.com/decks/tts?deckid=\"..deckid..\"&sleeve=\"..sleeve, function(request)\n        if request.is_error then\n            log(request.error)\n        else\n            if request.is_done then\n                local responseData = JSON.decode(request.text)\n                spawnObjectJSON({\n                    json = JSON.encode(responseData.ObjectStates[1]),\n                    callback_function = function(deck)\n                        local deckZone = getObjectFromGUID(player_draw[player_color])\n                        deck.setPosition(deckZone.getPosition())\n                        deck.setRotation(deckZone.getRotation())\n                    end\n                })\n                if #responseData.ObjectStates > 1 then\n                    spawnObjectJSON({\n                        json = JSON.encode(responseData.ObjectStates[2]),\n                        callback_function = function(deck)\n                            local deckZone = getObjectFromGUID(player_decklist[player_color])\n                            deck.setPosition(deckZone.getPosition())\n                            deck.setRotation(deckZone.getRotation())\n                        end\n                    })\n                end\n\n                local browser = Global.getVar(\"browser\"..player_color)\n                browser.Browser.url = \"https://www.keyforgegame.com/deck-details/\"..deckid\n                local deckList = \"Cartas do Baralho\"\n                for _, cardData in pairs(responseData.ObjectStates[1].ContainedObjects) do\n                    deckList = deckList..\"\\n\"..cardData.Nickname\n                end\n                self.editInput({index=DECK_LIST_INDEX, value=deckList})\n                Player[player_color].broadcast(\"Baralho \"..deckid..\" importado!\")\n            end\n        end\n    end)\nend\n\nfunction createCardBackDropDown()\n    removeOptions()\n    for x, color in ipairs(card_back_options) do\n        self.createButton({\n            click_function= dynamicFunction(\"setColor\"..color, function(obj, player, input_value, selected) setCardBack(color) end),\n            function_owner=self,position = {-3.43, 0.7, 1.6+(x*0.8)},\n            height=400, width=1200,\n            color=buttonColor,font_color={1,1,1},\n            font_size=150,label=color\n        })\n    end\nend\n\nfunction setCardBack(color)\n    for _, button in pairs(self.getButtons()) do\n        if button.tooltip == \"Selecione um Sleeve\" then\n            self.editButton({index=button.index, label=color})\n        end\n    end\n    removeOptions()\nend\n\nfunction createLanguageDropDown()\n    removeOptions()\n    for x, lang in ipairs(language_options) do\n        self.createButton({\n            click_function= dynamicFunction(\"setLang\"..lang, function(obj, player, input_value, selected) setLang(lang) end),\n            function_owner=self,position = {0.33, 0.7, 1.6+(x*0.8)},\n            height=400, width=1200,\n            color=buttonColor,font_color={1,1,1},\n            font_size=150,label=lang\n        })\n    end\nend\n\nfunction setLang(lang)\n    for _, button in pairs(self.getButtons()) do\n        if button.tooltip == \"Selecione um Idioma\" then\n            self.editButton({index=button.index, label=lang})\n        end\n    end\n    removeOptions()\nend\n\nfunction createExpansionDropDown()\n    removeOptions()\n    for x, expansion in ipairs(expansion_options) do\n        self.createButton({\n            click_function= dynamicFunction(\"setExpansion\"..expansion, function(obj, player, input_value, selected) setExpansion(expansion) end),\n            function_owner=self,position = {-5.6, 0.7, -1+(x*0.8)},\n            height=400, width=1800,\n            color=buttonColor,font_color={1,1,1},\n            font_size=150,label=expansion\n        })\n    end\nend\n\nfunction setExpansion(expansion)\n    for _, button in pairs(self.getButtons()) do\n        if button.tooltip == \"Selecione um Conjunto\" then\n            self.editButton({index=button.index, label=expansion})\n        end\n    end\n    removeOptions()\nend\n\nfunction removeOptions()\n    for _, button in pairs(self.getButtons()) do\n        if button.index > 4 then self.removeButton(button.index) end\n    end\nend\n\nfunction dynamicFunction(funcName, func)\n  self.setVar(funcName, func)\n  return funcName\nend\n\n--Dummy function, absorbs unwanted triggers\nfunction none() end\n",
+      "LuaScript": "buttonColor = {0.19,0.24,0.35,1}\nDECK_LIST_INDEX = 1\ncard_back_options = {\"Vermelho\", \"Azul\", \"Roxo\", \"Preto\"}\nlanguage_options = {\"Português\"}\nexpansion_options = {\"Qualquer\", \"O Chamado dos Arcontes\", \"Era da Ascensão\", \"Colisão entre Mundos\", \"Mutação em Massa\", \"Mar de Trevas\", \"Rise of the Keyraken\"}\nplayer_draw = { White = '2a72b5', Green = '354143' }\nplayer_decklist = { White = '5536f1', Green = '5e3694' }\n\nfunction onLoad()\n    self.setName(\"Painel de Importação\")\n    --Random Buttom\n    self.createButton({\n        click_function=\"selectRandomDeck\",\n        function_owner=self,\n        position={0.33, 0.65, -1},\n        height=400, width=1200,\n        color=buttonColor,\n        font_color={1,1,1,1},\n        font_size=140,\n        label=\"ALEATÓRIO\"\n    })\n    --Build Deck Buttom\n    self.createButton({\n        click_function=\"FetchDeck\",\n        function_owner=self,\n        position={0.33, 0.65,-3.8},\n        height=400, width=1200,\n        color=buttonColor,\n        font_color={1,1,1},\n        font_size=120,\n        label=\"IMPORTAR\"\n    })\n    --Build CardBack Button\n    self.createButton({\n        click_function=\"createCardBackDropDown\",\n        function_owner=self,\n        position = {-3.43, 0.65, 1.6},\n        height=400, width=1200,\n        color=buttonColor,\n        font_color={1,1,1},\n        font_size=150,\n        label=\"Vermelho\",\n        tooltip=\"Selecione um Sleeve\",\n    })\n    --Build Language Button\n    self.createButton({\n        click_function=\"createLanguageDropDown\",\n        function_owner=self,\n        position = {0.33, 0.65, 1.6},\n        height=400, width=1200,\n        color=buttonColor,\n        font_color={1,1,1},\n        font_size=150,\n        label=\"Português\",\n        tooltip=\"Selecione um Idioma\",\n    })\n    --Build Expansion Button\n    self.createButton({\n        click_function=\"createExpansionDropDown\",\n        function_owner=self,\n        position = {-5.6, 0.65, -1},\n        height=400, width=1800,\n        color=buttonColor,\n        font_color={1,1,1},\n        font_size=150,\n        label=\"Qualquer\",\n        tooltip=\"Selecione um Conjunto\",\n    })\n    --deckURL\n    self.createInput({\n        input_function=\"none\",\n        function_owner=self,\n        label = \"ID do Baralho\",\n        position = {-2.92, 0.648999989032745, -5.07},\n        width = 4570, height = 375,\n        font_size = 350,\n        color = {0.8431, 0.8117, 0.7294, 0.8},\n        font_color = {0.4039, 0.0862, 0.0862, 1}\n    })\n    --DeckList\n    self.createInput({\n        input_function=\"none\",\n        function_owner=self,\n        position={5.08, 0.649, -2.83},\n        color = {0.8431, 0.8117, 0.7294, 0.8},\n        font_color = {0.4039, 0.0862, 0.0862, 1},\n        height=4640, width=2490,\n        font_size=100,\n        label=\"Cartas do Baralho\",\n    })\n    for _, input in pairs(self.getInputs()) do\n        if input.label == \"Cartas do Baralho\" then DECK_LIST_INDEX = input.index end\n    end\nend\n\nfunction selectRandomDeck(_obj, player_color, _alt_click)\n    removeOptions()\n    self.editInput({index=DECK_LIST_INDEX, value=''})\n    local expansion = 'all'\n    local expansion_values = {}\n    expansion_values[\"Qualquer\"] = \"all\"\n    expansion_values[\"O Chamado dos Arcontes\"] = \"cota\"\n    expansion_values[\"Era da Ascensão\"] = \"aoa\"\n    expansion_values[\"Colisão entre Mundos\"] = \"wc\"\n    expansion_values[\"Mutação em Massa\"] = \"mm\"\n    expansion_values[\"Mar de Trevas\"] = \"dt\"\n    expansion_values[\"Rise of the Keyraken\"] = \"rotk\"\n    for _, button in pairs(self.getButtons()) do\n        if button.tooltip == \"Selecione um Conjunto\" then\n            expansion = expansion_values[button.label]\n        end\n    end\n    if expansion == \"rotk\" then\n        FetchRotK(_obj, player_color, _alt_click)\n        return\n    end\n    Player[player_color].broadcast(\"Importando um baralho aleatório, aguarde.\")\n    WebRequest.get(\"https://api.cardsofkeyforge.com/decks/random?set=\"..expansion, function(request)\n        if request.is_error then\n            log(request.error)\n        else\n            if request.is_done then\n                for _, input in pairs(self.getInputs()) do\n                    if input.label == \"ID do Baralho\" then\n                        local vaultDeck = JSON.decode(request.text)\n                        Player[player_color].broadcast(\"Seu baralho será o \"..vaultDeck.Name..\"!\")\n                        self.editInput({index=input.index, value=vaultDeck.Id})\n                        FetchDeck(_obj, player_color, _alt_click)\n                    end\n                end\n            end\n        end\n    end)\nend\n\nfunction FetchRotK(_obj, player_color, _alt_click)\n    WebRequest.get(\"https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/tts/special/Rise%20of%20the%20Keyraken.json\", function(request)\n        if request.is_error then\n            log(request.error)\n        else\n            if request.is_done then\n                local responseData = JSON.decode(request.text)\n                spawnObjectJSON({\n                    json = JSON.encode(responseData.ObjectStates[1]),\n                    callback_function = function(deck)\n                        local deckZone = getObjectFromGUID(player_draw[player_color])\n                        deck.setPosition(deckZone.getPosition())\n                        deck.setRotation(deckZone.getRotation())\n                    end\n                })\n\n                spawnObjectJSON({\n                    json = JSON.encode(responseData.ObjectStates[3]),\n                    callback_function = function(deck)\n                        local deckZone = getObjectFromGUID(player_decklist[player_color])\n                        deck.setPosition(deckZone.getPosition())\n                        deck.setRotation({deckZone.getRotation()[1], deckZone.getRotation()[2], deck.getRotation()[3]})\n                    end\n                })\n\n                spawnObjectJSON({\n                    json = JSON.encode(responseData.ObjectStates[2]),\n                    callback_function = function(deck)\n                        deck.setPosition({0, 1, 0})\n                    end\n                })\n\n                local deckList = \"Cartas do Baralho\"\n                for _, cardData in pairs(responseData.ObjectStates[1].ContainedObjects) do\n                    deckList = deckList..\"\\n\"..cardData.Nickname\n                end\n                self.editInput({index=DECK_LIST_INDEX, value=deckList})\n                Player[player_color].broadcast(\"Baralho da aventura importado!\")\n            end\n        end\n    end)\nend\n\nfunction FetchDeck(_obj, player_color, _alt_click)\n    removeOptions()\n    local sleeve = 'red'\n    local sleeve_values = {}\n    sleeve_values[\"Vermelho\"] = \"red\"\n    sleeve_values[\"Azul\"] = \"blue\"\n    sleeve_values[\"Roxo\"] = \"purple\"\n    sleeve_values[\"Preto\"] = \"black\"\n    for _, button in pairs(self.getButtons()) do\n        if button.tooltip == \"Selecione um Sleeve\" then\n            sleeve = sleeve_values[button.label]\n        end\n    end\n    local URL = \"\"\n    Player[player_color].broadcast(\"Importando o seu baralho, aguarde.\")\n    for _, input in pairs(self.getInputs()) do\n        if input.label == \"ID do Baralho\" then\n            URL = input.value\n            self.editInput({index=input.index, value=''})\n        end\n    end\n    if not URL or string.len(URL) == 0 then return Player[player_color].broadcast(\"Por favor, informe o ID do seu baralho.\", {1, 1, 1}) end\n    local deckid = URL:match(\"%w+-%w+-%w+-%w+-%w+\")\n    WebRequest.get(\"https://api.cardsofkeyforge.com/decks/tts?deckid=\"..deckid..\"&sleeve=\"..sleeve, function(request)\n        if request.is_error then\n            log(request.error)\n        else\n            if request.is_done then\n                local responseData = JSON.decode(request.text)\n                spawnObjectJSON({\n                    json = JSON.encode(responseData.ObjectStates[1]),\n                    callback_function = function(deck)\n                        local deckZone = getObjectFromGUID(player_draw[player_color])\n                        deck.setPosition(deckZone.getPosition())\n                        deck.setRotation(deckZone.getRotation())\n                    end\n                })\n                if #responseData.ObjectStates > 1 then\n                    spawnObjectJSON({\n                        json = JSON.encode(responseData.ObjectStates[2]),\n                        callback_function = function(deck)\n                            local deckZone = getObjectFromGUID(player_decklist[player_color])\n                            deck.setPosition(deckZone.getPosition())\n                            deck.setRotation(deckZone.getRotation())\n                        end\n                    })\n                end\n\n                local browser = Global.getVar(\"browser\"..player_color)\n                browser.Browser.url = \"https://www.keyforgegame.com/deck-details/\"..deckid\n                local deckList = \"Cartas do Baralho\"\n                for _, cardData in pairs(responseData.ObjectStates[1].ContainedObjects) do\n                    deckList = deckList..\"\\n\"..cardData.Nickname\n                end\n                self.editInput({index=DECK_LIST_INDEX, value=deckList})\n                Player[player_color].broadcast(\"Baralho \"..deckid..\" importado!\")\n            end\n        end\n    end)\nend\n\nfunction createCardBackDropDown()\n    removeOptions()\n    for x, color in ipairs(card_back_options) do\n        self.createButton({\n            click_function= dynamicFunction(\"setColor\"..color, function(obj, player, input_value, selected) setCardBack(color) end),\n            function_owner=self,position = {-3.43, 0.7, 1.6+(x*0.8)},\n            height=400, width=1200,\n            color=buttonColor,font_color={1,1,1},\n            font_size=150,label=color\n        })\n    end\nend\n\nfunction setCardBack(color)\n    for _, button in pairs(self.getButtons()) do\n        if button.tooltip == \"Selecione um Sleeve\" then\n            self.editButton({index=button.index, label=color})\n        end\n    end\n    removeOptions()\nend\n\nfunction createLanguageDropDown()\n    removeOptions()\n    for x, lang in ipairs(language_options) do\n        self.createButton({\n            click_function= dynamicFunction(\"setLang\"..lang, function(obj, player, input_value, selected) setLang(lang) end),\n            function_owner=self,position = {0.33, 0.7, 1.6+(x*0.8)},\n            height=400, width=1200,\n            color=buttonColor,font_color={1,1,1},\n            font_size=150,label=lang\n        })\n    end\nend\n\nfunction setLang(lang)\n    for _, button in pairs(self.getButtons()) do\n        if button.tooltip == \"Selecione um Idioma\" then\n            self.editButton({index=button.index, label=lang})\n        end\n    end\n    removeOptions()\nend\n\nfunction createExpansionDropDown()\n    removeOptions()\n    for x, expansion in ipairs(expansion_options) do\n        self.createButton({\n            click_function= dynamicFunction(\"setExpansion\"..expansion, function(obj, player, input_value, selected) setExpansion(expansion) end),\n            function_owner=self,position = {-5.6, 0.7, -1+(x*0.8)},\n            height=400, width=1800,\n            color=buttonColor,font_color={1,1,1},\n            font_size=150,label=expansion\n        })\n    end\nend\n\nfunction setExpansion(expansion)\n    for _, button in pairs(self.getButtons()) do\n        if button.tooltip == \"Selecione um Conjunto\" then\n            self.editButton({index=button.index, label=expansion})\n        end\n    end\n    removeOptions()\nend\n\nfunction removeOptions()\n    for _, button in pairs(self.getButtons()) do\n        if button.index > 4 then self.removeButton(button.index) end\n    end\nend\n\nfunction dynamicFunction(funcName, func)\n  self.setVar(funcName, func)\n  return funcName\nend\n\n--Dummy function, absorbs unwanted triggers\nfunction none() end",
       "LuaScriptState": ""
     },
     {
@@ -2331,11 +2369,11 @@
       "GUID": "bdac35",
       "Name": "Bag",
       "Transform": {
-        "posX": 34.8529625,
-        "posY": 1.25774956,
-        "posZ": 33.49559,
-        "rotX": 359.983124,
-        "rotY": -0.00286235777,
+        "posX": 34.8530159,
+        "posY": 1.25775027,
+        "posZ": 33.4956169,
+        "rotX": 359.9831,
+        "rotY": -0.00355051272,
         "rotZ": 359.920044,
         "scaleX": 1.0,
         "scaleY": 1.0,
@@ -3866,12 +3904,12 @@
       "GUID": "89c7fc",
       "Name": "CardCustom",
       "Transform": {
-        "posX": -26.0000515,
+        "posX": -26.0000648,
         "posY": 1.52282155,
-        "posZ": -29.000042,
-        "rotX": 0.0168787148,
-        "rotY": 179.99501,
-        "rotZ": 0.07987492,
+        "posZ": -29.00008,
+        "rotX": 0.0168788023,
+        "rotY": 179.994919,
+        "rotZ": 0.0798748359,
         "scaleX": 2.99246836,
         "scaleY": 1.0,
         "scaleZ": 2.99246836
@@ -3919,11 +3957,11 @@
       "GUID": "edde25",
       "Name": "CardCustom",
       "Transform": {
-        "posX": 26.0773239,
+        "posX": 26.07735,
         "posY": 1.46728718,
-        "posZ": 28.9598618,
+        "posZ": 28.9598961,
         "rotX": 359.983124,
-        "rotY": -0.0004876289,
+        "rotY": -0.000598279061,
         "rotZ": 359.920135,
         "scaleX": 2.99246836,
         "scaleY": 1.0,
@@ -3972,11 +4010,11 @@
       "GUID": "87bb6f",
       "Name": "Custom_Token",
       "Transform": {
-        "posX": -19.0000362,
-        "posY": 1.61005867,
-        "posZ": 7.00000858,
+        "posX": -19.00006,
+        "posY": 1.610059,
+        "posZ": 7.000012,
         "rotX": 359.983124,
-        "rotY": 2.46818745e-5,
+        "rotY": -5.281296e-5,
         "rotZ": 359.920135,
         "scaleX": 1.0,
         "scaleY": 1.0,
@@ -4494,12 +4532,12 @@
       "GUID": "3fe308",
       "Name": "Custom_Token",
       "Transform": {
-        "posX": 19.00009,
-        "posY": 1.55295992,
-        "posZ": -7.00002956,
-        "rotX": 0.01686793,
-        "rotY": 179.998962,
-        "rotZ": 0.07987409,
+        "posX": 19.0001144,
+        "posY": 1.55296016,
+        "posZ": -7.00004,
+        "rotX": 0.0168718677,
+        "rotY": 179.998764,
+        "rotZ": 0.07987068,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -5011,6 +5049,1396 @@
           "XmlUI": ""
         }
       }
+    },
+    {
+      "GUID": "f1ff65",
+      "Name": "ScriptingTrigger",
+      "Transform": {
+        "posX": -1.58581877,
+        "posY": 2.0,
+        "posZ": -28.78,
+        "rotX": 0.0,
+        "rotY": 0.0,
+        "rotZ": 0.0,
+        "scaleX": 4.46089458,
+        "scaleY": 2.0,
+        "scaleZ": 5.54
+      },
+      "Nickname": "CardEncoder",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.509803951
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": ""
+    },
+    {
+      "GUID": "30446f",
+      "Name": "Custom_Tile",
+      "Transform": {
+        "posX": -3.000035,
+        "posY": 1.47752035,
+        "posZ": -27.7500019,
+        "rotX": 0.0168702155,
+        "rotY": 180.000656,
+        "rotZ": 0.0799135342,
+        "scaleX": 0.452574432,
+        "scaleY": 1.0,
+        "scaleZ": 0.452574432
+      },
+      "Nickname": "Pular",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "http://cloud-3.steamusercontent.com/ugc/1808736232983605918/91D32B18177A36A6B9238ABF84AA11E6874D9A8A/",
+        "ImageSecondaryURL": "",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+          "Type": 2,
+          "Thickness": 0.2,
+          "Stackable": false,
+          "Stretch": true
+        }
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "States": {
+        "2": {
+          "GUID": "77d75d",
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -3.000025,
+            "posY": 1.47774065,
+            "posZ": -27.0000114,
+            "rotX": 0.01684407,
+            "rotY": 180.0007,
+            "rotZ": 0.0799155,
+            "scaleX": 0.452574432,
+            "scaleY": 1.0,
+            "scaleZ": 0.452574432
+          },
+          "Nickname": "Æmber",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/1808736232983608863/F649A5F3B2E7386DE725786A0853235AD0E32CE3/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 2,
+              "Thickness": 0.2,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        "3": {
+          "GUID": "ce3cf2",
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -3.000025,
+            "posY": 1.47774065,
+            "posZ": -27.0000114,
+            "rotX": 0.01684407,
+            "rotY": 180.0007,
+            "rotZ": 0.0799155,
+            "scaleX": 0.452574432,
+            "scaleY": 1.0,
+            "scaleZ": 0.452574432
+          },
+          "Nickname": "Captura",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/1808736232983611167/49E602CCC9CA70A817BEDC093116DEE11EC14850/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 2,
+              "Thickness": 0.2,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        "4": {
+          "GUID": "bc3ca5",
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -3.000025,
+            "posY": 1.47774065,
+            "posZ": -27.0000114,
+            "rotX": 0.01684407,
+            "rotY": 180.0007,
+            "rotZ": 0.0799155,
+            "scaleX": 0.452574432,
+            "scaleY": 1.0,
+            "scaleZ": 0.452574432
+          },
+          "Nickname": "Dano",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/1808736232983611809/A80DC454E5E7ABB38718FF1CB14733E7F0DAD997/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 2,
+              "Thickness": 0.2,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        "5": {
+          "GUID": "c46a45",
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -3.000025,
+            "posY": 1.47774065,
+            "posZ": -27.0000114,
+            "rotX": 0.01684407,
+            "rotY": 180.0007,
+            "rotZ": 0.0799155,
+            "scaleX": 0.452574432,
+            "scaleY": 1.0,
+            "scaleZ": 0.452574432
+          },
+          "Nickname": "Compra",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/1808736232983612689/A611440CA8810714DF65FC3EEB52242D23A69ABC/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 2,
+              "Thickness": 0.2,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }
+      }
+    },
+    {
+      "GUID": "b6c41c",
+      "Name": "Custom_Tile",
+      "Transform": {
+        "posX": -3.00004172,
+        "posY": 1.4772259,
+        "posZ": -28.7500038,
+        "rotX": 0.0168635882,
+        "rotY": 180.00061,
+        "rotZ": 0.0799187049,
+        "scaleX": 0.452574432,
+        "scaleY": 1.0,
+        "scaleZ": 0.452574432
+      },
+      "Nickname": "Pular",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "http://cloud-3.steamusercontent.com/ugc/1808736232983605918/91D32B18177A36A6B9238ABF84AA11E6874D9A8A/",
+        "ImageSecondaryURL": "",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+          "Type": 2,
+          "Thickness": 0.2,
+          "Stackable": false,
+          "Stretch": true
+        }
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "States": {
+        "2": {
+          "GUID": "0e7a59",
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -3.000025,
+            "posY": 1.47774065,
+            "posZ": -27.0000114,
+            "rotX": 0.01684407,
+            "rotY": 180.0007,
+            "rotZ": 0.0799155,
+            "scaleX": 0.452574432,
+            "scaleY": 1.0,
+            "scaleZ": 0.452574432
+          },
+          "Nickname": "Æmber",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/1808736232983608863/F649A5F3B2E7386DE725786A0853235AD0E32CE3/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 2,
+              "Thickness": 0.2,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        "3": {
+          "GUID": "d28902",
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -3.000025,
+            "posY": 1.47774065,
+            "posZ": -27.0000114,
+            "rotX": 0.01684407,
+            "rotY": 180.0007,
+            "rotZ": 0.0799155,
+            "scaleX": 0.452574432,
+            "scaleY": 1.0,
+            "scaleZ": 0.452574432
+          },
+          "Nickname": "Captura",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/1808736232983611167/49E602CCC9CA70A817BEDC093116DEE11EC14850/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 2,
+              "Thickness": 0.2,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        "4": {
+          "GUID": "11e5d3",
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -3.000025,
+            "posY": 1.47774065,
+            "posZ": -27.0000114,
+            "rotX": 0.01684407,
+            "rotY": 180.0007,
+            "rotZ": 0.0799155,
+            "scaleX": 0.452574432,
+            "scaleY": 1.0,
+            "scaleZ": 0.452574432
+          },
+          "Nickname": "Dano",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/1808736232983611809/A80DC454E5E7ABB38718FF1CB14733E7F0DAD997/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 2,
+              "Thickness": 0.2,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        "5": {
+          "GUID": "bfd97d",
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -3.000025,
+            "posY": 1.47774065,
+            "posZ": -27.0000114,
+            "rotX": 0.01684407,
+            "rotY": 180.0007,
+            "rotZ": 0.0799155,
+            "scaleX": 0.452574432,
+            "scaleY": 1.0,
+            "scaleZ": 0.452574432
+          },
+          "Nickname": "Compra",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/1808736232983612689/A611440CA8810714DF65FC3EEB52242D23A69ABC/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 2,
+              "Thickness": 0.2,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }
+      }
+    },
+    {
+      "GUID": "d670e6",
+      "Name": "Custom_Tile",
+      "Transform": {
+        "posX": -3.00002337,
+        "posY": 1.47693145,
+        "posZ": -29.7500019,
+        "rotX": 0.01686532,
+        "rotY": 180.0004,
+        "rotZ": 0.0799092352,
+        "scaleX": 0.452574432,
+        "scaleY": 1.0,
+        "scaleZ": 0.452574432
+      },
+      "Nickname": "Pular",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "http://cloud-3.steamusercontent.com/ugc/1808736232983605918/91D32B18177A36A6B9238ABF84AA11E6874D9A8A/",
+        "ImageSecondaryURL": "",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+          "Type": 2,
+          "Thickness": 0.2,
+          "Stackable": false,
+          "Stretch": true
+        }
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "States": {
+        "2": {
+          "GUID": "2039d0",
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -3.000025,
+            "posY": 1.47774065,
+            "posZ": -27.0000114,
+            "rotX": 0.01684407,
+            "rotY": 180.0007,
+            "rotZ": 0.0799155,
+            "scaleX": 0.452574432,
+            "scaleY": 1.0,
+            "scaleZ": 0.452574432
+          },
+          "Nickname": "Æmber",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/1808736232983608863/F649A5F3B2E7386DE725786A0853235AD0E32CE3/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 2,
+              "Thickness": 0.2,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        "3": {
+          "GUID": "f2e77f",
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -3.000025,
+            "posY": 1.47774065,
+            "posZ": -27.0000114,
+            "rotX": 0.01684407,
+            "rotY": 180.0007,
+            "rotZ": 0.0799155,
+            "scaleX": 0.452574432,
+            "scaleY": 1.0,
+            "scaleZ": 0.452574432
+          },
+          "Nickname": "Captura",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/1808736232983611167/49E602CCC9CA70A817BEDC093116DEE11EC14850/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 2,
+              "Thickness": 0.2,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        "4": {
+          "GUID": "eb06e7",
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -3.000025,
+            "posY": 1.47774065,
+            "posZ": -27.0000114,
+            "rotX": 0.01684407,
+            "rotY": 180.0007,
+            "rotZ": 0.0799155,
+            "scaleX": 0.452574432,
+            "scaleY": 1.0,
+            "scaleZ": 0.452574432
+          },
+          "Nickname": "Dano",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/1808736232983611809/A80DC454E5E7ABB38718FF1CB14733E7F0DAD997/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 2,
+              "Thickness": 0.2,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        "5": {
+          "GUID": "01d540",
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -3.000025,
+            "posY": 1.47774065,
+            "posZ": -27.0000114,
+            "rotX": 0.01684407,
+            "rotY": 180.0007,
+            "rotZ": 0.0799155,
+            "scaleX": 0.452574432,
+            "scaleY": 1.0,
+            "scaleZ": 0.452574432
+          },
+          "Nickname": "Compra",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/1808736232983612689/A611440CA8810714DF65FC3EEB52242D23A69ABC/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 2,
+              "Thickness": 0.2,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }
+      }
+    },
+    {
+      "GUID": "1d0cef",
+      "Name": "Custom_Tile",
+      "Transform": {
+        "posX": -3.00002456,
+        "posY": 1.47781467,
+        "posZ": -26.7500038,
+        "rotX": 0.0168710258,
+        "rotY": 180.000916,
+        "rotZ": 0.07990926,
+        "scaleX": 0.452574432,
+        "scaleY": 1.0,
+        "scaleZ": 0.452574432
+      },
+      "Nickname": "Pular",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "http://cloud-3.steamusercontent.com/ugc/1808736232983605918/91D32B18177A36A6B9238ABF84AA11E6874D9A8A/",
+        "ImageSecondaryURL": "",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+          "Type": 2,
+          "Thickness": 0.2,
+          "Stackable": false,
+          "Stretch": true
+        }
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "States": {
+        "3": {
+          "GUID": "27bd99",
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -3.000025,
+            "posY": 1.47774065,
+            "posZ": -27.0000114,
+            "rotX": 0.01684407,
+            "rotY": 180.0007,
+            "rotZ": 0.0799155,
+            "scaleX": 0.452574432,
+            "scaleY": 1.0,
+            "scaleZ": 0.452574432
+          },
+          "Nickname": "Captura",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/1808736232983611167/49E602CCC9CA70A817BEDC093116DEE11EC14850/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 2,
+              "Thickness": 0.2,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        "4": {
+          "GUID": "6b0c3a",
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -3.000025,
+            "posY": 1.47774065,
+            "posZ": -27.0000114,
+            "rotX": 0.01684407,
+            "rotY": 180.0007,
+            "rotZ": 0.0799155,
+            "scaleX": 0.452574432,
+            "scaleY": 1.0,
+            "scaleZ": 0.452574432
+          },
+          "Nickname": "Dano",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/1808736232983611809/A80DC454E5E7ABB38718FF1CB14733E7F0DAD997/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 2,
+              "Thickness": 0.2,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        "5": {
+          "GUID": "34ab64",
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -3.000025,
+            "posY": 1.47774065,
+            "posZ": -27.0000114,
+            "rotX": 0.01684407,
+            "rotY": 180.0007,
+            "rotZ": 0.0799155,
+            "scaleX": 0.452574432,
+            "scaleY": 1.0,
+            "scaleZ": 0.452574432
+          },
+          "Nickname": "Compra",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/1808736232983612689/A611440CA8810714DF65FC3EEB52242D23A69ABC/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 2,
+              "Thickness": 0.2,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        "2": {
+          "GUID": "d591be",
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -3.00002456,
+            "posY": 1.47781467,
+            "posZ": -26.7500038,
+            "rotX": 0.0168710146,
+            "rotY": 180.000916,
+            "rotZ": 0.07990926,
+            "scaleX": 0.452574432,
+            "scaleY": 1.0,
+            "scaleZ": 0.452574432
+          },
+          "Nickname": "Æmber",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/1808736232983608863/F649A5F3B2E7386DE725786A0853235AD0E32CE3/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 2,
+              "Thickness": 0.2,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }
+      }
+    },
+    {
+      "GUID": "47ff10",
+      "Name": "Custom_Tile",
+      "Transform": {
+        "posX": -3.00004053,
+        "posY": 1.47663689,
+        "posZ": -30.7500057,
+        "rotX": 0.01686737,
+        "rotY": 180.00116,
+        "rotZ": 0.07990835,
+        "scaleX": 0.452574432,
+        "scaleY": 1.0,
+        "scaleZ": 0.452574432
+      },
+      "Nickname": "Pular",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "http://cloud-3.steamusercontent.com/ugc/1808736232983605918/91D32B18177A36A6B9238ABF84AA11E6874D9A8A/",
+        "ImageSecondaryURL": "",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+          "Type": 2,
+          "Thickness": 0.2,
+          "Stackable": false,
+          "Stretch": true
+        }
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "States": {
+        "4": {
+          "GUID": "173ee5",
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -3.000025,
+            "posY": 1.47774065,
+            "posZ": -27.0000114,
+            "rotX": 0.01684407,
+            "rotY": 180.0007,
+            "rotZ": 0.0799155,
+            "scaleX": 0.452574432,
+            "scaleY": 1.0,
+            "scaleZ": 0.452574432
+          },
+          "Nickname": "Dano",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/1808736232983611809/A80DC454E5E7ABB38718FF1CB14733E7F0DAD997/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 2,
+              "Thickness": 0.2,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        "5": {
+          "GUID": "85b544",
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -3.000025,
+            "posY": 1.47774065,
+            "posZ": -27.0000114,
+            "rotX": 0.01684407,
+            "rotY": 180.0007,
+            "rotZ": 0.0799155,
+            "scaleX": 0.452574432,
+            "scaleY": 1.0,
+            "scaleZ": 0.452574432
+          },
+          "Nickname": "Compra",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/1808736232983612689/A611440CA8810714DF65FC3EEB52242D23A69ABC/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 2,
+              "Thickness": 0.2,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        "3": {
+          "GUID": "6d9e6d",
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -3.00004053,
+            "posY": 1.47663689,
+            "posZ": -30.7500057,
+            "rotX": 0.0168673545,
+            "rotY": 180.00116,
+            "rotZ": 0.07990835,
+            "scaleX": 0.452574432,
+            "scaleY": 1.0,
+            "scaleZ": 0.452574432
+          },
+          "Nickname": "Captura",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/1808736232983611167/49E602CCC9CA70A817BEDC093116DEE11EC14850/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 2,
+              "Thickness": 0.2,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        "2": {
+          "GUID": "93a356",
+          "Name": "Custom_Tile",
+          "Transform": {
+            "posX": -3.00004053,
+            "posY": 1.47663689,
+            "posZ": -30.7500057,
+            "rotX": 0.0168673582,
+            "rotY": 180.00116,
+            "rotZ": 0.07990835,
+            "scaleX": 0.452574432,
+            "scaleY": 1.0,
+            "scaleZ": 0.452574432
+          },
+          "Nickname": "Æmber",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/1808736232983608863/F649A5F3B2E7386DE725786A0853235AD0E32CE3/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomTile": {
+              "Type": 2,
+              "Thickness": 0.2,
+              "Stackable": false,
+              "Stretch": true
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }
+      }
+    },
+    {
+      "GUID": "b04c17",
+      "Name": "go_game_piece_white",
+      "Transform": {
+        "posX": -1.50001061,
+        "posY": 1.3,
+        "posZ": -32.5,
+        "rotX": 359.983124,
+        "rotY": -0.00341049372,
+        "rotZ": 359.920135,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Botão de Propagar",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.6617647,
+        "g": 0.6617647,
+        "b": 0.6617647
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "LuaScript": "function onload()\r\n  self.setName(\"Botão de Propagar\")\r\n  self.setDescription(\"Use este botão para propagar\")\r\n  button_parameters = {}\r\n  button_parameters.click_function = 'enhancement'\r\n  button_parameters.function_owner = self\r\n  button_parameters.label = 'Propagar'\r\n  button_parameters.position = { 0, 0.2, 0 }\r\n  button_parameters.rotation = { 0, 180, 0 }\r\n  button_parameters.width = 1400\r\n  button_parameters.height = 500\r\n  button_parameters.font_size = 250\r\n  button_parameters.color={0.19,0.24,0.35,1}\r\n  button_parameters.font_color={1,1,1,1}\r\n  self.createButton(button_parameters)\r\nend\r\n\r\nfunction enhancement()\r\n    if button_parameters.label == 'Propagar' then\r\n        Global.setVar(\"enhacing\", true)\r\n        button_parameters.label = 'Parar'\r\n        button_parameters.color={0.35,0.24,0.19,1}\r\n        self.editButton(button_parameters)\r\n\r\n        local find = true\r\n        while find do\r\n            find = getEnhancedCards()\r\n        end\r\n\r\n        local enhanceZone = getObjectFromGUID(\"f1ff65\")\r\n        Player[\"White\"].lookAt({\r\n            position = enhanceZone.getPosition(),\r\n            pitch    = 90,\r\n            distance = 10,\r\n        })\r\n    else\r\n        Global.setVar(\"enhacing\", false)\r\n        button_parameters.label = 'Propagar'\r\n        button_parameters.color={0.19,0.24,0.35,1}\r\n        self.editButton(button_parameters)\r\n    end\r\nend\r\n\r\nfunction getEnhancedCards()\r\n    local deckZone = getObjectFromGUID(\"2a72b5\")\r\n    local enhanceZone = getObjectFromGUID(\"f1ff65\")\r\n    for _, obj in ipairs(deckZone.getObjects()) do\r\n        if obj.name == \"DeckCustom\" then\r\n            for _, card in ipairs(obj.getObjects()) do\r\n                if string.find(card.description, \"Propagada\") then\r\n                    obj.takeObject({\r\n                        index = card.index,\r\n                        position = {enhanceZone.getPosition()[1] + 5, enhanceZone.getPosition()[2], enhanceZone.getPosition()[3]},\r\n                        rotation = {0, 180, 0}\r\n                    })\r\n                    return true\r\n                end\r\n            end\r\n        end\r\n    end\r\n    return false\r\nend",
+      "LuaScriptState": ""
     }
   ]
 }
