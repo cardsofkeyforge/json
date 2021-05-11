@@ -29,6 +29,7 @@ function setupCard(card) {
   delete card.house;
   delete card.front_image;
   if (card.rarity === "Evil Twin") card.card_title += " (GM)";
+  if (card.card_type === "Creature1") card.card_type = "Gigantic Creature";
   return card;
 }
 
@@ -71,6 +72,10 @@ configs.expansion.forEach(expansion => {
     let card = JSON.parse(fs.readFileSync(cardsFolder + file).toString());
     set.push(card);
   });
-  set.sort((c1, c2) => String(c1.card_number).localeCompare(c2.card_number));
+  set.sort((c1, c2) =>
+    String(c1.card_number)
+      .concat(c1.card_type)
+      .localeCompare(String(c2.card_number).concat(c2.card_type))
+  );
   createCards(set, expansion);
 });

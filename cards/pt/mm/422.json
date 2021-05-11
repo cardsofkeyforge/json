@@ -1,1 +1,31 @@
-{"card_title":"Inane Kong","card_type":"Creature1","card_text":"(Jogue apenas com a outra metade de Inane Kong.)\rJogar: Procure qualquer número de criaturas Inane no seu baralho e na sua pilha de descarte, revele-as, e coloque-as na sua mão. Embaralhe o seu baralho. \rLuta/Coleta: Você pode destruir uma criatura Inane amiga. Se o fizer, cause 3D a uma criatura, roube 1A \re destrua um artefato inimigo.","traits":"Mutante • Inane","amber":0,"power":"12","armor":"2","rarity":"Rare","flavor_text":"","card_number":"422","expansion":479,"is_maverick":false,"is_anomaly":false,"is_enhanced":false,"houses":[{"id":"6be1364f-9c88-4ddb-9e8c-c29e0172795b","house":"Untamed","normal":"https://cdn.keyforgegame.com/media/card_front/pt/479_422_J8PR8JM3J494_pt.png","zoom":"https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/mm/Untamed-422-1.png"},{"id":"8baa491b-5f19-46b5-b7f2-93ef60f084ff","house":"Untamed","normal":"https://cdn.keyforgegame.com/media/card_front/pt/479_422_GCX5CVV6555V_pt.png","zoom":"https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/mm/Untamed-422-2.png"}],"rules":[]}
+{
+  "card_title": "Inane Kong",
+  "card_type": "Gigantic Creature",
+  "card_text": "(Jogue apenas com a outra metade de Inane Kong.)\rJogar: Procure qualquer número de criaturas Inane no seu baralho e na sua pilha de descarte, revele-as, e coloque-as na sua mão. Embaralhe o seu baralho. \rLuta/Coleta: Você pode destruir uma criatura Inane amiga. Se o fizer, cause 3D a uma criatura, roube 1A \re destrua um artefato inimigo.",
+  "traits": "Mutante • Inane",
+  "amber": 0,
+  "power": "12",
+  "armor": "2",
+  "rarity": "Rare",
+  "flavor_text": "",
+  "card_number": "422",
+  "expansion": 479,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "houses": [
+    {
+      "id": "6be1364f-9c88-4ddb-9e8c-c29e0172795b",
+      "house": "Untamed",
+      "normal": "https://cdn.keyforgegame.com/media/card_front/pt/479_422_J8PR8JM3J494_pt.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/mm/Untamed-422-1.png"
+    },
+    {
+      "id": "8baa491b-5f19-46b5-b7f2-93ef60f084ff",
+      "house": "Untamed",
+      "normal": "https://cdn.keyforgegame.com/media/card_front/pt/479_422_GCX5CVV6555V_pt.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/mm/Untamed-422-2.png"
+    }
+  ],
+  "rules": []
+}

@@ -128,7 +128,7 @@ if (args.length > 0) {
   processingDeck(args[0]).then(deck => {
     console.log(`Importing deck ${deck.data.name}...`);
     let id = 0;
-    let lastCard = "";
+    let lastCard = {};
     deck.data._links.cards.forEach(uuid => {
       const card = deck._linked.cards.find(c => c.id === uuid);
       const objIndex = card.is_non_deck ? 1 : 0;
@@ -137,9 +137,12 @@ if (args.length > 0) {
         addSideDeck(tts, ++id);
       }
 
-      if (lastCard !== card.card_title) {
+      if (
+        lastCard.card_title !== card.card_title ||
+        lastCard.card_type !== card.card_type
+      ) {
         id++;
-        lastCard = card.card_title;
+        lastCard = card;
         tts.ObjectStates[objIndex].CustomDeck[id.toString()] = {
           FaceURL:
             configs.zoom + decodeZoomURL(sets, card.front_image, configs.lang),
