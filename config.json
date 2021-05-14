@@ -67,6 +67,15 @@
       "releaseDate": "23 de abril de 2021",
       "image": "/assets/cotaBackground.jpg",
       "lang": "pt"
+    },
+    {
+      "code": 1002,
+      "name": "tac",
+      "longname": "The Abyssal Conspiracy",
+      "release": "2021-05-14",
+      "releaseDate": "14 de maio de 2021",
+      "image": "/assets/aoaBackground.jpg",
+      "lang": "pt"
     }
   ]
 }
