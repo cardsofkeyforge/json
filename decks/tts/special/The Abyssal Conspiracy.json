@@ -1284,65 +1284,66 @@
         }
       ],
       "DeckIDs": [200, 300, 400, 500, 600, 700, 800, 900, 1000],
+      "SidewaysCard": true,
       "CustomDeck": {
         "2": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-001.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Location-001.png",
           "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/blueBack.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "3": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-002.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Location-002.png",
           "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/blueBack.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "4": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-003.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Location-003.png",
           "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/blueBack.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "5": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-004.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Location-004.png",
           "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/blueBack.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "6": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-005.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Location-005.png",
           "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/blueBack.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "7": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-006.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Location-006.png",
           "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/blueBack.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "8": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-007.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Location-007.png",
           "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/blueBack.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "9": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-008.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Location-008.png",
           "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/blueBack.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "10": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-009.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Location-009.png",
           "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/blueBack.png",
           "NumHeight": 1,
           "NumWidth": 1,
@@ -1354,7 +1355,7 @@
         "posY": 1,
         "posZ": 0,
         "rotX": 0,
-        "rotY": 180,
+        "rotY": 90,
         "rotZ": 180,
         "scaleX": 1.5,
         "scaleY": 1,
