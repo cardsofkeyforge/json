@@ -1125,6 +1125,380 @@
           "Type": 0
         }
       }
+    },
+    {
+      "Name": "DeckCustom",
+      "ContainedObjects": [
+        {
+          "CardID": 200,
+          "Name": "Card",
+          "Nickname": "SLRS Vortexilon",
+          "Description": "Location",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "CardID": 300,
+          "Name": "Card",
+          "Nickname": "Krillgarden",
+          "Description": "Location",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "CardID": 400,
+          "Name": "Card",
+          "Nickname": "Bloodreef",
+          "Description": "Location",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "CardID": 500,
+          "Name": "Card",
+          "Nickname": "Sonitorium",
+          "Description": "Location",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "CardID": 600,
+          "Name": "Card",
+          "Nickname": "Hatchery",
+          "Description": "Location",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "CardID": 700,
+          "Name": "Card",
+          "Nickname": "Shellmarket",
+          "Description": "Location",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "CardID": 800,
+          "Name": "Card",
+          "Nickname": "The Abyss",
+          "Description": "Location",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "CardID": 900,
+          "Name": "Card",
+          "Nickname": "Runed Altar",
+          "Description": "Location",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "CardID": 1000,
+          "Name": "Card",
+          "Nickname": "Titan’s Gate",
+          "Description": "Location",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        }
+      ],
+      "DeckIDs": [200, 300, 400, 500, 600, 700, 800, 900, 1000],
+      "CustomDeck": {
+        "2": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-001.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/blueBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        },
+        "3": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-002.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/blueBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        },
+        "4": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-003.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/blueBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        },
+        "5": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-004.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/blueBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        },
+        "6": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-005.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/blueBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        },
+        "7": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-006.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/blueBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        },
+        "8": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-007.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/blueBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        },
+        "9": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-008.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/blueBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        },
+        "10": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-009.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/blueBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        }
+      },
+      "Transform": {
+        "posX": 15,
+        "posY": 1,
+        "posZ": 0,
+        "rotX": 0,
+        "rotY": 180,
+        "rotZ": 180,
+        "scaleX": 1.5,
+        "scaleY": 1,
+        "scaleZ": 1.5
+      }
+    },
+    {
+      "Name": "DeckCustom",
+      "ContainedObjects": [
+        {
+          "CardID": 1100,
+          "Name": "Card",
+          "Nickname": "Burning Seal",
+          "Description": "Location",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "CardID": 1200,
+          "Name": "Card",
+          "Nickname": "Primal Seal",
+          "Description": "Location",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "CardID": 1300,
+          "Name": "Card",
+          "Nickname": "Arcane Seal",
+          "Description": "Location",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "CardID": 1400,
+          "Name": "Card",
+          "Nickname": "Frigid Seal",
+          "Description": "Location",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        },
+        {
+          "CardID": 1500,
+          "Name": "Card",
+          "Nickname": "Entropic Seal",
+          "Description": "Location",
+          "Transform": {
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 180,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          }
+        }
+      ],
+      "DeckIDs": [1100, 1200, 1300, 1400, 1500],
+      "CustomDeck": {
+        "11": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Seal-010.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/blueBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        },
+        "12": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Seal-011.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/blueBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        },
+        "13": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Seal-012.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/blueBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        },
+        "14": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Seal-013.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/blueBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        },
+        "15": {
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Seal-014.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/blueBack.png",
+          "NumHeight": 1,
+          "NumWidth": 1,
+          "BackIsHidden": true
+        }
+      },
+      "Transform": {
+        "posX": 20,
+        "posY": 1,
+        "posZ": 0,
+        "rotX": 0,
+        "rotY": 180,
+        "rotZ": 180,
+        "scaleX": 1.5,
+        "scaleY": 1,
+        "scaleZ": 1.5
+      }
     }
   ]
 }
