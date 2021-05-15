@@ -2,7 +2,7 @@ buttonColor = {0.19,0.24,0.35,1}
 DECK_LIST_INDEX = 1
 card_back_options = {"Vermelho", "Azul", "Roxo", "Preto"}
 language_options = {"Português"}
-expansion_options = {"Qualquer", "O Chamado dos Arcontes", "Era da Ascensão", "Colisão entre Mundos", "Mutação em Massa", "Mar de Trevas", "Rise of the Keyraken"}
+expansion_options = {"Qualquer", "O Chamado dos Arcontes", "Era da Ascensão", "Colisão entre Mundos", "Mutação em Massa", "Mar de Trevas", "Rise of the Keyraken", "The Abyssal Conspiracy"}
 player_draw = { White = '2a72b5', Green = '354143' }
 player_decklist = { White = '5536f1', Green = '5e3694' }
 
@@ -105,6 +105,7 @@ function selectRandomDeck(_obj, player_color, _alt_click)
     expansion_values["Mutação em Massa"] = "mm"
     expansion_values["Mar de Trevas"] = "dt"
     expansion_values["Rise of the Keyraken"] = "rotk"
+    expansion_values["The Abyssal Conspiracy"] = "tac"
     for _, button in pairs(self.getButtons()) do
         if button.tooltip == "Selecione um Conjunto" then
             expansion = expansion_values[button.label]
@@ -112,6 +113,10 @@ function selectRandomDeck(_obj, player_color, _alt_click)
     end
     if expansion == "rotk" then
         FetchRotK(_obj, player_color, _alt_click)
+        return
+    end
+    if expansion == "tac" then
+        FetchTAC(_obj, player_color, _alt_click)
         return
     end
     Player[player_color].broadcast("Importando um baralho aleatório, aguarde.")
@@ -170,7 +175,70 @@ function FetchRotK(_obj, player_color, _alt_click)
                     deckList = deckList.."\n"..cardData.Nickname
                 end
                 self.editInput({index=DECK_LIST_INDEX, value=deckList})
-                Player[player_color].broadcast("Baralho da aventura importado!")
+                Player[player_color].broadcast("Baralho da aventura Rise of the Keyraken importado!")
+            end
+        end
+    end)
+end
+
+function FetchTAC(_obj, player_color, _alt_click)
+    WebRequest.get("https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/tts/special/The%20Abyssal%20Conspiracy.json", function(request)
+        if request.is_error then
+            log(request.error)
+        else
+            if request.is_done then
+                local responseData = JSON.decode(request.text)
+                spawnObjectJSON({
+                    json = JSON.encode(responseData.ObjectStates[1]),
+                    callback_function = function(deck)
+                        local deckZone = getObjectFromGUID(player_draw[player_color])
+                        deck.setPosition(deckZone.getPosition())
+                        deck.setRotation(deckZone.getRotation())
+                    end
+                })
+
+                spawnObjectJSON({
+                    json = JSON.encode(responseData.ObjectStates[3]),
+                    callback_function = function(deck)
+                        local deckZone = getObjectFromGUID(player_decklist[player_color])
+                        deck.setPosition(deckZone.getPosition())
+                        deck.setRotation({deckZone.getRotation()[1], deckZone.getRotation()[2], deck.getRotation()[3]})
+                    end
+                })
+
+                spawnObjectJSON({
+                    json = JSON.encode(responseData.ObjectStates[2]),
+                    callback_function = function(deck)
+                        local deckZone = getObjectFromGUID(player_decklist[player_color])
+                        deck.setPosition(deckZone.getPosition())
+                        deck.setPosition({deck.getPosition()[1] - 10, deck.getPosition()[2], deck.getPosition()[3] + 5})
+                    end
+                })
+
+                spawnObjectJSON({
+                    json = JSON.encode(responseData.ObjectStates[4]),
+                    callback_function = function(deck)
+                        local deckZone = getObjectFromGUID(player_decklist[player_color])
+                        deck.setPosition(deckZone.getPosition())
+                        deck.setPosition({deck.getPosition()[1] - 10, deck.getPosition()[2], deck.getPosition()[3]})
+                    end
+                })
+
+                spawnObjectJSON({
+                    json = JSON.encode(responseData.ObjectStates[5]),
+                    callback_function = function(deck)
+                        local deckZone = getObjectFromGUID(player_decklist[player_color])
+                        deck.setPosition(deckZone.getPosition())
+                        deck.setPosition({deck.getPosition()[1] - 5, deck.getPosition()[2], deck.getPosition()[3]})
+                    end
+                })
+
+                local deckList = "Cartas do Baralho"
+                for _, cardData in pairs(responseData.ObjectStates[1].ContainedObjects) do
+                    deckList = deckList.."\n"..cardData.Nickname
+                end
+                self.editInput({index=DECK_LIST_INDEX, value=deckList})
+                Player[player_color].broadcast("Baralho da aventura The Abyssal Conspiracy importado!")
             end
         end
     end)
