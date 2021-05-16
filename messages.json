@@ -43,7 +43,11 @@
       },
       "Keyraken": {
         "name": "Keyraken",
-        "image": null
+        "image": "https://raw.githubusercontent.com/cardsofkeyforge/cardsofkeyforge.github.io/master/rotk/keyraken.png"
+      },
+      "Conspiracy": {
+        "name": "Conspiracy",
+        "image": "https://raw.githubusercontent.com/cardsofkeyforge/cardsofkeyforge.github.io/master/rotk/conspiracy.png"
       }
     },
     "types": {
@@ -54,7 +58,9 @@
       "Upgrade": "Melhoria",
       "Artifact": "Artefato",
       "The Tide": "A Maré",
-      "Keyraken": "Keyraken"
+      "Keyraken": "Keyraken",
+      "Location": "Local",
+      "Seal": "Selo"
     },
     "rarities": {
       "Common": "Comum",
@@ -64,7 +70,9 @@
       "Variant": "Especial Variável",
       "Special": "Especial",
       "Evil Twin": "Gêmeo do Mal",
-      "The Tide": "A Maré"
+      "The Tide": "A Maré",
+      "Location": "Location",
+      "Seal": "Seal"
     },
     "builder": {
       "Evil": "Gêmeo do Mal",
