@@ -19,13 +19,13 @@
       "id": "000-1",
       "house": "The Tide",
       "normal": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/000-1.png",
-      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/TheTide-000-1.png"
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/TheTide-000-1.png"
     },
     {
       "id": "000-2",
       "house": "The Tide",
       "normal": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/000-2.png",
-      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/TheTide-000-2.png"
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/TheTide-000-2.png"
     }
   ],
   "rules": []

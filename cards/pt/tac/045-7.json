@@ -8,7 +8,7 @@
   "armor": null,
   "rarity": "Evil Twin",
   "flavor_text": "“6 arms = 300% Hugging Power.” —Dr. Escotera",
-  "card_number": "045-7",
+  "card_number": "045_7",
   "expansion": 1002,
   "is_maverick": false,
   "is_anomaly": false,
@@ -19,19 +19,19 @@
       "id": "045",
       "house": "Conspiracy",
       "normal": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/045.png",
-      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Conspiracy-045.png"
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-045.png"
     },
     {
       "id": "046",
       "house": "Conspiracy",
       "normal": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/046.png",
-      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Conspiracy-046.png"
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-046.png"
     },
     {
       "id": "047",
       "house": "Conspiracy",
       "normal": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/047.png",
-      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Conspiracy-047.png"
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-047.png"
     }
   ],
   "rules": []
