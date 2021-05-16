@@ -233,6 +233,15 @@ function FetchTAC(_obj, player_color, _alt_click)
                     end
                 })
 
+                spawnObjectJSON({
+                    json = JSON.encode(responseData.ObjectStates[6]),
+                    callback_function = function(deck)
+                        local deckZone = getObjectFromGUID(player_decklist[player_color])
+                        deck.setPosition(deckZone.getPosition())
+                        deck.setPosition({deck.getPosition()[1] - 27.5, deck.getPosition()[2], deck.getPosition()[3] + 3.5})
+                    end
+                })
+
                 local deckList = "Cartas do Baralho"
                 for _, cardData in pairs(responseData.ObjectStates[1].ContainedObjects) do
                     deckList = deckList.."\n"..cardData.Nickname
