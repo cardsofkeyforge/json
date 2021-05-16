@@ -1,0 +1,38 @@
+{
+  "card_title": "Fiendish Undercurrents",
+  "card_type": "Action",
+  "card_text": "Play: Either deal 2D to each of your team’s creatures at your location or your team loses 4A.",
+  "traits": null,
+  "amber": 1,
+  "power": null,
+  "armor": null,
+  "rarity": "Common",
+  "flavor_text": "“We seem to find new enemies at every turn.”",
+  "card_number": "021-3",
+  "expansion": 1002,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false,
+  "houses": [
+    {
+      "id": "021",
+      "house": "Conspiracy",
+      "normal": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/021.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Conspiracy-021.png"
+    },
+    {
+      "id": "022",
+      "house": "Conspiracy",
+      "normal": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/022.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Conspiracy-022.png"
+    },
+    {
+      "id": "023",
+      "house": "Conspiracy",
+      "normal": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/023.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Conspiracy-023.png"
+    }
+  ],
+  "rules": []
+}

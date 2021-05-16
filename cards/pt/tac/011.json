@@ -1,0 +1,26 @@
+{
+  "card_title": "Primal Seal",
+  "card_type": "Seal",
+  "card_text": "(T) After this seal is opened, lower the tide and give a +1 power counter to each creature engaged with a player for each opened seal.",
+  "traits": null,
+  "amber": 0,
+  "power": null,
+  "armor": null,
+  "rarity": "Special",
+  "flavor_text": "The seals are made from a material so tough that even a Logos proton scalpel cannot cut through it.",
+  "card_number": "011",
+  "expansion": 1002,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": true,
+  "houses": [
+    {
+      "id": "011",
+      "house": "Seal",
+      "normal": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/011.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Seal-011.png"
+    }
+  ],
+  "rules": []
+}

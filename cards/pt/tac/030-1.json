@@ -1,0 +1,32 @@
+{
+  "card_title": "Truths Uncovered",
+  "card_type": "Action",
+  "card_text": "Play: Put an ignorance counter on each of your non-flank creatures. While a creature has an ignorance counter on it, its text box is considered to be blank (except for traits).",
+  "traits": null,
+  "amber": 1,
+  "power": null,
+  "armor": null,
+  "rarity": "Uncommon",
+  "flavor_text": "“Our coming was foretold eons ago.” —Dr. Escotera’s evil twin",
+  "card_number": "030-1",
+  "expansion": 1002,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false,
+  "houses": [
+    {
+      "id": "030",
+      "house": "Conspiracy",
+      "normal": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/030.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Conspiracy-030.png"
+    },
+    {
+      "id": "031",
+      "house": "Conspiracy",
+      "normal": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/031.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Conspiracy-031.png"
+    }
+  ],
+  "rules": []
+}
