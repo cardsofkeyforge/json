@@ -1,0 +1,20 @@
+{
+  "id": "001",
+  "card_title": "SLRS Vortexilon",
+  "house": "Location",
+  "card_type": "Location",
+  "front_image": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/001.png",
+  "card_text": "",
+  "traits": null,
+  "amber": 0,
+  "power": "1",
+  "armor": null,
+  "rarity": "Special",
+  "flavor_text": "This is the finest deep-sea exploration vehicle house Logos ever built, but it will still take days to get all of its systems back online. Go find out who did this, and stop their schemes!”—Captain Fermi",
+  "card_number": "001",
+  "expansion": 1002,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": true
+}

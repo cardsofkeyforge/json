@@ -1,0 +1,20 @@
+{
+  "id": "046",
+  "card_title": "Fuzzy Gruen",
+  "house": "Conspiracy",
+  "card_type": "Creature",
+  "front_image": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/046.png",
+  "card_text": "Prey – the creature with the lowest power.\nFight:The Conspiracy gains 1A.",
+  "traits": "Beast",
+  "amber": 0,
+  "power": "5",
+  "armor": null,
+  "rarity": "Evil Twin",
+  "flavor_text": "“6 arms = 300% Hugging Power.” —Dr. Escotera",
+  "card_number": "046",
+  "expansion": 1002,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false
+}

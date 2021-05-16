@@ -1,0 +1,20 @@
+{
+  "id": "034",
+  "card_title": "Frost Turret",
+  "house": "Conspiracy",
+  "card_type": "Artifact",
+  "front_image": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/034.png",
+  "card_text": "Frost Turret enters play ready.\nAction: Deal 3D to one of your non-flank creatures, with 1D splash.",
+  "traits": "Weapon",
+  "amber": 0,
+  "power": null,
+  "armor": null,
+  "rarity": "Common",
+  "flavor_text": "“With all these ‘surprises’ they’re leaving us, you’d think the conspirators want to tell us something.” —Captain Fermi",
+  "card_number": "034",
+  "expansion": 1002,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false
+}
