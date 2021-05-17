@@ -1154,7 +1154,7 @@
     "cards": ["86ed23bb-f1ca-47e9-81bc-d0ece55bc9e4"]
   },
   {
-    "title": "Se eu jogar [Fissão Florescente](/mm/087) e então usar a habilidade de \"Lutar/Coletar:\"\ndo [Ultra Gravitron](/mm/125) para expurgar uma criatura inimiga e resolver\ncada um de seus ícones de bônus, eu resolverei todos os ícones duas vezes?",
+    "title": "Se eu usar a habilidade de Ação de [Fissão Florescente](/mm/087) e então usar a habilidade de \"Lutar/Coletar:\"\ndo [Ultra Gravitron](/mm/125) para expurgar uma criatura inimiga e resolver\ncada um de seus ícones de bônus, eu resolverei todos os ícones duas vezes?",
     "text": "Sim. O texto “como se você a tivesse jogado” do Ultra Gravitron irá disparar\ntodos os efeitos de cartas como o “Na próxima vez que você jogar uma carta neste turno” de Fissão Florescente.",
     "source": {
       "type": "Livro de Regras",
@@ -1303,6 +1303,80 @@
       "ddb5fd06-e4a5-4802-b3bf-833740a0654e",
       "2a4c5213-c8f8-4c6f-8ec6-cdcd92ba1fbe",
       "fe0f2069-4b42-4faf-8517-7f41f1b775c9"
+    ]
+  },
+  {
+    "title": "Se [Clariel Forjaluz](/dt/080) usa a sua armadura para prevenir 2 danos e então no mesmo turno eu aciono sua habilidade \"Antes da Luta:\", ela será destruída?",
+    "text": "Não, Clariel Forjaluz não será destruída. O poder de Clariel Forjaluz se tornará igual a sua armadura (valor impresso mais quaisquer bônus que algum efeito possa acrescentar), mesmo que aquela armadura já tenha sido usada para prevenir o dado. Assim depois da troca ela terá 2 de poder.",
+    "source": {
+      "type": "Livro de Regras",
+      "version": "MARCH, 2021 (Edição Americana)",
+      "url": "https://images-cdn.fantasyflightgames.com/filer_public/0f/97/0f97ae74-4b50-4391-a4ef-0eebe49d409f/keyforge_rulebook_v15_compressed.pdf"
+    },
+    "cards": [
+      "220067ab-7ca2-4eda-b4df-dbf5f3eaeef7",
+      "77a58012-fef3-404d-ba3a-0d0db60b624e"
+    ]
+  },
+  {
+    "title": "Eu tenho uma [Clariel Forjaluz](/dt/080) em jogo com uma melhoria com o texto \"Esta criatura ganha +2 de armadura\" e uso a sua habilidade \"Antes da Luta:\", ela se tornará uma criatura com \"4 de poder / 5 de armadura\" ou \"2 de poder / 7 de armadura\"?",
+    "text": "4 de poder / 5 de armadura. O poder de Clariel Forjaluz se tornará igual ao seu total de armadura, que neste caso é 4 (2 impresso e +2 da melhoria).",
+    "source": {
+      "type": "Livro de Regras",
+      "version": "MARCH, 2021 (Edição Americana)",
+      "url": "https://images-cdn.fantasyflightgames.com/filer_public/0f/97/0f97ae74-4b50-4391-a4ef-0eebe49d409f/keyforge_rulebook_v15_compressed.pdf"
+    },
+    "cards": [
+      "220067ab-7ca2-4eda-b4df-dbf5f3eaeef7",
+      "77a58012-fef3-404d-ba3a-0d0db60b624e"
+    ]
+  },
+  {
+    "title": "Meu oponente tem [Mártir](/dt/332) com 8 de dano nele. Durante meu passo de “preparar cartas” eu tenho 4 criaturas exaustas. Desde que 1 de dano irá destruir Mártir, eu posso preparar minhas outras 3 criaturas exaustas?",
+    "text": "Não. Todo o dano causado a Mártir ocorre simultaneamente neste caso, assim você não prepara nenhuma criatura, Mártir recebe 4 de dano, ele é destruído e todo o excesso de dano é ignorado.",
+    "source": {
+      "type": "Livro de Regras",
+      "version": "MARCH, 2021 (Edição Americana)",
+      "url": "https://images-cdn.fantasyflightgames.com/filer_public/0f/97/0f97ae74-4b50-4391-a4ef-0eebe49d409f/keyforge_rulebook_v15_compressed.pdf"
+    },
+    "cards": ["f754b072-cd41-430f-9250-c2af458a1d7c"]
+  },
+  {
+    "title": "Se eu jogo [Toninhaí](/dt/400) quando [A Maré](/dt/000) já estiver alta, eu poderei acionar a habilidade de [Hidrocatalogador](/dt/053)?",
+    "text": "Você não pode subir a maré se ela já estiver alta para você, assim os efeitos como o de Hidrocatalogador não irão disparar depois de se resolver efeitos “subir a maré” enquanto a maré já estiver alta para você.",
+    "source": {
+      "type": "Livro de Regras",
+      "version": "MARCH, 2021 (Edição Americana)",
+      "url": "https://images-cdn.fantasyflightgames.com/filer_public/0f/97/0f97ae74-4b50-4391-a4ef-0eebe49d409f/keyforge_rulebook_v15_compressed.pdf"
+    },
+    "cards": [
+      "a60a1805-5517-4f8e-86b8-9d4985a3ff7c",
+      "37377d67-2916-4d45-b193-bea6ecd853e3",
+      "28645ea1-732a-49ef-a5b9-500ffc13206f"
+    ]
+  },
+  {
+    "title": "Se eu causar dano o suficiente para destruir o [Grande Caçador](/dt/183) do meu oponente quando a maré estiver alta para mim, ele será exaltado antes de ser destruído de forma que ganharei 1 Æmber?",
+    "text": "Não, o Grande Caçador será destruído antes de ser exaltado e você ganhará nenhum æmber.",
+    "source": {
+      "type": "Livro de Regras",
+      "version": "MARCH, 2021 (Edição Americana)",
+      "url": "https://images-cdn.fantasyflightgames.com/filer_public/0f/97/0f97ae74-4b50-4391-a4ef-0eebe49d409f/keyforge_rulebook_v15_compressed.pdf"
+    },
+    "cards": ["675fb00c-704b-4507-90c4-16c26a934dba"]
+  },
+  {
+    "title": "Se eu estiver jogando com um baralho de O Chamado dos Arcontes contra um baralho de Colisão entre Mundos que contenha uma anomalia de [Valocanto](/wc/A10), eu posso subir a maré para impedir Valocanto de coletar mesmo que nenhum dos baralhos em jogo possuam a carta [A Maré](/dt/000)?",
+    "text": "Sim, agora que a maré faz parte integral das regras, você pode ganhar as correntes para subir a maré, impedindo que o Valocanto de seu oponente possa ser usado, mesmo que ele seja uma anomalia de Colisão entre Mundos e que nenhum dos baralhos usados sejam de Mar de Trevas.\n\nEsta é uma das raras ocasiões onde subir a maré possa ter algum impacto no jogo mesmo que os baralhos não sejam de Mar de Trevas. Por outro lado um jogador também pode usar essa mecânica quando não querer comprar cartas e ter sua pilha de descarte embaralhada, assim ele sobe a maré arbitrariamente apenas para ganhar correntes.",
+    "source": {
+      "type": "Email da FFG",
+      "version": "14 de maio de 2021",
+      "url": "https://archonarcana.com/File:Tide_when_playing_Non_DT_decks.png"
+    },
+    "cards": [
+      "37377d67-2916-4d45-b193-bea6ecd853e3",
+      "db92ddff-223c-4f1c-9d30-61d49ec1103c",
+      "53c7458d-1f41-4886-910b-f41d4dcb04e2"
     ]
   }
 ]
