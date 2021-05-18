@@ -1,1 +1,45 @@
-{"card_title":"Blaster de Khrkhar","card_type":"Upgrade","card_text":"Esta criatura ganha: “Luta/Coleta: \rVocê pode causar 2D a uma criatura, ou anexar Blaster de Khrkhar ao Tenente Khrkhar.”\rApós anexar Blaster de Khrkhar ao Tenente Khrkhar, proteja Tenente Khrkhar.","traits":"","amber":1,"power":null,"armor":null,"rarity":"Variant","flavor_text":"","card_number":"349","expansion":452,"is_maverick":false,"is_anomaly":false,"houses":[{"id":"1d21408e-5467-4c09-8e91-e05a8286029f","house":"Star Alliance","normal":"https://cdn.keyforgegame.com/media/card_front/pt/452_349_MXR856VVJC6W_pt.png","zoom":"https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/wc/StarAlliance-349.png"}],"rules":[]}
+{
+  "card_title": "Blaster de Khrkhar",
+  "card_type": "Upgrade",
+  "card_text": "Esta criatura ganha: “Luta/Coleta: \rVocê pode causar 2D a uma criatura, ou anexar Blaster de Khrkhar ao Tenente Khrkhar.”\rApós anexar Blaster de Khrkhar ao Tenente Khrkhar, proteja Tenente Khrkhar.",
+  "traits": "",
+  "amber": 1,
+  "power": null,
+  "armor": null,
+  "rarity": "Variant",
+  "flavor_text": "",
+  "card_number": "349",
+  "expansion": 452,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "houses": [
+    {
+      "id": "1d21408e-5467-4c09-8e91-e05a8286029f",
+      "house": "Star Alliance",
+      "normal": "https://cdn.keyforgegame.com/media/card_front/pt/452_349_MXR856VVJC6W_pt.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/wc/StarAlliance-349.png"
+    }
+  ],
+  "rules": [
+    {
+      "title": "Eu tenho dois [Oficial de Ciência Qincan](/wc/304) em jogo e um [Blaster de Qincan](/wc/351) sob um deles. Eu posso usar aquele com a melhoria para então anexar ela no outro?",
+      "text": "O texto de auto-referência nos blasters faz referência à cópia do blaster em si, mas não ao oficial a que está anexo. Por exemplo, se você tem dois oficiais Qincans em jogo e um deles com um blaster, você PODE mover aquele blaster de um Qincan para outro, e efetivamente trazê-lo volta. Portanto, se você coletar com um Oficial de Ciência Qincan que tem uma melhoria Blaster de Qincan anexa a ele, e você também tem um segundo Oficial de Ciência Qincan em jogo com uma outra melhoria Blaster de Qincan anexa, você NÃO PODE mover essa segunda melhoria para o Qincan e você NÃO PODE acionar o efeito de ambos os blasters para arquivar duas criaturas diferentes em jogo.",
+      "source": {
+        "type": "Email da FFG",
+        "version": "29 de outubro de 2020",
+        "url": "https://archonarcana.com/File:RulingsUpdate29-October-2020.pdf"
+      },
+      "cards": [
+        "1d21408e-5467-4c09-8e91-e05a8286029f",
+        "1d70a08a-8e78-4783-9ac8-085a03e7897c",
+        "220f7c2f-53d9-4212-8831-b5e01d4cecd4",
+        "45c56e3c-54a3-4c91-9df6-f2f79b64a808",
+        "897e3a4c-7d07-404d-a3d3-82b0986dc568",
+        "a61e3f80-0ef9-4849-8674-d4a1d769c58c",
+        "c128d41e-3c6d-450f-82bc-33bf7c6a0f52",
+        "db486355-15a7-4a13-8332-e40ec48f4a87",
+        "ed9b60d6-59e6-467d-920f-f0163cc540d0"
+      ]
+    }
+  ]
+}

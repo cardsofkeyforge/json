@@ -1,1 +1,24 @@
-{"card_title":"Oficial de Ciência Qincan","card_type":"Creature","card_text":"Elusivo. (A cada turno, na primeira vez que esta criatura for atacada, ela não causa nem recebe dano.)\rApós um jogador escolher uma casa \rativa sem cartas representando-a em jogo, roube 1A.","traits":"Alienígena • Proximan • Cientista","amber":0,"power":"2","armor":null,"rarity":"Common","flavor_text":"","card_number":"304","expansion":452,"is_maverick":false,"is_anomaly":false,"houses":[{"id":"e5029fa1-3cc3-4a1e-b595-a7d310528723","house":"Star Alliance","normal":"https://cdn.keyforgegame.com/media/card_front/pt/452_304_WCVRJ3JR6M9G_pt.png","zoom":"https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/wc/StarAlliance-304.png"}],"rules":[{"title":"Eu tenho dois [Oficial de Ciência Qincan](/wc/304) em jogo e um [Blaster de Qincan](/wc/351) sob um deles. Eu posso usar aquele com a melhoria para então anexar ela no outro?","text":"O texto de auto-referência nos blasters faz referência à cópia do blaster em si, mas não ao oficial a que está anexo. Por exemplo, se você tem dois oficiais Qincans em jogo e um deles com um blaster, você PODE mover aquele blaster de um Qincan para outro, e efetivamente trazê-lo volta. Portanto, se você coletar com um Oficial de Ciência Qincan que tem uma melhoria Blaster de Qincan anexa a ele, e você também tem um segundo Oficial de Ciência Qincan em jogo com uma outra melhoria Blaster de Qincan anexa, você NÃO PODE mover essa segunda melhoria para o Qincan e você NÃO PODE acionar o efeito de ambos os blasters para arquivar duas criaturas diferentes em jogo.","source":{"type":"Email da FFG","version":"29 de outubro de 2020","url":"https://archonarcana.com/File:RulingsUpdate29-October-2020.pdf"},"cards":["e5029fa1-3cc3-4a1e-b595-a7d310528723","f4226f69-57e6-4372-aed6-0f6298536433","1d70a08a-8e78-4783-9ac8-085a03e7897c"]}]}
+{
+  "card_title": "Oficial de Ciência Qincan",
+  "card_type": "Creature",
+  "card_text": "Elusivo. (A cada turno, na primeira vez que esta criatura for atacada, ela não causa nem recebe dano.)\rApós um jogador escolher uma casa \rativa sem cartas representando-a em jogo, roube 1A.",
+  "traits": "Alienígena • Proximan • Cientista",
+  "amber": 0,
+  "power": "2",
+  "armor": null,
+  "rarity": "Common",
+  "flavor_text": "",
+  "card_number": "304",
+  "expansion": 452,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "houses": [
+    {
+      "id": "e5029fa1-3cc3-4a1e-b595-a7d310528723",
+      "house": "Star Alliance",
+      "normal": "https://cdn.keyforgegame.com/media/card_front/pt/452_304_WCVRJ3JR6M9G_pt.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/wc/StarAlliance-304.png"
+    }
+  ],
+  "rules": []
+}
