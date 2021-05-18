@@ -819,315 +819,315 @@
       "CustomDeck": {
         "3": {
           "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-002.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/RotK_CARDBACK.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "4": {
           "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-003.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/RotK_CARDBACK.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "5": {
           "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-004.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/RotK_CARDBACK.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "6": {
           "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-005.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/RotK_CARDBACK.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "7": {
           "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-006.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/RotK_CARDBACK.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "8": {
           "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-007.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/RotK_CARDBACK.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "9": {
           "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-008.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/RotK_CARDBACK.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "10": {
           "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-009.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/RotK_CARDBACK.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "11": {
           "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-010.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/RotK_CARDBACK.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "12": {
           "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-011.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/RotK_CARDBACK.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "13": {
           "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-012.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/RotK_CARDBACK.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "14": {
           "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-013.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/RotK_CARDBACK.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "15": {
           "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-014.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/RotK_CARDBACK.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "16": {
           "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-015.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/RotK_CARDBACK.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "17": {
           "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-016.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/RotK_CARDBACK.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "18": {
           "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-017.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/RotK_CARDBACK.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "19": {
           "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-018.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/RotK_CARDBACK.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "20": {
           "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-019.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/RotK_CARDBACK.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "21": {
           "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-020.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/RotK_CARDBACK.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "22": {
           "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-021.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/RotK_CARDBACK.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "23": {
           "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-022.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/RotK_CARDBACK.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "24": {
           "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-023.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/RotK_CARDBACK.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "25": {
           "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-024.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/RotK_CARDBACK.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "26": {
           "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-025.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/RotK_CARDBACK.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "27": {
           "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-026.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/RotK_CARDBACK.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "28": {
           "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-027.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/RotK_CARDBACK.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "29": {
           "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-028.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/RotK_CARDBACK.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "30": {
           "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-029.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/RotK_CARDBACK.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "31": {
           "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-030.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/RotK_CARDBACK.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "32": {
           "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-031.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/RotK_CARDBACK.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "33": {
           "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-032.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/RotK_CARDBACK.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "34": {
           "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-033.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/RotK_CARDBACK.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "35": {
           "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-034.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/RotK_CARDBACK.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "36": {
           "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-035.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/RotK_CARDBACK.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "37": {
           "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-036.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/RotK_CARDBACK.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "38": {
           "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-037.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/RotK_CARDBACK.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "39": {
           "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-038.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/RotK_CARDBACK.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "40": {
           "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-039.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/RotK_CARDBACK.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "41": {
           "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-040.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/RotK_CARDBACK.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "42": {
           "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-041.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/RotK_CARDBACK.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "43": {
           "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-042.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/RotK_CARDBACK.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "44": {
           "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-043.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/RotK_CARDBACK.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "45": {
           "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-044.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/RotK_CARDBACK.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "46": {
           "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-045.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/RotK_CARDBACK.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "47": {
           "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-046.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/RotK_CARDBACK.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
@@ -1164,7 +1164,7 @@
       "CustomDeck": {
         "2": {
           "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/Keyraken-001.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/redBack.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/RotK_CARDBACKLARGE.png",
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
