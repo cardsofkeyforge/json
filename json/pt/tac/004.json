@@ -1,10 +1,10 @@
 {
   "id": "004",
-  "card_title": "Sonitorium",
+  "card_title": "Sonitório",
   "house": "Location",
   "card_type": "Location",
   "front_image": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/004.png",
-  "card_text": "(T) While the tide is high, you may play The Vaultbinder as if it were in your hand.\n(T) While the tide is low, the Conspiracy’s creatures gain, “Reap: Archive 1 adventure card.”",
+  "card_text": "(T) Enquanto a maré estiver alta, você pode jogar o Tranca-Cofres \ncomo se ele estivesse em sua mão. \n(T) Enquanto a maré estiver baixa, as criaturas Conspiração \nganham: ”Coleta: arquive 1 carta de aventura.“",
   "traits": null,
   "amber": 0,
   "power": "2",

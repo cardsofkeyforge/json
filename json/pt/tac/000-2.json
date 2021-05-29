@@ -1,10 +1,10 @@
 {
   "id": "000-2",
-  "card_title": "High Tide",
+  "card_title": "Maré Alta",
   "house": "The Tide",
   "card_type": "The Tide",
   "front_image": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/000-2.png",
-  "card_text": "(The tide is high.)\nAfter a player descends to a lower\ndepth, lower the tide.",
+  "card_text": "(A maré está alta.)\nApós um jogador descer até um local\nde maior profundidade, desça a maré.",
   "traits": null,
   "amber": 0,
   "power": null,
