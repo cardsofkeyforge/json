@@ -1,10 +1,10 @@
 {
   "id": "037",
-  "card_title": "Zealot’s Revelation",
+  "card_title": "Revelação Fanática",
   "house": "Keyraken",
   "card_type": "Action",
-  "front_image": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/037.png",
-  "card_text": "(T) Play: Shuffle the adventure discard \npile into the adventure deck, then the \nKeyraken archives 3 adventure cards. \nIf the tide is high, you may lower the \ntide instead.",
+  "front_image": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/rotk/037.png",
+  "card_text": "(T) Jogar: Embaralhe a pilha de\ndescarte de aventura no baralho de\naventura, em seguida Keyraken arquiva\n3 cartas de aventura. Se a maré estiver\nalta, você pode descer a maré em\nvez disso.",
   "traits": null,
   "amber": 0,
   "power": null,

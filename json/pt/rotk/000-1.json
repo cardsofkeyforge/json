@@ -1,10 +1,10 @@
 {
   "id": "000-1",
-  "card_title": "Low Tide",
+  "card_title": "Maré Baixa",
   "house": "The Tide",
   "card_type": "The Tide",
-  "front_image": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/000-1.png",
-  "card_text": "(The tide is low.)\nThe cost for the Keyraken to advance is \n3A per player.\nOmni: Your team loses a total of 2A\nper player as a group. If you do, raise \nthe tide.",
+  "front_image": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/rotk/000-1.png",
+  "card_text": "(A maré está baixa.)\nO custo para o Keyraken avançar é 3A\npor jogador.\nOmni: a sua equipe perde coletivamente\num total de 2A por jogador. Se o fizer, \nsuba a maré.",
   "traits": null,
   "amber": 0,
   "power": null,

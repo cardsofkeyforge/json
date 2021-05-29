@@ -1,10 +1,10 @@
 {
   "id": "046",
-  "card_title": "Titanic Maw",
+  "card_title": "Bocarra Titânica",
   "house": "Keyraken",
   "card_type": "Upgrade",
-  "front_image": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/rotk/046.png",
-  "card_text": "The Keyraken gains skirmish, “prey – the \nmost powerful creature,” and “Fight:\nDeal 3D to each neighbor of the \ncreature the Keyraken fights.”\nAt the end of the Keyraken’s turn, \nif you control no creatures, destroy \nTitanic Maw",
+  "front_image": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/rotk/046.png",
+  "card_text": "Keyraken ganha combativo, ”presa – a\ncriatura mais poderosa“ e ”Luta: Cause\n3D a cada vizinho da criatura que lutar\ncontra Keyraken.“\nNo final do turno de Keyraken,\nse você não controlar criaturas,\ndestrua Bocarra Titânica.",
   "traits": null,
   "amber": 0,
   "power": null,
