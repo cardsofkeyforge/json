@@ -46,7 +46,7 @@
         "image": "https://raw.githubusercontent.com/cardsofkeyforge/cardsofkeyforge.github.io/master/rotk/keyraken.png"
       },
       "Conspiracy": {
-        "name": "Conspiracy",
+        "name": "Conspiração",
         "image": "https://raw.githubusercontent.com/cardsofkeyforge/cardsofkeyforge.github.io/master/tac/conspiracy.png"
       }
     },
@@ -71,8 +71,8 @@
       "Special": "Especial",
       "Evil Twin": "Gêmeo do Mal",
       "The Tide": "A Maré",
-      "Location": "Location",
-      "Seal": "Seal"
+      "Location": "Local",
+      "Seal": "Selo"
     },
     "builder": {
       "Evil": "Gêmeo do Mal",
