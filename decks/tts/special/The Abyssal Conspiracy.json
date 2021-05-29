@@ -6,8 +6,8 @@
         {
           "CardID": 1700,
           "Name": "Card",
-          "Nickname": "Deep Prophecy",
-          "Description": "Conspiracy",
+          "Nickname": "Profecia Abissal",
+          "Description": "Conspiração",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -23,8 +23,8 @@
         {
           "CardID": 1800,
           "Name": "Card",
-          "Nickname": "Deep Prophecy",
-          "Description": "Conspiracy",
+          "Nickname": "Profecia Abissal",
+          "Description": "Conspiração",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -40,8 +40,8 @@
         {
           "CardID": 1900,
           "Name": "Card",
-          "Nickname": "Deep Prophecy",
-          "Description": "Conspiracy",
+          "Nickname": "Profecia Abissal",
+          "Description": "Conspiração",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -57,8 +57,8 @@
         {
           "CardID": 2000,
           "Name": "Card",
-          "Nickname": "Erratic Portal",
-          "Description": "Conspiracy",
+          "Nickname": "Portal Errático",
+          "Description": "Conspiração",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -74,8 +74,8 @@
         {
           "CardID": 2100,
           "Name": "Card",
-          "Nickname": "Erratic Portal",
-          "Description": "Conspiracy",
+          "Nickname": "Portal Errático",
+          "Description": "Conspiração",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -91,8 +91,8 @@
         {
           "CardID": 2200,
           "Name": "Card",
-          "Nickname": "Fiendish Undercurrents",
-          "Description": "Conspiracy",
+          "Nickname": "Subcorrentes Diabólicas",
+          "Description": "Conspiração",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -108,8 +108,8 @@
         {
           "CardID": 2300,
           "Name": "Card",
-          "Nickname": "Fiendish Undercurrents",
-          "Description": "Conspiracy",
+          "Nickname": "Subcorrentes Diabólicas",
+          "Description": "Conspiração",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -125,8 +125,8 @@
         {
           "CardID": 2400,
           "Name": "Card",
-          "Nickname": "Fiendish Undercurrents",
-          "Description": "Conspiracy",
+          "Nickname": "Subcorrentes Diabólicas",
+          "Description": "Conspiração",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -142,8 +142,8 @@
         {
           "CardID": 2500,
           "Name": "Card",
-          "Nickname": "Hypnotic Chant",
-          "Description": "Conspiracy",
+          "Nickname": "Cântico Hipnótico",
+          "Description": "Conspiração",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -159,8 +159,8 @@
         {
           "CardID": 2600,
           "Name": "Card",
-          "Nickname": "Hypnotic Chant",
-          "Description": "Conspiracy",
+          "Nickname": "Cântico Hipnótico",
+          "Description": "Conspiração",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -176,8 +176,8 @@
         {
           "CardID": 2700,
           "Name": "Card",
-          "Nickname": "Sabotage",
-          "Description": "Conspiracy",
+          "Nickname": "Sabotagem",
+          "Description": "Conspiração",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -193,8 +193,8 @@
         {
           "CardID": 2800,
           "Name": "Card",
-          "Nickname": "Sabotage",
-          "Description": "Conspiracy",
+          "Nickname": "Sabotagem",
+          "Description": "Conspiração",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -210,8 +210,8 @@
         {
           "CardID": 2900,
           "Name": "Card",
-          "Nickname": "Sink to the Depths",
-          "Description": "Conspiracy",
+          "Nickname": "Descendo às Profundezas",
+          "Description": "Conspiração",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -227,8 +227,8 @@
         {
           "CardID": 3000,
           "Name": "Card",
-          "Nickname": "Sink to the Depths",
-          "Description": "Conspiracy",
+          "Nickname": "Descendo às Profundezas",
+          "Description": "Conspiração",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -244,8 +244,8 @@
         {
           "CardID": 3100,
           "Name": "Card",
-          "Nickname": "Truths Uncovered",
-          "Description": "Conspiracy",
+          "Nickname": "Verdades Desvendadas",
+          "Description": "Conspiração",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -261,8 +261,8 @@
         {
           "CardID": 3200,
           "Name": "Card",
-          "Nickname": "Truths Uncovered",
-          "Description": "Conspiracy",
+          "Nickname": "Verdades Desvendadas",
+          "Description": "Conspiração",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -278,8 +278,8 @@
         {
           "CardID": 3300,
           "Name": "Card",
-          "Nickname": "Frost Turret",
-          "Description": "Conspiracy",
+          "Nickname": "Cajado Gélido",
+          "Description": "Conspiração",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -295,8 +295,8 @@
         {
           "CardID": 3400,
           "Name": "Card",
-          "Nickname": "Frost Turret",
-          "Description": "Conspiracy",
+          "Nickname": "Cajado Gélido",
+          "Description": "Conspiração",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -312,8 +312,8 @@
         {
           "CardID": 3500,
           "Name": "Card",
-          "Nickname": "Frost Turret",
-          "Description": "Conspiracy",
+          "Nickname": "Cajado Gélido",
+          "Description": "Conspiração",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -329,8 +329,8 @@
         {
           "CardID": 3600,
           "Name": "Card",
-          "Nickname": "Riptide Turret",
-          "Description": "Conspiracy",
+          "Nickname": "Cajado Correnteza",
+          "Description": "Conspiração",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -346,8 +346,8 @@
         {
           "CardID": 3700,
           "Name": "Card",
-          "Nickname": "Riptide Turret",
-          "Description": "Conspiracy",
+          "Nickname": "Cajado Correnteza",
+          "Description": "Conspiração",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -363,8 +363,8 @@
         {
           "CardID": 3800,
           "Name": "Card",
-          "Nickname": "Riptide Turret",
-          "Description": "Conspiracy",
+          "Nickname": "Cajado Correnteza",
+          "Description": "Conspiração",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -380,8 +380,8 @@
         {
           "CardID": 3900,
           "Name": "Card",
-          "Nickname": "Whirlpool Turret",
-          "Description": "Conspiracy",
+          "Nickname": "Cajado Maremótico",
+          "Description": "Conspiração",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -397,8 +397,8 @@
         {
           "CardID": 4000,
           "Name": "Card",
-          "Nickname": "Whirlpool Turret",
-          "Description": "Conspiracy",
+          "Nickname": "Cajado Maremótico",
+          "Description": "Conspiração",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -414,8 +414,8 @@
         {
           "CardID": 4100,
           "Name": "Card",
-          "Nickname": "Whirlpool Turret",
-          "Description": "Conspiracy",
+          "Nickname": "Cajado Maremótico",
+          "Description": "Conspiração",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -431,8 +431,8 @@
         {
           "CardID": 4200,
           "Name": "Card",
-          "Nickname": "Deep Priest Anikava",
-          "Description": "Conspiracy\nGêmeo do Mal",
+          "Nickname": "Sacerdote Sombrio Anikava",
+          "Description": "Conspiração\nGêmeo do Mal",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -448,8 +448,8 @@
         {
           "CardID": 4300,
           "Name": "Card",
-          "Nickname": "Deep Priest Anikava",
-          "Description": "Conspiracy\nGêmeo do Mal",
+          "Nickname": "Sacerdote Sombrio Anikava",
+          "Description": "Conspiração\nGêmeo do Mal",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -466,7 +466,7 @@
           "CardID": 4400,
           "Name": "Card",
           "Nickname": "Dr. Escotera",
-          "Description": "Conspiracy\nGêmeo do Mal",
+          "Description": "Conspiração\nGêmeo do Mal",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -483,7 +483,7 @@
           "CardID": 4500,
           "Name": "Card",
           "Nickname": "Dr. Escotera",
-          "Description": "Conspiracy\nGêmeo do Mal",
+          "Description": "Conspiração\nGêmeo do Mal",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -499,8 +499,8 @@
         {
           "CardID": 4600,
           "Name": "Card",
-          "Nickname": "Fuzzy Gruen",
-          "Description": "Conspiracy\nGêmeo do Mal",
+          "Nickname": "Gruen Difuso",
+          "Description": "Conspiração\nGêmeo do Mal",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -516,8 +516,8 @@
         {
           "CardID": 4700,
           "Name": "Card",
-          "Nickname": "Fuzzy Gruen",
-          "Description": "Conspiracy\nGêmeo do Mal",
+          "Nickname": "Gruen Difuso",
+          "Description": "Conspiração\nGêmeo do Mal",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -533,8 +533,8 @@
         {
           "CardID": 4800,
           "Name": "Card",
-          "Nickname": "Fuzzy Gruen",
-          "Description": "Conspiracy\nGêmeo do Mal",
+          "Nickname": "Gruen Difuso",
+          "Description": "Conspiração\nGêmeo do Mal",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -550,8 +550,8 @@
         {
           "CardID": 4900,
           "Name": "Card",
-          "Nickname": "Murkens",
-          "Description": "Conspiracy\nGêmeo do Mal",
+          "Nickname": "Obscúrio",
+          "Description": "Conspiração\nGêmeo do Mal",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -567,8 +567,8 @@
         {
           "CardID": 5000,
           "Name": "Card",
-          "Nickname": "Murkens",
-          "Description": "Conspiracy\nGêmeo do Mal",
+          "Nickname": "Obscúrio",
+          "Description": "Conspiração\nGêmeo do Mal",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -584,8 +584,8 @@
         {
           "CardID": 5100,
           "Name": "Card",
-          "Nickname": "Murkens",
-          "Description": "Conspiracy\nGêmeo do Mal",
+          "Nickname": "Obscúrio",
+          "Description": "Conspiração\nGêmeo do Mal",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -601,8 +601,8 @@
         {
           "CardID": 5200,
           "Name": "Card",
-          "Nickname": "Scout Pete",
-          "Description": "Conspiracy\nGêmeo do Mal",
+          "Nickname": "Pedrão Batedor",
+          "Description": "Conspiração\nGêmeo do Mal",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -618,8 +618,8 @@
         {
           "CardID": 5300,
           "Name": "Card",
-          "Nickname": "Scout Pete",
-          "Description": "Conspiracy\nGêmeo do Mal",
+          "Nickname": "Pedrão Batedor",
+          "Description": "Conspiração\nGêmeo do Mal",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -635,8 +635,8 @@
         {
           "CardID": 5400,
           "Name": "Card",
-          "Nickname": "Scout Pete",
-          "Description": "Conspiracy\nGêmeo do Mal",
+          "Nickname": "Pedrão Batedor",
+          "Description": "Conspiração\nGêmeo do Mal",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -652,8 +652,8 @@
         {
           "CardID": 5500,
           "Name": "Card",
-          "Nickname": "Senator Bracchus",
-          "Description": "Conspiracy\nGêmeo do Mal",
+          "Nickname": "Senador Bracchus",
+          "Description": "Conspiração\nGêmeo do Mal",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -669,8 +669,8 @@
         {
           "CardID": 5600,
           "Name": "Card",
-          "Nickname": "Senator Bracchus",
-          "Description": "Conspiracy\nGêmeo do Mal",
+          "Nickname": "Senador Bracchus",
+          "Description": "Conspiração\nGêmeo do Mal",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -686,8 +686,8 @@
         {
           "CardID": 5700,
           "Name": "Card",
-          "Nickname": "Sir Marrows",
-          "Description": "Conspiracy\nGêmeo do Mal",
+          "Nickname": "Sir Tutanos",
+          "Description": "Conspiração\nGêmeo do Mal",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -703,8 +703,8 @@
         {
           "CardID": 5800,
           "Name": "Card",
-          "Nickname": "Sir Marrows",
-          "Description": "Conspiracy\nGêmeo do Mal",
+          "Nickname": "Sir Tutanos",
+          "Description": "Conspiração\nGêmeo do Mal",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -764,295 +764,295 @@
       ],
       "CustomDeck": {
         "17": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-016.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/AC_CARDBACK_ADVART.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Conspiracy-016.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/tacAdvBack.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "18": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-017.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/AC_CARDBACK_ADVART.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Conspiracy-017.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/tacAdvBack.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "19": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-018.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/AC_CARDBACK_ADVART.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Conspiracy-018.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/tacAdvBack.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "20": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-019.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/AC_CARDBACK_ADVART.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Conspiracy-019.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/tacAdvBack.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "21": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-020.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/AC_CARDBACK_ADVART.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Conspiracy-020.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/tacAdvBack.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "22": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-021.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/AC_CARDBACK_ADVART.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Conspiracy-021.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/tacAdvBack.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "23": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-022.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/AC_CARDBACK_ADVART.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Conspiracy-022.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/tacAdvBack.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "24": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-023.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/AC_CARDBACK_ADVART.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Conspiracy-023.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/tacAdvBack.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "25": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-024.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/AC_CARDBACK_ADVART.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Conspiracy-024.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/tacAdvBack.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "26": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-025.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/AC_CARDBACK_ADVART.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Conspiracy-025.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/tacAdvBack.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "27": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-026.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/AC_CARDBACK_ADVART.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Conspiracy-026.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/tacAdvBack.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "28": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-027.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/AC_CARDBACK_ADVART.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Conspiracy-027.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/tacAdvBack.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "29": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-028.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/AC_CARDBACK_ADVART.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Conspiracy-028.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/tacAdvBack.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "30": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-029.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/AC_CARDBACK_ADVART.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Conspiracy-029.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/tacAdvBack.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "31": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-030.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/AC_CARDBACK_ADVART.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Conspiracy-030.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/tacAdvBack.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "32": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-031.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/AC_CARDBACK_ADVART.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Conspiracy-031.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/tacAdvBack.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "33": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-032.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/AC_CARDBACK_ADVART.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Conspiracy-032.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/tacAdvBack.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "34": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-033.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/AC_CARDBACK_ADVART.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Conspiracy-033.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/tacAdvBack.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "35": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-034.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/AC_CARDBACK_ADVART.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Conspiracy-034.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/tacAdvBack.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "36": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-035.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/AC_CARDBACK_ADVART.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Conspiracy-035.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/tacAdvBack.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "37": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-036.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/AC_CARDBACK_ADVART.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Conspiracy-036.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/tacAdvBack.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "38": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-037.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/AC_CARDBACK_ADVART.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Conspiracy-037.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/tacAdvBack.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "39": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-038.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/AC_CARDBACK_ADVART.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Conspiracy-038.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/tacAdvBack.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "40": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-039.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/AC_CARDBACK_ADVART.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Conspiracy-039.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/tacAdvBack.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "41": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-040.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/AC_CARDBACK_ADVART.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Conspiracy-040.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/tacAdvBack.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "42": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-041.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/AC_CARDBACK_ADVART.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Conspiracy-041.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/tacAdvBack.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "43": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-042.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/AC_CARDBACK_ADVART.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Conspiracy-042.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/tacAdvBack.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "44": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-043.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/AC_CARDBACK_ADVART.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Conspiracy-043.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/tacAdvBack.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "45": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-044.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/AC_CARDBACK_ADVART.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Conspiracy-044.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/tacAdvBack.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "46": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-045.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/AC_CARDBACK_ADVART.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Conspiracy-045.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/tacAdvBack.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "47": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-046.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/AC_CARDBACK_ADVART.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Conspiracy-046.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/tacAdvBack.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "48": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-047.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/AC_CARDBACK_ADVART.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Conspiracy-047.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/tacAdvBack.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "49": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-048.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/AC_CARDBACK_ADVART.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Conspiracy-048.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/tacAdvBack.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "50": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-049.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/AC_CARDBACK_ADVART.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Conspiracy-049.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/tacAdvBack.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "51": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-050.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/AC_CARDBACK_ADVART.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Conspiracy-050.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/tacAdvBack.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "52": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-051.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/AC_CARDBACK_ADVART.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Conspiracy-051.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/tacAdvBack.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "53": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-052.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/AC_CARDBACK_ADVART.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Conspiracy-052.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/tacAdvBack.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "54": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-053.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/AC_CARDBACK_ADVART.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Conspiracy-053.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/tacAdvBack.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "55": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-054.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/AC_CARDBACK_ADVART.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Conspiracy-054.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/tacAdvBack.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "56": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-055.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/AC_CARDBACK_ADVART.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Conspiracy-055.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/tacAdvBack.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "57": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-056.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/AC_CARDBACK_ADVART.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Conspiracy-056.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/tacAdvBack.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "58": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-057.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/AC_CARDBACK_ADVART.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Conspiracy-057.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/tacAdvBack.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
@@ -1073,8 +1073,8 @@
     {
       "CardID": 1600,
       "Name": "Card",
-      "Nickname": "The Vaultbinder",
-      "Description": "Conspiracy",
+      "Nickname": "Tranca-Cofres",
+      "Description": "Conspiração",
       "Transform": {
         "posX": 5,
         "posY": 1,
@@ -1088,8 +1088,8 @@
       },
       "CustomDeck": {
         "16": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Conspiracy-015.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/AC_CARDBACK_ADVART.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Conspiracy-015.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/tacAdvBack.png",
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
@@ -1101,8 +1101,8 @@
     {
       "CardID": 100,
       "Name": "CardCustom",
-      "Nickname": "The Tide",
-      "Description": "The Tide",
+      "Nickname": "A Maré",
+      "Description": "A Maré",
       "Transform": {
         "posX": 10,
         "posY": 1,
@@ -1116,8 +1116,8 @@
       },
       "CustomDeck": {
         "1": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/TheTide-000-1.png",
-          "BackURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/TheTide-000-2.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/TheTide-000-1.png",
+          "BackURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/TheTide-000-2.png",
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": false,
@@ -1132,8 +1132,8 @@
         {
           "CardID": 200,
           "Name": "Card",
-          "Nickname": "SLRS Vortexilon",
-          "Description": "Location",
+          "Nickname": "ESLR Vortexilon",
+          "Description": "Local",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1149,8 +1149,8 @@
         {
           "CardID": 300,
           "Name": "Card",
-          "Nickname": "Krillgarden",
-          "Description": "Location",
+          "Nickname": "Jardim dos Krills",
+          "Description": "Local",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1166,8 +1166,8 @@
         {
           "CardID": 400,
           "Name": "Card",
-          "Nickname": "Bloodreef",
-          "Description": "Location",
+          "Nickname": "Corais Sangrentos",
+          "Description": "Local",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1183,8 +1183,8 @@
         {
           "CardID": 500,
           "Name": "Card",
-          "Nickname": "Sonitorium",
-          "Description": "Location",
+          "Nickname": "Sonitório",
+          "Description": "Local",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1200,8 +1200,8 @@
         {
           "CardID": 600,
           "Name": "Card",
-          "Nickname": "Hatchery",
-          "Description": "Location",
+          "Nickname": "Incubadora",
+          "Description": "Local",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1217,8 +1217,8 @@
         {
           "CardID": 700,
           "Name": "Card",
-          "Nickname": "Shellmarket",
-          "Description": "Location",
+          "Nickname": "Mercado das Conchas",
+          "Description": "Local",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1234,8 +1234,8 @@
         {
           "CardID": 800,
           "Name": "Card",
-          "Nickname": "The Abyss",
-          "Description": "Location",
+          "Nickname": "O Abismo",
+          "Description": "Local",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1251,8 +1251,8 @@
         {
           "CardID": 900,
           "Name": "Card",
-          "Nickname": "Runed Altar",
-          "Description": "Location",
+          "Nickname": "Altar de Runas",
+          "Description": "Local",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1268,8 +1268,8 @@
         {
           "CardID": 1000,
           "Name": "Card",
-          "Nickname": "Titan's Gate",
-          "Description": "Location",
+          "Nickname": "Portão do Titã",
+          "Description": "Local",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1287,64 +1287,64 @@
       "SidewaysCard": true,
       "CustomDeck": {
         "2": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Location-001.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/AC_CARDBACK_LOC1.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Location-001.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/tacLoc1Back.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "3": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Location-002.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/AC_CARDBACK_LOC1.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Location-002.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/tacLoc1Back.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "4": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Location-003.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/AC_CARDBACK_LOC1.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Location-003.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/tacLoc1Back.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "5": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Location-004.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/AC_CARDBACK_LOC2.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Location-004.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/tacLoc2Back.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "6": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Location-005.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/AC_CARDBACK_LOC2.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Location-005.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/tacLoc2Back.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "7": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Location-006.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/AC_CARDBACK_LOC2.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Location-006.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/tacLoc2Back.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "8": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Location-007.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/AC_CARDBACK_LOC3.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Location-007.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/tacLoc3Back.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "9": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Location-008.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/AC_CARDBACK_LOC3.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Location-008.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/tacLoc3Back.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "10": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Location-009.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/AC_CARDBACK_LOC3.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Location-009.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/tacLoc3Back.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
@@ -1368,8 +1368,8 @@
         {
           "CardID": 1100,
           "Name": "Card",
-          "Nickname": "Burning Seal",
-          "Description": "Location",
+          "Nickname": "Selo Escaldante",
+          "Description": "Selo",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1385,8 +1385,8 @@
         {
           "CardID": 1200,
           "Name": "Card",
-          "Nickname": "Primal Seal",
-          "Description": "Location",
+          "Nickname": "Selo Primordial",
+          "Description": "Selo",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1402,8 +1402,8 @@
         {
           "CardID": 1300,
           "Name": "Card",
-          "Nickname": "Arcane Seal",
-          "Description": "Location",
+          "Nickname": "Selo Arcano",
+          "Description": "Selo",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1419,8 +1419,8 @@
         {
           "CardID": 1400,
           "Name": "Card",
-          "Nickname": "Frigid Seal",
-          "Description": "Location",
+          "Nickname": "Selo Frígido",
+          "Description": "Selo",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1436,8 +1436,8 @@
         {
           "CardID": 1500,
           "Name": "Card",
-          "Nickname": "Entropic Seal",
-          "Description": "Location",
+          "Nickname": "Selo Entrópico",
+          "Description": "Selo",
           "Transform": {
             "posX": 0,
             "posY": 0,
@@ -1454,36 +1454,36 @@
       "DeckIDs": [1100, 1200, 1300, 1400, 1500],
       "CustomDeck": {
         "11": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Seal-010.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/AC_CARDBACK_SEAL.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Seal-010.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/tacSealBack.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "12": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Seal-011.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/AC_CARDBACK_SEAL.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Seal-011.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/tacSealBack.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "13": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Seal-012.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/AC_CARDBACK_SEAL.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Seal-012.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/tacSealBack.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "14": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Seal-013.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/AC_CARDBACK_SEAL.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Seal-013.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/tacSealBack.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
         },
         "15": {
-          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/en/tac/Seal-014.png",
-          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/AC_CARDBACK_SEAL.png",
+          "FaceURL": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/tac/Seal-014.png",
+          "BackURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/tacSealBack.png",
           "NumHeight": 1,
           "NumWidth": 1,
           "BackIsHidden": true
@@ -1516,7 +1516,7 @@
         "scaleZ": 2.6
       },
       "CustomImage": {
-        "ImageURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/SealToken.png",
+        "ImageURL": "https://raw.githubusercontent.com/cardsofkeyforge/json/master/decks/assets/SealCard.png",
         "ImageScalar": 1.0,
         "WidthScale": 0.0,
         "CustomToken": {
