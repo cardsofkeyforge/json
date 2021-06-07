@@ -7,6 +7,8 @@ hero_image: <%- expansion.image %>
 ---
 
 ![<%- card.card_number %>](<%- card.front_image %>)
+<%expansion.langs.forEach(lang => {%>
+<span title="<%- lang.name %>" style="font-size: 32px;cursor: pointer;" onclick="javascript:document.querySelector('img[alt=\'<%- card.card_number %>\']').src=document.querySelector('img[alt=\'<%- card.card_number %>\']').src.replace(/card_front\/[^/]+/, 'card_front/<%- lang.code %>').replace(/_[^/.0-9]+\.png/, '_<%- lang.code %>.png')"><%- lang.flag %></span><%})%>
 
 ## <%- card.card_title %>
 
