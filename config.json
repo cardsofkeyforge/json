@@ -129,7 +129,59 @@
       "release": "2019-11-08",
       "releaseDate": "8 de novembro de 2019",
       "image": "../hero.png",
-      "lang": "pt"
+      "lang": "pt",
+      "langs": [
+        {
+          "name": "Português",
+          "code": "pt",
+          "flag": "\uD83C\uDDE7\uD83C\uDDF7"
+        },
+        {
+          "name": "English",
+          "code": "en",
+          "flag": "\uD83C\uDDFA\uD83C\uDDF8"
+        },
+        {
+          "name": "Español",
+          "code": "es",
+          "flag": "\uD83C\uDDEA\uD83C\uDDF8"
+        },
+        {
+          "name": "Français",
+          "code": "fr",
+          "flag": "\uD83C\uDDEB\uD83C\uDDF7"
+        },
+        {
+          "name": "Italiano",
+          "code": "it",
+          "flag": "\uD83C\uDDEE\uD83C\uDDF9"
+        },
+        {
+          "name": "Deutsche",
+          "code": "de",
+          "flag": "\uD83C\uDDE9\uD83C\uDDEA"
+        },
+        {
+          "name": "Polskie",
+          "code": "pl",
+          "flag": "\uD83C\uDDF5\uD83C\uDDF1"
+        },
+        {
+          "name": "简体中文",
+          "code": "zh-hans",
+          "flag": "\uD83C\uDDE8\uD83C\uDDF3"
+        },
+        {
+          "name": "繁體中文",
+          "code": "zh-hant",
+          "flag": "\uD83C\uDDE8\uD83C\uDDF3"
+        },
+        {
+          "name": "ไทย",
+          "code": "th",
+          "flag": "\uD83C\uDDF9\uD83C\uDDED"
+        }
+      ]
     },
     {
       "code": 453,
@@ -138,7 +190,59 @@
       "release": "2019-11-08",
       "releaseDate": "8 de novembro de 2019",
       "image": "../hero.png",
-      "lang": "pt"
+      "lang": "pt",
+      "langs": [
+        {
+          "name": "Português",
+          "code": "pt",
+          "flag": "\uD83C\uDDE7\uD83C\uDDF7"
+        },
+        {
+          "name": "English",
+          "code": "en",
+          "flag": "\uD83C\uDDFA\uD83C\uDDF8"
+        },
+        {
+          "name": "Español",
+          "code": "es",
+          "flag": "\uD83C\uDDEA\uD83C\uDDF8"
+        },
+        {
+          "name": "Français",
+          "code": "fr",
+          "flag": "\uD83C\uDDEB\uD83C\uDDF7"
+        },
+        {
+          "name": "Italiano",
+          "code": "it",
+          "flag": "\uD83C\uDDEE\uD83C\uDDF9"
+        },
+        {
+          "name": "Deutsche",
+          "code": "de",
+          "flag": "\uD83C\uDDE9\uD83C\uDDEA"
+        },
+        {
+          "name": "Polskie",
+          "code": "pl",
+          "flag": "\uD83C\uDDF5\uD83C\uDDF1"
+        },
+        {
+          "name": "简体中文",
+          "code": "zh-hans",
+          "flag": "\uD83C\uDDE8\uD83C\uDDF3"
+        },
+        {
+          "name": "繁體中文",
+          "code": "zh-hant",
+          "flag": "\uD83C\uDDE8\uD83C\uDDF3"
+        },
+        {
+          "name": "ไทย",
+          "code": "th",
+          "flag": "\uD83C\uDDF9\uD83C\uDDED"
+        }
+      ]
     },
     {
       "code": 479,
