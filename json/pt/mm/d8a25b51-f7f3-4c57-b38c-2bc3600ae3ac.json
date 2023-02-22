@@ -3,7 +3,7 @@
   "card_title": "Livro da Malevolência",
   "house": "Sanctum",
   "card_type": "Artifact",
-  "front_image": "https://cdn.keyforgegame.com/media/card_front/pt/479_159_HR3CMHC4P55R_pt.png",
+  "front_image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/pt/479_159_HR3CMHC4P55R_pt.png",
   "card_text": "Após seu A ser roubado, coloque um marcador de mandado em Livro da Malevolência para cada A roubado. \r\nOmni: Remova um marcador de mandado do Livro da Malevolencia. Se o fizer, expurgue uma criatura.",
   "traits": "Item • Lei",
   "amber": 1,

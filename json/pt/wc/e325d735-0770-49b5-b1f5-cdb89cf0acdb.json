@@ -3,7 +3,7 @@
   "card_title": "Chave Falsa",
   "house": "Shadows",
   "card_type": "Artifact",
-  "front_image": "https://cdn.keyforgegame.com/media/card_front/pt/452_271_4XF858RWQCHX_pt.png",
+  "front_image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/pt/452_271_4XF858RWQCHX_pt.png",
   "card_text": "Quando seu oponente for forjar uma chave, ele nomeia uma casa. Revele uma carta aleatória de sua mão. Se a carta não for da casa nomeada, destrua Chave Falsa e ele não forja nenhuma chave (nenhum A é gasto).",
   "traits": "Item",
   "amber": 1,
