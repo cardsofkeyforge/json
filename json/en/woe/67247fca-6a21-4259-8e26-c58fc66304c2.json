@@ -1,0 +1,20 @@
+{
+  "id": "67247fca-6a21-4259-8e26-c58fc66304c2",
+  "card_title": "Harmal Atoon",
+  "house": "Brobnar",
+  "card_type": "Creature",
+  "front_image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_011_19c0f0f5ecb9_en.png",
+  "card_text": "Each other friendly Brobnar creature gains, “Destroyed: Return this creature to its owner’s hand.”\n",
+  "traits": "Bräkken • Giant",
+  "amber": 0,
+  "power": "5",
+  "armor": "0",
+  "rarity": "Rare",
+  "flavor_text": "”Bräkken burns through drummers\nat a dizzying pace.”\n",
+  "card_number": "011",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false
+}

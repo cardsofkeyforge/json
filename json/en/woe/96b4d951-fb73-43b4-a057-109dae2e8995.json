@@ -1,0 +1,20 @@
+{
+  "id": "96b4d951-fb73-43b4-a057-109dae2e8995",
+  "card_title": "Belligerent Guard",
+  "house": "Ekwidon",
+  "card_type": "Creature",
+  "front_image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_091_fbf47c825d89_en.png",
+  "card_text": "Belligerent Guard enters play ready.\nPlay: Your opponent draws a card.\n",
+  "traits": "Giant",
+  "amber": 0,
+  "power": "8",
+  "armor": "0",
+  "rarity": "Common",
+  "flavor_text": "They pay him with chances to do\nwhat he loves most. \n",
+  "card_number": "091",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false
+}

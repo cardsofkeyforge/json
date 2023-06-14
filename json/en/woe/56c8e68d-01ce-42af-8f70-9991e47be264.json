@@ -1,0 +1,20 @@
+{
+  "id": "56c8e68d-01ce-42af-8f70-9991e47be264",
+  "card_title": "Crash Muldoon",
+  "house": "Star Alliance",
+  "card_type": "Creature",
+  "front_image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_291_30a3b72a7e2f_en.png",
+  "card_text": "Deploy. \nCrash Muldoon enters play ready. \nAction: Use a neighboring non‑Star Alliance creature.",
+  "traits": "Human • Pilot",
+  "amber": 0,
+  "power": "3",
+  "armor": "0",
+  "rarity": "Rare",
+  "flavor_text": null,
+  "card_number": "291",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false
+}

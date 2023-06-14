@@ -1,0 +1,20 @@
+{
+  "id": "979b0403-4896-478b-bc03-cb30a5ba6da7",
+  "card_title": "Teamwork",
+  "house": "Star Alliance",
+  "card_type": "Action",
+  "front_image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_339_deb2a7b30da7_en.png",
+  "card_text": "Play: Make a token creature. If there are more enemy creatures than friendly creatures, archive Teamwork.\n",
+  "traits": null,
+  "amber": 0,
+  "power": null,
+  "armor": null,
+  "rarity": "Common",
+  "flavor_text": "”With my strong jaw and your... uh... crest‑thing, we’ll be unstoppable!”",
+  "card_number": "339",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false
+}

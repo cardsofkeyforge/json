@@ -1,0 +1,20 @@
+{
+  "id": "4b1d4d20-b7a8-46a9-a304-8d3ee4c4e732",
+  "card_title": "Colonel Mariana",
+  "house": "Sanctum",
+  "card_type": "Creature",
+  "front_image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_213_afdf4a1ba038_en.png",
+  "card_text": "Play: Each friendly Knight captures 1.\n",
+  "traits": "Knight • Spirit",
+  "amber": 0,
+  "power": "5",
+  "armor": "1",
+  "rarity": "Common",
+  "flavor_text": "”Æmber belongs in the hands of the enlightened.”",
+  "card_number": "213",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false
+}

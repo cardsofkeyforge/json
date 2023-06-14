@@ -1,0 +1,20 @@
+{
+  "id": "0df76360-dba7-4c2f-bad3-3823624768f0",
+  "card_title": "Hypoxia",
+  "house": "Unfathomable",
+  "card_type": "Action",
+  "front_image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_352_0be4ef3c3044_en.png",
+  "card_text": "Play: Destroy each token creature.\n",
+  "traits": null,
+  "amber": 1,
+  "power": null,
+  "armor": null,
+  "rarity": "Rare",
+  "flavor_text": "”Can it breathe underwater, Soleft?”\n”I don’t know, Flounderight. Let’s find out.” \n",
+  "card_number": "352",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false
+}

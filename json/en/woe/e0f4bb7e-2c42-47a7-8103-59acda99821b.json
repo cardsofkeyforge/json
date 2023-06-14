@@ -1,0 +1,20 @@
+{
+  "id": "e0f4bb7e-2c42-47a7-8103-59acda99821b",
+  "card_title": "Crystal Hive",
+  "house": "Mars",
+  "card_type": "Artifact",
+  "front_image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_136_76f67202bd02_en.png",
+  "card_text": "Action: For the remainder of the turn, gain 1 after a creature reaps.\n",
+  "traits": "Location",
+  "amber": 0,
+  "power": null,
+  "armor": null,
+  "rarity": "Uncommon",
+  "flavor_text": "Behold the glory of Nova Hellas!",
+  "card_number": "136",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false
+}

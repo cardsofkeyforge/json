@@ -1,0 +1,20 @@
+{
+  "id": "a37abb91-a834-4926-99c2-ee47d6e05a62",
+  "card_title": "Ged Hammer",
+  "house": "Brobnar",
+  "card_type": "Creature",
+  "front_image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_028_c4b6308fc593_en.png",
+  "card_text": "Destroyed: Ready and enrage each other friendly Brobnar creature.\n",
+  "traits": "Bräkken • Giant",
+  "amber": 0,
+  "power": "5",
+  "armor": "0",
+  "rarity": "Uncommon",
+  "flavor_text": "”The Brobnar music group Bräkken formed after an industrial accident, itself possibly caused by their first concert...” —Rezon, Logos Music Critic",
+  "card_number": "028",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false
+}

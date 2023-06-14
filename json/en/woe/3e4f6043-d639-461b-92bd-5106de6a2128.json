@@ -1,0 +1,20 @@
+{
+  "id": "3e4f6043-d639-461b-92bd-5106de6a2128",
+  "card_title": "Training Costs",
+  "house": "Saurian",
+  "card_type": "Action",
+  "front_image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_253_09ff5aec5a76_en.png",
+  "card_text": "Training Costs cannot be discarded from your hand except through card abilities. \nPlay: Lose 2. If you do not, shuffle Training Costs into your deck.\n",
+  "traits": null,
+  "amber": 0,
+  "power": null,
+  "armor": null,
+  "rarity": "Rare",
+  "flavor_text": "Bellatoran Warriors are worth their weight in Æmber.",
+  "card_number": "253",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false
+}

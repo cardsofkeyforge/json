@@ -1,0 +1,20 @@
+{
+  "id": "12bd6cb5-17a0-49dd-bdb7-71ead570c2e0",
+  "card_title": "Shopping Spree",
+  "house": "Ekwidon",
+  "card_type": "Action",
+  "front_image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_101_e50298a8de15_en.png",
+  "card_text": "Play: Discard your hand. Draw a card for each card discarded this way.\n",
+  "traits": null,
+  "amber": 0,
+  "power": null,
+  "armor": null,
+  "rarity": "Uncommon",
+  "flavor_text": "“You mean if I buy 26, I get the 27th free?!”",
+  "card_number": "101",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false
+}

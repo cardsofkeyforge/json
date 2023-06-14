@@ -1,0 +1,20 @@
+{
+  "id": "77192fb4-929e-43a9-9335-858f771af817",
+  "card_title": "Tya-Arhĭ, Esquire",
+  "house": "Ekwidon",
+  "card_type": "Creature",
+  "front_image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_088_72e796c655e0_en.png",
+  "card_text": "Each friendly non‑token creature gains, “Destroyed: Make a token creature.”\n",
+  "traits": "Getrookya",
+  "amber": 0,
+  "power": "2",
+  "armor": "0",
+  "rarity": "Uncommon",
+  "flavor_text": "”My word is my bond, but also\nlet us sign a contract.”\n",
+  "card_number": "088",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": "59e5f145-169e-415e-90b0-a295e6d73026",
+  "card_title": "Sunk Cost",
+  "house": "Unfathomable",
+  "card_type": "Action",
+  "front_image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_397_e006619979bd_en.png",
+  "card_text": "Play: Choose a house. Your opponent discards a random card from their hand. If that card belongs to the chosen house, make a token creature.\n",
+  "traits": null,
+  "amber": 0,
+  "power": null,
+  "armor": null,
+  "rarity": "Common",
+  "flavor_text": "”Finders keepers, drowners weepers.” ",
+  "card_number": "397",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false
+}

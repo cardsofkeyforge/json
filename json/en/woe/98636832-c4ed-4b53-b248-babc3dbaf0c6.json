@@ -1,0 +1,20 @@
+{
+  "id": "98636832-c4ed-4b53-b248-babc3dbaf0c6",
+  "card_title": "Recorded History",
+  "house": "Star Alliance",
+  "card_type": "Action",
+  "front_image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_333_ddf262085631_en.png",
+  "card_text": "Play: Reveal up to 3 cards of different houses from your hand. Archive each card revealed this way.\n",
+  "traits": null,
+  "amber": 1,
+  "power": null,
+  "armor": null,
+  "rarity": "Common",
+  "flavor_text": "“I prefer my history on vinyl.”",
+  "card_number": "333",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": "37854633-af78-4c09-8a94-d05f6d819087",
+  "card_title": "Staff Up",
+  "house": "Ekwidon",
+  "card_type": "Action",
+  "front_image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_068_0bcffe9bcf0d_en.png",
+  "card_text": "Play: For the remainder of the turn, when any amount of  would be added to your pool, make that many token creatures instead.\n",
+  "traits": null,
+  "amber": 0,
+  "power": null,
+  "armor": null,
+  "rarity": "Rare",
+  "flavor_text": null,
+  "card_number": "068",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false
+}

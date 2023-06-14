@@ -1,0 +1,20 @@
+{
+  "id": "ecfc0e76-355a-4c08-b054-3a5114e13dfb",
+  "card_title": "Plasma Nozzle",
+  "house": "Star Alliance",
+  "card_type": "Upgrade",
+  "front_image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_299_cedabc85e70f_en.png",
+  "card_text": "This creature gains, “Before Fight: Deal 2 to the attacked creature, with 2 splash.”\n",
+  "traits": null,
+  "amber": 1,
+  "power": null,
+  "armor": null,
+  "rarity": "Rare",
+  "flavor_text": "“The plasma nozzle is now calibrating.”",
+  "card_number": "299",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false
+}

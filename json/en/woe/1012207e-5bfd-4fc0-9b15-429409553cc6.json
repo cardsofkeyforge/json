@@ -1,0 +1,20 @@
+{
+  "id": "1012207e-5bfd-4fc0-9b15-429409553cc6",
+  "card_title": "Abyssal Sight",
+  "house": "Unfathomable",
+  "card_type": "Action",
+  "front_image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_384_42fbc3ae43df_en.png",
+  "card_text": "Play: Destroy a friendly creature. If you do, look at your opponent’s hand and choose a card from it. That player discards that card.\n",
+  "traits": null,
+  "amber": 1,
+  "power": null,
+  "armor": null,
+  "rarity": "Common",
+  "flavor_text": "”Cadet Byron, cancel the undersea walk.”",
+  "card_number": "384",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": "6ccc46c1-0e12-49c1-96bc-7b76bcda22b3",
+  "card_title": "Dthoshră, Recruiter",
+  "house": "Ekwidon",
+  "card_type": "Creature",
+  "front_image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_093_960dc68ebe6f_en.png",
+  "card_text": "After Reap: Make a token creature.\n",
+  "traits": "Getrookya • Soldier",
+  "amber": 0,
+  "power": "4",
+  "armor": "0",
+  "rarity": "Common",
+  "flavor_text": "“You’d be worth a fortune, but it’s not a good market for egos right now.”",
+  "card_number": "093",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false
+}

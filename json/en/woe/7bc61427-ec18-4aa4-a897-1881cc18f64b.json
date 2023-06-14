@@ -1,0 +1,20 @@
+{
+  "id": "7bc61427-ec18-4aa4-a897-1881cc18f64b",
+  "card_title": "Brikk Nastee",
+  "house": "Brobnar",
+  "card_type": "Creature",
+  "front_image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_038_e06309f5cbfb_en.png",
+  "card_text": "After another friendly Brobnar creature fights, gain 1.\n",
+  "traits": "Bräkken • Giant",
+  "amber": 0,
+  "power": "5",
+  "armor": "0",
+  "rarity": "Common",
+  "flavor_text": "”Loudness: 8/10. Destruction: 9/10. I like this band!” —Thom, Brobnar Music Critic\n",
+  "card_number": "038",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false
+}

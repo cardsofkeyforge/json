@@ -1,0 +1,20 @@
+{
+  "id": "3a3dc660-e2b1-453f-a922-0615ed2f4753",
+  "card_title": "Mælstrom",
+  "house": "Unfathomable",
+  "card_type": "Action",
+  "front_image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_395_f63e96944fe9_en.png",
+  "card_text": "Play: Put each creature on top of its owner’s deck in a random order. Gain 2 chains.\n",
+  "traits": null,
+  "amber": 0,
+  "power": null,
+  "armor": null,
+  "rarity": "Common",
+  "flavor_text": "“I honestly don’t know what to call it.”\n—Dodger\n",
+  "card_number": "395",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false
+}

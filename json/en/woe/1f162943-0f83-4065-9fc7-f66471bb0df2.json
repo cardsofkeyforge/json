@@ -1,0 +1,20 @@
+{
+  "id": "1f162943-0f83-4065-9fc7-f66471bb0df2",
+  "card_title": "Heavy Subsidies",
+  "house": "Sanctum",
+  "card_type": "Artifact",
+  "front_image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_182_45bfd48c8963_en.png",
+  "card_text": "Keys cost +6. \nEach creature gains, “After Reap: Gain 1.”\n",
+  "traits": "Law",
+  "amber": 0,
+  "power": null,
+  "armor": null,
+  "rarity": "Rare",
+  "flavor_text": "”Sanctum æmber just feels\nnicer than regular æmber.”\n",
+  "card_number": "182",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false
+}

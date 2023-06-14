@@ -1,0 +1,20 @@
+{
+  "id": "e38e7df9-acbe-4949-8055-10775bafa073",
+  "card_title": "Edict of Nerotaurus",
+  "house": "Saurian",
+  "card_type": "Artifact",
+  "front_image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_237_a74613b9f39a_en.png",
+  "card_text": "After a creature reaps, the next time a creature is used that turn, it cannot reap.\nAfter a creature fights, the next time a creature is used that turn, it cannot fight.\n",
+  "traits": "Law",
+  "amber": 1,
+  "power": null,
+  "armor": null,
+  "rarity": "Rare",
+  "flavor_text": null,
+  "card_number": "237",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false
+}

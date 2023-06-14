@@ -1,0 +1,20 @@
+{
+  "id": "78bdd463-c6a3-4dae-8b5a-fb7c2212553d",
+  "card_title": "Batariel of the Grey",
+  "house": "Sanctum",
+  "card_type": "Creature",
+  "front_image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_177_c4b14a6ee58b_en.png",
+  "card_text": "After Reap: Ready each Disciple.\n",
+  "traits": "Human • Monk",
+  "amber": 0,
+  "power": "3",
+  "armor": "2",
+  "rarity": "Rare",
+  "flavor_text": "“Cast aside your earthly desires and we can unlock the secrets of the Architects together.”",
+  "card_number": "177",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false
+}

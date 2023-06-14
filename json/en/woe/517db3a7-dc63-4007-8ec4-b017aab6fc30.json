@@ -1,0 +1,20 @@
+{
+  "id": "517db3a7-dc63-4007-8ec4-b017aab6fc30",
+  "card_title": "Uncharted Lands",
+  "house": "Star Alliance",
+  "card_type": "Artifact",
+  "front_image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_309_751c32140c9b_en.png",
+  "card_text": "Each Star Alliance creature gains, “After Reap: Move 1 from Uncharted Lands to your pool.”\nPlay: Place 6 from the common supply on Uncharted Lands.\n",
+  "traits": "Location",
+  "amber": 0,
+  "power": null,
+  "armor": null,
+  "rarity": "Rare",
+  "flavor_text": null,
+  "card_number": "309",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": "6fa958dd-0ac3-4d14-b7d1-cc020a3cd459",
+  "card_title": "Ironyx Vatminder",
+  "house": "Mars",
+  "card_type": "Creature",
+  "front_image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_158_f64b19fc9891_en.png",
+  "card_text": "Play/Destroyed: Make a token creature.\n",
+  "traits": "Martian • Rebel",
+  "amber": 0,
+  "power": "3",
+  "armor": "1",
+  "rarity": "Common",
+  "flavor_text": "”We don’t need the Elders anymore!\nWe can make our own society!” \n",
+  "card_number": "158",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false
+}

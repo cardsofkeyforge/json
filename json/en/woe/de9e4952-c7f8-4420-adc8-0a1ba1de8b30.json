@@ -1,0 +1,20 @@
+{
+  "id": "de9e4952-c7f8-4420-adc8-0a1ba1de8b30",
+  "card_title": "Avid Collecting",
+  "house": "Ekwidon",
+  "card_type": "Action",
+  "front_image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_059_21a09216cc8c_en.png",
+  "card_text": "Play: Return a friendly token creature to your hand.\n",
+  "traits": null,
+  "amber": 1,
+  "power": null,
+  "armor": null,
+  "rarity": "Rare",
+  "flavor_text": "”Oh, man, you got an ultra‑mega\nsecret rare?! I want one!”\n",
+  "card_number": "059",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false
+}

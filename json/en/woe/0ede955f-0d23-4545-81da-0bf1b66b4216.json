@@ -1,0 +1,20 @@
+{
+  "id": "0ede955f-0d23-4545-81da-0bf1b66b4216",
+  "card_title": "Yxlix Mesmerist",
+  "house": "Mars",
+  "card_type": "Creature",
+  "front_image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_166_43f93e7b1652_en.png",
+  "card_text": "Action: A creature captures 1 from its own side.\n",
+  "traits": "Martian",
+  "amber": 0,
+  "power": "5",
+  "armor": "0",
+  "rarity": "Common",
+  "flavor_text": "It didn’t take a lot of psychic power to convince a thief to steal, but they used a lot anyway.",
+  "card_number": "166",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false
+}

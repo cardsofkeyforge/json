@@ -1,0 +1,20 @@
+{
+  "id": "310379e7-dcd2-42b6-91fb-75409decf16f",
+  "card_title": "Cultural Exchange",
+  "house": "Star Alliance",
+  "card_type": "Action",
+  "front_image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_292_ecbe063aab3e_en.png",
+  "card_text": "Play: Your opponent puts each card from their archives into their hand.\n",
+  "traits": null,
+  "amber": 1,
+  "power": null,
+  "armor": null,
+  "rarity": "Rare",
+  "flavor_text": "”I’m afraid I cannot afford your entire culture, Lieutenant. Perhaps only your mode of dress?” ",
+  "card_number": "292",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false
+}

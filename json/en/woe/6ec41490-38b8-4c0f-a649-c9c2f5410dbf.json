@@ -1,0 +1,20 @@
+{
+  "id": "6ec41490-38b8-4c0f-a649-c9c2f5410dbf",
+  "card_title": "Hymn to Duma",
+  "house": "Sanctum",
+  "card_type": "Artifact",
+  "front_image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_201_cef0b8d9238a_en.png",
+  "card_text": "Each friendly creature gains, “Omni: Destroy this creature. A friendly creature captures 2.”\n",
+  "traits": "Power",
+  "amber": 0,
+  "power": null,
+  "armor": null,
+  "rarity": "Rare",
+  "flavor_text": "”So long as we remember, she never truly dies.” ",
+  "card_number": "201",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false
+}

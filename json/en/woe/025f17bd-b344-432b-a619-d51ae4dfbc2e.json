@@ -1,0 +1,20 @@
+{
+  "id": "025f17bd-b344-432b-a619-d51ae4dfbc2e",
+  "card_title": "Yanthi Ghostfin",
+  "house": "Unfathomable",
+  "card_type": "Creature",
+  "front_image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_382_4c2a96e6493d_en.png",
+  "card_text": "Elusive.\nAfter Reap: Purge a creature from a discard pile. If you do, make a token creature.\n",
+  "traits": "Aquan",
+  "amber": 0,
+  "power": "3",
+  "armor": "0",
+  "rarity": "Uncommon",
+  "flavor_text": "“Sing, my angelfish of music!”",
+  "card_number": "382",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false
+}

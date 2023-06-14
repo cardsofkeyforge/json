@@ -1,0 +1,20 @@
+{
+  "id": "958e00da-6516-4a79-a4b2-3de9a23474b6",
+  "card_title": "Shock Herder",
+  "house": "Brobnar",
+  "card_type": "Creature",
+  "front_image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_051_6577fc4866a3_en.png",
+  "card_text": "Deploy. (This creature can enter play anywhere in your battleline.)\nPlay: Ready and fight with a neighboring creature.",
+  "traits": "Goblin",
+  "amber": 0,
+  "power": "3",
+  "armor": "0",
+  "rarity": "Common",
+  "flavor_text": null,
+  "card_number": "051",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false
+}

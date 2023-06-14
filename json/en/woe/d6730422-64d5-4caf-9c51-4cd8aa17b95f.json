@@ -1,0 +1,20 @@
+{
+  "id": "d6730422-64d5-4caf-9c51-4cd8aa17b95f",
+  "card_title": "Memrox the Red",
+  "house": "Mars",
+  "card_type": "Creature",
+  "front_image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_141_2fd4efaed6be_en.png",
+  "card_text": "Your opponent’s cards cannot leave your archives.\nAction: Gain 1 for each card in your archives.\n",
+  "traits": "Martian",
+  "amber": 0,
+  "power": "5",
+  "armor": "0",
+  "rarity": "Uncommon",
+  "flavor_text": "The rebels’ impatience will be their undoing. ",
+  "card_number": "141",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false
+}

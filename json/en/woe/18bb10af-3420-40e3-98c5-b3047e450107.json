@@ -1,0 +1,20 @@
+{
+  "id": "18bb10af-3420-40e3-98c5-b3047e450107",
+  "card_title": "Revna Starsong",
+  "house": "Brobnar",
+  "card_type": "Creature",
+  "front_image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_018_84bb167ed801_en.png",
+  "card_text": "Each friendly Berserker loses all After Fight effects.\n",
+  "traits": "Giant",
+  "amber": 0,
+  "power": "7",
+  "armor": "0",
+  "rarity": "Rare",
+  "flavor_text": "The Starsong calls restless warriors to a greater purpose. Revna is its latest incarnation.",
+  "card_number": "018",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false
+}

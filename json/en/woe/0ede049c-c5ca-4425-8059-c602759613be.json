@@ -1,0 +1,20 @@
+{
+  "id": "0ede049c-c5ca-4425-8059-c602759613be",
+  "card_title": "Badge of Unity",
+  "house": "Star Alliance",
+  "card_type": "Upgrade",
+  "front_image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_310_1ad8e5ed120e_en.png",
+  "card_text": "This creature belongs to house Star Alliance in addition to its other houses.\n",
+  "traits": null,
+  "amber": 0,
+  "power": null,
+  "armor": null,
+  "rarity": "Uncommon",
+  "flavor_text": "“I can’t wait to tell my mom!”",
+  "card_number": "310",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false
+}

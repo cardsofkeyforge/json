@@ -1,0 +1,20 @@
+{
+  "id": "989f8580-5e7d-4fc2-aa13-1a0e8a4424a7",
+  "card_title": "Trading Frenzy",
+  "house": "Ekwidon",
+  "card_type": "Action",
+  "front_image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_106_9850726ab819_en.png",
+  "card_text": "Play: A friendly creature and an enemy creature each capture 3 from their opponent.\n",
+  "traits": null,
+  "amber": 1,
+  "power": null,
+  "armor": null,
+  "rarity": "Common",
+  "flavor_text": "When all shell breaks loose, it pays to keep your head and drink your tea.",
+  "card_number": "106",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": "14593714-3b1d-45f7-9124-3e547f736024",
+  "card_title": "Lava Ball",
+  "house": "Brobnar",
+  "card_type": "Action",
+  "front_image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_014_e4c2c20f6a3b_en.png",
+  "card_text": "Play: Deal 4 to a creature, \nwith 2 splash.\n",
+  "traits": null,
+  "amber": 0,
+  "power": null,
+  "armor": null,
+  "rarity": "Rare",
+  "flavor_text": "“Here...Catch!”",
+  "card_number": "014",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false
+}

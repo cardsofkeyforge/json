@@ -1,0 +1,20 @@
+{
+  "id": "893d064f-2868-45ac-8bb6-741ccb14d57b",
+  "card_title": "Crogg the Clumsy",
+  "house": "Brobnar",
+  "card_type": "Creature",
+  "front_image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_040_04fdc2a80ad2_en.png",
+  "card_text": "Splash-attack 2. (When this creature attacks, also deal 2 to each of the attacked creature’s neighbors.)\n",
+  "traits": "Giant",
+  "amber": 0,
+  "power": "7",
+  "armor": "0",
+  "rarity": "Common",
+  "flavor_text": "His knock‑knock jokes never land.",
+  "card_number": "040",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false
+}

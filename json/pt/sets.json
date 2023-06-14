@@ -387,10 +387,77 @@
           "zh": "Chinês"
         },
         {
-          "th": "Tailandês"
+          "ru": "Russo"
         },
         {
-          "ru": "Russo"
+          "ko": "Coreano"
+        }
+      ]
+    },
+    {
+      "sequence": 6,
+      "code": 600,
+      "name": "woe",
+      "longname": "Winds of Exchange",
+      "release": "2023-06-05",
+      "card_count": 403,
+      "new_count": 262,
+      "icon": "https://archonarcana.com/images/4/41/Woe.png",
+      "houses": [
+        {
+          "brobnar": {
+            "name": "Brobnar",
+            "icon": "https://mastervault-storage-prod.s3.amazonaws.com/media/houses/Brobnar_RTivg44.png"
+          },
+          "ekwidon": {
+            "name": "Ekwidon",
+            "icon": "https://mastervault-storage-prod.s3.amazonaws.com/media/houses/Ekwidon200.png"
+          },
+          "mars": {
+            "name": "Marte",
+            "icon": "https://mastervault-storage-prod.s3.amazonaws.com/media/houses/Mars_CmAUCXI.png"
+          },
+          "sanctum": {
+            "name": "Santuário",
+            "icon": "https://mastervault-storage-prod.s3.amazonaws.com/media/houses/Sanctum_lUWPG7x.png"
+          },
+          "saurian": {
+            "name": "Sauro",
+            "icon": "https://mastervault-storage-prod.s3.amazonaws.com/media/houses/Saurian.png"
+          },
+          "star_alliance": {
+            "name": "Aliança Estelar",
+            "icon": "https://mastervault-storage-prod.s3.amazonaws.com/media/houses/Star_Alliance.png"
+          },
+          "unfathomable": {
+            "name": "Abissais",
+            "icon": "https://mastervault-storage-prod.s3.amazonaws.com/media/houses/Unfathomable-2.png"
+          }
+        }
+      ],
+      "designer": "Brad Andres",
+      "developers": ["Brad Andres", "Daniel Schaefer", "Aaron Haltom"],
+      "langs": [
+        {
+          "en": "Inglês"
+        },
+        {
+          "fr": "Francês"
+        },
+        {
+          "de": "Alemão"
+        },
+        {
+          "it": "Italiano"
+        },
+        {
+          "pt": "Português"
+        },
+        {
+          "es": "Espanhol"
+        },
+        {
+          "zh": "Chinês"
         },
         {
           "ko": "Coreano"

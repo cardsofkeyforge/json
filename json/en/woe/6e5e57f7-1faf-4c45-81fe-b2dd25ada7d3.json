@@ -1,0 +1,20 @@
+{
+  "id": "6e5e57f7-1faf-4c45-81fe-b2dd25ada7d3",
+  "card_title": "Charybdis",
+  "house": "Saurian",
+  "card_type": "Creature",
+  "front_image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_285_dd4ed290b2df_en.png",
+  "card_text": "Each enemy creatures gains, “Before Fight: Lose 1.”\n",
+  "traits": "Beast",
+  "amber": 0,
+  "power": "7",
+  "armor": "0",
+  "rarity": "Special",
+  "flavor_text": "Exile to the Mesoterranean Sea is often considered a death sentence.",
+  "card_number": "285",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false
+}

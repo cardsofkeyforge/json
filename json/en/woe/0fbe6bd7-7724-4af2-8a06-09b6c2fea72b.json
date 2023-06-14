@@ -1,0 +1,20 @@
+{
+  "id": "0fbe6bd7-7724-4af2-8a06-09b6c2fea72b",
+  "card_title": "Frost Giant",
+  "house": "Brobnar",
+  "card_type": "Creature",
+  "front_image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_008_5d969e9324d7_en.png",
+  "card_text": "Frost Giant does not ready during your “ready cards” step.\n",
+  "traits": "Giant",
+  "amber": 0,
+  "power": "18",
+  "armor": "0",
+  "rarity": "Rare",
+  "flavor_text": "”I come from the land of the ice and snow,\nwhere the goblins shiver\nand the grumpus grow.”\n",
+  "card_number": "008",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false
+}

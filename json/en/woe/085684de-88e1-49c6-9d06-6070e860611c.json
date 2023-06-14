@@ -1,0 +1,20 @@
+{
+  "id": "085684de-88e1-49c6-9d06-6070e860611c",
+  "card_title": "Transitory Philosopher",
+  "house": "Ekwidon",
+  "card_type": "Creature",
+  "front_image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_073_4568d3c67ad8_en.png",
+  "card_text": "Action: Steal 1 for each enemy artifact.\n",
+  "traits": "Getrookya • Philosopher",
+  "amber": 0,
+  "power": "5",
+  "armor": "0",
+  "rarity": "Rare",
+  "flavor_text": "”All things have a price. Life is priceless.\nTherefore, life does not exist.” \n",
+  "card_number": "073",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": "e5bb5eba-13eb-4f85-bacb-be217fb5cf7f",
+  "card_title": "Kretchee",
+  "house": "Brobnar",
+  "card_type": "Creature",
+  "front_image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_013_fa2aff44cd37_en.png",
+  "card_text": "Each time a player exalts a creature or a creature captures , put 1 on that creature from the common supply.\n",
+  "traits": "Goblin",
+  "amber": 0,
+  "power": "3",
+  "armor": "0",
+  "rarity": "Rare",
+  "flavor_text": "“Well, I’ll be a grumpus’s uncle!\nHow did we arrive in this dark situation?”\n",
+  "card_number": "013",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": "68bba774-5f67-437b-80f0-62e80b1738f8",
+  "card_title": "CXO Taber",
+  "house": "Star Alliance",
+  "card_type": "Creature",
+  "front_image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_326_1958de92d5cb_en.png",
+  "card_text": "After Fight/After Reap: You may play or use a non‑Star Alliance card this turn.\n",
+  "traits": "Krxix • Alien",
+  "amber": 0,
+  "power": "3",
+  "armor": "0",
+  "rarity": "Uncommon",
+  "flavor_text": "Cultural Exchange Officer Taber is everyone’s best friend.",
+  "card_number": "326",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false
+}

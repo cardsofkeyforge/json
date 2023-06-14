@@ -1,0 +1,20 @@
+{
+  "id": "ec507fea-1cee-4301-9074-ffc38c44ad88",
+  "card_title": "Grey Abbess",
+  "house": "Sanctum",
+  "card_type": "Creature",
+  "front_image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_198_5433ac85a45e_en.png",
+  "card_text": "Each friendly token creature gets +1 armor.\nPlay: Make a token creature.\n",
+  "traits": "Human • Monk",
+  "amber": 0,
+  "power": "3",
+  "armor": "1",
+  "rarity": "Uncommon",
+  "flavor_text": "”To walk in light and shadow at once. This is the balance of the Grey Order.”",
+  "card_number": "198",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": "21ec52d0-e2f0-4a93-8541-185a8c92344c",
+  "card_title": "The Æmber Road",
+  "house": "Ekwidon",
+  "card_type": "Artifact",
+  "front_image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_070_41db8d1665a3_en.png",
+  "card_text": "Omni: Put 1 trade counter on The Æmber Road, then gain 1 for each trade counter on it. Give control of The Æmber Road to your opponent.\n",
+  "traits": "Location",
+  "amber": 0,
+  "power": null,
+  "armor": null,
+  "rarity": "Rare",
+  "flavor_text": null,
+  "card_number": "070",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false
+}

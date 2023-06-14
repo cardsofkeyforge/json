@@ -1,0 +1,20 @@
+{
+  "id": "66c7a2ab-c76f-4c13-895d-3475f475bf45",
+  "card_title": "Genetic Blast",
+  "house": "Mars",
+  "card_type": "Action",
+  "front_image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_154_b21a0dd1c90d_en.png",
+  "card_text": "Play: Deal 2 to a creature and each other creature with the same name as that creature.\n",
+  "traits": null,
+  "amber": 1,
+  "power": null,
+  "armor": null,
+  "rarity": "Common",
+  "flavor_text": "”Got ‘em right in the chromosomes.” ",
+  "card_number": "154",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false
+}

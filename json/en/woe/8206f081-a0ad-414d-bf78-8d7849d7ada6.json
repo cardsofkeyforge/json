@@ -1,0 +1,20 @@
+{
+  "id": "8206f081-a0ad-414d-bf78-8d7849d7ada6",
+  "card_title": "FOF Transponder",
+  "house": "Star Alliance",
+  "card_type": "Upgrade",
+  "front_image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_314_e91c2fdd84d3_en.png",
+  "card_text": "This creature gains, “Destroyed: Make a token creature. Attach FOF Transponder to that creature.”\n",
+  "traits": null,
+  "amber": 0,
+  "power": null,
+  "armor": null,
+  "rarity": "Uncommon",
+  "flavor_text": "”Command! I found Berezo’s transponder! Request extraction!”",
+  "card_number": "314",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false
+}

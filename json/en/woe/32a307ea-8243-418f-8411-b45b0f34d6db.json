@@ -1,0 +1,20 @@
+{
+  "id": "32a307ea-8243-418f-8411-b45b0f34d6db",
+  "card_title": "Æmbrosia Outpost",
+  "house": "Saurian",
+  "card_type": "Artifact",
+  "front_image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_254_b5d2581c5e07_en.png",
+  "card_text": "Action: Put a friendly creature on the bottom of its owner’s deck. If you do, move 1 from a friendly creature to your pool.\n",
+  "traits": "Location",
+  "amber": 1,
+  "power": null,
+  "armor": null,
+  "rarity": "Uncommon",
+  "flavor_text": null,
+  "card_number": "254",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false
+}

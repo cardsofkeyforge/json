@@ -1,0 +1,20 @@
+{
+  "id": "13eeb790-33ef-433e-9222-d717ccd72045",
+  "card_title": "Photon Blast",
+  "house": "Star Alliance",
+  "card_type": "Action",
+  "front_image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_331_4ad1ad6ec6aa_en.png",
+  "card_text": "Play: Deal 2 to a creature, with 1 splash. If this damage destroys 1 or more creatures, make a token creature.\n",
+  "traits": null,
+  "amber": 0,
+  "power": null,
+  "armor": null,
+  "rarity": "Common",
+  "flavor_text": "”Avoid dropping, submerging in water, and looking directly into the beam.” —User’s Manual",
+  "card_number": "331",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false
+}

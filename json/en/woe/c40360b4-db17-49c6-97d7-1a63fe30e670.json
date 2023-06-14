@@ -1,0 +1,20 @@
+{
+  "id": "c40360b4-db17-49c6-97d7-1a63fe30e670",
+  "card_title": "Arm the Plebeians",
+  "house": "Saurian",
+  "card_type": "Action",
+  "front_image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_270_9677e2bb13f2_en.png",
+  "card_text": "Play: Make a token creature. Ward it.\n",
+  "traits": null,
+  "amber": 1,
+  "power": null,
+  "armor": null,
+  "rarity": "Common",
+  "flavor_text": "”This can’t possibly backfire.” —Tyranus Aurelius the Unwise, 5th Century",
+  "card_number": "270",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false
+}

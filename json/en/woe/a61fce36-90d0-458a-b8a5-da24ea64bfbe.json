@@ -1,0 +1,20 @@
+{
+  "id": "a61fce36-90d0-458a-b8a5-da24ea64bfbe",
+  "card_title": "Rustmiser",
+  "house": "Unfathomable",
+  "card_type": "Creature",
+  "front_image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_358_358ad8e3b90e_en.png",
+  "card_text": "After Reap: Exhaust each enemy artifact.\n",
+  "traits": "Beast",
+  "amber": 0,
+  "power": "5",
+  "armor": "0",
+  "rarity": "Rare",
+  "flavor_text": "“These trinkets are to oxidize for!”",
+  "card_number": "358",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false
+}

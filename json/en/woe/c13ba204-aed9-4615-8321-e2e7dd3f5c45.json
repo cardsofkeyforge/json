@@ -1,0 +1,20 @@
+{
+  "id": "c13ba204-aed9-4615-8321-e2e7dd3f5c45",
+  "card_title": "Membership Drive",
+  "house": "Sanctum",
+  "card_type": "Action",
+  "front_image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_217_7c1ecd8d8740_en.png",
+  "card_text": "Play: Make a token creature. Gain 1 for each friendly token creature.\n",
+  "traits": null,
+  "amber": 0,
+  "power": null,
+  "armor": null,
+  "rarity": "Common",
+  "flavor_text": "The sooner we get to 100 signatures, the sooner the feast can begin.",
+  "card_number": "217",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false
+}
