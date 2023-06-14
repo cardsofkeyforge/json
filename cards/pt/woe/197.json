@@ -1,0 +1,26 @@
+{
+  "card_title": "Glorious Few",
+  "card_type": "Action",
+  "card_text": "Play: For each creature your opponent controls in excess of you, gain 1A.",
+  "traits": null,
+  "amber": 0,
+  "power": null,
+  "armor": null,
+  "rarity": "Uncommon",
+  "flavor_text": null,
+  "card_number": "197",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false,
+  "houses": [
+    {
+      "id": "e6cda4d8-486f-4c76-b0cd-5adbb6d37730",
+      "house": "Sanctum",
+      "normal": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_197_c995a835c440_en.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/woe/Sanctum-197.png"
+    }
+  ],
+  "rules": []
+}

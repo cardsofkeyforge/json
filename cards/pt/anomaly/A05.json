@@ -1,1 +1,24 @@
-{"card_title":"Nizak, o Esquecido","card_type":"Creature","card_text":"Enquanto luta, Nizak, o Esquecido, ganha invulnerável. (Ele não pode ser destruído ou sofrer dano.)\rApós uma criatura inimiga ser destruída ao lutar contra Nizak, o Esquecido, devolva a criatura destruída para a mão de seu dono.","traits":"Dragão • Psiônico","amber":0,"power":"6","armor":null,"rarity":"FIXED","flavor_text":"","card_number":"A05","expansion":453,"is_maverick":false,"is_anomaly":true,"houses":[{"id":"7c0e4eb6-c327-42d6-af80-ffae70249cf3","house":null,"normal":"https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/pt/453_A05_W4V8F943V985_pt.png","zoom":"https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/anomaly/A05.png"}],"rules":[]}
+{
+  "card_title": "Nizak, o Esquecido",
+  "card_type": "Creature",
+  "card_text": "Enquanto luta, Nizak, o Esquecido, ganha invulnerável. (Ele não pode ser destruído ou sofrer dano.)\rApós uma criatura inimiga ser destruída ao lutar contra Nizak, o Esquecido, devolva a criatura destruída para a mão de seu dono.",
+  "traits": "Dragão • Psiônico",
+  "amber": 0,
+  "power": "6",
+  "armor": null,
+  "rarity": "FIXED",
+  "flavor_text": "",
+  "card_number": "A05",
+  "expansion": 453,
+  "is_maverick": false,
+  "is_anomaly": true,
+  "houses": [
+    {
+      "id": "7c0e4eb6-c327-42d6-af80-ffae70249cf3",
+      "house": null,
+      "normal": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/pt/453_A05_W4V8F943V985_pt.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/anomaly/A05.png"
+    }
+  ],
+  "rules": []
+}

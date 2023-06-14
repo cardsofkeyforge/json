@@ -1,0 +1,26 @@
+{
+  "card_title": "Retribution",
+  "card_type": "Action",
+  "card_text": "Play: If there are more enemy creatures than friendly creatures, destroy an enemy creature.\n",
+  "traits": null,
+  "amber": 1,
+  "power": null,
+  "armor": null,
+  "rarity": "Common",
+  "flavor_text": "No shield can hinder an angel’s wrath.",
+  "card_number": "223",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false,
+  "houses": [
+    {
+      "id": "2ef98f24-ebe6-4252-8b4a-e4696750a0fe",
+      "house": "Sanctum",
+      "normal": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_223_0629dea102a6_en.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/woe/Sanctum-223.png"
+    }
+  ],
+  "rules": []
+}

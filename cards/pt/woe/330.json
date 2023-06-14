@@ -1,0 +1,26 @@
+{
+  "card_title": "Future Booster",
+  "card_type": "Artifact",
+  "card_text": "Omni: Look at the top card of your deck. You may put it on the bottom of your deck.\n",
+  "traits": "Item",
+  "amber": 1,
+  "power": null,
+  "armor": null,
+  "rarity": "Common",
+  "flavor_text": "“I keep hoping it will boost my present, but no luck so far.”\n",
+  "card_number": "330",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false,
+  "houses": [
+    {
+      "id": "5dea68be-18d4-4980-a309-671321497739",
+      "house": "Star Alliance",
+      "normal": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_330_347cee1042fe_en.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/woe/StarAlliance-330.png"
+    }
+  ],
+  "rules": []
+}

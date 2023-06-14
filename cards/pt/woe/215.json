@@ -1,0 +1,26 @@
+{
+  "card_title": "Kassiel the Benevolent",
+  "card_type": "Creature",
+  "card_text": "Enhance A. (These icons have already been added to cards in your deck.)\n",
+  "traits": "Knight • Human",
+  "amber": 0,
+  "power": "2",
+  "armor": "2",
+  "rarity": "Common",
+  "flavor_text": "”Faith is the best shield. But just in case...”",
+  "card_number": "215",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false,
+  "houses": [
+    {
+      "id": "6da59eef-9980-424c-923e-565374762574",
+      "house": "Sanctum",
+      "normal": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_215_e8ca023daa1b_en.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/woe/Sanctum-215.png"
+    }
+  ],
+  "rules": []
+}

@@ -1,0 +1,26 @@
+{
+  "card_title": "Inspiring Oration",
+  "card_type": "Action",
+  "card_text": "Play: Exalt a friendly creature. Make a token creature for each A on that creature.\n",
+  "traits": null,
+  "amber": 1,
+  "power": null,
+  "armor": null,
+  "rarity": "Uncommon",
+  "flavor_text": "”I just really feel like she cares\nabout mammals like me!” \n",
+  "card_number": "261",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false,
+  "houses": [
+    {
+      "id": "5da7079e-107c-4d1c-b1cb-ee6340a47061",
+      "house": "Saurian",
+      "normal": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_261_219432a2c815_en.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/woe/Saurian-261.png"
+    }
+  ],
+  "rules": []
+}

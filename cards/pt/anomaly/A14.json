@@ -1,0 +1,26 @@
+{
+  "card_title": "Curse of Forgetfulness",
+  "card_type": "Artifact",
+  "card_text": "Treachery. (This card enters play under your opponent’s control.)\nAt the end of your turn, purge the top card in your discard pile.\n",
+  "traits": "Curse",
+  "amber": 0,
+  "power": null,
+  "armor": null,
+  "rarity": "Special",
+  "flavor_text": "“I swear I had my talking tray this morning!”\n",
+  "card_number": "A14",
+  "expansion": 453,
+  "is_maverick": true,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false,
+  "houses": [
+    {
+      "id": "a7e9ff31-2e15-434b-a7aa-6ec3416fbad5",
+      "house": "Sanctum",
+      "normal": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/453_A14_6bc799dd6276_en.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/anomaly/Sanctum-A14.png"
+    }
+  ],
+  "rules": []
+}

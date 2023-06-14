@@ -1,0 +1,26 @@
+{
+  "card_title": "Selective Preservation",
+  "card_type": "Action",
+  "card_text": "Play: Choose a creature of each power value. Destroy each creature not chosen.\n",
+  "traits": null,
+  "amber": 0,
+  "power": null,
+  "armor": null,
+  "rarity": "Uncommon",
+  "flavor_text": "“I told them to bring an ark.”",
+  "card_number": "319",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false,
+  "houses": [
+    {
+      "id": "776a4b12-5693-4f49-b0ee-e27ad912e66b",
+      "house": "Star Alliance",
+      "normal": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_319_4658eb61fa06_en.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/woe/StarAlliance-319.png"
+    }
+  ],
+  "rules": []
+}

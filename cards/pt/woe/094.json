@@ -1,0 +1,26 @@
+{
+  "card_title": "Forced Retirement",
+  "card_type": "Action",
+  "card_text": "Play: Destroy a creature. If you do, its controller gains 1A.\n",
+  "traits": null,
+  "amber": 0,
+  "power": null,
+  "armor": null,
+  "rarity": "Common",
+  "flavor_text": "When you’ve worked at a place for over 300 years, it can be difficult to leave.",
+  "card_number": "094",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false,
+  "houses": [
+    {
+      "id": "4af23cf1-7b03-49ab-b7c0-f2307e9bf303",
+      "house": "Ekwidon",
+      "normal": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_094_23aceeceaf93_en.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/woe/Ekwidon-094.png"
+    }
+  ],
+  "rules": []
+}

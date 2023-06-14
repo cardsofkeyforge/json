@@ -1,0 +1,26 @@
+{
+  "card_title": "Rowdy Skald",
+  "card_type": "Creature",
+  "card_text": "Enhance ADD. (These icons have already been added to cards in your deck.)\n",
+  "traits": "Goblin",
+  "amber": 0,
+  "power": "4",
+  "armor": "0",
+  "rarity": "Common",
+  "flavor_text": "“He didn’t get into Bräkken. He bombed his audition.” —Quixo the ”Adventurer”",
+  "card_number": "050",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false,
+  "houses": [
+    {
+      "id": "bc4c4e60-17bc-4334-9b5f-8823ccb68a45",
+      "house": "Brobnar",
+      "normal": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_050_4b03a61d7b94_en.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/woe/Brobnar-050.png"
+    }
+  ],
+  "rules": []
+}

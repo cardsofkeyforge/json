@@ -1,0 +1,26 @@
+{
+  "card_title": "Shoulder Armor",
+  "card_type": "Upgrade",
+  "card_text": "While this creature is on a flank, it gets +2 armor and +2 power.\n",
+  "traits": null,
+  "amber": 1,
+  "power": null,
+  "armor": null,
+  "rarity": "Uncommon",
+  "flavor_text": "“I can’t see anything. Do I look cool?” ",
+  "card_number": "206",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false,
+  "houses": [
+    {
+      "id": "31a101dd-d7d4-4f38-b442-6bbb027394ec",
+      "house": "Sanctum",
+      "normal": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_206_1a32daba02f0_en.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/woe/Sanctum-206.png"
+    }
+  ],
+  "rules": []
+}

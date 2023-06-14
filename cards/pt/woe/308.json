@@ -1,0 +1,26 @@
+{
+  "card_title": "The Ulfberht Device",
+  "card_type": "Artifact",
+  "card_text": "Each player cannot choose the same active house they chose on their previous turn.\n",
+  "traits": "Item",
+  "amber": 1,
+  "power": null,
+  "armor": null,
+  "rarity": "Rare",
+  "flavor_text": "“Our best guess is that this was a piece of Architect silverware.” —Scout Pete",
+  "card_number": "308",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false,
+  "houses": [
+    {
+      "id": "0d361c87-f15b-4e28-91af-48c02edda586",
+      "house": "Star Alliance",
+      "normal": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_308_454af1049b2e_en.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/woe/StarAlliance-308.png"
+    }
+  ],
+  "rules": []
+}

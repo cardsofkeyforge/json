@@ -1,0 +1,26 @@
+{
+  "card_title": "Brawl In",
+  "card_type": "Action",
+  "card_text": "Play: Make 2 token creatures. Enrage them.\n",
+  "traits": null,
+  "amber": 0,
+  "power": null,
+  "armor": null,
+  "rarity": "Uncommon",
+  "flavor_text": "“I knew I had the giant’s cards beat, so I went all‑in. Unfortunately, he went brawl‑in, and I’m the one that took the beating.” —Old Bruno\n",
+  "card_number": "022",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false,
+  "houses": [
+    {
+      "id": "a4f9f2f6-1226-4626-8195-3b3d2ea65a24",
+      "house": "Brobnar",
+      "normal": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_022_a1c880f1914e_en.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/woe/Brobnar-022.png"
+    }
+  ],
+  "rules": []
+}

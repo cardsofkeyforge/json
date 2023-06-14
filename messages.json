@@ -9,6 +9,10 @@
         "name": "Dis",
         "image": "https://archonarcana.com/images/thumb/e/e8/Dis.png/22px-Dis.png"
       },
+      "Ekwidon": {
+        "name": "Ekwidon",
+        "image": "https://archonarcana.com/images/thumb/3/31/Ekwidon.png/25px-Ekwidon.png"
+      },
       "Logos": {
         "name": "Logos",
         "image": "https://archonarcana.com/images/thumb/c/ce/Logos.png/22px-Logos.png"
@@ -54,6 +58,7 @@
       "Creature": "Criatura",
       "Creature1": "Criatura (Gigantesca)",
       "Creature2": "Criatura (Gigantesca)",
+      "Token Creature": "Criatura (Token)",
       "Action": "Ação",
       "Upgrade": "Melhoria",
       "Artifact": "Artefato",
@@ -70,6 +75,7 @@
       "Variant": "Especial Variável",
       "Special": "Especial",
       "Evil Twin": "Gêmeo do Mal",
+      "Token": "Token",
       "The Tide": "A Maré",
       "Location": "Local",
       "Seal": "Selo"

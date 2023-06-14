@@ -1,0 +1,26 @@
+{
+  "card_title": "Exchange Program",
+  "card_type": "Action",
+  "card_text": "Play: Choose a friendly flank creature and an enemy flank creature. If you do, swap control of those creatures.\n",
+  "traits": null,
+  "amber": 1,
+  "power": null,
+  "armor": null,
+  "rarity": "Uncommon",
+  "flavor_text": "“You get your æmber from WHERE?!”\n—Exchange Student Va‑olag\n",
+  "card_number": "074",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false,
+  "houses": [
+    {
+      "id": "25ff07de-cadf-4123-bbd7-a29f2dbc9b18",
+      "house": "Ekwidon",
+      "normal": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_074_6fa03b1cc904_en.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/woe/Ekwidon-074.png"
+    }
+  ],
+  "rules": []
+}

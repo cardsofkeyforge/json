@@ -1,0 +1,26 @@
+{
+  "card_title": "City-State Interest",
+  "card_type": "Action",
+  "card_text": "Play: Each friendly creature captures 1A.\n",
+  "traits": null,
+  "amber": 0,
+  "power": null,
+  "armor": null,
+  "rarity": "Uncommon",
+  "flavor_text": "Capitus Coronam has the greatest monuments in the republic…and the highest taxes.",
+  "card_number": "257",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false,
+  "houses": [
+    {
+      "id": "40f49bde-0262-4509-a4de-2a34940155c8",
+      "house": "Saurian",
+      "normal": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_257_3b2a8213bc19_en.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/woe/Saurian-257.png"
+    }
+  ],
+  "rules": []
+}

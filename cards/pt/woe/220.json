@@ -1,0 +1,26 @@
+{
+  "card_title": "Outflank",
+  "card_type": "Action",
+  "card_text": "Play: Each Sanctum flank creature captures 2A from its opponent.\n",
+  "traits": null,
+  "amber": 1,
+  "power": null,
+  "armor": null,
+  "rarity": "Common",
+  "flavor_text": "”It’s not a dishonorable ambush if you shout ‘have at thee’ before you charge.” —Lieutenant Gorvenal",
+  "card_number": "220",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false,
+  "houses": [
+    {
+      "id": "ac44765f-dd69-4e87-a3d0-a65474d9cd99",
+      "house": "Sanctum",
+      "normal": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_220_209f87796e45_en.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/woe/Sanctum-220.png"
+    }
+  ],
+  "rules": []
+}

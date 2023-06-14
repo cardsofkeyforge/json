@@ -462,6 +462,15 @@
         {
           "ko": "Coreano"
         }
+      ],
+      "subsets": [
+        {
+          "sequence": 1,
+          "code": 453,
+          "name": "anomaly",
+          "card_count": 3,
+          "new_count": 3
+        }
       ]
     }
   ]

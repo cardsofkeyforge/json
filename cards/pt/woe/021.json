@@ -1,0 +1,26 @@
+{
+  "card_title": "Blood of Titans",
+  "card_type": "Upgrade",
+  "card_text": "This creature gets +5 power.\n",
+  "traits": null,
+  "amber": 1,
+  "power": null,
+  "armor": null,
+  "rarity": "Uncommon",
+  "flavor_text": "“Blood of Giants? Why stop there?”\n—Pingle Who Annoys\n",
+  "card_number": "021",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false,
+  "houses": [
+    {
+      "id": "d0b554b8-ed28-45e6-b08a-12c13aeb1c05",
+      "house": "Brobnar",
+      "normal": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_021_2a8ac212a81f_en.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/woe/Brobnar-021.png"
+    }
+  ],
+  "rules": []
+}

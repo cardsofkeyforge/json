@@ -1,0 +1,26 @@
+{
+  "card_title": "Celestial Gorm",
+  "card_type": "Artifact",
+  "card_text": "Omni: Destroy Celestial Gorm. Return each other artifact to its owner’s hand.\n",
+  "traits": "Item",
+  "amber": 1,
+  "power": null,
+  "armor": null,
+  "rarity": "Common",
+  "flavor_text": "”All objects are immaterial. Only the spirit is eternal.” —The Sanctified Scroll",
+  "card_number": "211",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false,
+  "houses": [
+    {
+      "id": "45c6670d-da40-4ff2-b161-ed0abf8db2a2",
+      "house": "Sanctum",
+      "normal": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_211_09346ccd95cb_en.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/woe/Sanctum-211.png"
+    }
+  ],
+  "rules": []
+}

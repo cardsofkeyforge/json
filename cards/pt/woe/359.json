@@ -1,0 +1,26 @@
+{
+  "card_title": "Sibyl Waimare",
+  "card_type": "Creature",
+  "card_text": "At the start of your opponent’s turn, that player discards the top card of their deck and exhausts each creature of that card’s house.\n",
+  "traits": "Aquan",
+  "amber": 0,
+  "power": "5",
+  "armor": "0",
+  "rarity": "Rare",
+  "flavor_text": "“I thought it was an ice gesture.”",
+  "card_number": "359",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false,
+  "houses": [
+    {
+      "id": "b87585a4-44a8-4567-8b50-ff8fe970ba50",
+      "house": "Unfathomable",
+      "normal": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_359_f7078df3fde4_en.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/woe/Unfathomable-359.png"
+    }
+  ],
+  "rules": []
+}

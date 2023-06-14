@@ -1,0 +1,26 @@
+{
+  "card_title": "Renewed Life",
+  "card_type": "Action",
+  "card_text": "Play: Fully heal a creature. Make a token creature for each damage healed this way.\n",
+  "traits": null,
+  "amber": 1,
+  "power": null,
+  "armor": null,
+  "rarity": "Rare",
+  "flavor_text": "”They that believeth in each other shall not die, but shall have life everlasting.” ",
+  "card_number": "190",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false,
+  "houses": [
+    {
+      "id": "ba83575e-8d11-4df3-b41e-92f7ec25b3fe",
+      "house": "Sanctum",
+      "normal": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_190_7eb49e8b099c_en.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/woe/Sanctum-190.png"
+    }
+  ],
+  "rules": []
+}

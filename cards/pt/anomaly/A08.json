@@ -1,1 +1,24 @@
-{"card_title":"Barão Vermelho","card_type":"Creature","card_text":"Enquanto sua chave vermelha estiver forjada, Barão Vermelho ganha “Coleta: Roube 1A.” \rEnquanto a chave vermelha de seu oponente estiver forjada, Barão Vermelho ganha elusivo.","traits":"Ciborgue • Pirata","amber":0,"power":"4","armor":"1","rarity":"FIXED","flavor_text":"","card_number":"A08","expansion":453,"is_maverick":false,"is_anomaly":true,"houses":[{"id":"e8e6be73-74a6-469a-a536-3ccb376d005f","house":null,"normal":"https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/pt/453_A08_JMH4JXJMC9FH_pt.png","zoom":"https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/anomaly/A08.png"}],"rules":[]}
+{
+  "card_title": "Barão Vermelho",
+  "card_type": "Creature",
+  "card_text": "Enquanto sua chave vermelha estiver forjada, Barão Vermelho ganha “Coleta: Roube 1A.” \rEnquanto a chave vermelha de seu oponente estiver forjada, Barão Vermelho ganha elusivo.",
+  "traits": "Ciborgue • Pirata",
+  "amber": 0,
+  "power": "4",
+  "armor": "1",
+  "rarity": "FIXED",
+  "flavor_text": "",
+  "card_number": "A08",
+  "expansion": 453,
+  "is_maverick": false,
+  "is_anomaly": true,
+  "houses": [
+    {
+      "id": "e8e6be73-74a6-469a-a536-3ccb376d005f",
+      "house": null,
+      "normal": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/pt/453_A08_JMH4JXJMC9FH_pt.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/anomaly/A08.png"
+    }
+  ],
+  "rules": []
+}

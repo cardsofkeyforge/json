@@ -1,0 +1,26 @@
+{
+  "card_title": "Flounderight",
+  "card_type": "Creature",
+  "card_text": "Destroyed: Destroy the creature on your opponent’s right flank.\n",
+  "traits": "Aquan",
+  "amber": 0,
+  "power": "3",
+  "armor": "0",
+  "rarity": "Special",
+  "flavor_text": "“Same thing we do every night, Soleft: swim in a circle.”",
+  "card_number": "400",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false,
+  "houses": [
+    {
+      "id": "af086418-4811-4ad9-8744-9cdd98abec9a",
+      "house": "Unfathomable",
+      "normal": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_400_5b7b12677e3a_en.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/woe/Unfathomable-400.png"
+    }
+  ],
+  "rules": []
+}

@@ -1,0 +1,26 @@
+{
+  "card_title": "Legionary Trainer",
+  "card_type": "Creature",
+  "card_text": "Each friendly token creature enters play ready.\nPlay: Make a token creature.\n",
+  "traits": "Soldier • Dinosaur",
+  "amber": 0,
+  "power": "2",
+  "armor": "0",
+  "rarity": "Common",
+  "flavor_text": "”Why would we trust you with a plasma dory before you’ve proven you can handle a bronze sword?”",
+  "card_number": "278",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false,
+  "houses": [
+    {
+      "id": "a479814d-9a0a-49df-9190-7b47d0c8858a",
+      "house": "Saurian",
+      "normal": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_278_589aa4d7ad13_en.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/woe/Saurian-278.png"
+    }
+  ],
+  "rules": []
+}

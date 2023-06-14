@@ -1,1 +1,24 @@
-{"card_title":"Inforáculo","card_type":"Creature","card_text":"Elusivo.\rJogar: Transfira uma carta de ação da sua mão para o Inforáculo. (Coloque-a voltada para cima sob esta carta.)\rColeta: Ative o efeito jogar de uma carta de ação transferida para o Inforáculo.","traits":"Humano • Ciborgue","amber":0,"power":"3","armor":null,"rarity":"FIXED","flavor_text":"","card_number":"A02","expansion":453,"is_maverick":false,"is_anomaly":true,"houses":[{"id":"4b96d1d9-f78b-4521-96d7-aa2ce8a4e32c","house":null,"normal":"https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/pt/453_A02_C3786V7C8WF6_pt.png","zoom":"https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/anomaly/A02.png"}],"rules":[]}
+{
+  "card_title": "Inforáculo",
+  "card_type": "Creature",
+  "card_text": "Elusivo.\rJogar: Transfira uma carta de ação da sua mão para o Inforáculo. (Coloque-a voltada para cima sob esta carta.)\rColeta: Ative o efeito jogar de uma carta de ação transferida para o Inforáculo.",
+  "traits": "Humano • Ciborgue",
+  "amber": 0,
+  "power": "3",
+  "armor": null,
+  "rarity": "FIXED",
+  "flavor_text": "",
+  "card_number": "A02",
+  "expansion": 453,
+  "is_maverick": false,
+  "is_anomaly": true,
+  "houses": [
+    {
+      "id": "4b96d1d9-f78b-4521-96d7-aa2ce8a4e32c",
+      "house": null,
+      "normal": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/pt/453_A02_C3786V7C8WF6_pt.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/anomaly/A02.png"
+    }
+  ],
+  "rules": []
+}

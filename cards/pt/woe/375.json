@@ -1,0 +1,26 @@
+{
+  "card_title": "Sleep with the Fishes",
+  "card_type": "Action",
+  "card_text": "Play: Destroy each exhausted creature.\n",
+  "traits": null,
+  "amber": 1,
+  "power": null,
+  "armor": null,
+  "rarity": "Uncommon",
+  "flavor_text": "“It’s just a dream, it’s just a dream, it’s...”",
+  "card_number": "375",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false,
+  "houses": [
+    {
+      "id": "211d6726-695a-4b2c-a8cb-b062e722ced1",
+      "house": "Unfathomable",
+      "normal": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_375_7234d52010a9_en.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/woe/Unfathomable-375.png"
+    }
+  ],
+  "rules": []
+}
