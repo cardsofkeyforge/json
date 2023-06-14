@@ -382,6 +382,62 @@
       ]
     },
     {
+      "code": 600,
+      "name": "we",
+      "longname": "Winds of Exchange",
+      "release": "2023-06-05",
+      "releaseDate": "05 de junho de 2023",
+      "image": "../hero.png",
+      "lang": "pt",
+      "langs": [
+        {
+          "name": "Português",
+          "code": "pt",
+          "flag": "\uD83C\uDDE7\uD83C\uDDF7"
+        },
+        {
+          "name": "English",
+          "code": "en",
+          "flag": "\uD83C\uDDFA\uD83C\uDDF8"
+        },
+        {
+          "name": "Español",
+          "code": "es",
+          "flag": "\uD83C\uDDEA\uD83C\uDDF8"
+        },
+        {
+          "name": "Français",
+          "code": "fr",
+          "flag": "\uD83C\uDDEB\uD83C\uDDF7"
+        },
+        {
+          "name": "Italiano",
+          "code": "it",
+          "flag": "\uD83C\uDDEE\uD83C\uDDF9"
+        },
+        {
+          "name": "Deutsche",
+          "code": "de",
+          "flag": "\uD83C\uDDE9\uD83C\uDDEA"
+        },
+        {
+          "name": "简体中文",
+          "code": "zh-hans",
+          "flag": "\uD83C\uDDE8\uD83C\uDDF3"
+        },
+        {
+          "name": "繁體中文",
+          "code": "zh-hant",
+          "flag": "\uD83C\uDDE8\uD83C\uDDF3"
+        },
+        {
+          "name": "한국어",
+          "code": "ko",
+          "flag": "\uD83C\uDDF0\uD83C\uDDF7"
+        }
+      ]
+    },
+    {
       "code": 1001,
       "name": "rotk",
       "longname": "Ascensão de Keyraken",
