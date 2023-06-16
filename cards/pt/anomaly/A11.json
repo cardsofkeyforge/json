@@ -17,9 +17,9 @@
   "houses": [
     {
       "id": "af1bc6cb-ffe2-47b1-83ba-739f43708977",
-      "house": "Star Alliance",
+      "house": null,
       "normal": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/453_A11_091a2b6250e0_en.png",
-      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/anomaly/StarAlliance-A11.png"
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/anomaly/A11.png"
     }
   ],
   "rules": []

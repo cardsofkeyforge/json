@@ -17,9 +17,9 @@
   "houses": [
     {
       "id": "6a296cf0-e947-464a-b603-ba80bb510121",
-      "house": "Unfathomable",
+      "house": null,
       "normal": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/453_A12_d3bd377816b3_en.png",
-      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/anomaly/Unfathomable-A12.png"
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/anomaly/A12.png"
     }
   ],
   "rules": []

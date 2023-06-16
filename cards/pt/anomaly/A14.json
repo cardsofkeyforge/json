@@ -17,9 +17,9 @@
   "houses": [
     {
       "id": "a7e9ff31-2e15-434b-a7aa-6ec3416fbad5",
-      "house": "Sanctum",
+      "house": null,
       "normal": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/453_A14_6bc799dd6276_en.png",
-      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/anomaly/Sanctum-A14.png"
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/anomaly/A14.png"
     }
   ],
   "rules": []
