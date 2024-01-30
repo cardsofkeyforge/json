@@ -1,0 +1,26 @@
+{
+  "card_title": "The Grand Gord",
+  "card_type": "Creature",
+  "card_text": "At the start of your turn, if you control the most powerful creature (or a creature tied for most powerful), make a token creature.\n",
+  "traits": "Giant",
+  "amber": 0,
+  "power": "5",
+  "armor": "0",
+  "rarity": "Uncommon",
+  "flavor_text": "“Here’s to living comfortably.”",
+  "card_number": "033",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false,
+  "houses": [
+    {
+      "id": "7a470f59-2514-45a1-91a9-9bc0cd0acd0b",
+      "house": "Brobnar",
+      "normal": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_033_1d500115aaf8_en.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/woe/Brobnar-033.png"
+    }
+  ],
+  "rules": []
+}

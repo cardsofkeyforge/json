@@ -1,0 +1,26 @@
+{
+  "card_title": "Uncommon Currency",
+  "card_type": "Artifact",
+  "card_text": "Action: Swap control of Uncommon Currency and an enemy artifact. \n",
+  "traits": "Item",
+  "amber": 0,
+  "power": null,
+  "armor": null,
+  "rarity": "Uncommon",
+  "flavor_text": "“I’m sure I can find someone who’ll take it.”\n—Steward Su‑Uzyanĕ\n",
+  "card_number": "089",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false,
+  "houses": [
+    {
+      "id": "35f869fa-50f3-4ec7-956d-03aa7e0f2e15",
+      "house": "Ekwidon",
+      "normal": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_089_263e4a15ca22_en.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/woe/Ekwidon-089.png"
+    }
+  ],
+  "rules": []
+}

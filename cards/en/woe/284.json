@@ -1,0 +1,26 @@
+{
+  "card_title": "Symposium",
+  "card_type": "Action",
+  "card_text": "Play: Exalt, ready, and use a friendly creature. If it is a token creature, you may exalt, ready, and use another friendly creature.\n",
+  "traits": null,
+  "amber": 0,
+  "power": null,
+  "armor": null,
+  "rarity": "Common",
+  "flavor_text": "Anyone who thinks the real decisions are made in the senate has never been to a symposium.",
+  "card_number": "284",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false,
+  "houses": [
+    {
+      "id": "30c0685d-7e65-4c9a-8a1e-5ebd6a449523",
+      "house": "Saurian",
+      "normal": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_284_a6dbc84a8680_en.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/woe/Saurian-284.png"
+    }
+  ],
+  "rules": []
+}

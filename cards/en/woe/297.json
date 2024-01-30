@@ -1,0 +1,26 @@
+{
+  "card_title": "Norbyn’s Cavern",
+  "card_type": "Artifact",
+  "card_text": "Each friendly Æmberling gets +3 power and gains skirmish.\n",
+  "traits": "Location",
+  "amber": 0,
+  "power": null,
+  "armor": null,
+  "rarity": "Rare",
+  "flavor_text": "Ensign Norbyn discovered them, named them, and may have (accidentally) created them. ",
+  "card_number": "297",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false,
+  "houses": [
+    {
+      "id": "9fec1ae6-a02e-4ba0-816d-e29e2a157f57",
+      "house": "Star Alliance",
+      "normal": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_297_6d9268c11375_en.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/woe/StarAlliance-297.png"
+    }
+  ],
+  "rules": []
+}

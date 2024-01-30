@@ -1,0 +1,26 @@
+{
+  "card_title": "Quixxle Stone",
+  "card_type": "Artifact",
+  "card_text": "If a player controls more creatures than their opponent, they cannot play creatures.\n",
+  "traits": "Item",
+  "amber": 1,
+  "power": null,
+  "armor": null,
+  "rarity": "Rare",
+  "flavor_text": "The so‑called Quixxle Stone was the first piece of æmber discovered by the Quantum’s crew.",
+  "card_number": "302",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false,
+  "houses": [
+    {
+      "id": "b50dfb50-157f-4ab1-91a7-4199f1ed42fa",
+      "house": "Star Alliance",
+      "normal": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_302_7714fc99a07a_en.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/woe/StarAlliance-302.png"
+    }
+  ],
+  "rules": []
+}

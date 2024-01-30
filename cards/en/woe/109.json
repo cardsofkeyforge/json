@@ -1,0 +1,26 @@
+{
+  "card_title": "Shĭzyokŭ Buggy",
+  "card_type": "Artifact",
+  "card_text": "Action: Reveal two cards from your hand. If they share a house, discard them and make a token creature.\n",
+  "traits": "Buggy • Vehicle",
+  "amber": 0,
+  "power": null,
+  "armor": null,
+  "rarity": "Special",
+  "flavor_text": "The unfolding creature scouts ahead.",
+  "card_number": "109",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false,
+  "houses": [
+    {
+      "id": "8180036a-d326-41af-b5ae-8eb3b3712be7",
+      "house": "Ekwidon",
+      "normal": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_109_4535e943ffc2_en.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/woe/Ekwidon-109.png"
+    }
+  ],
+  "rules": []
+}

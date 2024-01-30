@@ -1,0 +1,26 @@
+{
+  "card_title": "Fresh Marks",
+  "card_type": "Action",
+  "card_text": "Play: Destroy a friendly creature. If you do, exalt 3 enemy creatures.\n",
+  "traits": null,
+  "amber": 1,
+  "power": null,
+  "armor": null,
+  "rarity": "Common",
+  "flavor_text": "“I’ll get ‘em this time...”",
+  "card_number": "042",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false,
+  "houses": [
+    {
+      "id": "01f7f3e4-6fa7-48e0-a384-a4687f620183",
+      "house": "Brobnar",
+      "normal": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_042_7c3aec68ee8b_en.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/woe/Brobnar-042.png"
+    }
+  ],
+  "rules": []
+}

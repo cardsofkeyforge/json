@@ -1,0 +1,26 @@
+{
+  "card_title": "Hoplite’s Dory",
+  "card_type": "Upgrade",
+  "card_text": "This creature gets +2 power for each exhausted creature to its left.\n",
+  "traits": null,
+  "amber": 1,
+  "power": null,
+  "armor": null,
+  "rarity": "Uncommon",
+  "flavor_text": "Against a well‑trained Hoplite, you are never out of melee range.",
+  "card_number": "259",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false,
+  "houses": [
+    {
+      "id": "f8616f67-1d15-474d-ad73-b3a631d7f2e2",
+      "house": "Saurian",
+      "normal": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_259_c6d4ff03d1a8_en.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/woe/Saurian-259.png"
+    }
+  ],
+  "rules": []
+}

@@ -1,0 +1,26 @@
+{
+  "card_title": "Bryozoarch",
+  "card_type": "Creature",
+  "card_text": "When your opponent plays an action card, instead of resolving its play effect, destroy the creature on your left flank.\n",
+  "traits": "Aquan",
+  "amber": 0,
+  "power": "6",
+  "armor": "0",
+  "rarity": "Rare",
+  "flavor_text": "The mind can only fathom so much beauty.",
+  "card_number": "348",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false,
+  "houses": [
+    {
+      "id": "05e68948-1047-4d7b-a004-cdd3e3de57a8",
+      "house": "Unfathomable",
+      "normal": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_348_00e5a4133d04_en.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/woe/Unfathomable-348.png"
+    }
+  ],
+  "rules": []
+}

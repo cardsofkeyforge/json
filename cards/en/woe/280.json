@@ -1,0 +1,26 @@
+{
+  "card_title": "Pale Into Insignificance",
+  "card_type": "Action",
+  "card_text": "Play: Destroy each creature with the lowest power.\n",
+  "traits": null,
+  "amber": 1,
+  "power": null,
+  "armor": null,
+  "rarity": "Common",
+  "flavor_text": "”The history books will remember my name!”\n—Unknown\n",
+  "card_number": "280",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false,
+  "houses": [
+    {
+      "id": "87b734f3-448f-47c7-a4e1-2e08e2ba5a7a",
+      "house": "Saurian",
+      "normal": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_280_407b12e73e9c_en.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/woe/Saurian-280.png"
+    }
+  ],
+  "rules": []
+}

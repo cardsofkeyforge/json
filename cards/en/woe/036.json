@@ -1,0 +1,26 @@
+{
+  "card_title": "Vulka",
+  "card_type": "Creature",
+  "card_text": "Each friendly Brobnar creature gains splash-attack 1.\n",
+  "traits": "Bräkken • Giant",
+  "amber": 0,
+  "power": "5",
+  "armor": "0",
+  "rarity": "Uncommon",
+  "flavor_text": "”Never have I seen such a depraved, barbaric display that purports to be music.”\n—Lirio, Saurian Music Critic\n",
+  "card_number": "036",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false,
+  "houses": [
+    {
+      "id": "c0126989-792b-468b-adb6-b6a5e0a0ad63",
+      "house": "Brobnar",
+      "normal": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_036_e4b6054b3b6c_en.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/woe/Brobnar-036.png"
+    }
+  ],
+  "rules": []
+}

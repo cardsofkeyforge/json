@@ -1,0 +1,26 @@
+{
+  "card_title": "Earthshaker",
+  "card_type": "Creature",
+  "card_text": "Play: Destroy each creature with power 3 or lower.\n",
+  "traits": "Giant",
+  "amber": 0,
+  "power": "7",
+  "armor": "0",
+  "rarity": "Uncommon",
+  "flavor_text": "“Did you feel that?”",
+  "card_number": "025",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false,
+  "houses": [
+    {
+      "id": "bd62e52c-cd7c-4421-a119-658087c6b26f",
+      "house": "Brobnar",
+      "normal": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_025_ba5c6f648df1_en.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/woe/Brobnar-025.png"
+    }
+  ],
+  "rules": []
+}

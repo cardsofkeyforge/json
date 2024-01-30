@@ -1,0 +1,26 @@
+{
+  "card_title": "Flamethrower",
+  "card_type": "Artifact",
+  "card_text": "Action: Deal 1D to a creature, with 1D splash.\n",
+  "traits": "Weapon",
+  "amber": 0,
+  "power": null,
+  "armor": null,
+  "rarity": "Uncommon",
+  "flavor_text": "The skalds were really hot that night.",
+  "card_number": "027",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false,
+  "houses": [
+    {
+      "id": "37a65aba-fb21-4857-b3a8-d257eb825281",
+      "house": "Brobnar",
+      "normal": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_027_bf711b3a3145_en.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/woe/Brobnar-027.png"
+    }
+  ],
+  "rules": []
+}

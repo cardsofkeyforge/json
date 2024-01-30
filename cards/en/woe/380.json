@@ -1,0 +1,26 @@
+{
+  "card_title": "Under Pressure",
+  "card_type": "Upgrade",
+  "card_text": "This creature cannot ready.\n",
+  "traits": null,
+  "amber": 1,
+  "power": null,
+  "armor": null,
+  "rarity": "Uncommon",
+  "flavor_text": "“Let me out!”",
+  "card_number": "380",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false,
+  "houses": [
+    {
+      "id": "c2440834-7f7d-4cb0-90fb-dbc495d1e723",
+      "house": "Unfathomable",
+      "normal": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_380_3fb7088a79df_en.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/woe/Unfathomable-380.png"
+    }
+  ],
+  "rules": []
+}

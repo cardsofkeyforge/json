@@ -1,0 +1,26 @@
+{
+  "card_title": "Request Donations",
+  "card_type": "Action",
+  "card_text": "Play: Make a token creature. \nIt captures 2A.\n",
+  "traits": null,
+  "amber": 0,
+  "power": null,
+  "armor": null,
+  "rarity": "Common",
+  "flavor_text": "Explaining almsgiving to the Ekwidon stalled until Sister Amelia convinced them that “goodwill” has tangible value.",
+  "card_number": "222",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false,
+  "houses": [
+    {
+      "id": "39be3a61-5007-413b-961f-61df02069640",
+      "house": "Sanctum",
+      "normal": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_222_b87e57a429ac_en.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/woe/Sanctum-222.png"
+    }
+  ],
+  "rules": []
+}

@@ -1,0 +1,26 @@
+{
+  "card_title": "Mk.2 Generator",
+  "card_type": "Artifact",
+  "card_text": "Mk.2 Generator enters play ready.\nAction: Make a token creature.\n",
+  "traits": "Item",
+  "amber": 0,
+  "power": null,
+  "armor": null,
+  "rarity": "Common",
+  "flavor_text": "”The Soldiers are revolting!\nQuick, make more Soldiers!” \n",
+  "card_number": "161",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false,
+  "houses": [
+    {
+      "id": "d1096c6e-d356-4d38-84de-510d50c3ac0b",
+      "house": "Mars",
+      "normal": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_161_657bf779c550_en.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/woe/Mars-161.png"
+    }
+  ],
+  "rules": []
+}

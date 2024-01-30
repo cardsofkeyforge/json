@@ -1,0 +1,26 @@
+{
+  "card_title": "Sandhopper",
+  "card_type": "Artifact",
+  "card_text": "Action: Return a friendly creature to its owner’s hand. If you do, you may play a non‑Ekwidon creature from your hand. \n",
+  "traits": "Buggy • Vehicle",
+  "amber": 0,
+  "power": null,
+  "armor": null,
+  "rarity": "Uncommon",
+  "flavor_text": "BOING!",
+  "card_number": "084",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false,
+  "houses": [
+    {
+      "id": "8b9de231-f52f-407d-82b6-819c5749d151",
+      "house": "Ekwidon",
+      "normal": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_084_e3353ec522b8_en.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/woe/Ekwidon-084.png"
+    }
+  ],
+  "rules": []
+}

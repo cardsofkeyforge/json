@@ -1,0 +1,26 @@
+{
+  "card_title": "Shĭsnyasĭ Buggy",
+  "card_type": "Artifact",
+  "card_text": "Action: Lose 1A. If you do, draw 3 cards.\n",
+  "traits": "Buggy • Vehicle",
+  "amber": 0,
+  "power": null,
+  "armor": null,
+  "rarity": "Special",
+  "flavor_text": "The slow creature sets the pace.",
+  "card_number": "108",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false,
+  "houses": [
+    {
+      "id": "f60e05ee-ca41-42e4-b856-8fcaaa947996",
+      "house": "Ekwidon",
+      "normal": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_108_a981b7ebc2bc_en.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/woe/Ekwidon-108.png"
+    }
+  ],
+  "rules": []
+}

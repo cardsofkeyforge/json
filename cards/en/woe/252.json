@@ -1,0 +1,26 @@
+{
+  "card_title": "Tectonic Shift",
+  "card_type": "Action",
+  "card_text": "Play: Divide each player’s battleline in half as evenly as possible without changing the order of creatures. For each battleline, destroy each creature in one of the halves.\n",
+  "traits": null,
+  "amber": 0,
+  "power": null,
+  "armor": null,
+  "rarity": "Rare",
+  "flavor_text": "“Some great valley this is!”",
+  "card_number": "252",
+  "expansion": 600,
+  "is_maverick": false,
+  "is_anomaly": false,
+  "is_enhanced": false,
+  "is_non_deck": false,
+  "houses": [
+    {
+      "id": "c5108223-c088-4505-8bde-829427dfe8bc",
+      "house": "Saurian",
+      "normal": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/600_252_0888b1e454c2_en.png",
+      "zoom": "https://cards-keyforge.s3.eu-north-1.amazonaws.com/media/pt/woe/Saurian-252.png"
+    }
+  ],
+  "rules": []
+}
