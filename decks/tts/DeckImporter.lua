@@ -2,7 +2,7 @@ buttonColor = {0.19,0.24,0.35,1}
 DECK_LIST_INDEX = 1
 card_back_options = {"Vermelho", "Azul", "Roxo", "Preto"}
 language_options = {"Português"}
-expansion_options = {"Qualquer", "O Chamado dos Arcontes", "Era da Ascensão", "Colisão entre Mundos", "Mutação em Massa", "Mar de Trevas", "Winds of Exchange", "Ascensão de Keyraken", "A Conspiração Abissal"}
+expansion_options = {"Qualquer", "O Chamado dos Arcontes", "Era da Ascensão", "Colisão entre Mundos", "Mutação em Massa", "Mar de Trevas", "Troca de Ares", "Ascensão de Keyraken", "A Conspiração Abissal"}
 player_draw = { White = '2a72b5', Green = '354143' }
 player_decklist = { White = '5536f1', Green = '5e3694' }
 
@@ -104,7 +104,7 @@ function selectRandomDeck(_obj, player_color, _alt_click)
     expansion_values["Colisão entre Mundos"] = "wc"
     expansion_values["Mutação em Massa"] = "mm"
     expansion_values["Mar de Trevas"] = "dt"
-    expansion_values["Winds of Exchange"] = "woe"
+    expansion_values["Troca de Ares"] = "woe"
     expansion_values["Ascensão de Keyraken"] = "rotk"
     expansion_values["A Conspiração Abissal"] = "tac"
     for _, button in pairs(self.getButtons()) do
